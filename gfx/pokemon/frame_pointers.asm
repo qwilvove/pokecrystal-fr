@@ -143,7 +143,7 @@ FramesPointers:
 	dw KabutopsFrames
 	dw AerodactylFrames
 	dw SnorlaxFrames
-	dw ArticunoFrames
+	dw ArtikodinFrames
 	dw ZapdosFrames
 	dw MoltresFrames
 	dw DratiniFrames

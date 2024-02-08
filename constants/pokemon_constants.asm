@@ -162,7 +162,7 @@
 	const KABUTOPS   ; 8d
 	const AERODACTYL ; 8e
 	const SNORLAX    ; 8f
-	const ARTICUNO   ; 90
+	const ARTIKODIN   ; 90
 	const ZAPDOS     ; 91
 	const MOLTRES    ; 92
 	const DRATINI    ; 93

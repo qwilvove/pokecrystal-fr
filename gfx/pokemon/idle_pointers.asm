@@ -143,7 +143,7 @@ AnimationIdlePointers:
 	dw KabutopsAnimationIdle
 	dw AerodactylAnimationIdle
 	dw SnorlaxAnimationIdle
-	dw ArticunoAnimationIdle
+	dw ArtikodinAnimationIdle
 	dw ZapdosAnimationIdle
 	dw MoltresAnimationIdle
 	dw DratiniAnimationIdle

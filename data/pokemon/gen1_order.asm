@@ -73,7 +73,7 @@ Pokered_MonIndices:
 	db POLIWAG
 	db JYNX
 	db MOLTRES
-	db ARTICUNO
+	db ARTIKODIN
 	db ZAPDOS
 	db DITTO
 	db MEOWTH

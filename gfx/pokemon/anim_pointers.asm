@@ -143,7 +143,7 @@ AnimationPointers:
 	dw KabutopsAnimation
 	dw AerodactylAnimation
 	dw SnorlaxAnimation
-	dw ArticunoAnimation
+	dw ArtikodinAnimation
 	dw ZapdosAnimation
 	dw MoltresAnimation
 	dw DratiniAnimation

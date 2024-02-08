@@ -145,7 +145,7 @@ MonMenuIcons:
 	db ICON_SHELL       ; KABUTOPS
 	db ICON_BIRD        ; AERODACTYL
 	db ICON_SNORLAX     ; SNORLAX
-	db ICON_BIRD        ; ARTICUNO
+	db ICON_BIRD        ; ARTIKODIN
 	db ICON_BIRD        ; ZAPDOS
 	db ICON_BIRD        ; MOLTRES
 	db ICON_SERPENT     ; DRATINI

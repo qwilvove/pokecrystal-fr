@@ -143,7 +143,7 @@ BitmasksPointers:
 	dw KabutopsBitmasks
 	dw AerodactylBitmasks
 	dw SnorlaxBitmasks
-	dw ArticunoBitmasks
+	dw ArtikodinBitmasks
 	dw ZapdosBitmasks
 	dw MoltresBitmasks
 	dw DratiniBitmasks

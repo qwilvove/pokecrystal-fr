@@ -14,7 +14,7 @@ AlphabeticalPokedexOrder:
 	db AQUALI
 	db ARBOK
 	db ARCANIN
-	db ARTICUNO
+	db ARTIKODIN
 	db WEEDLE
 	db WOOPER
 	db AZUMARILL
