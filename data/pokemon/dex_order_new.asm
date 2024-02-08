@@ -129,7 +129,7 @@ NewPokedexOrder:
 	db VULPIX
 	db NINETALES
 	db GROWLITHE
-	db ARCANINE
+	db ARCANIN
 	db STANTLER
 	db MARILL
 	db AZUMARILL

@@ -60,7 +60,7 @@ KantoMonSpecials:
 	db  35 ; MANKEY
 	db  60 ; PRIMEAPE
 	db  50 ; GROWLITHE
-	db  80 ; ARCANINE
+	db  80 ; ARCANIN
 	db  40 ; POLIWAG
 	db  50 ; POLIWHIRL
 	db  70 ; POLIWRATH

@@ -77,7 +77,7 @@
 	const MANKEY     ; 38
 	const PRIMEAPE   ; 39
 	const GROWLITHE  ; 3a
-	const ARCANINE   ; 3b
+	const ARCANIN   ; 3b
 	const POLIWAG    ; 3c
 	const POLIWHIRL  ; 3d
 	const POLIWRATH  ; 3e

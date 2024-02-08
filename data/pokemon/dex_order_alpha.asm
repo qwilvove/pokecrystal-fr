@@ -13,7 +13,7 @@ AlphabeticalPokedexOrder:
 	db AMONITA
 	db AQUALI
 	db ARBOK
-	db ARCANINE
+	db ARCANIN
 	db ARTICUNO
 	db WEEDLE
 	db WOOPER

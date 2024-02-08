@@ -767,7 +767,7 @@ PrimeapeEvosAttacks:
 	db 0 ; no more level-up moves
 
 GrowlitheEvosAttacks:
-	db EVOLVE_ITEM, FIRE_STONE, ARCANINE
+	db EVOLVE_ITEM, FIRE_STONE, ARCANIN
 	db 0 ; no more evolutions
 	db 1, BITE
 	db 1, ROAR
@@ -779,7 +779,7 @@ GrowlitheEvosAttacks:
 	db 50, FLAMETHROWER
 	db 0 ; no more level-up moves
 
-ArcanineEvosAttacks:
+ArcaninEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, ROAR
 	db 1, LEER

@@ -19,7 +19,7 @@ Pokered_MonIndices:
 	db CUBONE
 	db RHYHORN
 	db LAPRAS
-	db ARCANINE
+	db ARCANIN
 	db MEW
 	db GYARADOS
 	db SHELLDER

@@ -58,7 +58,7 @@ AnimationPointers:
 	dw MankeyAnimation
 	dw PrimeapeAnimation
 	dw GrowlitheAnimation
-	dw ArcanineAnimation
+	dw ArcaninAnimation
 	dw PoliwagAnimation
 	dw PoliwhirlAnimation
 	dw PoliwrathAnimation
