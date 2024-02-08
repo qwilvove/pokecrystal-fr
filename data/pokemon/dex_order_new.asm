@@ -140,7 +140,7 @@ NewPokedexOrder:
 	db MEOWTH
 	db PERSIAN
 	db PSYDUCK
-	db GOLDUCK
+	db AKWAKWAK
 	db MACHOP
 	db MACHOKE
 	db MACHAMP

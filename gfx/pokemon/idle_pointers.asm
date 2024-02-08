@@ -54,7 +54,7 @@ AnimationIdlePointers:
 	dw MeowthAnimationIdle
 	dw PersianAnimationIdle
 	dw PsyduckAnimationIdle
-	dw GolduckAnimationIdle
+	dw AkwakwakAnimationIdle
 	dw MankeyAnimationIdle
 	dw PrimeapeAnimationIdle
 	dw GrowlitheAnimationIdle

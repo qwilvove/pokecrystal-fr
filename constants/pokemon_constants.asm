@@ -73,7 +73,7 @@
 	const MEOWTH     ; 34
 	const PERSIAN    ; 35
 	const PSYDUCK    ; 36
-	const GOLDUCK    ; 37
+	const AKWAKWAK    ; 37
 	const MANKEY     ; 38
 	const PRIMEAPE   ; 39
 	const GROWLITHE  ; 3a

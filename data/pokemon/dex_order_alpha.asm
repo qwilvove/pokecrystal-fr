@@ -6,7 +6,7 @@ AlphabeticalPokedexOrder:
 	db ABRA
 	db AEROMITE
 	db AIRMURE
-	db GOLDUCK
+	db AKWAKWAK
 	db ALAKAZAM
 	db FERALIGATR
 	db OMASTAR

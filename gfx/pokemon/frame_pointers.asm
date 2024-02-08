@@ -54,7 +54,7 @@ FramesPointers:
 	dw MeowthFrames
 	dw PersianFrames
 	dw PsyduckFrames
-	dw GolduckFrames
+	dw AkwakwakFrames
 	dw MankeyFrames
 	dw PrimeapeFrames
 	dw GrowlitheFrames

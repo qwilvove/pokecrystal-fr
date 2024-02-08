@@ -48,7 +48,7 @@ JohtoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 15, PSYDUCK
 	db 10, PSYDUCK
-	db 15, GOLDUCK
+	db 15, AKWAKWAK
 	end_water_wildmons
 
 	def_water_wildmons MOUNT_MORTAR_1F_OUTSIDE
@@ -96,7 +96,7 @@ JohtoWaterWildMons:
 	def_water_wildmons SILVER_CAVE_ROOM_2
 	db 2 percent ; encounter rate
 	db 35, SEAKING
-	db 35, GOLDUCK
+	db 35, AKWAKWAK
 	db 35, GOLDEEN
 	end_water_wildmons
 
@@ -160,7 +160,7 @@ JohtoWaterWildMons:
 	db 4 percent ; encounter rate
 	db 20, PSYDUCK
 	db 15, PSYDUCK
-	db 20, GOLDUCK
+	db 20, AKWAKWAK
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_40

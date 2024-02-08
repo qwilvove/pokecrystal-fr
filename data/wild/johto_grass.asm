@@ -1089,7 +1089,7 @@ JohtoGrassWildMons:
 	db 44, GOLBAT
 	db 42, ONIX
 	db 42, GOLBAT
-	db 45, GOLDUCK
+	db 45, AKWAKWAK
 	db 46, GOLBAT
 	db 46, GOLBAT
 	end_grass_wildmons
@@ -1114,7 +1114,7 @@ JohtoGrassWildMons:
 	db 20, LARVITAR
 	; nite
 	db 48, GOLBAT
-	db 48, GOLDUCK
+	db 48, AKWAKWAK
 	db 46, GOLBAT
 	db 46, PARASECT
 	db 48, PARASECT
@@ -1145,7 +1145,7 @@ JohtoGrassWildMons:
 	db 48, ONIX
 	db 48, GRAVELER
 	db 49, GOLBAT
-	db 45, GOLDUCK
+	db 45, AKWAKWAK
 	db 53, GOLBAT
 	db 53, GOLBAT
 	end_grass_wildmons

@@ -111,8 +111,8 @@ PokemonPicPointers::
 	dba_pic PersianBackpic
 	dba_pic PsyduckFrontpic
 	dba_pic PsyduckBackpic
-	dba_pic GolduckFrontpic
-	dba_pic GolduckBackpic
+	dba_pic AkwakwakFrontpic
+	dba_pic AkwakwakBackpic
 	dba_pic MankeyFrontpic
 	dba_pic MankeyBackpic
 	dba_pic PrimeapeFrontpic
