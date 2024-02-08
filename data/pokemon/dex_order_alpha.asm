@@ -20,7 +20,7 @@ AlphabeticalPokedexOrder:
 	db AZUMARILL
 	db BOUSTIFLOR
 	db BULBIZARRE
-	db DELIBIRD
+	db CADOIZO
 	db FARFETCH_D
 	db GROWLITHE
 	db AIPOM

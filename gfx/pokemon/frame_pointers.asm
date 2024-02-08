@@ -224,7 +224,7 @@ FramesPointers:
 	dw CorsolaFrames
 	dw RemoraidFrames
 	dw OctilleryFrames
-	dw DelibirdFrames
+	dw CadoizoFrames
 	dw MantineFrames
 	dw AirmureFrames
 	dw HoundourFrames

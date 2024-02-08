@@ -516,7 +516,7 @@ INCBIN "gfx/footprints/corsola.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/remoraid.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/octillery.1bpp",  footprint_bottom
 ; 225-232 top halves
-INCBIN "gfx/footprints/delibird.1bpp",   footprint_top
+INCBIN "gfx/footprints/cadoizo.1bpp",   footprint_top
 INCBIN "gfx/footprints/mantine.1bpp",    footprint_top
 INCBIN "gfx/footprints/airmure.1bpp",   footprint_top
 INCBIN "gfx/footprints/houndour.1bpp",   footprint_top
@@ -525,7 +525,7 @@ INCBIN "gfx/footprints/kingdra.1bpp",    footprint_top
 INCBIN "gfx/footprints/phanpy.1bpp",     footprint_top
 INCBIN "gfx/footprints/donphan.1bpp",    footprint_top
 ; 225-232 bottom halves
-INCBIN "gfx/footprints/delibird.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/cadoizo.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/mantine.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/airmure.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/houndour.1bpp",   footprint_bottom

@@ -225,7 +225,7 @@ PokedexDataPointerTable:
 	dw CorsolaPokedexEntry
 	dw RemoraidPokedexEntry
 	dw OctilleryPokedexEntry
-	dw DelibirdPokedexEntry
+	dw CadoizoPokedexEntry
 	dw MantinePokedexEntry
 	dw AirmurePokedexEntry
 	dw HoundourPokedexEntry

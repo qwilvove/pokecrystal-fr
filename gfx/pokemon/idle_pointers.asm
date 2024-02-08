@@ -224,7 +224,7 @@ AnimationIdlePointers:
 	dw CorsolaAnimationIdle
 	dw RemoraidAnimationIdle
 	dw OctilleryAnimationIdle
-	dw DelibirdAnimationIdle
+	dw CadoizoAnimationIdle
 	dw MantineAnimationIdle
 	dw AirmureAnimationIdle
 	dw HoundourAnimationIdle

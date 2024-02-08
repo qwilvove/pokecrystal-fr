@@ -226,7 +226,7 @@ MonMenuIcons:
 	db ICON_SHELL       ; CORSOLA
 	db ICON_FISH        ; REMORAID
 	db ICON_FISH        ; OCTILLERY
-	db ICON_MONSTER     ; DELIBIRD
+	db ICON_MONSTER     ; CADOIZO
 	db ICON_FISH        ; MANTINE
 	db ICON_BIRD        ; AIRMURE
 	db ICON_FOX         ; HOUNDOUR

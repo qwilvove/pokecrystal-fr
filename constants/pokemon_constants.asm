@@ -244,7 +244,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const CORSOLA    ; de
 	const REMORAID   ; df
 	const OCTILLERY  ; e0
-	const DELIBIRD   ; e1
+	const CADOIZO   ; e1
 	const MANTINE    ; e2
 	const AIRMURE   ; e3
 	const HOUNDOUR   ; e4

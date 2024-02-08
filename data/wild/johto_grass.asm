@@ -721,10 +721,10 @@ JohtoGrassWildMons:
 	db 22, GOLBAT
 	db 22, GOLBAT
 	; nite
-	db 21, DELIBIRD
+	db 21, CADOIZO
 	db 22, ZUBAT
 	db 22, GOLBAT
-	db 23, DELIBIRD
+	db 23, CADOIZO
 	db 24, GOLBAT
 	db 22, GOLBAT
 	db 22, GOLBAT
@@ -749,10 +749,10 @@ JohtoGrassWildMons:
 	db 23, GOLBAT
 	db 22, JYNX
 	; nite
-	db 22, DELIBIRD
+	db 22, CADOIZO
 	db 23, ZUBAT
 	db 23, GOLBAT
-	db 24, DELIBIRD
+	db 24, CADOIZO
 	db 25, GOLBAT
 	db 23, GOLBAT
 	db 22, SNEASEL
@@ -777,10 +777,10 @@ JohtoGrassWildMons:
 	db 22, JYNX
 	db 24, JYNX
 	; nite
-	db 23, DELIBIRD
+	db 23, CADOIZO
 	db 24, ZUBAT
 	db 24, GOLBAT
-	db 25, DELIBIRD
+	db 25, CADOIZO
 	db 26, GOLBAT
 	db 22, SNEASEL
 	db 24, SNEASEL
@@ -805,10 +805,10 @@ JohtoGrassWildMons:
 	db 22, JYNX
 	db 24, JYNX
 	; nite
-	db 23, DELIBIRD
+	db 23, CADOIZO
 	db 24, ZUBAT
 	db 24, GOLBAT
-	db 25, DELIBIRD
+	db 25, CADOIZO
 	db 26, GOLBAT
 	db 22, SNEASEL
 	db 24, SNEASEL
@@ -833,10 +833,10 @@ JohtoGrassWildMons:
 	db 24, JYNX
 	db 26, JYNX
 	; nite
-	db 24, DELIBIRD
+	db 24, CADOIZO
 	db 25, ZUBAT
 	db 25, GOLBAT
-	db 26, DELIBIRD
+	db 26, CADOIZO
 	db 22, SNEASEL
 	db 24, SNEASEL
 	db 26, SNEASEL

@@ -717,7 +717,7 @@ RemoraidEggMoves:
 	db SCREECH
 	db -1 ; end
 
-DelibirdEggMoves:
+CadoizoEggMoves:
 	db AURORA_BEAM
 	db QUICK_ATTACK
 	db FUTURE_SIGHT
