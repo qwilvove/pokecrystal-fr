@@ -226,7 +226,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw DelibirdEggMoves
 	dw MantineEggMoves
-	dw SkarmoryEggMoves
+	dw AirmureEggMoves
 	dw HoundourEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

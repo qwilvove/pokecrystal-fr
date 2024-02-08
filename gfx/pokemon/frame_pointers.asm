@@ -226,7 +226,7 @@ FramesPointers:
 	dw OctilleryFrames
 	dw DelibirdFrames
 	dw MantineFrames
-	dw SkarmoryFrames
+	dw AirmureFrames
 	dw HoundourFrames
 	dw HoundoomFrames
 	dw KingdraFrames

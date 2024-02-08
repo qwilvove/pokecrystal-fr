@@ -228,7 +228,7 @@ EvosAttacksPointers::
 	dw OctilleryEvosAttacks
 	dw DelibirdEvosAttacks
 	dw MantineEvosAttacks
-	dw SkarmoryEvosAttacks
+	dw AirmureEvosAttacks
 	dw HoundourEvosAttacks
 	dw HoundoomEvosAttacks
 	dw KingdraEvosAttacks

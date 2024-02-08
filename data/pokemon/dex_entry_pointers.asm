@@ -227,7 +227,7 @@ PokedexDataPointerTable:
 	dw OctilleryPokedexEntry
 	dw DelibirdPokedexEntry
 	dw MantinePokedexEntry
-	dw SkarmoryPokedexEntry
+	dw AirmurePokedexEntry
 	dw HoundourPokedexEntry
 	dw HoundoomPokedexEntry
 	dw KingdraPokedexEntry
