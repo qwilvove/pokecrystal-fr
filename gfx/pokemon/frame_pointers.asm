@@ -159,7 +159,7 @@ FramesPointers:
 	dw TyphlosionFrames
 	dw TotodileFrames
 	dw CroconawFrames
-	dw FeraligatrFrames
+	dw AligatueurFrames
 	dw SentretFrames
 	dw FurretFrames
 	dw HoothootFrames

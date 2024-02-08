@@ -161,7 +161,7 @@ EvosAttacksPointers::
 	dw TyphlosionEvosAttacks
 	dw TotodileEvosAttacks
 	dw CroconawEvosAttacks
-	dw FeraligatrEvosAttacks
+	dw AligatueurEvosAttacks
 	dw SentretEvosAttacks
 	dw FurretEvosAttacks
 	dw HoothootEvosAttacks

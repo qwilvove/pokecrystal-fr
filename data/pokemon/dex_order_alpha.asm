@@ -8,7 +8,7 @@ AlphabeticalPokedexOrder:
 	db AIRMURE
 	db AKWAKWAK
 	db ALAKAZAM
-	db FERALIGATR
+	db ALIGATUEUR
 	db OMASTAR
 	db OMANYTE
 	db VAPOREON

@@ -179,7 +179,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const TYPHLOSION ; 9d
 	const TOTODILE   ; 9e
 	const CROCONAW   ; 9f
-	const FERALIGATR ; a0
+	const ALIGATUEUR ; a0
 	const SENTRET    ; a1
 	const FURRET     ; a2
 	const HOOTHOOT   ; a3

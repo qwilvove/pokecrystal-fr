@@ -159,7 +159,7 @@ AnimationPointers:
 	dw TyphlosionAnimation
 	dw TotodileAnimation
 	dw CroconawAnimation
-	dw FeraligatrAnimation
+	dw AligatueurAnimation
 	dw SentretAnimation
 	dw FurretAnimation
 	dw HoothootAnimation

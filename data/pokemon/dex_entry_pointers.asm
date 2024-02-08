@@ -160,7 +160,7 @@ PokedexDataPointerTable:
 	dw TyphlosionPokedexEntry
 	dw TotodilePokedexEntry
 	dw CroconawPokedexEntry
-	dw FeraligatrPokedexEntry
+	dw AligatueurPokedexEntry
 	dw SentretPokedexEntry
 	dw FurretPokedexEntry
 	dw HoothootPokedexEntry
