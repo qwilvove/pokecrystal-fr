@@ -128,7 +128,7 @@ NewPokedexOrder:
 	db GRANBULL
 	db VULPIX
 	db NINETALES
-	db GROWLITHE
+	db CANINOS
 	db ARCANIN
 	db STANTLER
 	db MARILL

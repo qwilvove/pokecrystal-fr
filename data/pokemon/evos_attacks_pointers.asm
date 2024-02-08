@@ -59,7 +59,7 @@ EvosAttacksPointers::
 	dw AkwakwakEvosAttacks
 	dw MankeyEvosAttacks
 	dw PrimeapeEvosAttacks
-	dw GrowlitheEvosAttacks
+	dw CaninosEvosAttacks
 	dw ArcaninEvosAttacks
 	dw PoliwagEvosAttacks
 	dw PoliwhirlEvosAttacks

@@ -32,7 +32,7 @@ Pokered_MonIndices:
 	db TANGELA
 	db SCIZOR ; MISSINGNO.
 	db SHUCKLE ; MISSINGNO.
-	db GROWLITHE
+	db CANINOS
 	db ONIX
 	db FEAROW
 	db PIDGEY

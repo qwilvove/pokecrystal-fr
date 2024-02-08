@@ -117,8 +117,8 @@ PokemonPicPointers::
 	dba_pic MankeyBackpic
 	dba_pic PrimeapeFrontpic
 	dba_pic PrimeapeBackpic
-	dba_pic GrowlitheFrontpic
-	dba_pic GrowlitheBackpic
+	dba_pic CaninosFrontpic
+	dba_pic CaninosBackpic
 	dba_pic ArcaninFrontpic
 	dba_pic ArcaninBackpic
 	dba_pic PoliwagFrontpic

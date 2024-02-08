@@ -57,7 +57,7 @@ AnimationPointers:
 	dw AkwakwakAnimation
 	dw MankeyAnimation
 	dw PrimeapeAnimation
-	dw GrowlitheAnimation
+	dw CaninosAnimation
 	dw ArcaninAnimation
 	dw PoliwagAnimation
 	dw PoliwhirlAnimation

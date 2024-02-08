@@ -372,7 +372,7 @@ KantoGrassWildMons:
 	db 17, SNUBBULL
 	db 19, PIDGEOTTO
 	db 16, ABRA
-	db 17, GROWLITHE
+	db 17, CANINOS
 	db 16, JIGGLYPUFF
 	db 18, KADABRA
 	db 18, KADABRA
@@ -380,7 +380,7 @@ KantoGrassWildMons:
 	db 17, SNUBBULL
 	db 19, PIDGEOTTO
 	db 16, ABRA
-	db 17, GROWLITHE
+	db 17, CANINOS
 	db 16, JIGGLYPUFF
 	db 18, KADABRA
 	db 18, KADABRA

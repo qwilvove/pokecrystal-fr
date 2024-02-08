@@ -22,7 +22,7 @@ AlphabeticalPokedexOrder:
 	db BULBIZARRE
 	db CADOIZO
 	db CANARTICHO
-	db GROWLITHE
+	db CANINOS
 	db AIPOM
 	db WARTORTLE
 	db SQUIRTLE

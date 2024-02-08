@@ -33,7 +33,7 @@
 	const CRY_METAPOD
 	const CRY_SQUIRTLE
 	const CRY_PARAS
-	const CRY_GROWLITHE
+	const CRY_CANINOS
 	const CRY_KRABBY
 	const CRY_PSYDUCK
 	const CRY_RATTATA

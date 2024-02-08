@@ -57,7 +57,7 @@ AnimationIdlePointers:
 	dw AkwakwakAnimationIdle
 	dw MankeyAnimationIdle
 	dw PrimeapeAnimationIdle
-	dw GrowlitheAnimationIdle
+	dw CaninosAnimationIdle
 	dw ArcaninAnimationIdle
 	dw PoliwagAnimationIdle
 	dw PoliwhirlAnimationIdle

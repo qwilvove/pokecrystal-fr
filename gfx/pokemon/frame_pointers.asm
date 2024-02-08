@@ -57,7 +57,7 @@ FramesPointers:
 	dw AkwakwakFrames
 	dw MankeyFrames
 	dw PrimeapeFrames
-	dw GrowlitheFrames
+	dw CaninosFrames
 	dw ArcaninFrames
 	dw PoliwagFrames
 	dw PoliwhirlFrames

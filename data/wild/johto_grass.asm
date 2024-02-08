@@ -1407,7 +1407,7 @@ JohtoGrassWildMons:
 	; morn
 	db 12, SNUBBULL
 	db 14, PIDGEY
-	db 13, GROWLITHE
+	db 13, CANINOS
 	db 10, ABRA
 	db 12, JIGGLYPUFF
 	db 10, DITTO
@@ -1415,7 +1415,7 @@ JohtoGrassWildMons:
 	; day
 	db 12, SNUBBULL
 	db 14, PIDGEY
-	db 13, GROWLITHE
+	db 13, CANINOS
 	db 10, ABRA
 	db 12, JIGGLYPUFF
 	db 10, DITTO
@@ -1436,7 +1436,7 @@ JohtoGrassWildMons:
 	db 4, LEDYBA
 	db 4, PIDGEY
 	db 5, BELLSPROUT
-	db 5, GROWLITHE
+	db 5, CANINOS
 	db 5, PIDGEY
 	db 6, PIDGEY
 	db 6, PIDGEY
@@ -1444,7 +1444,7 @@ JohtoGrassWildMons:
 	db 4, PIDGEY
 	db 4, PIDGEY
 	db 5, BELLSPROUT
-	db 5, GROWLITHE
+	db 5, CANINOS
 	db 5, PIDGEY
 	db 6, PIDGEY
 	db 6, PIDGEY
@@ -1462,17 +1462,17 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 13, LEDYBA
-	db 14, GROWLITHE
+	db 14, CANINOS
 	db 15, PIDGEY
-	db 16, GROWLITHE
+	db 16, CANINOS
 	db 15, PIDGEOTTO
 	db 15, LEDIAN
 	db 15, LEDIAN
 	; day
 	db 13, PIDGEY
-	db 14, GROWLITHE
+	db 14, CANINOS
 	db 15, PIDGEY
-	db 16, GROWLITHE
+	db 16, CANINOS
 	db 15, PIDGEOTTO
 	db 15, PIDGEY
 	db 15, PIDGEY

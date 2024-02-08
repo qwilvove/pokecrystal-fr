@@ -32,7 +32,7 @@ Cries:
 	dba Cry_Metapod
 	dba Cry_Squirtle
 	dba Cry_Paras
-	dba Cry_Growlithe
+	dba Cry_Caninos
 	dba Cry_Krabby
 	dba Cry_Psyduck
 	dba Cry_Rattata

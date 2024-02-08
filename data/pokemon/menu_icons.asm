@@ -59,7 +59,7 @@ MonMenuIcons:
 	db ICON_MONSTER     ; AKWAKWAK
 	db ICON_FIGHTER     ; MANKEY
 	db ICON_FIGHTER     ; PRIMEAPE
-	db ICON_FOX         ; GROWLITHE
+	db ICON_FOX         ; CANINOS
 	db ICON_FOX         ; ARCANIN
 	db ICON_POLIWAG     ; POLIWAG
 	db ICON_POLIWAG     ; POLIWHIRL

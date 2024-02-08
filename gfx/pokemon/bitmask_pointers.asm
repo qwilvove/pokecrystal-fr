@@ -57,7 +57,7 @@ BitmasksPointers:
 	dw AkwakwakBitmasks
 	dw MankeyBitmasks
 	dw PrimeapeBitmasks
-	dw GrowlitheBitmasks
+	dw CaninosBitmasks
 	dw ArcaninBitmasks
 	dw PoliwagBitmasks
 	dw PoliwhirlBitmasks

@@ -3,7 +3,7 @@ SpriteMons:
 	table_width 1, SpriteMons
 	db UNOWN
 	db GEODUDE
-	db GROWLITHE
+	db CANINOS
 	db ASPICOT
 	db SHELLDER
 	db ODDISH

@@ -1040,11 +1040,11 @@ Cry_Paras:
 	channel 6, Cry_Paras_Ch6
 	channel 8, Cry_Paras_Ch8
 
-Cry_Growlithe:
+Cry_Caninos:
 	channel_count 3
-	channel 5, Cry_Growlithe_Ch5
-	channel 6, Cry_Growlithe_Ch6
-	channel 8, Cry_Growlithe_Ch8
+	channel 5, Cry_Caninos_Ch5
+	channel 6, Cry_Caninos_Ch6
+	channel 8, Cry_Caninos_Ch8
 
 Cry_Krabby:
 	channel_count 3
@@ -2015,7 +2015,7 @@ Cry_Fearow_Ch8:
 	noise_note 8, 12, 1, 44
 	sound_ret
 
-Cry_Growlithe_Ch5:
+Cry_Caninos_Ch5:
 	duty_cycle_pattern 2, 2, 1, 1
 	square_note 3, 15, 4, 1601
 	square_note 13, 13, 6, 1825
@@ -2023,7 +2023,7 @@ Cry_Growlithe_Ch5:
 	square_note 8, 12, 1, 1818
 	sound_ret
 
-Cry_Growlithe_Ch6:
+Cry_Caninos_Ch6:
 	duty_cycle_pattern 3, 0, 3, 0
 	square_note 4, 15, 4, 1408
 	square_note 14, 14, 6, 1760
@@ -2031,7 +2031,7 @@ Cry_Growlithe_Ch6:
 	square_note 8, 13, 1, 1756
 	sound_ret
 
-Cry_Growlithe_Ch8:
+Cry_Caninos_Ch8:
 	noise_note 5, 12, 4, 70
 	noise_note 13, 10, 5, 68
 	noise_note 8, 12, 4, 69

@@ -58,7 +58,7 @@ PokedexDataPointerTable:
 	dw AkwakwakPokedexEntry
 	dw MankeyPokedexEntry
 	dw PrimeapePokedexEntry
-	dw GrowlithePokedexEntry
+	dw CaninosPokedexEntry
 	dw ArcaninPokedexEntry
 	dw PoliwagPokedexEntry
 	dw PoliwhirlPokedexEntry
