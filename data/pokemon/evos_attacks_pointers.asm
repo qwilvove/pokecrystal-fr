@@ -191,7 +191,7 @@ EvosAttacksPointers::
 	dw HoppipEvosAttacks
 	dw SkiploomEvosAttacks
 	dw JumpluffEvosAttacks
-	dw AipomEvosAttacks
+	dw CapumainEvosAttacks
 	dw SunkernEvosAttacks
 	dw SunfloraEvosAttacks
 	dw YanmaEvosAttacks

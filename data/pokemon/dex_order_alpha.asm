@@ -23,7 +23,7 @@ AlphabeticalPokedexOrder:
 	db CADOIZO
 	db CANARTICHO
 	db CANINOS
-	db AIPOM
+	db CAPUMAIN
 	db WARTORTLE
 	db SQUIRTLE
 	db SHUCKLE

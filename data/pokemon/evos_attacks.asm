@@ -2568,7 +2568,7 @@ JumpluffEvosAttacks:
 	db 44, MEGA_DRAIN
 	db 0 ; no more level-up moves
 
-AipomEvosAttacks:
+CapumainEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, TAIL_WHIP

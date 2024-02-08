@@ -229,7 +229,7 @@ Pokered_MonIndices:
 	db HOPPIP
 	db SKIPLOOM
 	db JUMPLUFF
-	db AIPOM
+	db CAPUMAIN
 	db SUNKERN
 	db SUNFLORA
 	db YANMA

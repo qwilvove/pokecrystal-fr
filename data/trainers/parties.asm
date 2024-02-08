@@ -486,7 +486,7 @@ SchoolboyGroup:
 
 	; SCHOOLBOY (12)
 	db "BENJAMIN@", TRAINERTYPE_NORMAL
-	db 32, AIPOM
+	db 32, CAPUMAIN
 	db 32, DITTO
 	db -1 ; end
 
@@ -1476,7 +1476,7 @@ TeacherGroup:
 
 	; TEACHER (2)
 	db "JOSIANNE@", TRAINERTYPE_NORMAL
-	db 32, AIPOM
+	db 32, CAPUMAIN
 	db 36, CUBONE
 	db -1 ; end
 

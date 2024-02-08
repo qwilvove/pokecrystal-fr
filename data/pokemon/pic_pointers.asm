@@ -381,8 +381,8 @@ PokemonPicPointers::
 	dba_pic SkiploomBackpic
 	dba_pic JumpluffFrontpic
 	dba_pic JumpluffBackpic
-	dba_pic AipomFrontpic
-	dba_pic AipomBackpic
+	dba_pic CapumainFrontpic
+	dba_pic CapumainBackpic
 	dba_pic SunkernFrontpic
 	dba_pic SunkernBackpic
 	dba_pic SunfloraFrontpic

@@ -123,7 +123,7 @@ NewPokedexOrder:
 	db MAGNETON
 	db VOLTORB
 	db ELECTRODE
-	db AIPOM
+	db CAPUMAIN
 	db SNUBBULL
 	db GRANBULL
 	db VULPIX

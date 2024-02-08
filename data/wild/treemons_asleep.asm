@@ -11,7 +11,7 @@ AsleepTreeMonsNite:
 	db ABO
 	db EXEGGCUTE
 	db LEDYBA
-	db AIPOM
+	db CAPUMAIN
 	db -1 ; end
 
 AsleepTreeMonsDay:

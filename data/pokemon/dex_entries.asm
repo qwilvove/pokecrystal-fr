@@ -197,7 +197,7 @@ PolitoedPokedexEntry::   INCLUDE "data/pokemon/dex_entries/politoed.asm"
 HoppipPokedexEntry::     INCLUDE "data/pokemon/dex_entries/hoppip.asm"
 SkiploomPokedexEntry::   INCLUDE "data/pokemon/dex_entries/skiploom.asm"
 JumpluffPokedexEntry::   INCLUDE "data/pokemon/dex_entries/jumpluff.asm"
-AipomPokedexEntry::      INCLUDE "data/pokemon/dex_entries/aipom.asm"
+CapumainPokedexEntry::      INCLUDE "data/pokemon/dex_entries/capumain.asm"
 SunkernPokedexEntry::    INCLUDE "data/pokemon/dex_entries/sunkern.asm"
 SunfloraPokedexEntry::   INCLUDE "data/pokemon/dex_entries/sunflora.asm"
 

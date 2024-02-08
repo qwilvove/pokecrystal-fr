@@ -209,7 +209,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const HOPPIP     ; bb
 	const SKIPLOOM   ; bc
 	const JUMPLUFF   ; bd
-	const AIPOM      ; be
+	const CAPUMAIN      ; be
 	const SUNKERN    ; bf
 	const SUNFLORA   ; c0
 	const YANMA      ; c1

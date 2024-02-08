@@ -577,7 +577,7 @@ HoppipEggMoves:
 	db PAY_DAY
 	db -1 ; end
 
-AipomEggMoves:
+CapumainEggMoves:
 	db COUNTER
 	db SCREECH
 	db PURSUIT

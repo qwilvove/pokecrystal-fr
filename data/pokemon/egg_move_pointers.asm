@@ -189,7 +189,7 @@ EggMovePointers::
 	dw HoppipEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw AipomEggMoves
+	dw CapumainEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw YanmaEggMoves
