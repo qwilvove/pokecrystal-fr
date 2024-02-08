@@ -130,7 +130,7 @@ NewPokedexOrder:
 	db NINETALES
 	db CANINOS
 	db ARCANIN
-	db STANTLER
+	db CERFROUSSE
 	db MARILL
 	db AZUMARILL
 	db DIGLETT

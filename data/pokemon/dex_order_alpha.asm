@@ -28,7 +28,7 @@ AlphabeticalPokedexOrder:
 	db CARAPUCE
 	db CARATROC
 	db CELEBI
-	db STANTLER
+	db CERFROUSSE
 	db CATERPIE
 	db BELLSPROUT
 	db METAPOD

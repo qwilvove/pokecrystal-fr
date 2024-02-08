@@ -1478,9 +1478,9 @@ JohtoGrassWildMons:
 	db 15, PIDGEY
 	; nite
 	db 13, SPINARAK
-	db 14, STANTLER
+	db 14, CERFROUSSE
 	db 15, HOOTHOOT
-	db 16, STANTLER
+	db 16, CERFROUSSE
 	db 15, NOCTOWL
 	db 15, ARIADOS
 	db 15, ARIADOS

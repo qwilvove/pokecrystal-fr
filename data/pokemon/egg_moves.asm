@@ -756,7 +756,7 @@ PhanpyEggMoves:
 	db WATER_GUN
 	db -1 ; end
 
-StantlerEggMoves:
+CerfrousseEggMoves:
 	db REFLECT
 	db SPITE
 	db DISABLE

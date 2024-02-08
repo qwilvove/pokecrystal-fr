@@ -233,7 +233,7 @@ FramesPointers:
 	dw PhanpyFrames
 	dw DonphanFrames
 	dw Porygon2Frames
-	dw StantlerFrames
+	dw CerfrousseFrames
 	dw SmeargleFrames
 	dw TyrogueFrames
 	dw HitmontopFrames

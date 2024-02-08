@@ -253,7 +253,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const PHANPY     ; e7
 	const DONPHAN    ; e8
 	const PORYGON2   ; e9
-	const STANTLER   ; ea
+	const CERFROUSSE   ; ea
 	const SMEARGLE   ; eb
 	const TYROGUE    ; ec
 	const HITMONTOP  ; ed
