@@ -20,7 +20,7 @@ SpriteMons:
 	db CHARMANDER
 	db JYNX
 	db STARMIE
-	db BULBASAUR
+	db BULBIZARRE
 	db JIGGLYPUFF
 	db GRIMER
 	db ABO

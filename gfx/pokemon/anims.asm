@@ -1,4 +1,4 @@
-BulbasaurAnimation:  INCLUDE "gfx/pokemon/bulbasaur/anim.asm"
+BulbizarreAnimation:  INCLUDE "gfx/pokemon/bulbizarre/anim.asm"
 IvysaurAnimation:    INCLUDE "gfx/pokemon/ivysaur/anim.asm"
 VenusaurAnimation:   INCLUDE "gfx/pokemon/venusaur/anim.asm"
 CharmanderAnimation: INCLUDE "gfx/pokemon/charmander/anim.asm"

@@ -19,7 +19,7 @@ AlphabeticalPokedexOrder:
 	db AXOLOTO
 	db AZUMARILL
 	db BOUSTIFLOR
-	db BULBASAUR
+	db BULBIZARRE
 	db DELIBIRD
 	db FARFETCH_D
 	db GROWLITHE

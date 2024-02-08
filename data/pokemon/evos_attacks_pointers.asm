@@ -2,7 +2,7 @@
 
 EvosAttacksPointers::
 	table_width 2, EvosAttacksPointers
-	dw BulbasaurEvosAttacks
+	dw BulbizarreEvosAttacks
 	dw IvysaurEvosAttacks
 	dw VenusaurEvosAttacks
 	dw CharmanderEvosAttacks

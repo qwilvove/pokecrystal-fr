@@ -1279,7 +1279,7 @@ DebugRoom_UpdateExpForLevel:
 
 DebugRoomMenu_PokemonGet_Page1Values:
 	db 8
-	paged_value wDebugRoomMonSpecies,       1,   NUM_POKEMON, BULBASAUR,      DebugRoom_BoxStructStrings.Pokemon,   DebugRoom_PrintPokemonName, FALSE
+	paged_value wDebugRoomMonSpecies,       1,   NUM_POKEMON, BULBIZARRE,      DebugRoom_BoxStructStrings.Pokemon,   DebugRoom_PrintPokemonName, FALSE
 	paged_value wDebugRoomMonItem,          1,   $ff,         MASTER_BALL,    DebugRoom_BoxStructStrings.Item,      DebugRoom_PrintItemName2,   FALSE
 	paged_value wDebugRoomMonMoves+0,       1,   NUM_ATTACKS, POUND,          DebugRoom_BoxStructStrings.Move1,     DebugRoom_PrintMoveName,    FALSE
 	paged_value wDebugRoomMonMoves+1,       1,   NUM_ATTACKS, POUND,          DebugRoom_BoxStructStrings.Move2,     DebugRoom_PrintMoveName,    FALSE

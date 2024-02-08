@@ -944,11 +944,11 @@ Cry_Pidgey:
 	channel 6, Cry_Pidgey_Ch6
 	channel 8, Cry_Pidgey_Ch8
 
-Cry_Bulbasaur:
+Cry_Bulbizarre:
 	channel_count 3
-	channel 5, Cry_Bulbasaur_Ch5
-	channel 6, Cry_Bulbasaur_Ch6
-	channel 8, Cry_Bulbasaur_Ch8
+	channel 5, Cry_Bulbizarre_Ch5
+	channel 6, Cry_Bulbizarre_Ch6
+	channel 8, Cry_Bulbizarre_Ch8
 
 Cry_Spearow:
 	channel_count 3
@@ -1289,7 +1289,7 @@ Cry_Kangaskhan_Ch8:
 	noise_note 15, 10, 2, 92
 	sound_ret
 
-Cry_Bulbasaur_Ch5:
+Cry_Bulbizarre_Ch5:
 	duty_cycle_pattern 3, 3, 0, 1
 	square_note 4, 15, 7, 1984
 	square_note 12, 14, 6, 1986
@@ -1299,7 +1299,7 @@ Cry_Bulbasaur_Ch5:
 	square_note 8, 12, 1, 1600
 	sound_ret
 
-Cry_Bulbasaur_Ch6:
+Cry_Bulbizarre_Ch6:
 	duty_cycle_pattern 3, 0, 3, 0
 	square_note 3, 12, 7, 1921
 	square_note 12, 11, 6, 1920
@@ -1309,7 +1309,7 @@ Cry_Bulbasaur_Ch6:
 	square_note 8, 10, 1, 1538
 	sound_ret
 
-Cry_Bulbasaur_Ch8:
+Cry_Bulbizarre_Ch8:
 	noise_note 3, 14, 4, 60
 	noise_note 12, 13, 6, 44
 	noise_note 4, 14, 4, 60

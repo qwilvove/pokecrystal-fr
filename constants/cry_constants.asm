@@ -17,7 +17,7 @@
 	const CRY_SEEL
 	const CRY_DROWZEE
 	const CRY_PIDGEY
-	const CRY_BULBASAUR
+	const CRY_BULBIZARRE
 	const CRY_SPEAROW
 	const CRY_RHYDON
 	const CRY_GOLEM

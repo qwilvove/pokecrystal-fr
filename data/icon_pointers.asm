@@ -23,7 +23,7 @@ IconPointers:
 	dw SerpentIcon
 	dw VoltorbIcon
 	dw SquirtleIcon
-	dw BulbasaurIcon
+	dw BulbizarreIcon
 	dw CharmanderIcon
 	dw CaterpillarIcon
 	dw UnownIcon
