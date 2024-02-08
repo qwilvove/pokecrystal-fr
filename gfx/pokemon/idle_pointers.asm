@@ -6,7 +6,7 @@ AnimationIdlePointers:
 	dw CharmanderAnimationIdle
 	dw CharmeleonAnimationIdle
 	dw CharizardAnimationIdle
-	dw SquirtleAnimationIdle
+	dw CarapuceAnimationIdle
 	dw CarabaffeAnimationIdle
 	dw BlastoiseAnimationIdle
 	dw CaterpieAnimationIdle

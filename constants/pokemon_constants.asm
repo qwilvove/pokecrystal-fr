@@ -25,7 +25,7 @@
 	const CHARMANDER ; 04
 	const CHARMELEON ; 05
 	const CHARIZARD  ; 06
-	const SQUIRTLE   ; 07
+	const CARAPUCE   ; 07
 	const CARABAFFE  ; 08
 	const BLASTOISE  ; 09
 	const CATERPIE   ; 0a

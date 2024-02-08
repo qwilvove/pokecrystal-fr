@@ -25,7 +25,7 @@ AlphabeticalPokedexOrder:
 	db CANINOS
 	db CAPUMAIN
 	db CARABAFFE
-	db SQUIRTLE
+	db CARAPUCE
 	db SHUCKLE
 	db CELEBI
 	db STANTLER

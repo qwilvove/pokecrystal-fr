@@ -12,8 +12,8 @@ PokemonCries::
 	mon_cry CRY_CHARMANDER,   96,  192 ; CHARMANDER
 	mon_cry CRY_CHARMANDER,   32,  192 ; CHARMELEON
 	mon_cry CRY_CHARMANDER,    0,  256 ; CHARIZARD
-	mon_cry CRY_SQUIRTLE,     96,  192 ; SQUIRTLE
-	mon_cry CRY_SQUIRTLE,     32,  192 ; CARABAFFE
+	mon_cry CRY_CARAPUCE,     96,  192 ; CARAPUCE
+	mon_cry CRY_CARAPUCE,     32,  192 ; CARABAFFE
 	mon_cry CRY_BLASTOISE,     0,  256 ; BLASTOISE
 	mon_cry CRY_CATERPIE,    128,  160 ; CATERPIE
 	mon_cry CRY_METAPOD,     204,  129 ; METAPOD
@@ -46,8 +46,8 @@ PokemonCries::
 	mon_cry CRY_VULPIX,      136,  224 ; NINETALES
 	mon_cry CRY_PIDGEY,      255,  181 ; JIGGLYPUFF
 	mon_cry CRY_PIDGEY,      104,  224 ; WIGGLYTUFF
-	mon_cry CRY_SQUIRTLE,    224,  256 ; ZUBAT
-	mon_cry CRY_SQUIRTLE,    250,  256 ; GOLBAT
+	mon_cry CRY_CARAPUCE,    224,  256 ; ZUBAT
+	mon_cry CRY_CARAPUCE,    250,  256 ; GOLBAT
 	mon_cry CRY_ODDISH,      221,  129 ; ODDISH
 	mon_cry CRY_ODDISH,      170,  192 ; GLOOM
 	mon_cry CRY_VILEPLUME,    34,  383 ; VILEPLUME
@@ -133,7 +133,7 @@ PokemonCries::
 	mon_cry CRY_VOLTORB,     143,  383 ; ELECTABUZZ
 	mon_cry CRY_CHARMANDER,  255,  176 ; MAGMAR
 	mon_cry CRY_PIDGEOTTO,     0,  256 ; PINSIR
-	mon_cry CRY_SQUIRTLE,     17,  192 ; TAUROS
+	mon_cry CRY_CARAPUCE,     17,  192 ; TAUROS
 	mon_cry CRY_ABO,       128,  128 ; MAGIKARP
 	mon_cry CRY_ABO,         0,  256 ; GYARADOS
 	mon_cry CRY_LAPRAS,        0,  256 ; LAPRAS
@@ -174,7 +174,7 @@ PokemonCries::
 	mon_cry CRY_LEDYBA,     -150,  312 ; LEDIAN
 	mon_cry CRY_SPINARAK,     17,  512 ; SPINARAK
 	mon_cry CRY_SPINARAK,   -174,  482 ; ARIADOS
-	mon_cry CRY_SQUIRTLE,    -16,  320 ; CROBAT
+	mon_cry CRY_CARAPUCE,    -16,  320 ; CROBAT
 	mon_cry CRY_CYNDAQUIL,   969,  320 ; CHINCHOU
 	mon_cry CRY_CYNDAQUIL,   720,  272 ; LANTURN
 	mon_cry CRY_PICHU,         0,  320 ; PICHU

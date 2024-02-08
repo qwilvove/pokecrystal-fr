@@ -31,7 +31,7 @@
 	const CRY_VENONAT
 	const CRY_LAPRAS
 	const CRY_METAPOD
-	const CRY_SQUIRTLE
+	const CRY_CARAPUCE
 	const CRY_PARAS
 	const CRY_CANINOS
 	const CRY_KRABBY

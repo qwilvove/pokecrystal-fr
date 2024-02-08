@@ -61,7 +61,7 @@ EZChat_SortedPokemon:
 .sa_za:    db RHYHORN, PUPITAR, CORSOLA, HITMONLEE, ZAPDOS, JOLTEON, SANDSHREW, SANDSLASH, -1 ; RHYDON should lead this list
 .shi_ji:   db SEADRA, SHELLDER, AQUALI, DEWGONG, -1
 .su_zu:    db SUICUNE, STARMIE, SCYTHER, ZUBAT, BEEDRILL, HYPNO, DROWZEE, -1
-.se_ze:    db SQUIRTLE, CELEBI, -1
+.se_ze:    db CARAPUCE, CELEBI, -1
 .so_zo:    db WOBBUFFET, -1
 .ta_da:    db DUGTRIO, HORSEA, EXEGGCUTE, -1
 .chi_dhi:  db CHIKORITA, CHINCHOU, -1

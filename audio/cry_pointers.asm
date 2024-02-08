@@ -30,7 +30,7 @@ Cries:
 	dba Cry_Venonat
 	dba Cry_Lapras
 	dba Cry_Metapod
-	dba Cry_Squirtle
+	dba Cry_Carapuce
 	dba Cry_Paras
 	dba Cry_Caninos
 	dba Cry_Krabby

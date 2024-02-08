@@ -27,7 +27,7 @@ CharmanderEggMoves:
 	db BEAT_UP
 	db -1 ; end
 
-SquirtleEggMoves:
+CarapuceEggMoves:
 	db MIRROR_COAT
 	db HAZE
 	db MIST

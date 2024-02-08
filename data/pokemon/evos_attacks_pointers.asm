@@ -8,7 +8,7 @@ EvosAttacksPointers::
 	dw CharmanderEvosAttacks
 	dw CharmeleonEvosAttacks
 	dw CharizardEvosAttacks
-	dw SquirtleEvosAttacks
+	dw CarapuceEvosAttacks
 	dw CarabaffeEvosAttacks
 	dw BlastoiseEvosAttacks
 	dw CaterpieEvosAttacks
