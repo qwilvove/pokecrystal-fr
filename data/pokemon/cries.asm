@@ -199,8 +199,8 @@ PokemonCries::
 	mon_cry CRY_MARILL,      299,  184 ; SUNKERN
 	mon_cry CRY_SUNFLORA,    -32,  384 ; SUNFLORA
 	mon_cry CRY_TOTODILE,     49,  200 ; YANMA
-	mon_cry CRY_WOOPER,      147,  175 ; WOOPER
-	mon_cry CRY_WOOPER,     -198,  320 ; QUAGSIRE
+	mon_cry CRY_AXOLOTO,      147,  175 ; AXOLOTO
+	mon_cry CRY_AXOLOTO,     -198,  320 ; QUAGSIRE
 	mon_cry CRY_AIPOM,       162,  320 ; ESPEON
 	mon_cry CRY_VENONAT,    -233,  240 ; UMBREON
 	mon_cry CRY_MARILL,      -31,  384 ; MURKROW
@@ -220,7 +220,7 @@ PokemonCries::
 	mon_cry CRY_AMPHAROS,      0,  352 ; SCIZOR
 	mon_cry CRY_DUNSPARCE,   656,  168 ; SHUCKLE
 	mon_cry CRY_AMPHAROS,     53,  224 ; HERACROSS
-	mon_cry CRY_WOOPER,       83,  175 ; SNEASEL
+	mon_cry CRY_AXOLOTO,       83,  175 ; SNEASEL
 	mon_cry CRY_TEDDIURSA,  1954,  110 ; TEDDIURSA
 	mon_cry CRY_TEDDIURSA,  1600,  216 ; URSARING
 	mon_cry CRY_SLUGMA,     -472,  320 ; SLUGMA

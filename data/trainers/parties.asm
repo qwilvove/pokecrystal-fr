@@ -355,7 +355,7 @@ YoungsterGroup:
 
 	; YOUNGSTER (4)
 	db "MOMO@", TRAINERTYPE_NORMAL
-	db 10, WOOPER
+	db 10, AXOLOTO
 	db -1 ; end
 
 	; YOUNGSTER (5)
@@ -2086,7 +2086,7 @@ SailorGroup:
 
 	; SAILOR (10)
 	db "ISAAC@", TRAINERTYPE_NORMAL
-	db 19, WOOPER
+	db 19, AXOLOTO
 	db -1 ; end
 
 	; SAILOR (11)

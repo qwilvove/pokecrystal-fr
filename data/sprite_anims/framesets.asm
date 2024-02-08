@@ -57,7 +57,7 @@ SpriteAnimFrameData:
 	dw .Frameset_IntroSuicune
 	dw .Frameset_IntroSuicune2
 	dw .Frameset_IntroPichu
-	dw .Frameset_IntroWooper
+	dw .Frameset_IntroAxoloto
 	dw .Frameset_IntroUnown1
 	dw .Frameset_IntroUnown2
 	dw .Frameset_IntroUnown3
@@ -444,8 +444,8 @@ SpriteAnimFrameData:
 	oamframe SPRITE_ANIM_OAMSET_INTRO_PICHU_3,  7
 	oamend
 
-.Frameset_IntroWooper:
-	oamframe SPRITE_ANIM_OAMSET_INTRO_WOOPER,  3
+.Frameset_IntroAxoloto:
+	oamframe SPRITE_ANIM_OAMSET_INTRO_AXOLOTO,  3
 	oamend
 
 .Frameset_IntroUnown1:

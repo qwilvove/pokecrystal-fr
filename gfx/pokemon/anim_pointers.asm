@@ -193,7 +193,7 @@ AnimationPointers:
 	dw SunkernAnimation
 	dw SunfloraAnimation
 	dw YanmaAnimation
-	dw WooperAnimation
+	dw AxolotoAnimation
 	dw QuagsireAnimation
 	dw EspeonAnimation
 	dw UmbreonAnimation

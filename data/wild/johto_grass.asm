@@ -389,7 +389,7 @@ JohtoGrassWildMons:
 	db 22, NATU
 	db 18, NATU
 	db 24, NATU
-	db 22, WOOPER
+	db 22, AXOLOTO
 	db 22, QUAGSIRE
 	db 22, QUAGSIRE
 	end_grass_wildmons
@@ -443,7 +443,7 @@ JohtoGrassWildMons:
 	; nite
 	db 6, GEODUDE
 	db 6, RATTATA
-	db 5, WOOPER
+	db 5, AXOLOTO
 	db 4, RATTATA
 	db 7, ZUBAT
 	db 6, ONIX
@@ -471,7 +471,7 @@ JohtoGrassWildMons:
 	; nite
 	db 8, GEODUDE
 	db 6, ZUBAT
-	db 8, WOOPER
+	db 8, AXOLOTO
 	db 8, ONIX
 	db 6, RATTATA
 	db 8, RATTATA
@@ -1337,7 +1337,7 @@ JohtoGrassWildMons:
 	db 7, HOPPIP
 	db 7, HOPPIP
 	; nite
-	db 4, WOOPER
+	db 4, AXOLOTO
 	db 5, RATTATA
 	db 7, BELLSPROUT
 	db 6, ZUBAT

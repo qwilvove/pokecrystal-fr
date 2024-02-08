@@ -2615,7 +2615,7 @@ YanmaEvosAttacks:
 	db 43, SCREECH
 	db 0 ; no more level-up moves
 
-WooperEvosAttacks:
+AxolotoEvosAttacks:
 	db EVOLVE_LEVEL, 20, QUAGSIRE
 	db 0 ; no more evolutions
 	db 1, WATER_GUN

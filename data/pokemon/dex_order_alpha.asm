@@ -16,7 +16,7 @@ AlphabeticalPokedexOrder:
 	db ARCANIN
 	db ARTIKODIN
 	db ASPICOT
-	db WOOPER
+	db AXOLOTO
 	db AZUMARILL
 	db WEEPINBELL
 	db BULBASAUR

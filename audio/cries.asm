@@ -82,11 +82,11 @@ Cry_Ledyba:
 	channel 6, Cry_Ledyba_Ch6
 	channel 8, Cry_Ledyba_Ch8
 
-Cry_Wooper:
+Cry_Axoloto:
 	channel_count 3
-	channel 5, Cry_Wooper_Ch5
-	channel 6, Cry_Wooper_Ch6
-	channel 8, Cry_Wooper_Ch8
+	channel 5, Cry_Axoloto_Ch5
+	channel 6, Cry_Axoloto_Ch6
+	channel 8, Cry_Axoloto_Ch8
 
 Cry_Donphan:
 	channel_count 3
@@ -588,7 +588,7 @@ Cry_Ledyba_Ch8:
 	noise_note 4, 8, 7, 0
 	sound_ret
 
-Cry_Wooper_Ch5:
+Cry_Axoloto_Ch5:
 Cry_Donphan_Ch5:
 	duty_cycle 2
 	square_note 2, 9, -1, 1816
@@ -599,7 +599,7 @@ Cry_Donphan_Ch5:
 	square_note 8, 0, 0, 0
 	sound_ret
 
-Cry_Wooper_Ch6:
+Cry_Axoloto_Ch6:
 Cry_Donphan_Ch6:
 	duty_cycle_pattern 0, 0, 1, 3
 	square_note 2, 11, -1, 1848
@@ -610,7 +610,7 @@ Cry_Donphan_Ch6:
 	square_note 8, 0, 0, 0
 	sound_ret
 
-Cry_Wooper_Ch8:
+Cry_Axoloto_Ch8:
 	noise_note 2, 5, -3, 4
 	noise_note 4, 6, 8, 19
 	noise_note 8, 6, 8, 32

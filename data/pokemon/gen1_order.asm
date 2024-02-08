@@ -233,7 +233,7 @@ Pokered_MonIndices:
 	db SUNKERN
 	db SUNFLORA
 	db YANMA
-	db WOOPER
+	db AXOLOTO
 	db QUAGSIRE
 	db ESPEON
 	db UMBREON

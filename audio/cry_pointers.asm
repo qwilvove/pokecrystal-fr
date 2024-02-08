@@ -57,7 +57,7 @@ Cries:
 	dba Cry_Slugma
 	dba Cry_Ledyba
 	dba Cry_Entei
-	dba Cry_Wooper
+	dba Cry_Axoloto
 	dba Cry_Mantine
 	dba Cry_Typhlosion
 	dba Cry_Natu

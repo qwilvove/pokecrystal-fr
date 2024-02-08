@@ -194,7 +194,7 @@ PokedexDataPointerTable:
 	dw SunkernPokedexEntry
 	dw SunfloraPokedexEntry
 	dw YanmaPokedexEntry
-	dw WooperPokedexEntry
+	dw AxolotoPokedexEntry
 	dw QuagsirePokedexEntry
 	dw EspeonPokedexEntry
 	dw UmbreonPokedexEntry

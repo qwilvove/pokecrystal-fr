@@ -4,21 +4,21 @@ JohtoWaterWildMons:
 
 	def_water_wildmons RUINS_OF_ALPH_OUTSIDE
 	db 2 percent ; encounter rate
-	db 15, WOOPER
+	db 15, AXOLOTO
 	db 20, QUAGSIRE
 	db 15, QUAGSIRE
 	end_water_wildmons
 
 	def_water_wildmons UNION_CAVE_1F
 	db 2 percent ; encounter rate
-	db 15, WOOPER
+	db 15, AXOLOTO
 	db 20, QUAGSIRE
 	db 15, QUAGSIRE
 	end_water_wildmons
 
 	def_water_wildmons UNION_CAVE_B1F
 	db 2 percent ; encounter rate
-	db 15, WOOPER
+	db 15, AXOLOTO
 	db 20, QUAGSIRE
 	db 15, QUAGSIRE
 	end_water_wildmons

@@ -60,7 +60,7 @@
 	const CRY_SLUGMA
 	const CRY_LEDYBA
 	const CRY_ENTEI
-	const CRY_WOOPER
+	const CRY_AXOLOTO
 	const CRY_MANTINE
 	const CRY_TYPHLOSION
 	const CRY_NATU

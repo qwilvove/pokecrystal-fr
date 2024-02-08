@@ -57,7 +57,7 @@ NewPokedexOrder:
 	db MAREEP
 	db FLAAFFY
 	db AMPHAROS
-	db WOOPER
+	db AXOLOTO
 	db QUAGSIRE
 	db GASTLY
 	db HAUNTER

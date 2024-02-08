@@ -44,7 +44,7 @@ DoSpriteAnimFrame:
 	dw SpriteAnimFunc_MobileTradeSentPulse
 	dw SpriteAnimFunc_MobileTradeOTPulse
 	dw SpriteAnimFunc_IntroSuicune
-	dw SpriteAnimFunc_IntroPichuWooper
+	dw SpriteAnimFunc_IntroPichuAxoloto
 	dw SpriteAnimFunc_Celebi
 	dw SpriteAnimFunc_IntroUnown
 	dw SpriteAnimFunc_IntroUnownF
@@ -775,7 +775,7 @@ SpriteAnimFunc_IntroSuicune:
 	call _ReinitSpriteAnimFrame
 	ret
 
-SpriteAnimFunc_IntroPichuWooper:
+SpriteAnimFunc_IntroPichuAxoloto:
 	ld hl, SPRITEANIMSTRUCT_VAR1
 	add hl, bc
 	ld a, [hl]
