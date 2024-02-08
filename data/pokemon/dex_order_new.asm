@@ -28,7 +28,7 @@ NewPokedexOrder:
 	db CATERPIE
 	db METAPOD
 	db BUTTERFREE
-	db WEEDLE
+	db ASPICOT
 	db KAKUNA
 	db BEEDRILL
 	db LEDYBA

@@ -22,7 +22,7 @@ Cries:
 	dba Cry_Golem
 	dba Cry_Blastoise
 	dba Cry_Pidgeotto
-	dba Cry_Weedle
+	dba Cry_Aspicot
 	dba Cry_Caterpie
 	dba Cry_Abo
 	dba Cry_Fearow

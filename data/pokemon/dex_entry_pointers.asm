@@ -13,7 +13,7 @@ PokedexDataPointerTable:
 	dw CaterpiePokedexEntry
 	dw MetapodPokedexEntry
 	dw ButterfreePokedexEntry
-	dw WeedlePokedexEntry
+	dw AspicotPokedexEntry
 	dw KakunaPokedexEntry
 	dw BeedrillPokedexEntry
 	dw PidgeyPokedexEntry

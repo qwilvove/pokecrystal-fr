@@ -980,11 +980,11 @@ Cry_Pidgeotto:
 	channel 6, Cry_Pidgeotto_Ch6
 	channel 8, Cry_Pidgeotto_Ch8
 
-Cry_Weedle:
+Cry_Aspicot:
 	channel_count 3
-	channel 5, Cry_Weedle_Ch5
-	channel 6, Cry_Weedle_Ch6
-	channel 8, Cry_Weedle_Ch8
+	channel 5, Cry_Aspicot_Ch5
+	channel 6, Cry_Aspicot_Ch6
+	channel 8, Cry_Aspicot_Ch8
 
 Cry_Caterpie:
 	channel_count 3
@@ -1843,7 +1843,7 @@ Cry_Paras_Ch8:
 	noise_note 8, 8, 1, 24
 	sound_ret
 
-Cry_Weedle_Ch5:
+Cry_Aspicot_Ch5:
 	duty_cycle_pattern 3, 3, 0, 0
 	square_note 4, 15, 3, 1920
 	square_note 15, 14, 7, 1792
@@ -1853,7 +1853,7 @@ Cry_Weedle_Ch5:
 	square_note 8, 12, 1, 1760
 	sound_ret
 
-Cry_Weedle_Ch6:
+Cry_Aspicot_Ch6:
 	duty_cycle_pattern 1, 1, 2, 2
 	square_note 6, 12, 3, 1793
 	square_note 14, 11, 7, 1665
@@ -1863,7 +1863,7 @@ Cry_Weedle_Ch6:
 	square_note 8, 10, 1, 1633
 	sound_ret
 
-Cry_Weedle_Ch8:
+Cry_Aspicot_Ch8:
 	noise_note 6, 14, 3, 92
 	noise_note 14, 13, 6, 76
 	noise_note 6, 12, 6, 60

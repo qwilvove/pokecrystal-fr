@@ -31,7 +31,7 @@
 	const CATERPIE   ; 0a
 	const METAPOD    ; 0b
 	const BUTTERFREE ; 0c
-	const WEEDLE     ; 0d
+	const ASPICOT     ; 0d
 	const KAKUNA     ; 0e
 	const BEEDRILL   ; 0f
 	const PIDGEY     ; 10

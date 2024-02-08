@@ -14,7 +14,7 @@ EvosAttacksPointers::
 	dw CaterpieEvosAttacks
 	dw MetapodEvosAttacks
 	dw ButterfreeEvosAttacks
-	dw WeedleEvosAttacks
+	dw AspicotEvosAttacks
 	dw KakunaEvosAttacks
 	dw BeedrillEvosAttacks
 	dw PidgeyEvosAttacks

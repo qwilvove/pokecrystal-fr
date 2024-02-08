@@ -1517,13 +1517,13 @@ BugCatcherGroup:
 	db "MAXIME@", TRAINERTYPE_NORMAL
 	db  2, CATERPIE
 	db  2, CATERPIE
-	db  3, WEEDLE
+	db  3, ASPICOT
 	db  2, CATERPIE
 	db -1 ; end
 
 	; BUG_CATCHER (5)
 	db "FOULQUE@", TRAINERTYPE_NORMAL
-	db  7, WEEDLE
+	db  7, ASPICOT
 	db  9, KAKUNA
 	db 12, BEEDRILL
 	db -1 ; end
@@ -1531,7 +1531,7 @@ BugCatcherGroup:
 	; BUG_CATCHER (6)
 	db "JEAN-LOIC@", TRAINERTYPE_NORMAL
 	db 12, CATERPIE
-	db 12, WEEDLE
+	db 12, ASPICOT
 	db -1 ; end
 
 	; BUG_CATCHER (7)

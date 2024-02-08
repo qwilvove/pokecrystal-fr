@@ -23,7 +23,7 @@
 	const CRY_GOLEM
 	const CRY_BLASTOISE
 	const CRY_PIDGEOTTO
-	const CRY_WEEDLE
+	const CRY_ASPICOT
 	const CRY_CATERPIE
 	const CRY_ABO
 	const CRY_FEAROW

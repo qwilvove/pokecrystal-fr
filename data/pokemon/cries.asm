@@ -18,7 +18,7 @@ PokemonCries::
 	mon_cry CRY_CATERPIE,    128,  160 ; CATERPIE
 	mon_cry CRY_METAPOD,     204,  129 ; METAPOD
 	mon_cry CRY_CATERPIE,    119,  192 ; BUTTERFREE
-	mon_cry CRY_WEEDLE,      238,  129 ; WEEDLE
+	mon_cry CRY_ASPICOT,      238,  129 ; ASPICOT
 	mon_cry CRY_BLASTOISE,   255,  129 ; KAKUNA
 	mon_cry CRY_BLASTOISE,    96,  256 ; BEEDRILL
 	mon_cry CRY_PIDGEY,      223,  132 ; PIDGEY
@@ -64,7 +64,7 @@ PokemonCries::
 	mon_cry CRY_NIDOQUEEN,   221,  224 ; MANKEY
 	mon_cry CRY_NIDOQUEEN,   175,  192 ; PRIMEAPE
 	mon_cry CRY_GROWLITHE,    32,  192 ; GROWLITHE
-	mon_cry CRY_WEEDLE,        0,  256 ; ARCANIN
+	mon_cry CRY_ASPICOT,        0,  256 ; ARCANIN
 	mon_cry CRY_PIDGEY,      255,  383 ; POLIWAG
 	mon_cry CRY_PIDGEY,      119,  224 ; POLIWHIRL
 	mon_cry CRY_PIDGEY,        0,  383 ; POLIWRATH

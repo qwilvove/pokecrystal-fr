@@ -12,7 +12,7 @@ AnimationIdlePointers:
 	dw CaterpieAnimationIdle
 	dw MetapodAnimationIdle
 	dw ButterfreeAnimationIdle
-	dw WeedleAnimationIdle
+	dw AspicotAnimationIdle
 	dw KakunaAnimationIdle
 	dw BeedrillAnimationIdle
 	dw PidgeyAnimationIdle

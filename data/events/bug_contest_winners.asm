@@ -46,7 +46,7 @@ BugContestant_PokefanMWilliam:
 BugContestant_BugCatcherBenny:
 	db BUG_CATCHER, BUG_CATCHER_BENNY
 	dbw BUTTERFREE, 318
-	dbw WEEDLE,     295
+	dbw ASPICOT,     295
 	dbw CATERPIE,   285
 
 BugContestant_CamperBarry:
@@ -69,7 +69,7 @@ BugContestant_BugCatcherJosh:
 
 BugContestant_YoungsterSamuel:
 	db YOUNGSTER, SAMUEL
-	dbw WEEDLE,     270
+	dbw ASPICOT,     270
 	dbw PINSIR,     282
 	dbw CATERPIE,   251
 

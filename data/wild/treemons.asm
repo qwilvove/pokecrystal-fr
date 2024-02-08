@@ -119,7 +119,7 @@ TreeMonSet_Forest:
 ; rare
 	db 50, HOOTHOOT,   10
 	db 15, CATERPIE,   10
-	db 15, WEEDLE,     10
+	db 15, ASPICOT,     10
 	db 10, HOOTHOOT,   10
 	db  5, METAPOD,    10
 	db  5, KAKUNA,     10
