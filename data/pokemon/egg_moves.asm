@@ -662,7 +662,7 @@ QwilfishEggMoves:
 	db SUPERSONIC
 	db -1 ; end
 
-ShuckleEggMoves:
+CaratrocEggMoves:
 	db SWEET_SCENT
 	db -1 ; end
 

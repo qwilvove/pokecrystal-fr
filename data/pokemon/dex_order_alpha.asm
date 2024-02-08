@@ -26,7 +26,7 @@ AlphabeticalPokedexOrder:
 	db CAPUMAIN
 	db CARABAFFE
 	db CARAPUCE
-	db SHUCKLE
+	db CARATROC
 	db CELEBI
 	db STANTLER
 	db CATERPIE

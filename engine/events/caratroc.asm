@@ -1,12 +1,12 @@
 DEF MANIA_OT_ID EQU 00518
 
-GiveShuckle:
+GiveCaratroc:
 ; Adding to the party.
 	xor a ; PARTYMON
 	ld [wMonType], a
 
-; Level 15 Shuckle.
-	ld a, SHUCKLE
+; Level 15 Caratroc.
+	ld a, CARATROC
 	ld [wCurPartySpecies], a
 	ld a, 15
 	ld [wCurPartyLevel], a
@@ -42,7 +42,7 @@ GiveShuckle:
 	dec a
 	ld hl, wPartyMonNicknames
 	call SkipNames
-	ld de, SpecialShuckleNickname
+	ld de, SpecialCaratrocNickname
 	call CopyName2
 
 ; OT.
@@ -50,7 +50,7 @@ GiveShuckle:
 	dec a
 	ld hl, wPartyMonOTs
 	call SkipNames
-	ld de, SpecialShuckleOT
+	ld de, SpecialCaratrocOT
 	call CopyName2
 
 ; Engine flag for this event.
@@ -65,10 +65,10 @@ GiveShuckle:
 	ld [wScriptVar], a
 	ret
 
-SpecialShuckleOT:
+SpecialCaratrocOT:
 	db "MANIA@"
 
-SpecialShuckleNickname:
+SpecialCaratrocNickname:
 	db "NESSY@"
 
 ReturnShuckie:
@@ -76,7 +76,7 @@ ReturnShuckie:
 	jr c, .refused
 
 	ld a, [wCurPartySpecies]
-	cp SHUCKLE
+	cp CARATROC
 	jr nz, .DontReturn
 
 	ld a, [wCurPartyMon]
@@ -96,7 +96,7 @@ ReturnShuckie:
 	ld a, [wCurPartyMon]
 	ld hl, wPartyMonOTs
 	call SkipNames
-	ld de, SpecialShuckleOT
+	ld de, SpecialCaratrocOT
 .CheckOT:
 	ld a, [de]
 	cp [hl]

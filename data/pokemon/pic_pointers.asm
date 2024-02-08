@@ -430,8 +430,8 @@ PokemonPicPointers::
 	dba_pic QwilfishBackpic
 	dba_pic ScizorFrontpic
 	dba_pic ScizorBackpic
-	dba_pic ShuckleFrontpic
-	dba_pic ShuckleBackpic
+	dba_pic CaratrocFrontpic
+	dba_pic CaratrocBackpic
 	dba_pic HeracrossFrontpic
 	dba_pic HeracrossBackpic
 	dba_pic SneaselFrontpic

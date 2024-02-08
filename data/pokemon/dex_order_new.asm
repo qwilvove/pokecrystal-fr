@@ -167,7 +167,7 @@ NewPokedexOrder:
 	db TENTACRUEL
 	db KRABBY
 	db KINGLER
-	db SHUCKLE
+	db CARATROC
 	db STARYU
 	db STARMIE
 	db SHELLDER

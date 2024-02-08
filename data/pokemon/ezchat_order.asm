@@ -65,7 +65,7 @@ EZChat_SortedPokemon:
 .so_zo:    db WOBBUFFET, -1
 .ta_da:    db DUGTRIO, HORSEA, EXEGGCUTE, -1
 .chi_dhi:  db CHIKORITA, CHINCHOU, -1
-.tsu_du:   db SHUCKLE, -1
+.tsu_du:   db CARATROC, -1
 .te_de:    db DIGLETT, REMORAID, CADOIZO, HOUNDOUR, AMPHAROS, -1
 .to_do:    db DODUO, DODRIO, SMEARGLE, KOFFING, TENTACRUEL, TOGETIC, TOGEPI, GOLDEEN, METAPOD, DONPHAN, -1
 .na:       db ODDISH, EXEGGUTOR, -1

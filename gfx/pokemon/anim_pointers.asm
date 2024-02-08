@@ -212,7 +212,7 @@ AnimationPointers:
 	dw GranbullAnimation
 	dw QwilfishAnimation
 	dw ScizorAnimation
-	dw ShuckleAnimation
+	dw CaratrocAnimation
 	dw HeracrossAnimation
 	dw SneaselAnimation
 	dw TeddiursaAnimation

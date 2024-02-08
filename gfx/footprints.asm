@@ -484,7 +484,7 @@ INCBIN "gfx/footprints/snubbull.1bpp",   footprint_top
 INCBIN "gfx/footprints/granbull.1bpp",   footprint_top
 INCBIN "gfx/footprints/qwilfish.1bpp",   footprint_top
 INCBIN "gfx/footprints/scizor.1bpp",     footprint_top
-INCBIN "gfx/footprints/shuckle.1bpp",    footprint_top
+INCBIN "gfx/footprints/caratroc.1bpp",    footprint_top
 INCBIN "gfx/footprints/heracross.1bpp",  footprint_top
 INCBIN "gfx/footprints/sneasel.1bpp",    footprint_top
 INCBIN "gfx/footprints/teddiursa.1bpp",  footprint_top
@@ -493,7 +493,7 @@ INCBIN "gfx/footprints/snubbull.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/granbull.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/qwilfish.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/scizor.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/shuckle.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/caratroc.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/heracross.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/sneasel.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/teddiursa.1bpp",  footprint_bottom

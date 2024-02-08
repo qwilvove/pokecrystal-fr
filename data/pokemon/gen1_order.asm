@@ -31,7 +31,7 @@ Pokered_MonIndices:
 	db PINSIR
 	db TANGELA
 	db SCIZOR ; MISSINGNO.
-	db SHUCKLE ; MISSINGNO.
+	db CARATROC ; MISSINGNO.
 	db CANINOS
 	db ONIX
 	db FEAROW

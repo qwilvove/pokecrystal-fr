@@ -13,15 +13,15 @@ ManiaScript:
 	iftrue .default_postevent
 	checkevent EVENT_GOT_SHUCKIE
 	iftrue .alreadyhaveshuckie
-	writetext ManiaText_AskLookAfterShuckle
+	writetext ManiaText_AskLookAfterCaratroc
 	yesorno
 	iffalse .refusetotakeshuckie
-	special GiveShuckle
+	special GiveCaratroc
 	iffalse .partyfull
-	writetext ManiaText_TakeCareOfShuckle
+	writetext ManiaText_TakeCareOfCaratroc
 	promptbutton
 	waitsfx
-	writetext ManiaText_GotShuckle
+	writetext ManiaText_GotCaratroc
 	playsound SFX_KEY_ITEM
 	waitsfx
 	closetext
@@ -31,7 +31,7 @@ ManiaScript:
 .alreadyhaveshuckie
 	checkflag ENGINE_GOT_SHUCKIE_TODAY
 	iffalse .returnshuckie
-	writetext ManiaText_TakeCareOfShuckle
+	writetext ManiaText_TakeCareOfCaratroc
 	waitbutton
 	closetext
 	end
@@ -65,13 +65,13 @@ ManiaScript:
 	end
 
 .wrong
-	writetext ManiaText_ShuckleNotThere
+	writetext ManiaText_CaratrocNotThere
 	waitbutton
 	closetext
 	end
 
 .superhappy
-	writetext ManiaText_ShuckleLikesYou
+	writetext ManiaText_CaratrocLikesYou
 	waitbutton
 	closetext
 	setevent EVENT_MANIA_TOOK_SHUCKIE_OR_LET_YOU_KEEP_HIM
@@ -84,7 +84,7 @@ ManiaScript:
 	end
 
 .nothingleft ; unreferenced
-	writetext ManiaText_ShuckleIsYourLastMon
+	writetext ManiaText_CaratrocIsYourLastMon
 	waitbutton
 	closetext
 	end
@@ -98,7 +98,7 @@ ManiaScript:
 ManiasHouseUnusedBookshelf: ; unreferenced
 	jumpstd PictureBookshelfScript
 
-ManiaText_AskLookAfterShuckle:
+ManiaText_AskLookAfterCaratroc:
 	text "Je suis choqué!"
 
 	para "Un garnement de"
@@ -126,14 +126,14 @@ ManiaText_AskLookAfterShuckle:
 	cont "un petit moment?"
 	done
 
-ManiaText_TakeCareOfShuckle:
+ManiaText_TakeCareOfCaratroc:
 	text "Oh, bien le merci!"
 
 	para "Prends-en bien"
 	line "soin, pitié!"
 	done
 
-ManiaText_GotShuckle:
+ManiaText_GotCaratroc:
 	text "<PLAYER> reçoit un"
 	line "#MON."
 	done
@@ -164,13 +164,13 @@ ManiaText_ThankYou:
 	text "Merci mon petit!"
 	done
 
-ManiaText_ShuckleNotThere:
+ManiaText_CaratrocNotThere:
 	text "Hé, tu n'as pas"
 	line "mon #MON avec"
 	cont "toi."
 	done
 
-ManiaText_ShuckleLikesYou:
+ManiaText_CaratrocLikesYou:
 	text "Mon #MON a"
 	line "l'air de t'appré-"
 	cont "cier."
@@ -198,7 +198,7 @@ ManiaText_HappinessSpeech:
 	line "gentil dresseur."
 	done
 
-ManiaText_ShuckleIsYourLastMon:
+ManiaText_CaratrocIsYourLastMon:
 	text "Si je reprends mon"
 	line "#MON, avec quoi"
 
