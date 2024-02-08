@@ -813,7 +813,7 @@ CooltrainerMGroup:
 	db "AARON@", TRAINERTYPE_NORMAL
 	db 24, IVYSAUR
 	db 24, CHARMELEON
-	db 24, WARTORTLE
+	db 24, CARABAFFE
 	db -1 ; end
 
 	; COOLTRAINERM (3)
@@ -911,7 +911,7 @@ CooltrainerMGroup:
 	db "KEVIN@", TRAINERTYPE_NORMAL
 	db 38, RHYHORN
 	db 35, CHARMELEON
-	db 35, WARTORTLE
+	db 35, CARABAFFE
 	db -1 ; end
 
 	; COOLTRAINERM (18)
@@ -972,8 +972,8 @@ CooltrainerFGroup:
 	; COOLTRAINERF (7)
 	db "KARIN@", TRAINERTYPE_NORMAL
 	db 27, MARILL
-	db 24, WARTORTLE
-	db 24, WARTORTLE
+	db 24, CARABAFFE
+	db 24, CARABAFFE
 	db -1 ; end
 
 	; COOLTRAINERF (8)
@@ -1792,7 +1792,7 @@ SwimmerMGroup:
 	; SWIMMERM (3)
 	db "BORIS@", TRAINERTYPE_NORMAL
 	db 18, SHELLDER
-	db 20, WARTORTLE
+	db 20, CARABAFFE
 	db 18, SHELLDER
 	db -1 ; end
 

@@ -8,7 +8,7 @@ PokedexDataPointerTable:
 	dw CharmeleonPokedexEntry
 	dw CharizardPokedexEntry
 	dw SquirtlePokedexEntry
-	dw WartortlePokedexEntry
+	dw CarabaffePokedexEntry
 	dw BlastoisePokedexEntry
 	dw CaterpiePokedexEntry
 	dw MetapodPokedexEntry

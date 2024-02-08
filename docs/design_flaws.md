@@ -165,7 +165,7 @@ INCBIN "gfx/footprints/charmander.1bpp", footprint_top
 INCBIN "gfx/footprints/charmeleon.1bpp", footprint_top
 INCBIN "gfx/footprints/charizard.1bpp",  footprint_top
 INCBIN "gfx/footprints/squirtle.1bpp",   footprint_top
-INCBIN "gfx/footprints/wartortle.1bpp",  footprint_top
+INCBIN "gfx/footprints/carabaffe.1bpp",  footprint_top
 ; 001-008 bottom halves
 INCBIN "gfx/footprints/bulbizarre.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/ivysaur.1bpp",    footprint_bottom
@@ -174,7 +174,7 @@ INCBIN "gfx/footprints/charmander.1bpp", footprint_bottom
 INCBIN "gfx/footprints/charmeleon.1bpp", footprint_bottom
 INCBIN "gfx/footprints/charizard.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/squirtle.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/wartortle.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/carabaffe.1bpp",  footprint_bottom
 ...
 ```
 
@@ -196,7 +196,7 @@ INCBIN "gfx/footprints/charmander.1bpp"
 INCBIN "gfx/footprints/charmeleon.1bpp"
 INCBIN "gfx/footprints/charizard.1bpp"
 INCBIN "gfx/footprints/squirtle.1bpp"
-INCBIN "gfx/footprints/wartortle.1bpp"
+INCBIN "gfx/footprints/carabaffe.1bpp"
 ...
 ```
 

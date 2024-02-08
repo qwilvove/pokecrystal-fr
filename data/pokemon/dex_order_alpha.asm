@@ -24,7 +24,7 @@ AlphabeticalPokedexOrder:
 	db CANARTICHO
 	db CANINOS
 	db CAPUMAIN
-	db WARTORTLE
+	db CARABAFFE
 	db SQUIRTLE
 	db SHUCKLE
 	db CELEBI
