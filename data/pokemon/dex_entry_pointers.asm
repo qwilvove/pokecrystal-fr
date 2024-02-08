@@ -49,7 +49,7 @@ PokedexDataPointerTable:
 	dw ParasPokedexEntry
 	dw ParasectPokedexEntry
 	dw VenonatPokedexEntry
-	dw VenomothPokedexEntry
+	dw AeromitePokedexEntry
 	dw DiglettPokedexEntry
 	dw DugtrioPokedexEntry
 	dw MeowthPokedexEntry

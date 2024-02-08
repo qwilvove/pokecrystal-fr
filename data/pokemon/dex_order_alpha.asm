@@ -5,7 +5,7 @@ AlphabeticalPokedexOrder:
 	db ABO
 	db ABRA
 	db AEROMITE
-	db SKARMORY
+	db AIRMURE
 	db GOLDUCK
 	db ALAKAZAM
 	db FERALIGATR

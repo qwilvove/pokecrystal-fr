@@ -1634,16 +1634,16 @@ JohtoGrassWildMons:
 	db 24, GLIGAR
 	db 25, DONPHAN
 	db 20, PHANPY
-	db 27, SKARMORY
-	db 27, SKARMORY
+	db 27, AIRMURE
+	db 27, AIRMURE
 	; day
 	db 23, GEODUDE
 	db 23, GRAVELER
 	db 24, GLIGAR
 	db 25, DONPHAN
 	db 30, DONPHAN
-	db 27, SKARMORY
-	db 27, SKARMORY
+	db 27, AIRMURE
+	db 27, AIRMURE
 	; nite
 	db 23, GEODUDE
 	db 23, GRAVELER

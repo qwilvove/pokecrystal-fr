@@ -228,7 +228,7 @@ MonMenuIcons:
 	db ICON_FISH        ; OCTILLERY
 	db ICON_MONSTER     ; DELIBIRD
 	db ICON_FISH        ; MANTINE
-	db ICON_BIRD        ; SKARMORY
+	db ICON_BIRD        ; AIRMURE
 	db ICON_FOX         ; HOUNDOUR
 	db ICON_FOX         ; HOUNDOOM
 	db ICON_BIGMON      ; KINGDRA

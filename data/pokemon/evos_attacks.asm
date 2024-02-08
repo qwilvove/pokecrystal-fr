@@ -635,7 +635,7 @@ VenonatEvosAttacks:
 	db 41, PSYCHIC_M
 	db 0 ; no more level-up moves
 
-VenomothEvosAttacks:
+AeromiteEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, DISABLE
