@@ -279,8 +279,8 @@ PokemonPicPointers::
 	dba_pic PorygonBackpic
 	dba_pic OmanyteFrontpic
 	dba_pic OmanyteBackpic
-	dba_pic OmastarFrontpic
-	dba_pic OmastarBackpic
+	dba_pic AmonistarFrontpic
+	dba_pic AmonistarBackpic
 	dba_pic KabutoFrontpic
 	dba_pic KabutoBackpic
 	dba_pic KabutopsFrontpic

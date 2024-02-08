@@ -138,7 +138,7 @@ FramesPointers:
 	dw FlareonFrames
 	dw PorygonFrames
 	dw OmanyteFrames
-	dw OmastarFrames
+	dw AmonistarFrames
 	dw KabutoFrames
 	dw KabutopsFrames
 	dw AerodactylFrames

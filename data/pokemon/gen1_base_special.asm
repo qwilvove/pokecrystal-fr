@@ -140,7 +140,7 @@ KantoMonSpecials:
 	db 110 ; FLAREON
 	db  75 ; PORYGON
 	db  90 ; OMANYTE
-	db 115 ; OMASTAR
+	db 115 ; AMONISTAR
 	db  45 ; KABUTO
 	db  70 ; KABUTOPS
 	db  60 ; AERODACTYL

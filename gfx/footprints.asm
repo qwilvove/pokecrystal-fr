@@ -320,7 +320,7 @@ INCBIN "gfx/footprints/flareon.1bpp",    footprint_bottom
 ; 137-144 top halves
 INCBIN "gfx/footprints/porygon.1bpp",    footprint_top
 INCBIN "gfx/footprints/omanyte.1bpp",    footprint_top
-INCBIN "gfx/footprints/omastar.1bpp",    footprint_top
+INCBIN "gfx/footprints/amonistar.1bpp",    footprint_top
 INCBIN "gfx/footprints/kabuto.1bpp",     footprint_top
 INCBIN "gfx/footprints/kabutops.1bpp",   footprint_top
 INCBIN "gfx/footprints/aerodactyl.1bpp", footprint_top
@@ -329,7 +329,7 @@ INCBIN "gfx/footprints/articuno.1bpp",   footprint_top
 ; 137-144 bottom halves
 INCBIN "gfx/footprints/porygon.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/omanyte.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/omastar.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/amonistar.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/kabuto.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/kabutops.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/aerodactyl.1bpp", footprint_bottom

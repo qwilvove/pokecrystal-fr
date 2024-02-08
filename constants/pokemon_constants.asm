@@ -157,7 +157,7 @@
 	const FLAREON    ; 88
 	const PORYGON    ; 89
 	const OMANYTE    ; 8a
-	const OMASTAR    ; 8b
+	const AMONISTAR    ; 8b
 	const KABUTO     ; 8c
 	const KABUTOPS   ; 8d
 	const AERODACTYL ; 8e

@@ -2041,7 +2041,7 @@ BattleTowerMons:
 	bigdw 87 ; SDef
 	db "HUoRETOSU@@"
 
-	db OMASTAR
+	db AMONISTAR
 	db GOLD_BERRY
 	db CURSE, WATER_GUN, ANCIENTPOWER, ROCK_SMASH
 	dw 0 ; OT ID
@@ -5387,7 +5387,7 @@ BattleTowerMons:
 	bigdw 218 ; SDef
 	db "NAtuSI-@@@@"
 
-	db OMASTAR
+	db AMONISTAR
 	db LEFTOVERS
 	db SURF, ANCIENTPOWER, BLIZZARD, TOXIC
 	dw 0 ; OT ID

@@ -144,7 +144,7 @@ PokemonCries::
 	mon_cry CRY_VENONAT,      16,  160 ; FLAREON
 	mon_cry CRY_WEEPINBELL,  170,  383 ; PORYGON
 	mon_cry CRY_GROWLITHE,   240,  129 ; OMANYTE
-	mon_cry CRY_GROWLITHE,   255,  192 ; OMASTAR
+	mon_cry CRY_GROWLITHE,   255,  192 ; AMONISTAR
 	mon_cry CRY_CATERPIE,    187,  192 ; KABUTO
 	mon_cry CRY_FEAROW,      238,  129 ; KABUTOPS
 	mon_cry CRY_VILEPLUME,    32,  368 ; AERODACTYL

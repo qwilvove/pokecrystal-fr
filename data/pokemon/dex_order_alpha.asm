@@ -9,7 +9,7 @@ AlphabeticalPokedexOrder:
 	db AKWAKWAK
 	db ALAKAZAM
 	db ALIGATUEUR
-	db OMASTAR
+	db AMONISTAR
 	db OMANYTE
 	db VAPOREON
 	db ARBOK

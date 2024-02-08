@@ -73,7 +73,7 @@ DewgongFrontpic:     INCBIN "gfx/pokemon/dewgong/front.animated.2bpp.lz"
 VictreebelFrontpic:  INCBIN "gfx/pokemon/victreebel/front.animated.2bpp.lz"
 RaichuFrontpic:      INCBIN "gfx/pokemon/raichu/front.animated.2bpp.lz"
 PrimeapeFrontpic:    INCBIN "gfx/pokemon/primeape/front.animated.2bpp.lz"
-OmastarBackpic:      INCBIN "gfx/pokemon/omastar/back.2bpp.lz"
+AmonistarBackpic:      INCBIN "gfx/pokemon/amonistar/back.2bpp.lz"
 
 
 SECTION "Pics 4", ROMX
@@ -171,7 +171,7 @@ StarmieFrontpic:     INCBIN "gfx/pokemon/starmie/front.animated.2bpp.lz"
 PidgeottoFrontpic:   INCBIN "gfx/pokemon/pidgeotto/front.animated.2bpp.lz"
 LedybaFrontpic:      INCBIN "gfx/pokemon/ledyba/front.animated.2bpp.lz"
 GengarFrontpic:      INCBIN "gfx/pokemon/gengar/front.animated.2bpp.lz"
-OmastarFrontpic:     INCBIN "gfx/pokemon/omastar/front.animated.2bpp.lz"
+AmonistarFrontpic:     INCBIN "gfx/pokemon/amonistar/front.animated.2bpp.lz"
 PiloswineFrontpic:   INCBIN "gfx/pokemon/piloswine/front.animated.2bpp.lz"
 DugtrioFrontpic:     INCBIN "gfx/pokemon/dugtrio/front.animated.2bpp.lz"
 MagnetonFrontpic:    INCBIN "gfx/pokemon/magneton/front.animated.2bpp.lz"
