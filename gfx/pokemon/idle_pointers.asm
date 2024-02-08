@@ -133,7 +133,7 @@ AnimationIdlePointers:
 	dw LaprasAnimationIdle
 	dw DittoAnimationIdle
 	dw EeveeAnimationIdle
-	dw VaporeonAnimationIdle
+	dw AqualiAnimationIdle
 	dw JolteonAnimationIdle
 	dw FlareonAnimationIdle
 	dw PorygonAnimationIdle

@@ -154,7 +154,7 @@ DunsparceFrontpic:   INCBIN "gfx/pokemon/dunsparce/front.animated.2bpp.lz"
 
 SECTION "Pics 7", ROMX
 
-VaporeonFrontpic:    INCBIN "gfx/pokemon/vaporeon/front.animated.2bpp.lz"
+AqualiFrontpic:    INCBIN "gfx/pokemon/aquali/front.animated.2bpp.lz"
 GirafarigFrontpic:   INCBIN "gfx/pokemon/girafarig/front.animated.2bpp.lz"
 DrowzeeFrontpic:     INCBIN "gfx/pokemon/drowzee/front.animated.2bpp.lz"
 SneaselFrontpic:     INCBIN "gfx/pokemon/sneasel/front.animated.2bpp.lz"
@@ -583,7 +583,7 @@ UnownHBackpic:       INCBIN "gfx/pokemon/unown_h/back.2bpp.lz"
 SECTION "Pics 17", ROMX
 
 ParasBackpic:        INCBIN "gfx/pokemon/paras/back.2bpp.lz"
-VaporeonBackpic:     INCBIN "gfx/pokemon/vaporeon/back.2bpp.lz"
+AqualiBackpic:     INCBIN "gfx/pokemon/aquali/back.2bpp.lz"
 TentacoolBackpic:    INCBIN "gfx/pokemon/tentacool/back.2bpp.lz"
 ExecutivefPic:       INCBIN "gfx/trainers/executive_f.2bpp.lz"
 BulbasaurBackpic:    INCBIN "gfx/pokemon/bulbasaur/back.2bpp.lz"

@@ -11,7 +11,7 @@ AlphabeticalPokedexOrder:
 	db ALIGATUEUR
 	db AMONISTAR
 	db AMONITA
-	db VAPOREON
+	db AQUALI
 	db ARBOK
 	db ARCANINE
 	db ARTICUNO

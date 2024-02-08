@@ -133,7 +133,7 @@ FramesPointers:
 	dw LaprasFrames
 	dw DittoFrames
 	dw EeveeFrames
-	dw VaporeonFrames
+	dw AqualiFrames
 	dw JolteonFrames
 	dw FlareonFrames
 	dw PorygonFrames

@@ -182,7 +182,7 @@ NewPokedexOrder:
 	db LICKITUNG
 	db TANGELA
 	db EEVEE
-	db VAPOREON
+	db AQUALI
 	db JOLTEON
 	db FLAREON
 	db ESPEON

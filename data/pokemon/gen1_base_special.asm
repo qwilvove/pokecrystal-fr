@@ -135,7 +135,7 @@ KantoMonSpecials:
 	db  95 ; LAPRAS
 	db  48 ; DITTO
 	db  65 ; EEVEE
-	db 110 ; VAPOREON
+	db 110 ; AQUALI
 	db 110 ; JOLTEON
 	db 110 ; FLAREON
 	db  75 ; PORYGON

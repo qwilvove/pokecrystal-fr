@@ -462,7 +462,7 @@ SchoolboyGroup:
 	; SCHOOLBOY (8)
 	db "JOEL@", TRAINERTYPE_NORMAL
 	db 33, TANGELA
-	db 33, VAPOREON
+	db 33, AQUALI
 	db -1 ; end
 
 	; SCHOOLBOY (9)
@@ -936,7 +936,7 @@ CooltrainerFGroup:
 	db "GWEN@", TRAINERTYPE_NORMAL
 	db 26, EEVEE
 	db 22, FLAREON
-	db 22, VAPOREON
+	db 22, AQUALI
 	db 22, JOLTEON
 	db -1 ; end
 
@@ -3146,7 +3146,7 @@ SageGroup:
 	; SAGE (12)
 	db "SHU@", TRAINERTYPE_NORMAL
 	db 32, NOCTOWL
-	db 32, VAPOREON
+	db 32, AQUALI
 	db -1 ; end
 
 MediumGroup:
@@ -3318,7 +3318,7 @@ KimonoGirlGroup:
 
 	; KIMONO_GIRL (5)
 	db "MICHIYO@", TRAINERTYPE_NORMAL
-	db 17, VAPOREON
+	db 17, AQUALI
 	db -1 ; end
 
 	; KIMONO_GIRL (6)

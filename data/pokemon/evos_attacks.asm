@@ -1793,7 +1793,7 @@ DittoEvosAttacks:
 
 EeveeEvosAttacks:
 	db EVOLVE_ITEM, THUNDERSTONE, JOLTEON
-	db EVOLVE_ITEM, WATER_STONE, VAPOREON
+	db EVOLVE_ITEM, WATER_STONE, AQUALI
 	db EVOLVE_ITEM, FIRE_STONE, FLAREON
 	db EVOLVE_HAPPINESS, TR_MORNDAY, ESPEON
 	db EVOLVE_HAPPINESS, TR_NITE, UMBREON
@@ -1808,7 +1808,7 @@ EeveeEvosAttacks:
 	db 42, TAKE_DOWN
 	db 0 ; no more level-up moves
 
-VaporeonEvosAttacks:
+AqualiEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP

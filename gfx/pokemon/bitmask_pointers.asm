@@ -133,7 +133,7 @@ BitmasksPointers:
 	dw LaprasBitmasks
 	dw DittoBitmasks
 	dw EeveeBitmasks
-	dw VaporeonBitmasks
+	dw AqualiBitmasks
 	dw JolteonBitmasks
 	dw FlareonBitmasks
 	dw PorygonBitmasks

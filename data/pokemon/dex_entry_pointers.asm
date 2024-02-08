@@ -134,7 +134,7 @@ PokedexDataPointerTable:
 	dw LaprasPokedexEntry
 	dw DittoPokedexEntry
 	dw EeveePokedexEntry
-	dw VaporeonPokedexEntry
+	dw AqualiPokedexEntry
 	dw JolteonPokedexEntry
 	dw FlareonPokedexEntry
 	dw PorygonPokedexEntry

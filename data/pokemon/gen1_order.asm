@@ -104,7 +104,7 @@ Pokered_MonIndices:
 	db EEVEE
 	db FLAREON
 	db JOLTEON
-	db VAPOREON
+	db AQUALI
 	db MACHOP
 	db ZUBAT
 	db ABO

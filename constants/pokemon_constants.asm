@@ -152,7 +152,7 @@
 	const LAPRAS     ; 83
 	const DITTO      ; 84
 	const EEVEE      ; 85
-	const VAPOREON   ; 86
+	const AQUALI   ; 86
 	const JOLTEON    ; 87
 	const FLAREON    ; 88
 	const PORYGON    ; 89
