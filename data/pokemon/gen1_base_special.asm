@@ -50,7 +50,7 @@ KantoMonSpecials:
 	db  55 ; PARAS
 	db  80 ; PARASECT
 	db  40 ; VENONAT
-	db  90 ; VENOMOTH
+	db  90 ; AEROMITE
 	db  45 ; DIGLETT
 	db  70 ; DUGTRIO
 	db  40 ; MEOWTH

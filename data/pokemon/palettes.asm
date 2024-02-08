@@ -111,8 +111,8 @@ INCBIN "gfx/pokemon/parasect/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/parasect/shiny.pal"
 INCBIN "gfx/pokemon/venonat/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/venonat/shiny.pal"
-INCBIN "gfx/pokemon/venomoth/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/venomoth/shiny.pal"
+INCBIN "gfx/pokemon/aeromite/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/aeromite/shiny.pal"
 INCBIN "gfx/pokemon/diglett/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/diglett/shiny.pal"
 INCBIN "gfx/pokemon/dugtrio/front.gbcpal", middle_colors

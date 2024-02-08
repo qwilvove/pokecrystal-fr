@@ -4,7 +4,7 @@ AlphabeticalPokedexOrder:
 	table_width 1, AlphabeticalPokedexOrder
 	db ABO
 	db ABRA
-	db VENOMOTH
+	db AEROMITE
 	db SKARMORY
 	db GOLDUCK
 	db ALAKAZAM

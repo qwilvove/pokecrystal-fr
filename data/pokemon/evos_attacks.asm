@@ -620,7 +620,7 @@ ParasectEvosAttacks:
 	db 0 ; no more level-up moves
 
 VenonatEvosAttacks:
-	db EVOLVE_LEVEL, 31, VENOMOTH
+	db EVOLVE_LEVEL, 31, AEROMITE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, DISABLE

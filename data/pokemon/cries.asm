@@ -54,7 +54,7 @@ PokemonCries::
 	mon_cry CRY_PARAS,        32,  352 ; PARAS
 	mon_cry CRY_PARAS,        66,  383 ; PARASECT
 	mon_cry CRY_VENONAT,      68,  192 ; VENONAT
-	mon_cry CRY_VENONAT,      41,  256 ; VENOMOTH
+	mon_cry CRY_VENONAT,      41,  256 ; AEROMITE
 	mon_cry CRY_DIGLETT,     170,  129 ; DIGLETT
 	mon_cry CRY_DIGLETT,      42,  144 ; DUGTRIO
 	mon_cry CRY_CLEFAIRY,    119,  144 ; MEOWTH
