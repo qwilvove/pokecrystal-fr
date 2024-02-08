@@ -1,4 +1,4 @@
-	db WEEPINBELL ; 070
+	db BOUSTIFLOR ; 070
 
 	db  65,  90,  50,  55,  85,  45
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/weepinbell/front.dimensions"
+	INCBIN "gfx/pokemon/boustiflor/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_SLOW ; growth rate
 	dn EGG_PLANT, EGG_PLANT ; egg groups

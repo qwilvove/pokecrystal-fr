@@ -38,7 +38,7 @@ Cries:
 	dba Cry_Rattata
 	dba Cry_Vileplume
 	dba Cry_Vulpix
-	dba Cry_Weepinbell
+	dba Cry_Boustiflor
 	dba Cry_Marill
 	dba Cry_Spinarak
 	dba Cry_Togepi

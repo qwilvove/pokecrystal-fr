@@ -39,7 +39,7 @@
 	const CRY_RATTATA
 	const CRY_VILEPLUME
 	const CRY_VULPIX
-	const CRY_WEEPINBELL
+	const CRY_BOUSTIFLOR
 
 ; gen 2
 	const CRY_MARILL

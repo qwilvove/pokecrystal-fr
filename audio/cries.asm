@@ -1076,11 +1076,11 @@ Cry_Vulpix:
 	channel 6, Cry_Vulpix_Ch6
 	channel 8, Cry_Vulpix_Ch8
 
-Cry_Weepinbell:
+Cry_Boustiflor:
 	channel_count 3
-	channel 5, Cry_Weepinbell_Ch5
-	channel 6, Cry_Weepinbell_Ch6
-	channel 8, Cry_Weepinbell_Ch8
+	channel 5, Cry_Boustiflor_Ch5
+	channel 6, Cry_Boustiflor_Ch6
+	channel 8, Cry_Boustiflor_Ch8
 
 Cry_Unused_Ch5: ; unreferenced
 	duty_cycle_pattern 3, 3, 0, 0
@@ -1235,7 +1235,7 @@ Cry_Rhydon_Ch8:
 	noise_note 8, 13, 1, 44
 	sound_ret
 
-Cry_Weepinbell_Ch5:
+Cry_Boustiflor_Ch5:
 	duty_cycle_pattern 2, 2, 1, 1
 	square_note 6, 15, 4, 1856
 	square_note 15, 14, 3, 1840
@@ -1244,7 +1244,7 @@ Cry_Weepinbell_Ch5:
 	square_note 8, 13, 1, 1872
 	sound_ret
 
-Cry_Weepinbell_Ch6:
+Cry_Boustiflor_Ch6:
 	duty_cycle_pattern 1, 3, 1, 3
 	square_note 6, 12, 3, 1810
 	square_note 15, 11, 3, 1796
@@ -1253,7 +1253,7 @@ Cry_Weepinbell_Ch6:
 	square_note 8, 11, 1, 1842
 	sound_ret
 
-Cry_Weepinbell_Ch8:
+Cry_Boustiflor_Ch8:
 	noise_note 8, 13, 6, 44
 	noise_note 12, 12, 6, 60
 	noise_note 10, 11, 6, 44

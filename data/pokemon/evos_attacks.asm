@@ -909,7 +909,7 @@ MachampEvosAttacks:
 	db 0 ; no more level-up moves
 
 BellsproutEvosAttacks:
-	db EVOLVE_LEVEL, 21, WEEPINBELL
+	db EVOLVE_LEVEL, 21, BOUSTIFLOR
 	db 0 ; no more evolutions
 	db 1, VINE_WHIP
 	db 6, GROWTH
@@ -923,7 +923,7 @@ BellsproutEvosAttacks:
 	db 45, SLAM
 	db 0 ; no more level-up moves
 
-WeepinbellEvosAttacks:
+BoustiflorEvosAttacks:
 	db EVOLVE_ITEM, LEAF_STONE, VICTREEBEL
 	db 0 ; no more evolutions
 	db 1, VINE_WHIP

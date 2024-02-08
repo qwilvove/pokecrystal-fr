@@ -69,7 +69,7 @@ BitmasksPointers:
 	dw MachokeBitmasks
 	dw MachampBitmasks
 	dw BellsproutBitmasks
-	dw WeepinbellBitmasks
+	dw BoustiflorBitmasks
 	dw VictreebelBitmasks
 	dw TentacoolBitmasks
 	dw TentacruelBitmasks

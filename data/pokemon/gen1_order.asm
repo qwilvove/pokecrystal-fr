@@ -188,7 +188,7 @@ Pokered_MonIndices:
 	db GLOOM
 	db VILEPLUME
 	db BELLSPROUT
-	db WEEPINBELL
+	db BOUSTIFLOR
 	db VICTREEBEL
 	assert_table_length 190 ; gen 1 mon indexes
 	db CHIKORITA

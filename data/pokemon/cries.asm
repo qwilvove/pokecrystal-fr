@@ -75,15 +75,15 @@ PokemonCries::
 	mon_cry CRY_GROWLITHE,    72,  224 ; MACHOKE
 	mon_cry CRY_GROWLITHE,     8,  320 ; MACHAMP
 	mon_cry CRY_PSYDUCK,      85,  129 ; BELLSPROUT
-	mon_cry CRY_WEEPINBELL,   68,  160 ; WEEPINBELL
-	mon_cry CRY_WEEPINBELL,  102,  332 ; VICTREEBEL
+	mon_cry CRY_BOUSTIFLOR,   68,  160 ; BOUSTIFLOR
+	mon_cry CRY_BOUSTIFLOR,  102,  332 ; VICTREEBEL
 	mon_cry CRY_VENONAT,       0,  256 ; TENTACOOL
 	mon_cry CRY_VENONAT,     238,  383 ; TENTACRUEL
 	mon_cry CRY_VULPIX,      240,  144 ; GEODUDE
 	mon_cry CRY_VULPIX,        0,  256 ; GRAVELER
 	mon_cry CRY_GOLEM,       224,  192 ; GOLEM
-	mon_cry CRY_WEEPINBELL,    0,  256 ; PONYTA
-	mon_cry CRY_WEEPINBELL,   32,  320 ; RAPIDASH
+	mon_cry CRY_BOUSTIFLOR,    0,  256 ; PONYTA
+	mon_cry CRY_BOUSTIFLOR,   32,  320 ; RAPIDASH
 	mon_cry CRY_SLOWPOKE,      0,  256 ; SLOWPOKE
 	mon_cry CRY_GROWLITHE,     0,  256 ; SLOWBRO
 	mon_cry CRY_METAPOD,     128,  224 ; MAGNEMITE
@@ -142,7 +142,7 @@ PokemonCries::
 	mon_cry CRY_VENONAT,     170,  383 ; AQUALI
 	mon_cry CRY_VENONAT,      61,  256 ; JOLTEON
 	mon_cry CRY_VENONAT,      16,  160 ; FLAREON
-	mon_cry CRY_WEEPINBELL,  170,  383 ; PORYGON
+	mon_cry CRY_BOUSTIFLOR,  170,  383 ; PORYGON
 	mon_cry CRY_GROWLITHE,   240,  129 ; AMONITA
 	mon_cry CRY_GROWLITHE,   255,  192 ; AMONISTAR
 	mon_cry CRY_CATERPIE,    187,  192 ; KABUTO

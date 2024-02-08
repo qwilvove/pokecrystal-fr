@@ -71,7 +71,7 @@ KantoMonSpecials:
 	db  50 ; MACHOKE
 	db  65 ; MACHAMP
 	db  70 ; BELLSPROUT
-	db  85 ; WEEPINBELL
+	db  85 ; BOUSTIFLOR
 	db 100 ; VICTREEBEL
 	db 100 ; TENTACOOL
 	db 120 ; TENTACRUEL

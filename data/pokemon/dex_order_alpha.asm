@@ -18,7 +18,7 @@ AlphabeticalPokedexOrder:
 	db ASPICOT
 	db AXOLOTO
 	db AZUMARILL
-	db WEEPINBELL
+	db BOUSTIFLOR
 	db BULBASAUR
 	db DELIBIRD
 	db FARFETCH_D

@@ -71,7 +71,7 @@ EvosAttacksPointers::
 	dw MachokeEvosAttacks
 	dw MachampEvosAttacks
 	dw BellsproutEvosAttacks
-	dw WeepinbellEvosAttacks
+	dw BoustiflorEvosAttacks
 	dw VictreebelEvosAttacks
 	dw TentacoolEvosAttacks
 	dw TentacruelEvosAttacks
