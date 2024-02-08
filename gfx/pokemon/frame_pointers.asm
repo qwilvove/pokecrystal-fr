@@ -22,7 +22,7 @@ FramesPointers:
 	dw RaticateFrames
 	dw SpearowFrames
 	dw FearowFrames
-	dw EkansFrames
+	dw AboFrames
 	dw ArbokFrames
 	dw PikachuFrames
 	dw RaichuFrames

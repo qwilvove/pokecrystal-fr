@@ -214,7 +214,7 @@ QuagsireFrontpic:    INCBIN "gfx/pokemon/quagsire/front.animated.2bpp.lz"
 
 SECTION "Pics 9", ROMX
 
-EkansFrontpic:       INCBIN "gfx/pokemon/ekans/front.animated.2bpp.lz"
+AboFrontpic:       INCBIN "gfx/pokemon/abo/front.animated.2bpp.lz"
 SudowoodoFrontpic:   INCBIN "gfx/pokemon/sudowoodo/front.animated.2bpp.lz"
 PikachuFrontpic:     INCBIN "gfx/pokemon/pikachu/front.animated.2bpp.lz"
 SeadraFrontpic:      INCBIN "gfx/pokemon/seadra/front.animated.2bpp.lz"
@@ -451,7 +451,7 @@ ExeggcuteBackpic:    INCBIN "gfx/pokemon/exeggcute/back.2bpp.lz"
 IgglybuffFrontpic:   INCBIN "gfx/pokemon/igglybuff/front.animated.2bpp.lz"
 RaticateBackpic:     INCBIN "gfx/pokemon/raticate/back.2bpp.lz"
 VulpixBackpic:       INCBIN "gfx/pokemon/vulpix/back.2bpp.lz"
-EkansBackpic:        INCBIN "gfx/pokemon/ekans/back.2bpp.lz"
+AboBackpic:        INCBIN "gfx/pokemon/abo/back.2bpp.lz"
 SeakingBackpic:      INCBIN "gfx/pokemon/seaking/back.2bpp.lz"
 BurglarPic:          INCBIN "gfx/trainers/burglar.2bpp.lz"
 PsyduckBackpic:      INCBIN "gfx/pokemon/psyduck/back.2bpp.lz"

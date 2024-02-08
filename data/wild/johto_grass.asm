@@ -1321,7 +1321,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_32
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 4, EKANS
+	db 4, ABO
 	db 5, RATTATA
 	db 7, BELLSPROUT
 	db 6, HOPPIP
@@ -1329,7 +1329,7 @@ JohtoGrassWildMons:
 	db 7, HOPPIP
 	db 7, HOPPIP
 	; day
-	db 4, EKANS
+	db 4, ABO
 	db 5, RATTATA
 	db 7, BELLSPROUT
 	db 6, HOPPIP
@@ -1353,7 +1353,7 @@ JohtoGrassWildMons:
 	db 6, SPEAROW
 	db 6, GEODUDE
 	db 6, HOPPIP
-	db 7, EKANS
+	db 7, ABO
 	db 7, HOPPIP
 	db 7, HOPPIP
 	; day
@@ -1361,7 +1361,7 @@ JohtoGrassWildMons:
 	db 6, SPEAROW
 	db 6, GEODUDE
 	db 6, HOPPIP
-	db 7, EKANS
+	db 7, ABO
 	db 7, HOPPIP
 	db 7, HOPPIP
 	; nite
@@ -1545,7 +1545,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_42
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 13, EKANS
+	db 13, ABO
 	db 14, SPEAROW
 	db 15, RATTATA
 	db 16, RATICATE
@@ -1553,7 +1553,7 @@ JohtoGrassWildMons:
 	db 16, FEAROW
 	db 16, FEAROW
 	; day
-	db 13, EKANS
+	db 13, ABO
 	db 14, SPEAROW
 	db 15, RATTATA
 	db 16, RATICATE

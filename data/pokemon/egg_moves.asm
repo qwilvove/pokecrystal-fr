@@ -59,7 +59,7 @@ SpearowEggMoves:
 	db TRI_ATTACK
 	db -1 ; end
 
-EkansEggMoves:
+AboEggMoves:
 	db PURSUIT
 	db SLAM
 	db SPITE

@@ -47,8 +47,8 @@ PokemonPicPointers::
 	dba_pic SpearowBackpic
 	dba_pic FearowFrontpic
 	dba_pic FearowBackpic
-	dba_pic EkansFrontpic
-	dba_pic EkansBackpic
+	dba_pic AboFrontpic
+	dba_pic AboBackpic
 	dba_pic ArbokFrontpic
 	dba_pic ArbokBackpic
 	dba_pic PikachuFrontpic

@@ -23,7 +23,7 @@ SpriteMons:
 	db BULBASAUR
 	db JIGGLYPUFF
 	db GRIMER
-	db EKANS
+	db ABO
 	db PARAS
 	db TENTACOOL
 	db TAUROS

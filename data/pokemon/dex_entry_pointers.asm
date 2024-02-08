@@ -23,7 +23,7 @@ PokedexDataPointerTable:
 	dw RaticatePokedexEntry
 	dw SpearowPokedexEntry
 	dw FearowPokedexEntry
-	dw EkansPokedexEntry
+	dw AboPokedexEntry
 	dw ArbokPokedexEntry
 	dw PikachuPokedexEntry
 	dw RaichuPokedexEntry

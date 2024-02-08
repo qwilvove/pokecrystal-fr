@@ -51,7 +51,7 @@ NewPokedexOrder:
 	db TOGETIC
 	db SANDSHREW
 	db SANDSLASH
-	db EKANS
+	db ABO
 	db ARBOK
 	db DUNSPARCE
 	db MAREEP

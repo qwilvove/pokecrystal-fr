@@ -22,7 +22,7 @@ AnimationIdlePointers:
 	dw RaticateAnimationIdle
 	dw SpearowAnimationIdle
 	dw FearowAnimationIdle
-	dw EkansAnimationIdle
+	dw AboAnimationIdle
 	dw ArbokAnimationIdle
 	dw PikachuAnimationIdle
 	dw RaichuAnimationIdle

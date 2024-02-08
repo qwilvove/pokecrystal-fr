@@ -2,7 +2,7 @@
 
 AlphabeticalPokedexOrder:
 	table_width 1, AlphabeticalPokedexOrder
-	db EKANS
+	db ABO
 	db ABRA
 	db VENOMOTH
 	db SKARMORY

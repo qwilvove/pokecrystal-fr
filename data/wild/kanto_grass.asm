@@ -231,7 +231,7 @@ KantoGrassWildMons:
 	; morn
 	db 5, SPEAROW
 	db 5, RATTATA
-	db 8, EKANS
+	db 8, ABO
 	db 10, RATICATE
 	db 10, ARBOK
 	db 10, SANDSHREW
@@ -239,7 +239,7 @@ KantoGrassWildMons:
 	; day
 	db 5, SPEAROW
 	db 5, RATTATA
-	db 8, EKANS
+	db 8, ABO
 	db 10, RATICATE
 	db 10, ARBOK
 	db 10, SANDSHREW
@@ -259,7 +259,7 @@ KantoGrassWildMons:
 	; morn
 	db 5, SPEAROW
 	db 5, RATTATA
-	db 8, EKANS
+	db 8, ABO
 	db 10, RATICATE
 	db 10, ARBOK
 	db 10, SANDSHREW
@@ -267,7 +267,7 @@ KantoGrassWildMons:
 	; day
 	db 5, SPEAROW
 	db 5, RATTATA
-	db 8, EKANS
+	db 8, ABO
 	db 10, RATICATE
 	db 10, ARBOK
 	db 10, SANDSHREW

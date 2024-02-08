@@ -25,7 +25,7 @@
 	const CRY_PIDGEOTTO
 	const CRY_WEEDLE
 	const CRY_CATERPIE
-	const CRY_EKANS
+	const CRY_ABO
 	const CRY_FEAROW
 	const CRY_CLEFAIRY
 	const CRY_VENONAT

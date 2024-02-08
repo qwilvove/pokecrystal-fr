@@ -22,7 +22,7 @@ AnimationPointers:
 	dw RaticateAnimation
 	dw SpearowAnimation
 	dw FearowAnimation
-	dw EkansAnimation
+	dw AboAnimation
 	dw ArbokAnimation
 	dw PikachuAnimation
 	dw RaichuAnimation

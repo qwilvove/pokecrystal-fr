@@ -24,7 +24,7 @@ EvosAttacksPointers::
 	dw RaticateEvosAttacks
 	dw SpearowEvosAttacks
 	dw FearowEvosAttacks
-	dw EkansEvosAttacks
+	dw AboEvosAttacks
 	dw ArbokEvosAttacks
 	dw PikachuEvosAttacks
 	dw RaichuEvosAttacks

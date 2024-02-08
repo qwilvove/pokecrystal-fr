@@ -41,7 +41,7 @@
 	const RATICATE   ; 14
 	const SPEAROW    ; 15
 	const FEAROW     ; 16
-	const EKANS      ; 17
+	const ABO      ; 17
 	const ARBOK      ; 18
 	const PIKACHU    ; 19
 	const RAICHU     ; 1a
