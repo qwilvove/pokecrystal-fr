@@ -60,11 +60,11 @@ CharcoalKilnApprentice:
 	closetext
 	end
 
-CharcoalKilnFarfetchd:
+CharcoalKilnCanarticho:
 	faceplayer
 	opentext
-	writetext FarfetchdText
-	cry FARFETCH_D
+	writetext CanartichoText
+	cry CANARTICHO
 	waitbutton
 	closetext
 	end
@@ -148,7 +148,7 @@ CharcoalKilnApprenticeText3:
 	cont "T'es trop cool!"
 	done
 
-FarfetchdText:
+CanartichoText:
 	text "CANARTICHO: Ticho!"
 	done
 
@@ -169,4 +169,4 @@ CharcoalKiln_MapEvents:
 	def_object_events
 	object_event  2,  3, SPRITE_BLACK_BELT, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, CharcoalKilnBoss, EVENT_CHARCOAL_KILN_BOSS
 	object_event  5,  3, SPRITE_YOUNGSTER, SPRITEMOVEDATA_WANDER, 1, 1, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, CharcoalKilnApprentice, EVENT_CHARCOAL_KILN_APPRENTICE
-	object_event  5,  6, SPRITE_MOLTRES, SPRITEMOVEDATA_POKEMON, 2, 2, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_SCRIPT, 0, CharcoalKilnFarfetchd, EVENT_CHARCOAL_KILN_FARFETCH_D
+	object_event  5,  6, SPRITE_MOLTRES, SPRITEMOVEDATA_POKEMON, 2, 2, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_SCRIPT, 0, CharcoalKilnCanarticho, EVENT_CHARCOAL_KILN_CANARTICHO

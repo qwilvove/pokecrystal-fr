@@ -84,7 +84,7 @@ MonMenuIcons:
 	db ICON_SLOWPOKE    ; SLOWBRO
 	db ICON_VOLTORB     ; MAGNEMITE
 	db ICON_VOLTORB     ; MAGNETON
-	db ICON_BIRD        ; FARFETCH_D
+	db ICON_BIRD        ; CANARTICHO
 	db ICON_BIRD        ; DODUO
 	db ICON_BIRD        ; DODRIO
 	db ICON_LAPRAS      ; SEEL

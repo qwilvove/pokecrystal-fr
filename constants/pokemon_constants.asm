@@ -101,7 +101,7 @@
 	const SLOWBRO    ; 50
 	const MAGNEMITE  ; 51
 	const MAGNETON   ; 52
-	const FARFETCH_D ; 53
+	const CANARTICHO ; 53
 	const DODUO      ; 54
 	const DODRIO     ; 55
 	const SEEL       ; 56

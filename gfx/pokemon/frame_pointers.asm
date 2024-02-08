@@ -82,7 +82,7 @@ FramesPointers:
 	dw SlowbroFrames
 	dw MagnemiteFrames
 	dw MagnetonFrames
-	dw FarfetchDFrames
+	dw CanartichoFrames
 	dw DoduoFrames
 	dw DodrioFrames
 	dw SeelFrames

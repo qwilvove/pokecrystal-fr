@@ -84,7 +84,7 @@ EvosAttacksPointers::
 	dw SlowbroEvosAttacks
 	dw MagnemiteEvosAttacks
 	dw MagnetonEvosAttacks
-	dw FarfetchDEvosAttacks
+	dw CanartichoEvosAttacks
 	dw DoduoEvosAttacks
 	dw DodrioEvosAttacks
 	dw SeelEvosAttacks

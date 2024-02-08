@@ -82,7 +82,7 @@ AnimationIdlePointers:
 	dw SlowbroAnimationIdle
 	dw MagnemiteAnimationIdle
 	dw MagnetonAnimationIdle
-	dw FarfetchDAnimationIdle
+	dw CanartichoAnimationIdle
 	dw DoduoAnimationIdle
 	dw DodrioAnimationIdle
 	dw SeelAnimationIdle

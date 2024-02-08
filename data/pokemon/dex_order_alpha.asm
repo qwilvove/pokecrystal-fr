@@ -21,7 +21,7 @@ AlphabeticalPokedexOrder:
 	db BOUSTIFLOR
 	db BULBIZARRE
 	db CADOIZO
-	db FARFETCH_D
+	db CANARTICHO
 	db GROWLITHE
 	db AIPOM
 	db WARTORTLE

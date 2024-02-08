@@ -159,7 +159,7 @@ NewPokedexOrder:
 	db ELECTABUZZ
 	db MR__MIME
 	db SMEARGLE
-	db FARFETCH_D
+	db CANARTICHO
 	db NATU
 	db XATU
 	db QWILFISH

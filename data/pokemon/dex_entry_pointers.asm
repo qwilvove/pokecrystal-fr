@@ -83,7 +83,7 @@ PokedexDataPointerTable:
 	dw SlowbroPokedexEntry
 	dw MagnemitePokedexEntry
 	dw MagnetonPokedexEntry
-	dw FarfetchDPokedexEntry
+	dw CanartichoPokedexEntry
 	dw DoduoPokedexEntry
 	dw DodrioPokedexEntry
 	dw SeelPokedexEntry

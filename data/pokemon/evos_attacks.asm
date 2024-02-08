@@ -1115,7 +1115,7 @@ MagnetonEvosAttacks:
 	db 53, ZAP_CANNON
 	db 0 ; no more level-up moves
 
-FarfetchDEvosAttacks:
+CanartichoEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 7, SAND_ATTACK

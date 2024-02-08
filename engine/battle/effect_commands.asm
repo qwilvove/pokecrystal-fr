@@ -1140,7 +1140,7 @@ BattleCommand_Critical:
 	ld c, 0
 
 	cp CHANSEY
-	jr nz, .Farfetchd
+	jr nz, .Canarticho
 	ld a, [hl]
 	cp LUCKY_PUNCH
 	jr nz, .FocusEnergy
@@ -1149,8 +1149,8 @@ BattleCommand_Critical:
 	ld c, 2
 	jr .Tally
 
-.Farfetchd:
-	cp FARFETCH_D
+.Canarticho:
+	cp CANARTICHO
 	jr nz, .FocusEnergy
 	ld a, [hl]
 	cp STICK
