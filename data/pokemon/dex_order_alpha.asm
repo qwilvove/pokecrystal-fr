@@ -10,7 +10,7 @@ AlphabeticalPokedexOrder:
 	db ALAKAZAM
 	db ALIGATUEUR
 	db AMONISTAR
-	db OMANYTE
+	db AMONITA
 	db VAPOREON
 	db ARBOK
 	db ARCANINE

@@ -301,7 +301,7 @@ PokefanfPic:         INCBIN "gfx/trainers/pokefan_f.2bpp.lz"
 AeromiteBackpic:     INCBIN "gfx/pokemon/aeromite/back.2bpp.lz"
 ClairPic:            INCBIN "gfx/trainers/clair.2bpp.lz"
 PokemaniacPic:       INCBIN "gfx/trainers/pokemaniac.2bpp.lz"
-OmanyteFrontpic:     INCBIN "gfx/pokemon/omanyte/front.animated.2bpp.lz"
+AmonitaFrontpic:     INCBIN "gfx/pokemon/amonita/front.animated.2bpp.lz"
 SkierPic:            INCBIN "gfx/trainers/skier.2bpp.lz"
 PupitarFrontpic:     INCBIN "gfx/pokemon/pupitar/front.animated.2bpp.lz"
 BellsproutFrontpic:  INCBIN "gfx/pokemon/bellsprout/front.animated.2bpp.lz"
@@ -375,7 +375,7 @@ StarmieBackpic:      INCBIN "gfx/pokemon/starmie/back.2bpp.lz"
 
 SECTION "Pics 13", ROMX
 
-OmanyteBackpic:      INCBIN "gfx/pokemon/omanyte/back.2bpp.lz"
+AmonitaBackpic:      INCBIN "gfx/pokemon/amonita/back.2bpp.lz"
 PidgeyBackpic:       INCBIN "gfx/pokemon/pidgey/back.2bpp.lz"
 ScientistPic:        INCBIN "gfx/trainers/scientist.2bpp.lz"
 QwilfishBackpic:     INCBIN "gfx/pokemon/qwilfish/back.2bpp.lz"

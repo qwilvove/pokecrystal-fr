@@ -10,9 +10,9 @@ HoOhChamber:
 .done
 	ret
 
-OmanyteChamber:
+AmonitaChamber:
 	call GetMapAttributesPointer ; pointless?
-	ld de, EVENT_WALL_OPENED_IN_OMANYTE_CHAMBER
+	ld de, EVENT_WALL_OPENED_IN_AMONITA_CHAMBER
 	ld b, CHECK_FLAG
 	call EventFlagAction
 	ld a, c
@@ -44,7 +44,7 @@ OmanyteChamber:
 
 .open
 	call GetMapAttributesPointer ; pointless?
-	ld de, EVENT_WALL_OPENED_IN_OMANYTE_CHAMBER
+	ld de, EVENT_WALL_OPENED_IN_AMONITA_CHAMBER
 	ld b, SET_FLAG
 	call EventFlagAction
 

@@ -68,7 +68,7 @@ TilesetRuinsOfAlphPalMap:
 TilesetBetaWordRoomPalMap:
 TilesetHoOhWordRoomPalMap:
 TilesetKabutoWordRoomPalMap:
-TilesetOmanyteWordRoomPalMap:
+TilesetAmonitaWordRoomPalMap:
 TilesetAerodactylWordRoomPalMap:
 INCLUDE "gfx/tilesets/ruins_of_alph_palette_map.asm"
 

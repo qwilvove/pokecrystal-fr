@@ -139,7 +139,7 @@ MonMenuIcons:
 	db ICON_FOX         ; JOLTEON
 	db ICON_FOX         ; FLAREON
 	db ICON_VOLTORB     ; PORYGON
-	db ICON_SHELL       ; OMANYTE
+	db ICON_SHELL       ; AMONITA
 	db ICON_SHELL       ; AMONISTAR
 	db ICON_SHELL       ; KABUTO
 	db ICON_SHELL       ; KABUTOPS

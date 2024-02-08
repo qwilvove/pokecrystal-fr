@@ -221,7 +221,7 @@ NewPokedexOrder:
 	db CHANSEY
 	db BLISSEY
 	db LAPRAS
-	db OMANYTE
+	db AMONITA
 	db AMONISTAR
 	db KABUTO
 	db KABUTOPS

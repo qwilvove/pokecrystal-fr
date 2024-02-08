@@ -139,7 +139,7 @@ EvosAttacksPointers::
 	dw JolteonEvosAttacks
 	dw FlareonEvosAttacks
 	dw PorygonEvosAttacks
-	dw OmanyteEvosAttacks
+	dw AmonitaEvosAttacks
 	dw AmonistarEvosAttacks
 	dw KabutoEvosAttacks
 	dw KabutopsEvosAttacks

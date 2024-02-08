@@ -156,7 +156,7 @@
 	const JOLTEON    ; 87
 	const FLAREON    ; 88
 	const PORYGON    ; 89
-	const OMANYTE    ; 8a
+	const AMONITA    ; 8a
 	const AMONISTAR    ; 8b
 	const KABUTO     ; 8c
 	const KABUTOPS   ; 8d

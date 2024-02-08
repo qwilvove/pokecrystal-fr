@@ -308,7 +308,7 @@ DEF BUG_CONTESTANT_SIZE EQU 4
 ; LoadUnownPuzzlePiecesGFX.LZPointers indexes (see engine/games/unown_puzzle.asm)
 	const_def
 	const UNOWNPUZZLE_KABUTO     ; 0
-	const UNOWNPUZZLE_OMANYTE    ; 1
+	const UNOWNPUZZLE_AMONITA    ; 1
 	const UNOWNPUZZLE_AERODACTYL ; 2
 	const UNOWNPUZZLE_HO_OH      ; 3
 DEF NUM_UNOWN_PUZZLES EQU const_value
