@@ -96,7 +96,7 @@ PokemonCries::
 	mon_cry CRY_GRIMER,        0,  256 ; GRIMER
 	mon_cry CRY_MUK,         239,  383 ; MUK
 	mon_cry CRY_FEAROW,        0,  256 ; SHELLDER
-	mon_cry CRY_FEAROW,      111,  352 ; CLOYSTER
+	mon_cry CRY_FEAROW,      111,  352 ; CRUSTABRI
 	mon_cry CRY_CHRYSACIER,       0,  256 ; GASTLY
 	mon_cry CRY_CHRYSACIER,      48,  192 ; HAUNTER
 	mon_cry CRY_MUK,           0,  383 ; GENGAR

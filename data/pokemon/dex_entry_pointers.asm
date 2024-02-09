@@ -91,7 +91,7 @@ PokedexDataPointerTable:
 	dw GrimerPokedexEntry
 	dw MukPokedexEntry
 	dw ShellderPokedexEntry
-	dw CloysterPokedexEntry
+	dw CrustabriPokedexEntry
 	dw GastlyPokedexEntry
 	dw HaunterPokedexEntry
 	dw GengarPokedexEntry

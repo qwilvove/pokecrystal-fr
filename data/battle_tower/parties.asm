@@ -4474,7 +4474,7 @@ BattleTowerMons:
 	bigdw 236 ; SDef
 	db "SUTA-MI-@@@"
 
-	db CLOYSTER
+	db CRUSTABRI
 	db LEFTOVERS
 	db EXPLOSION, BLIZZARD, SURF, ICY_WIND
 	dw 0 ; OT ID

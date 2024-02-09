@@ -90,7 +90,7 @@ BitmasksPointers:
 	dw GrimerBitmasks
 	dw MukBitmasks
 	dw ShellderBitmasks
-	dw CloysterBitmasks
+	dw CrustabriBitmasks
 	dw GastlyBitmasks
 	dw HaunterBitmasks
 	dw GengarBitmasks

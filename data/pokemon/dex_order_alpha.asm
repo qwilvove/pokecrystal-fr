@@ -42,7 +42,7 @@ AlphabeticalPokedexOrder:
 	db COXY
 	db COXYCLAQUE
 	db CROCRODIL
-	db CLOYSTER
+	db CRUSTABRI
 	db BEEDRILL
 	db TYROGUE
 	db MANTINE

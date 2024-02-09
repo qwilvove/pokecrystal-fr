@@ -90,7 +90,7 @@ FramesPointers:
 	dw GrimerFrames
 	dw MukFrames
 	dw ShellderFrames
-	dw CloysterFrames
+	dw CrustabriFrames
 	dw GastlyFrames
 	dw HaunterFrames
 	dw GengarFrames

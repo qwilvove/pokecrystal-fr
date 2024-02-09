@@ -90,7 +90,7 @@ AnimationPointers:
 	dw GrimerAnimation
 	dw MukAnimation
 	dw ShellderAnimation
-	dw CloysterAnimation
+	dw CrustabriAnimation
 	dw GastlyAnimation
 	dw HaunterAnimation
 	dw GengarAnimation

@@ -171,7 +171,7 @@ NewPokedexOrder:
 	db STARYU
 	db STARMIE
 	db SHELLDER
-	db CLOYSTER
+	db CRUSTABRI
 	db CORAYON
 	db REMORAID
 	db OCTILLERY

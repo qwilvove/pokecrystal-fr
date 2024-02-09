@@ -92,7 +92,7 @@ MonMenuIcons:
 	db ICON_BLOB        ; GRIMER
 	db ICON_BLOB        ; MUK
 	db ICON_SHELL       ; SHELLDER
-	db ICON_SHELL       ; CLOYSTER
+	db ICON_SHELL       ; CRUSTABRI
 	db ICON_GHOST       ; GASTLY
 	db ICON_GHOST       ; HAUNTER
 	db ICON_GHOST       ; GENGAR

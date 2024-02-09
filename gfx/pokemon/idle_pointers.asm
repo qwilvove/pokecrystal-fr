@@ -90,7 +90,7 @@ AnimationIdlePointers:
 	dw GrimerAnimationIdle
 	dw MukAnimationIdle
 	dw ShellderAnimationIdle
-	dw CloysterAnimationIdle
+	dw CrustabriAnimationIdle
 	dw GastlyAnimationIdle
 	dw HaunterAnimationIdle
 	dw GengarAnimationIdle

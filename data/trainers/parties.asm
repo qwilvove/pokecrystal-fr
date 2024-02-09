@@ -960,7 +960,7 @@ CooltrainerFGroup:
 	; COOLTRAINERF (5)
 	db "IRENE@", TRAINERTYPE_NORMAL
 	db 26, SHELLDER
-	db 28, CLOYSTER
+	db 28, CRUSTABRI
 	db -1 ; end
 
 	; COOLTRAINERF (6)
@@ -1689,7 +1689,7 @@ FisherGroup:
 	db 25, SHELLDER
 	db 29, OCTILLERY
 	db 25, REMORAID
-	db 29, CLOYSTER
+	db 29, CRUSTABRI
 	db -1 ; end
 
 	; FISHER (13)
@@ -1845,7 +1845,7 @@ SwimmerMGroup:
 	; SWIMMERM (11)
 	db "GUNTHER@", TRAINERTYPE_NORMAL
 	db 24, SHELLDER
-	db 25, CLOYSTER
+	db 25, CRUSTABRI
 	db 24, SHELLDER
 	db -1 ; end
 
@@ -1874,7 +1874,7 @@ SwimmerMGroup:
 	; SWIMMERM (15)
 	db "SERGEI@", TRAINERTYPE_NORMAL
 	db 30, SHELLDER
-	db 34, CLOYSTER
+	db 34, CRUSTABRI
 	db -1 ; end
 
 	; SWIMMERM (16)
@@ -3207,7 +3207,7 @@ BoarderGroup:
 	; BOARDER (3)
 	db "BRAD@", TRAINERTYPE_NORMAL
 	db 24, SHELLDER
-	db 25, CLOYSTER
+	db 25, CRUSTABRI
 	db 24, SHELLDER
 	db -1 ; end
 

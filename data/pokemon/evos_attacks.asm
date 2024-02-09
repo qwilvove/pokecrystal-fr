@@ -1209,7 +1209,7 @@ MukEvosAttacks:
 	db 0 ; no more level-up moves
 
 ShellderEvosAttacks:
-	db EVOLVE_ITEM, WATER_STONE, CLOYSTER
+	db EVOLVE_ITEM, WATER_STONE, CRUSTABRI
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, WITHDRAW
@@ -1221,7 +1221,7 @@ ShellderEvosAttacks:
 	db 49, ICE_BEAM
 	db 0 ; no more level-up moves
 
-CloysterEvosAttacks:
+CrustabriEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, WITHDRAW
 	db 1, SUPERSONIC

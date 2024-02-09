@@ -183,8 +183,8 @@ PokemonPicPointers::
 	dba_pic MukBackpic
 	dba_pic ShellderFrontpic
 	dba_pic ShellderBackpic
-	dba_pic CloysterFrontpic
-	dba_pic CloysterBackpic
+	dba_pic CrustabriFrontpic
+	dba_pic CrustabriBackpic
 	dba_pic GastlyFrontpic
 	dba_pic GastlyBackpic
 	dba_pic HaunterFrontpic

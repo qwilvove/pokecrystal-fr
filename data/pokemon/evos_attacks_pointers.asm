@@ -92,7 +92,7 @@ EvosAttacksPointers::
 	dw GrimerEvosAttacks
 	dw MukEvosAttacks
 	dw ShellderEvosAttacks
-	dw CloysterEvosAttacks
+	dw CrustabriEvosAttacks
 	dw GastlyEvosAttacks
 	dw HaunterEvosAttacks
 	dw GengarEvosAttacks
