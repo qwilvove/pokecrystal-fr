@@ -38,7 +38,7 @@ AlphabeticalPokedexOrder:
 	db COLOSSINGE
 	db CORAYON
 	db CORNEBRE
-	db JUMPLUFF
+	db COTOVOL
 	db LEDYBA
 	db LEDIAN
 	db CROCONAW

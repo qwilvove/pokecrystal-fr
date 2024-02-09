@@ -70,7 +70,7 @@ NewPokedexOrder:
 	db VICTREEBEL
 	db HOPPIP
 	db SKIPLOOM
-	db JUMPLUFF
+	db COTOVOL
 	db PARAS
 	db PARASECT
 	db POLIWAG

@@ -189,7 +189,7 @@ PokedexDataPointerTable:
 	dw PolitoedPokedexEntry
 	dw HoppipPokedexEntry
 	dw SkiploomPokedexEntry
-	dw JumpluffPokedexEntry
+	dw CotovolPokedexEntry
 	dw CapumainPokedexEntry
 	dw SunkernPokedexEntry
 	dw SunfloraPokedexEntry

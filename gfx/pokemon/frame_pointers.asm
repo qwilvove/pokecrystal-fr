@@ -188,7 +188,7 @@ FramesPointers:
 	dw PolitoedFrames
 	dw HoppipFrames
 	dw SkiploomFrames
-	dw JumpluffFrames
+	dw CotovolFrames
 	dw CapumainFrames
 	dw SunkernFrames
 	dw SunfloraFrames
