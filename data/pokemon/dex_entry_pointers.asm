@@ -69,7 +69,7 @@ PokedexDataPointerTable:
 	dw MachopPokedexEntry
 	dw MachokePokedexEntry
 	dw MachampPokedexEntry
-	dw BellsproutPokedexEntry
+	dw ChetiflorPokedexEntry
 	dw BoustiflorPokedexEntry
 	dw VictreebelPokedexEntry
 	dw TentacoolPokedexEntry

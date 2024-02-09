@@ -187,7 +187,7 @@ Pokered_MonIndices:
 	db ODDISH
 	db GLOOM
 	db VILEPLUME
-	db BELLSPROUT
+	db CHETIFLOR
 	db BOUSTIFLOR
 	db VICTREEBEL
 	assert_table_length 190 ; gen 1 mon indexes

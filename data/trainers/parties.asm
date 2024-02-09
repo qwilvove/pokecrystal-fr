@@ -436,7 +436,7 @@ SchoolboyGroup:
 
 	; SCHOOLBOY (4)
 	db "NESTOR@", TRAINERTYPE_NORMAL
-	db 29, BELLSPROUT
+	db 29, CHETIFLOR
 	db 31, BOUSTIFLOR
 	db 33, VICTREEBEL
 	db -1 ; end
@@ -3075,26 +3075,26 @@ ExecutiveFGroup:
 SageGroup:
 	; SAGE (1)
 	db "QUENTIN@", TRAINERTYPE_NORMAL
-	db  3, BELLSPROUT
-	db  3, BELLSPROUT
-	db  3, BELLSPROUT
+	db  3, CHETIFLOR
+	db  3, CHETIFLOR
+	db  3, CHETIFLOR
 	db -1 ; end
 
 	; SAGE (2)
 	db "HIPPOLYTE@", TRAINERTYPE_NORMAL
-	db  3, BELLSPROUT
-	db  3, BELLSPROUT
-	db  3, BELLSPROUT
+	db  3, CHETIFLOR
+	db  3, CHETIFLOR
+	db  3, CHETIFLOR
 	db -1 ; end
 
 	; SAGE (3)
 	db "ALFONSE@", TRAINERTYPE_NORMAL
-	db  6, BELLSPROUT
+	db  6, CHETIFLOR
 	db -1 ; end
 
 	; SAGE (4)
 	db "BARTH@", TRAINERTYPE_NORMAL
-	db  7, BELLSPROUT
+	db  7, CHETIFLOR
 	db  7, HOOTHOOT
 	db -1 ; end
 
@@ -3114,20 +3114,20 @@ SageGroup:
 
 	; SAGE (7)
 	db "BLAISE@", TRAINERTYPE_NORMAL
-	db  3, BELLSPROUT
-	db  3, BELLSPROUT
-	db  3, BELLSPROUT
+	db  3, CHETIFLOR
+	db  3, CHETIFLOR
+	db  3, CHETIFLOR
 	db -1 ; end
 
 	; SAGE (8)
 	db "ACHILLE@", TRAINERTYPE_NORMAL
-	db  6, BELLSPROUT
+	db  6, CHETIFLOR
 	db -1 ; end
 
 	; SAGE (9)
 	db "JOACHIM@", TRAINERTYPE_NORMAL
-	db  7, BELLSPROUT
-	db  7, BELLSPROUT
+	db  7, CHETIFLOR
+	db  7, CHETIFLOR
 	db 10, HOOTHOOT
 	db -1 ; end
 

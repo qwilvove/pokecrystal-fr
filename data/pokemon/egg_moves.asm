@@ -198,7 +198,7 @@ MachopEggMoves:
 	db ENCORE
 	db -1 ; end
 
-BellsproutEggMoves:
+ChetiflorEggMoves:
 	db SWORDS_DANCE
 	db ENCORE
 	db REFLECT

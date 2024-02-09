@@ -68,7 +68,7 @@ AnimationPointers:
 	dw MachopAnimation
 	dw MachokeAnimation
 	dw MachampAnimation
-	dw BellsproutAnimation
+	dw ChetiflorAnimation
 	dw BoustiflorAnimation
 	dw VictreebelAnimation
 	dw TentacoolAnimation

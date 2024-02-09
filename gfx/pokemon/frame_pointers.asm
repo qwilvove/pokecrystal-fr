@@ -68,7 +68,7 @@ FramesPointers:
 	dw MachopFrames
 	dw MachokeFrames
 	dw MachampFrames
-	dw BellsproutFrames
+	dw ChetiflorFrames
 	dw BoustiflorFrames
 	dw VictreebelFrames
 	dw TentacoolFrames

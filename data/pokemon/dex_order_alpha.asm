@@ -30,7 +30,7 @@ AlphabeticalPokedexOrder:
 	db CELEBI
 	db CERFROUSSE
 	db CHENIPAN
-	db BELLSPROUT
+	db CHETIFLOR
 	db METAPOD
 	db SCIZOR
 	db PILOSWINE

@@ -1295,7 +1295,7 @@ JohtoGrassWildMons:
 	; morn
 	db 4, LEDYBA
 	db 4, CHENIPAN
-	db 5, BELLSPROUT
+	db 5, CHETIFLOR
 	db 5, PIDGEY
 	db 4, ASPICOT
 	db 5, HOPPIP
@@ -1303,7 +1303,7 @@ JohtoGrassWildMons:
 	; day
 	db 4, PIDGEY
 	db 4, CHENIPAN
-	db 5, BELLSPROUT
+	db 5, CHETIFLOR
 	db 5, PIDGEY
 	db 4, ASPICOT
 	db 5, HOPPIP
@@ -1311,7 +1311,7 @@ JohtoGrassWildMons:
 	; nite
 	db 4, SPINARAK
 	db 4, POLIWAG
-	db 5, BELLSPROUT
+	db 5, CHETIFLOR
 	db 5, HOOTHOOT
 	db 4, ZUBAT
 	db 5, GASTLY
@@ -1323,7 +1323,7 @@ JohtoGrassWildMons:
 	; morn
 	db 4, ABO
 	db 5, RATTATA
-	db 7, BELLSPROUT
+	db 7, CHETIFLOR
 	db 6, HOPPIP
 	db 7, PIDGEY
 	db 7, HOPPIP
@@ -1331,7 +1331,7 @@ JohtoGrassWildMons:
 	; day
 	db 4, ABO
 	db 5, RATTATA
-	db 7, BELLSPROUT
+	db 7, CHETIFLOR
 	db 6, HOPPIP
 	db 7, PIDGEY
 	db 7, HOPPIP
@@ -1339,7 +1339,7 @@ JohtoGrassWildMons:
 	; nite
 	db 4, AXOLOTO
 	db 5, RATTATA
-	db 7, BELLSPROUT
+	db 7, CHETIFLOR
 	db 6, ZUBAT
 	db 7, HOOTHOOT
 	db 7, GASTLY
@@ -1435,7 +1435,7 @@ JohtoGrassWildMons:
 	; morn
 	db 4, LEDYBA
 	db 4, PIDGEY
-	db 5, BELLSPROUT
+	db 5, CHETIFLOR
 	db 5, CANINOS
 	db 5, PIDGEY
 	db 6, PIDGEY
@@ -1443,7 +1443,7 @@ JohtoGrassWildMons:
 	; day
 	db 4, PIDGEY
 	db 4, PIDGEY
-	db 5, BELLSPROUT
+	db 5, CHETIFLOR
 	db 5, CANINOS
 	db 5, PIDGEY
 	db 6, PIDGEY
@@ -1451,7 +1451,7 @@ JohtoGrassWildMons:
 	; nite
 	db 4, SPINARAK
 	db 4, HOOTHOOT
-	db 5, BELLSPROUT
+	db 5, CHETIFLOR
 	db 5, HOOTHOOT
 	db 5, HOOTHOOT
 	db 5, GASTLY
@@ -1603,7 +1603,7 @@ JohtoGrassWildMons:
 	; morn
 	db 23, TANGELA
 	db 22, LICKITUNG
-	db 22, BELLSPROUT
+	db 22, CHETIFLOR
 	db 24, BOUSTIFLOR
 	db 24, LICKITUNG
 	db 26, LICKITUNG
@@ -1611,7 +1611,7 @@ JohtoGrassWildMons:
 	; day
 	db 23, TANGELA
 	db 22, LICKITUNG
-	db 22, BELLSPROUT
+	db 22, CHETIFLOR
 	db 24, BOUSTIFLOR
 	db 24, LICKITUNG
 	db 26, LICKITUNG
@@ -1619,7 +1619,7 @@ JohtoGrassWildMons:
 	; nite
 	db 23, TANGELA
 	db 22, POLIWAG
-	db 22, BELLSPROUT
+	db 22, CHETIFLOR
 	db 24, BOUSTIFLOR
 	db 24, POLIWHIRL
 	db 26, POLIWHIRL
