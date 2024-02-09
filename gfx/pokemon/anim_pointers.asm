@@ -158,7 +158,7 @@ AnimationPointers:
 	dw QuilavaAnimation
 	dw TyphlosionAnimation
 	dw TotodileAnimation
-	dw CroconawAnimation
+	dw CrocrodilAnimation
 	dw AligatueurAnimation
 	dw SentretAnimation
 	dw FurretAnimation

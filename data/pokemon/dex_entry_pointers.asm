@@ -159,7 +159,7 @@ PokedexDataPointerTable:
 	dw QuilavaPokedexEntry
 	dw TyphlosionPokedexEntry
 	dw TotodilePokedexEntry
-	dw CroconawPokedexEntry
+	dw CrocrodilPokedexEntry
 	dw AligatueurPokedexEntry
 	dw SentretPokedexEntry
 	dw FurretPokedexEntry

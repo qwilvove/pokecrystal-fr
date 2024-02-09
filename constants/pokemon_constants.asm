@@ -178,7 +178,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const QUILAVA    ; 9c
 	const TYPHLOSION ; 9d
 	const TOTODILE   ; 9e
-	const CROCONAW   ; 9f
+	const CROCRODIL   ; 9f
 	const ALIGATUEUR ; a0
 	const SENTRET    ; a1
 	const FURRET     ; a2

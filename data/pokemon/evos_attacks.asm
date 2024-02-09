@@ -2145,7 +2145,7 @@ TyphlosionEvosAttacks:
 	db 0 ; no more level-up moves
 
 TotodileEvosAttacks:
-	db EVOLVE_LEVEL, 18, CROCONAW
+	db EVOLVE_LEVEL, 18, CROCRODIL
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, LEER
@@ -2158,7 +2158,7 @@ TotodileEvosAttacks:
 	db 52, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-CroconawEvosAttacks:
+CrocrodilEvosAttacks:
 	db EVOLVE_LEVEL, 30, ALIGATUEUR
 	db 0 ; no more evolutions
 	db 1, SCRATCH

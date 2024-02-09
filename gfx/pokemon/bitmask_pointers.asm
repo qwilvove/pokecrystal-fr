@@ -158,7 +158,7 @@ BitmasksPointers:
 	dw QuilavaBitmasks
 	dw TyphlosionBitmasks
 	dw TotodileBitmasks
-	dw CroconawBitmasks
+	dw CrocrodilBitmasks
 	dw AligatueurBitmasks
 	dw SentretBitmasks
 	dw FurretBitmasks

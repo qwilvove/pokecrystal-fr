@@ -1,4 +1,4 @@
-	db CROCONAW ; 159
+	db CROCRODIL ; 159
 
 	db  65,  80,  80,  58,  59,  63
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/croconaw/front.dimensions"
+	INCBIN "gfx/pokemon/crocrodil/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_SLOW ; growth rate
 	dn EGG_MONSTER, EGG_WATER_1 ; egg groups

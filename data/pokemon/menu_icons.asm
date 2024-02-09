@@ -160,7 +160,7 @@ MonMenuIcons:
 	db ICON_FOX         ; QUILAVA
 	db ICON_FOX         ; TYPHLOSION
 	db ICON_MONSTER     ; TOTODILE
-	db ICON_MONSTER     ; CROCONAW
+	db ICON_MONSTER     ; CROCRODIL
 	db ICON_MONSTER     ; ALIGATUEUR
 	db ICON_FOX         ; SENTRET
 	db ICON_FOX         ; FURRET

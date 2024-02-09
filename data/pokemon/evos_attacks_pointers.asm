@@ -160,7 +160,7 @@ EvosAttacksPointers::
 	dw QuilavaEvosAttacks
 	dw TyphlosionEvosAttacks
 	dw TotodileEvosAttacks
-	dw CroconawEvosAttacks
+	dw CrocrodilEvosAttacks
 	dw AligatueurEvosAttacks
 	dw SentretEvosAttacks
 	dw FurretEvosAttacks

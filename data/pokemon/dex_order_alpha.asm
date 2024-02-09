@@ -41,7 +41,7 @@ AlphabeticalPokedexOrder:
 	db COTOVOL
 	db COXY
 	db COXYCLAQUE
-	db CROCONAW
+	db CROCRODIL
 	db CLOYSTER
 	db BEEDRILL
 	db TYROGUE

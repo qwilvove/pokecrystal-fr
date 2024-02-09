@@ -198,7 +198,7 @@ Pokered_MonIndices:
 	db QUILAVA
 	db TYPHLOSION
 	db TOTODILE
-	db CROCONAW
+	db CROCRODIL
 	db ALIGATUEUR
 	db SENTRET
 	db FURRET

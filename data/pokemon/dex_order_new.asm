@@ -9,7 +9,7 @@ NewPokedexOrder:
 	db QUILAVA
 	db TYPHLOSION
 	db TOTODILE
-	db CROCONAW
+	db CROCRODIL
 	db ALIGATUEUR
 	db PIDGEY
 	db PIDGEOTTO
