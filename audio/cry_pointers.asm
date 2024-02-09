@@ -29,7 +29,7 @@ Cries:
 	dba Cry_Clefairy
 	dba Cry_Venonat
 	dba Cry_Lapras
-	dba Cry_Metapod
+	dba Cry_Chrysacier
 	dba Cry_Carapuce
 	dba Cry_Paras
 	dba Cry_Caninos

@@ -10,7 +10,7 @@ FramesPointers:
 	dw CarabaffeFrames
 	dw BlastoiseFrames
 	dw ChenipanFrames
-	dw MetapodFrames
+	dw ChrysacierFrames
 	dw ButterfreeFrames
 	dw AspicotFrames
 	dw KakunaFrames

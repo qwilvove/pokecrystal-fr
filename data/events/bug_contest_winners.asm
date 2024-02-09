@@ -22,7 +22,7 @@ BugContestantPointers:
 BugContestant_BugCatcherDon:
 	db BUG_CATCHER, DON
 	dbw KAKUNA,     300
-	dbw METAPOD,    285
+	dbw CHRYSACIER,    285
 	dbw CHENIPAN,   226
 
 BugContestant_BugCatcherEd:
@@ -58,14 +58,14 @@ BugContestant_CamperBarry:
 BugContestant_PicnickerCindy:
 	db PICNICKER, CINDY
 	dbw BUTTERFREE, 341
-	dbw METAPOD,    301
+	dbw CHRYSACIER,    301
 	dbw CHENIPAN,   264
 
 BugContestant_BugCatcherJosh:
 	db BUG_CATCHER, JOSH
 	dbw SCYTHER,    326
 	dbw BUTTERFREE, 292
-	dbw METAPOD,    282
+	dbw CHRYSACIER,    282
 
 BugContestant_YoungsterSamuel:
 	db YOUNGSTER, SAMUEL

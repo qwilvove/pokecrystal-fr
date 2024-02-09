@@ -26,7 +26,7 @@ NewPokedexOrder:
 	db PIKACHU
 	db RAICHU
 	db CHENIPAN
-	db METAPOD
+	db CHRYSACIER
 	db BUTTERFREE
 	db ASPICOT
 	db KAKUNA

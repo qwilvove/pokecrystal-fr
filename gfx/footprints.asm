@@ -32,7 +32,7 @@ INCBIN "gfx/footprints/carabaffe.1bpp",  footprint_bottom
 ; 009-016 top halves
 INCBIN "gfx/footprints/blastoise.1bpp",  footprint_top
 INCBIN "gfx/footprints/chenipan.1bpp",   footprint_top
-INCBIN "gfx/footprints/metapod.1bpp",    footprint_top
+INCBIN "gfx/footprints/chrysacier.1bpp",    footprint_top
 INCBIN "gfx/footprints/butterfree.1bpp", footprint_top
 INCBIN "gfx/footprints/aspicot.1bpp",     footprint_top
 INCBIN "gfx/footprints/kakuna.1bpp",     footprint_top
@@ -41,7 +41,7 @@ INCBIN "gfx/footprints/pidgey.1bpp",     footprint_top
 ; 009-016 bottom halves
 INCBIN "gfx/footprints/blastoise.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/chenipan.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/metapod.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/chrysacier.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/butterfree.1bpp", footprint_bottom
 INCBIN "gfx/footprints/aspicot.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/kakuna.1bpp",     footprint_bottom

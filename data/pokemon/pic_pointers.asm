@@ -23,8 +23,8 @@ PokemonPicPointers::
 	dba_pic BlastoiseBackpic
 	dba_pic ChenipanFrontpic
 	dba_pic ChenipanBackpic
-	dba_pic MetapodFrontpic
-	dba_pic MetapodBackpic
+	dba_pic ChrysacierFrontpic
+	dba_pic ChrysacierBackpic
 	dba_pic ButterfreeFrontpic
 	dba_pic ButterfreeBackpic
 	dba_pic AspicotFrontpic

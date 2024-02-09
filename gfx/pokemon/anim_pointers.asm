@@ -10,7 +10,7 @@ AnimationPointers:
 	dw CarabaffeAnimation
 	dw BlastoiseAnimation
 	dw ChenipanAnimation
-	dw MetapodAnimation
+	dw ChrysacierAnimation
 	dw ButterfreeAnimation
 	dw AspicotAnimation
 	dw KakunaAnimation

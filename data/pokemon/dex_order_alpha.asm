@@ -31,7 +31,7 @@ AlphabeticalPokedexOrder:
 	db CERFROUSSE
 	db CHENIPAN
 	db CHETIFLOR
-	db METAPOD
+	db CHRYSACIER
 	db SCIZOR
 	db PILOSWINE
 	db KAKUNA

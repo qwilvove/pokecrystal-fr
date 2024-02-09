@@ -29,7 +29,7 @@
 	const CARABAFFE  ; 08
 	const BLASTOISE  ; 09
 	const CHENIPAN   ; 0a
-	const METAPOD    ; 0b
+	const CHRYSACIER    ; 0b
 	const BUTTERFREE ; 0c
 	const ASPICOT     ; 0d
 	const KAKUNA     ; 0e

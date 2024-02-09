@@ -16,7 +16,7 @@ PokemonCries::
 	mon_cry CRY_CARAPUCE,     32,  192 ; CARABAFFE
 	mon_cry CRY_BLASTOISE,     0,  256 ; BLASTOISE
 	mon_cry CRY_CHENIPAN,    128,  160 ; CHENIPAN
-	mon_cry CRY_METAPOD,     204,  129 ; METAPOD
+	mon_cry CRY_CHRYSACIER,     204,  129 ; CHRYSACIER
 	mon_cry CRY_CHENIPAN,    119,  192 ; BUTTERFREE
 	mon_cry CRY_ASPICOT,      238,  129 ; ASPICOT
 	mon_cry CRY_BLASTOISE,   255,  129 ; KAKUNA
@@ -68,9 +68,9 @@ PokemonCries::
 	mon_cry CRY_PIDGEY,      255,  383 ; POLIWAG
 	mon_cry CRY_PIDGEY,      119,  224 ; POLIWHIRL
 	mon_cry CRY_PIDGEY,        0,  383 ; POLIWRATH
-	mon_cry CRY_METAPOD,     192,  129 ; ABRA
-	mon_cry CRY_METAPOD,     168,  320 ; KADABRA
-	mon_cry CRY_METAPOD,     152,  383 ; ALAKAZAM
+	mon_cry CRY_CHRYSACIER,     192,  129 ; ABRA
+	mon_cry CRY_CHRYSACIER,     168,  320 ; KADABRA
+	mon_cry CRY_CHRYSACIER,     152,  383 ; ALAKAZAM
 	mon_cry CRY_CANINOS,   238,  129 ; MACHOP
 	mon_cry CRY_CANINOS,    72,  224 ; MACHOKE
 	mon_cry CRY_CANINOS,     8,  320 ; MACHAMP
@@ -86,8 +86,8 @@ PokemonCries::
 	mon_cry CRY_BOUSTIFLOR,   32,  320 ; RAPIDASH
 	mon_cry CRY_SLOWPOKE,      0,  256 ; SLOWPOKE
 	mon_cry CRY_CANINOS,     0,  256 ; SLOWBRO
-	mon_cry CRY_METAPOD,     128,  224 ; MAGNEMITE
-	mon_cry CRY_METAPOD,      32,  320 ; MAGNETON
+	mon_cry CRY_CHRYSACIER,     128,  224 ; MAGNEMITE
+	mon_cry CRY_CHRYSACIER,      32,  320 ; MAGNETON
 	mon_cry CRY_SPEAROW,     221,  129 ; CANARTICHO
 	mon_cry CRY_DIGLETT,     187,  129 ; DODUO
 	mon_cry CRY_DIGLETT,     153,  160 ; DODRIO
@@ -97,8 +97,8 @@ PokemonCries::
 	mon_cry CRY_MUK,         239,  383 ; MUK
 	mon_cry CRY_FEAROW,        0,  256 ; SHELLDER
 	mon_cry CRY_FEAROW,      111,  352 ; CLOYSTER
-	mon_cry CRY_METAPOD,       0,  256 ; GASTLY
-	mon_cry CRY_METAPOD,      48,  192 ; HAUNTER
+	mon_cry CRY_CHRYSACIER,       0,  256 ; GASTLY
+	mon_cry CRY_CHRYSACIER,      48,  192 ; HAUNTER
 	mon_cry CRY_MUK,           0,  383 ; GENGAR
 	mon_cry CRY_ABO,       255,  320 ; ONIX
 	mon_cry CRY_DROWZEE,     136,  160 ; DROWZEE

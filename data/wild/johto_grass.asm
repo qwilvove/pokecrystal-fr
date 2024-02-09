@@ -567,7 +567,7 @@ JohtoGrassWildMons:
 	; morn
 	db 5, CHENIPAN
 	db 5, ASPICOT
-	db 7, METAPOD
+	db 7, CHRYSACIER
 	db 7, KAKUNA
 	db 7, PIDGEY
 	db 6, PARAS
@@ -575,7 +575,7 @@ JohtoGrassWildMons:
 	; day
 	db 5, CHENIPAN
 	db 5, ASPICOT
-	db 7, METAPOD
+	db 7, CHRYSACIER
 	db 7, KAKUNA
 	db 7, PIDGEY
 	db 6, PARAS

@@ -1022,11 +1022,11 @@ Cry_Lapras:
 	channel 6, Cry_Lapras_Ch6
 	channel 8, Cry_Lapras_Ch8
 
-Cry_Metapod:
+Cry_Chrysacier:
 	channel_count 3
-	channel 5, Cry_Metapod_Ch5
-	channel 6, Cry_Metapod_Ch6
-	channel 8, Cry_Metapod_Ch8
+	channel 5, Cry_Chrysacier_Ch5
+	channel 6, Cry_Chrysacier_Ch6
+	channel 8, Cry_Chrysacier_Ch8
 
 Cry_Carapuce:
 	channel_count 3
@@ -1895,7 +1895,7 @@ Cry_Abo_Ch8:
 	noise_note 15, 14, 2, 108
 	sound_ret
 
-Cry_Metapod_Ch5:
+Cry_Chrysacier_Ch5:
 	duty_cycle_pattern 3, 3, 1, 1
 	square_note 7, 13, 6, 2017
 	square_note 6, 12, 6, 2018
@@ -1907,7 +1907,7 @@ Cry_Metapod_Ch5:
 	square_note 8, 10, 1, 2015
 	sound_ret
 
-Cry_Metapod_Ch6:
+Cry_Chrysacier_Ch6:
 	duty_cycle_pattern 1, 0, 1, 0
 	square_note 6, 12, 3, 1993
 	square_note 6, 11, 3, 1991
@@ -1917,7 +1917,7 @@ Cry_Metapod_Ch6:
 	square_note 15, 10, 2, 1989
 	sound_ret
 
-Cry_Metapod_Ch8:
+Cry_Chrysacier_Ch8:
 	noise_note 13, 1, -1, 124
 	noise_note 13, 15, 7, 140
 	noise_note 12, 13, 6, 124

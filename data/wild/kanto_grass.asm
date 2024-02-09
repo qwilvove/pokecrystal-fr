@@ -707,7 +707,7 @@ KantoGrassWildMons:
 	; morn
 	db 8, CHENIPAN
 	db 10, CHENIPAN
-	db 12, METAPOD
+	db 12, CHRYSACIER
 	db 12, ABRA
 	db 10, CHETIFLOR
 	db 14, BUTTERFREE
@@ -736,7 +736,7 @@ KantoGrassWildMons:
 	db 10, CHENIPAN
 	db 10, PIDGEY
 	db 12, PIDGEOTTO
-	db 12, METAPOD
+	db 12, CHRYSACIER
 	db 10, CHETIFLOR
 	db 14, BUTTERFREE
 	db 14, BUTTERFREE
@@ -744,7 +744,7 @@ KantoGrassWildMons:
 	db 10, CHENIPAN
 	db 10, PIDGEY
 	db 12, PIDGEOTTO
-	db 12, METAPOD
+	db 12, CHRYSACIER
 	db 10, CHETIFLOR
 	db 14, BUTTERFREE
 	db 14, BUTTERFREE

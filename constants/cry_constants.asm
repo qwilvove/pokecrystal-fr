@@ -30,7 +30,7 @@
 	const CRY_CLEFAIRY
 	const CRY_VENONAT
 	const CRY_LAPRAS
-	const CRY_METAPOD
+	const CRY_CHRYSACIER
 	const CRY_CARAPUCE
 	const CRY_PARAS
 	const CRY_CANINOS

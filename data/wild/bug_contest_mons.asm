@@ -2,7 +2,7 @@ ContestMons:
 	;   %, species,   min, max
 	db 20, CHENIPAN,    7, 18
 	db 20, ASPICOT,      7, 18
-	db 10, METAPOD,     9, 18
+	db 10, CHRYSACIER,     9, 18
 	db 10, KAKUNA,      9, 18
 	db  5, BUTTERFREE, 12, 15
 	db  5, BEEDRILL,   12, 15

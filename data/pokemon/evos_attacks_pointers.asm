@@ -12,7 +12,7 @@ EvosAttacksPointers::
 	dw CarabaffeEvosAttacks
 	dw BlastoiseEvosAttacks
 	dw ChenipanEvosAttacks
-	dw MetapodEvosAttacks
+	dw ChrysacierEvosAttacks
 	dw ButterfreeEvosAttacks
 	dw AspicotEvosAttacks
 	dw KakunaEvosAttacks

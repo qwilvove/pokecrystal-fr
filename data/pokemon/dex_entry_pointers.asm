@@ -11,7 +11,7 @@ PokedexDataPointerTable:
 	dw CarabaffePokedexEntry
 	dw BlastoisePokedexEntry
 	dw ChenipanPokedexEntry
-	dw MetapodPokedexEntry
+	dw ChrysacierPokedexEntry
 	dw ButterfreePokedexEntry
 	dw AspicotPokedexEntry
 	dw KakunaPokedexEntry
