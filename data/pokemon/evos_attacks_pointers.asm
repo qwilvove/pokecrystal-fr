@@ -213,7 +213,7 @@ EvosAttacksPointers::
 	dw SnubbullEvosAttacks
 	dw GranbullEvosAttacks
 	dw QwilfishEvosAttacks
-	dw ScizorEvosAttacks
+	dw CizayoxEvosAttacks
 	dw CaratrocEvosAttacks
 	dw HeracrossEvosAttacks
 	dw SneaselEvosAttacks

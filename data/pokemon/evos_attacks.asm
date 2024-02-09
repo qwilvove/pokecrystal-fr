@@ -1667,7 +1667,7 @@ MrMimeEvosAttacks:
 	db 0 ; no more level-up moves
 
 ScytherEvosAttacks:
-	db EVOLVE_TRADE, METAL_COAT, SCIZOR
+	db EVOLVE_TRADE, METAL_COAT, CIZAYOX
 	db 0 ; no more evolutions
 	db 1, QUICK_ATTACK
 	db 1, LEER
@@ -2834,7 +2834,7 @@ QwilfishEvosAttacks:
 	db 46, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-ScizorEvosAttacks:
+CizayoxEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, QUICK_ATTACK
 	db 1, LEER

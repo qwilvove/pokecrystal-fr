@@ -112,7 +112,7 @@ NewPokedexOrder:
 	db VENONAT
 	db AEROMITE
 	db SCYTHER
-	db SCIZOR
+	db CIZAYOX
 	db PINSIR
 	db HERACROSS
 	db KOFFING

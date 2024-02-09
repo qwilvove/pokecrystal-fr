@@ -211,7 +211,7 @@ FramesPointers:
 	dw SnubbullFrames
 	dw GranbullFrames
 	dw QwilfishFrames
-	dw ScizorFrames
+	dw CizayoxFrames
 	dw CaratrocFrames
 	dw HeracrossFrames
 	dw SneaselFrames

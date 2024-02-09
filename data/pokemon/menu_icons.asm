@@ -213,7 +213,7 @@ MonMenuIcons:
 	db ICON_MONSTER     ; SNUBBULL
 	db ICON_MONSTER     ; GRANBULL
 	db ICON_FISH        ; QWILFISH
-	db ICON_BUG         ; SCIZOR
+	db ICON_BUG         ; CIZAYOX
 	db ICON_BUG         ; CARATROC
 	db ICON_BUG         ; HERACROSS
 	db ICON_FOX         ; SNEASEL

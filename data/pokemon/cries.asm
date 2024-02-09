@@ -217,7 +217,7 @@ PokemonCries::
 	mon_cry CRY_DUNSPARCE,   274,  232 ; SNUBBULL
 	mon_cry CRY_DUNSPARCE,     0,  384 ; GRANBULL
 	mon_cry CRY_SLOWKING,    352,  224 ; QWILFISH
-	mon_cry CRY_AMPHAROS,      0,  352 ; SCIZOR
+	mon_cry CRY_AMPHAROS,      0,  352 ; CIZAYOX
 	mon_cry CRY_DUNSPARCE,   656,  168 ; CARATROC
 	mon_cry CRY_AMPHAROS,     53,  224 ; HERACROSS
 	mon_cry CRY_AXOLOTO,       83,  175 ; SNEASEL

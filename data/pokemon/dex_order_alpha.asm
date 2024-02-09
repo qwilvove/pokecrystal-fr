@@ -32,7 +32,7 @@ AlphabeticalPokedexOrder:
 	db CHENIPAN
 	db CHETIFLOR
 	db CHRYSACIER
-	db SCIZOR
+	db CIZAYOX
 	db PILOSWINE
 	db KAKUNA
 	db PRIMEAPE
