@@ -9,7 +9,7 @@ AnimationIdlePointers:
 	dw CarapuceAnimationIdle
 	dw CarabaffeAnimationIdle
 	dw BlastoiseAnimationIdle
-	dw CaterpieAnimationIdle
+	dw ChenipanAnimationIdle
 	dw MetapodAnimationIdle
 	dw ButterfreeAnimationIdle
 	dw AspicotAnimationIdle

@@ -1,7 +1,7 @@
 ; Used by CheckSleepingTreeMon
 
 AsleepTreeMonsNite:
-	db CATERPIE
+	db CHENIPAN
 	db METAPOD
 	db BUTTERFREE
 	db ASPICOT

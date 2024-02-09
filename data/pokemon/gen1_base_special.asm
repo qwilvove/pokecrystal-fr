@@ -11,7 +11,7 @@ KantoMonSpecials:
 	db  50 ; CARAPUCE
 	db  65 ; CARABAFFE
 	db  85 ; BLASTOISE
-	db  20 ; CATERPIE
+	db  20 ; CHENIPAN
 	db  25 ; METAPOD
 	db  80 ; BUTTERFREE
 	db  20 ; ASPICOT

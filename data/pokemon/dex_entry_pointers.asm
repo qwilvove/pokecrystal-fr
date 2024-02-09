@@ -10,7 +10,7 @@ PokedexDataPointerTable:
 	dw CarapucePokedexEntry
 	dw CarabaffePokedexEntry
 	dw BlastoisePokedexEntry
-	dw CaterpiePokedexEntry
+	dw ChenipanPokedexEntry
 	dw MetapodPokedexEntry
 	dw ButterfreePokedexEntry
 	dw AspicotPokedexEntry

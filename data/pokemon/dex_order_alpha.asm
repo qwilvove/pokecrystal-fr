@@ -29,7 +29,7 @@ AlphabeticalPokedexOrder:
 	db CARATROC
 	db CELEBI
 	db CERFROUSSE
-	db CATERPIE
+	db CHENIPAN
 	db BELLSPROUT
 	db METAPOD
 	db SCIZOR

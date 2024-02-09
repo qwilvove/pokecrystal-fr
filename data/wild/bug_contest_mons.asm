@@ -1,6 +1,6 @@
 ContestMons:
 	;   %, species,   min, max
-	db 20, CATERPIE,    7, 18
+	db 20, CHENIPAN,    7, 18
 	db 20, ASPICOT,      7, 18
 	db 10, METAPOD,     9, 18
 	db 10, KAKUNA,      9, 18

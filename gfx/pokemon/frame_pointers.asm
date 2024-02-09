@@ -9,7 +9,7 @@ FramesPointers:
 	dw CarapuceFrames
 	dw CarabaffeFrames
 	dw BlastoiseFrames
-	dw CaterpieFrames
+	dw ChenipanFrames
 	dw MetapodFrames
 	dw ButterfreeFrames
 	dw AspicotFrames

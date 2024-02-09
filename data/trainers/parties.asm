@@ -1496,8 +1496,8 @@ SabrinaGroup:
 BugCatcherGroup:
 	; BUG_CATCHER (1)
 	db "JEAN-RAOUL@", TRAINERTYPE_NORMAL
-	db  3, CATERPIE
-	db  3, CATERPIE
+	db  3, CHENIPAN
+	db  3, CHENIPAN
 	db -1 ; end
 
 	; BUG_CATCHER (2)
@@ -1515,10 +1515,10 @@ BugCatcherGroup:
 
 	; BUG_CATCHER (4)
 	db "MAXIME@", TRAINERTYPE_NORMAL
-	db  2, CATERPIE
-	db  2, CATERPIE
+	db  2, CHENIPAN
+	db  2, CHENIPAN
 	db  3, ASPICOT
-	db  2, CATERPIE
+	db  2, CHENIPAN
 	db -1 ; end
 
 	; BUG_CATCHER (5)
@@ -1530,7 +1530,7 @@ BugCatcherGroup:
 
 	; BUG_CATCHER (6)
 	db "JEAN-LOIC@", TRAINERTYPE_NORMAL
-	db 12, CATERPIE
+	db 12, CHENIPAN
 	db 12, ASPICOT
 	db -1 ; end
 

@@ -25,7 +25,7 @@ NewPokedexOrder:
 	db PICHU
 	db PIKACHU
 	db RAICHU
-	db CATERPIE
+	db CHENIPAN
 	db METAPOD
 	db BUTTERFREE
 	db ASPICOT

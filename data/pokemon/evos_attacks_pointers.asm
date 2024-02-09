@@ -11,7 +11,7 @@ EvosAttacksPointers::
 	dw CarapuceEvosAttacks
 	dw CarabaffeEvosAttacks
 	dw BlastoiseEvosAttacks
-	dw CaterpieEvosAttacks
+	dw ChenipanEvosAttacks
 	dw MetapodEvosAttacks
 	dw ButterfreeEvosAttacks
 	dw AspicotEvosAttacks

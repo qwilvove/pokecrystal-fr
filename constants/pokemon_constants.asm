@@ -28,7 +28,7 @@
 	const CARAPUCE   ; 07
 	const CARABAFFE  ; 08
 	const BLASTOISE  ; 09
-	const CATERPIE   ; 0a
+	const CHENIPAN   ; 0a
 	const METAPOD    ; 0b
 	const BUTTERFREE ; 0c
 	const ASPICOT     ; 0d

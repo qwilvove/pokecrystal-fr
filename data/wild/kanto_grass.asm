@@ -201,7 +201,7 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_2
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, CATERPIE
+	db 3, CHENIPAN
 	db 3, LEDYBA
 	db 5, PIDGEY
 	db 7, BUTTERFREE
@@ -209,7 +209,7 @@ KantoGrassWildMons:
 	db 4, PIKACHU
 	db 4, PIKACHU
 	; day
-	db 3, CATERPIE
+	db 3, CHENIPAN
 	db 3, PIDGEY
 	db 5, PIDGEY
 	db 7, BUTTERFREE
@@ -705,17 +705,17 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_24
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 8, CATERPIE
-	db 10, CATERPIE
+	db 8, CHENIPAN
+	db 10, CHENIPAN
 	db 12, METAPOD
 	db 12, ABRA
 	db 10, BELLSPROUT
 	db 14, BUTTERFREE
 	db 14, BUTTERFREE
 	; day
-	db 8, CATERPIE
+	db 8, CHENIPAN
 	db 12, SUNKERN
-	db 10, CATERPIE
+	db 10, CHENIPAN
 	db 12, ABRA
 	db 10, BELLSPROUT
 	db 14, BUTTERFREE
@@ -733,7 +733,7 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_25
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 10, CATERPIE
+	db 10, CHENIPAN
 	db 10, PIDGEY
 	db 12, PIDGEOTTO
 	db 12, METAPOD
@@ -741,7 +741,7 @@ KantoGrassWildMons:
 	db 14, BUTTERFREE
 	db 14, BUTTERFREE
 	; day
-	db 10, CATERPIE
+	db 10, CHENIPAN
 	db 10, PIDGEY
 	db 12, PIDGEOTTO
 	db 12, METAPOD

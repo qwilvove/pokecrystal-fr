@@ -15,9 +15,9 @@ PokemonCries::
 	mon_cry CRY_CARAPUCE,     96,  192 ; CARAPUCE
 	mon_cry CRY_CARAPUCE,     32,  192 ; CARABAFFE
 	mon_cry CRY_BLASTOISE,     0,  256 ; BLASTOISE
-	mon_cry CRY_CATERPIE,    128,  160 ; CATERPIE
+	mon_cry CRY_CHENIPAN,    128,  160 ; CHENIPAN
 	mon_cry CRY_METAPOD,     204,  129 ; METAPOD
-	mon_cry CRY_CATERPIE,    119,  192 ; BUTTERFREE
+	mon_cry CRY_CHENIPAN,    119,  192 ; BUTTERFREE
 	mon_cry CRY_ASPICOT,      238,  129 ; ASPICOT
 	mon_cry CRY_BLASTOISE,   255,  129 ; KAKUNA
 	mon_cry CRY_BLASTOISE,    96,  256 ; BEEDRILL
@@ -123,12 +123,12 @@ PokemonCries::
 	mon_cry CRY_KANGASKHAN,    0,  256 ; KANGASKHAN
 	mon_cry CRY_CLEFAIRY,    153,  144 ; HORSEA
 	mon_cry CRY_CLEFAIRY,     60,  129 ; SEADRA
-	mon_cry CRY_CATERPIE,    128,  192 ; GOLDEEN
-	mon_cry CRY_CATERPIE,     16,  383 ; SEAKING
+	mon_cry CRY_CHENIPAN,    128,  192 ; GOLDEEN
+	mon_cry CRY_CHENIPAN,     16,  383 ; SEAKING
 	mon_cry CRY_PARAS,         2,  160 ; STARYU
 	mon_cry CRY_PARAS,         0,  256 ; STARMIE
 	mon_cry CRY_KRABBY,        8,  192 ; MR__MIME
-	mon_cry CRY_CATERPIE,      0,  256 ; SCYTHER
+	mon_cry CRY_CHENIPAN,      0,  256 ; SCYTHER
 	mon_cry CRY_DROWZEE,     255,  383 ; JYNX
 	mon_cry CRY_VOLTORB,     143,  383 ; ELECTABUZZ
 	mon_cry CRY_CHARMANDER,  255,  176 ; MAGMAR
@@ -145,7 +145,7 @@ PokemonCries::
 	mon_cry CRY_BOUSTIFLOR,  170,  383 ; PORYGON
 	mon_cry CRY_CANINOS,   240,  129 ; AMONITA
 	mon_cry CRY_CANINOS,   255,  192 ; AMONISTAR
-	mon_cry CRY_CATERPIE,    187,  192 ; KABUTO
+	mon_cry CRY_CHENIPAN,    187,  192 ; KABUTO
 	mon_cry CRY_FEAROW,      238,  129 ; KABUTOPS
 	mon_cry CRY_VILEPLUME,    32,  368 ; AERODACTYL
 	mon_cry CRY_GRIMER,       85,  129 ; SNORLAX

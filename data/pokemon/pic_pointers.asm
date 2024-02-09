@@ -21,8 +21,8 @@ PokemonPicPointers::
 	dba_pic CarabaffeBackpic
 	dba_pic BlastoiseFrontpic
 	dba_pic BlastoiseBackpic
-	dba_pic CaterpieFrontpic
-	dba_pic CaterpieBackpic
+	dba_pic ChenipanFrontpic
+	dba_pic ChenipanBackpic
 	dba_pic MetapodFrontpic
 	dba_pic MetapodBackpic
 	dba_pic ButterfreeFrontpic

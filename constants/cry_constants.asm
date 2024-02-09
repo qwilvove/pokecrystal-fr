@@ -24,7 +24,7 @@
 	const CRY_BLASTOISE
 	const CRY_PIDGEOTTO
 	const CRY_ASPICOT
-	const CRY_CATERPIE
+	const CRY_CHENIPAN
 	const CRY_ABO
 	const CRY_FEAROW
 	const CRY_CLEFAIRY

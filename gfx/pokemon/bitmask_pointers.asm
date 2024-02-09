@@ -9,7 +9,7 @@ BitmasksPointers:
 	dw CarapuceBitmasks
 	dw CarabaffeBitmasks
 	dw BlastoiseBitmasks
-	dw CaterpieBitmasks
+	dw ChenipanBitmasks
 	dw MetapodBitmasks
 	dw ButterfreeBitmasks
 	dw AspicotBitmasks
