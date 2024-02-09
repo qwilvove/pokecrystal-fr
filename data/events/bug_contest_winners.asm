@@ -21,7 +21,7 @@ BugContestantPointers:
 
 BugContestant_BugCatcherDon:
 	db BUG_CATCHER, DON
-	dbw KAKUNA,     300
+	dbw COCONFORT,     300
 	dbw CHRYSACIER,    285
 	dbw CHENIPAN,   226
 
@@ -53,7 +53,7 @@ BugContestant_CamperBarry:
 	db CAMPER, BARRY
 	dbw PINSIR,     366
 	dbw VENONAT,    329
-	dbw KAKUNA,     314
+	dbw COCONFORT,     314
 
 BugContestant_PicnickerCindy:
 	db PICNICKER, CINDY
@@ -77,4 +77,4 @@ BugContestant_SchoolboyKipp:
 	db SCHOOLBOY, KIPP
 	dbw VENONAT,    267
 	dbw PARAS,      254
-	dbw KAKUNA,     259
+	dbw COCONFORT,     259

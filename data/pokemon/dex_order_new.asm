@@ -29,7 +29,7 @@ NewPokedexOrder:
 	db CHRYSACIER
 	db BUTTERFREE
 	db ASPICOT
-	db KAKUNA
+	db COCONFORT
 	db BEEDRILL
 	db LEDYBA
 	db LEDIAN

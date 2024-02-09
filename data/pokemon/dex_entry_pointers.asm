@@ -14,7 +14,7 @@ PokedexDataPointerTable:
 	dw ChrysacierPokedexEntry
 	dw ButterfreePokedexEntry
 	dw AspicotPokedexEntry
-	dw KakunaPokedexEntry
+	dw CoconfortPokedexEntry
 	dw BeedrillPokedexEntry
 	dw PidgeyPokedexEntry
 	dw PidgeottoPokedexEntry

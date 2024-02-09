@@ -5,7 +5,7 @@ AsleepTreeMonsNite:
 	db CHRYSACIER
 	db BUTTERFREE
 	db ASPICOT
-	db KAKUNA
+	db COCONFORT
 	db BEEDRILL
 	db SPEAROW
 	db ABO

@@ -15,7 +15,7 @@ EvosAttacksPointers::
 	dw ChrysacierEvosAttacks
 	dw ButterfreeEvosAttacks
 	dw AspicotEvosAttacks
-	dw KakunaEvosAttacks
+	dw CoconfortEvosAttacks
 	dw BeedrillEvosAttacks
 	dw PidgeyEvosAttacks
 	dw PidgeottoEvosAttacks

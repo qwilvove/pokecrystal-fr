@@ -568,7 +568,7 @@ JohtoGrassWildMons:
 	db 5, CHENIPAN
 	db 5, ASPICOT
 	db 7, CHRYSACIER
-	db 7, KAKUNA
+	db 7, COCONFORT
 	db 7, PIDGEY
 	db 6, PARAS
 	db 6, PARAS
@@ -576,7 +576,7 @@ JohtoGrassWildMons:
 	db 5, CHENIPAN
 	db 5, ASPICOT
 	db 7, CHRYSACIER
-	db 7, KAKUNA
+	db 7, COCONFORT
 	db 7, PIDGEY
 	db 6, PARAS
 	db 6, PARAS

@@ -32,7 +32,7 @@
 	const CHRYSACIER    ; 0b
 	const BUTTERFREE ; 0c
 	const ASPICOT     ; 0d
-	const KAKUNA     ; 0e
+	const COCONFORT     ; 0e
 	const BEEDRILL   ; 0f
 	const PIDGEY     ; 10
 	const PIDGEOTTO  ; 11

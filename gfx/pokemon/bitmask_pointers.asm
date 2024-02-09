@@ -13,7 +13,7 @@ BitmasksPointers:
 	dw ChrysacierBitmasks
 	dw ButterfreeBitmasks
 	dw AspicotBitmasks
-	dw KakunaBitmasks
+	dw CoconfortBitmasks
 	dw BeedrillBitmasks
 	dw PidgeyBitmasks
 	dw PidgeottoBitmasks

@@ -13,7 +13,7 @@ AnimationIdlePointers:
 	dw ChrysacierAnimationIdle
 	dw ButterfreeAnimationIdle
 	dw AspicotAnimationIdle
-	dw KakunaAnimationIdle
+	dw CoconfortAnimationIdle
 	dw BeedrillAnimationIdle
 	dw PidgeyAnimationIdle
 	dw PidgeottoAnimationIdle

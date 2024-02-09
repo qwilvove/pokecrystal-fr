@@ -13,7 +13,7 @@ FramesPointers:
 	dw ChrysacierFrames
 	dw ButterfreeFrames
 	dw AspicotFrames
-	dw KakunaFrames
+	dw CoconfortFrames
 	dw BeedrillFrames
 	dw PidgeyFrames
 	dw PidgeottoFrames

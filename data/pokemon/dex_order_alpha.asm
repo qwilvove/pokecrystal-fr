@@ -34,7 +34,7 @@ AlphabeticalPokedexOrder:
 	db CHRYSACIER
 	db CIZAYOX
 	db COCHIGNON
-	db KAKUNA
+	db COCONFORT
 	db PRIMEAPE
 	db CORSOLA
 	db MURKROW

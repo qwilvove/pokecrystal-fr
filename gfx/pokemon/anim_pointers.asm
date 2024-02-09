@@ -13,7 +13,7 @@ AnimationPointers:
 	dw ChrysacierAnimation
 	dw ButterfreeAnimation
 	dw AspicotAnimation
-	dw KakunaAnimation
+	dw CoconfortAnimation
 	dw BeedrillAnimation
 	dw PidgeyAnimation
 	dw PidgeottoAnimation
