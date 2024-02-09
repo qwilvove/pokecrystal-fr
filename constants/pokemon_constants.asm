@@ -75,7 +75,7 @@
 	const PSYDUCK    ; 36
 	const AKWAKWAK    ; 37
 	const MANKEY     ; 38
-	const PRIMEAPE   ; 39
+	const COLOSSINGE   ; 39
 	const CANINOS  ; 3a
 	const ARCANIN   ; 3b
 	const POLIWAG    ; 3c

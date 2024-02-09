@@ -735,7 +735,7 @@ AkwakwakEvosAttacks:
 	db 0 ; no more level-up moves
 
 MankeyEvosAttacks:
-	db EVOLVE_LEVEL, 28, PRIMEAPE
+	db EVOLVE_LEVEL, 28, COLOSSINGE
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, LEER
@@ -749,7 +749,7 @@ MankeyEvosAttacks:
 	db 51, THRASH
 	db 0 ; no more level-up moves
 
-PrimeapeEvosAttacks:
+ColossingeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, LEER

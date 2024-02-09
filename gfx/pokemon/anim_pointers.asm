@@ -56,7 +56,7 @@ AnimationPointers:
 	dw PsyduckAnimation
 	dw AkwakwakAnimation
 	dw MankeyAnimation
-	dw PrimeapeAnimation
+	dw ColossingeAnimation
 	dw CaninosAnimation
 	dw ArcaninAnimation
 	dw PoliwagAnimation

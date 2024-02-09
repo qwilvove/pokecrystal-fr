@@ -58,7 +58,7 @@ EvosAttacksPointers::
 	dw PsyduckEvosAttacks
 	dw AkwakwakEvosAttacks
 	dw MankeyEvosAttacks
-	dw PrimeapeEvosAttacks
+	dw ColossingeEvosAttacks
 	dw CaninosEvosAttacks
 	dw ArcaninEvosAttacks
 	dw PoliwagEvosAttacks

@@ -115,8 +115,8 @@ PokemonPicPointers::
 	dba_pic AkwakwakBackpic
 	dba_pic MankeyFrontpic
 	dba_pic MankeyBackpic
-	dba_pic PrimeapeFrontpic
-	dba_pic PrimeapeBackpic
+	dba_pic ColossingeFrontpic
+	dba_pic ColossingeBackpic
 	dba_pic CaninosFrontpic
 	dba_pic CaninosBackpic
 	dba_pic ArcaninFrontpic

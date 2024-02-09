@@ -136,7 +136,7 @@ NewPokedexOrder:
 	db DIGLETT
 	db DUGTRIO
 	db MANKEY
-	db PRIMEAPE
+	db COLOSSINGE
 	db MEOWTH
 	db PERSIAN
 	db PSYDUCK

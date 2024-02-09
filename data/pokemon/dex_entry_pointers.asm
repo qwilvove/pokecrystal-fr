@@ -57,7 +57,7 @@ PokedexDataPointerTable:
 	dw PsyduckPokedexEntry
 	dw AkwakwakPokedexEntry
 	dw MankeyPokedexEntry
-	dw PrimeapePokedexEntry
+	dw ColossingePokedexEntry
 	dw CaninosPokedexEntry
 	dw ArcaninPokedexEntry
 	dw PoliwagPokedexEntry

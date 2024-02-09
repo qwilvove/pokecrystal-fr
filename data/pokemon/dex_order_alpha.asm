@@ -35,7 +35,7 @@ AlphabeticalPokedexOrder:
 	db CIZAYOX
 	db COCHIGNON
 	db COCONFORT
-	db PRIMEAPE
+	db COLOSSINGE
 	db CORSOLA
 	db MURKROW
 	db JUMPLUFF

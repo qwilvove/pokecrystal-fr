@@ -56,7 +56,7 @@ FramesPointers:
 	dw PsyduckFrames
 	dw AkwakwakFrames
 	dw MankeyFrames
-	dw PrimeapeFrames
+	dw ColossingeFrames
 	dw CaninosFrames
 	dw ArcaninFrames
 	dw PoliwagFrames
