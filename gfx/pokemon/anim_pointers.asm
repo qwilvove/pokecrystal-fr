@@ -220,7 +220,7 @@ AnimationPointers:
 	dw SlugmaAnimation
 	dw MagcargoAnimation
 	dw SwinubAnimation
-	dw PiloswineAnimation
+	dw CochignonAnimation
 	dw CorsolaAnimation
 	dw RemoraidAnimation
 	dw OctilleryAnimation

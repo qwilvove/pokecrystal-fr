@@ -220,7 +220,7 @@ FramesPointers:
 	dw SlugmaFrames
 	dw MagcargoFrames
 	dw SwinubFrames
-	dw PiloswineFrames
+	dw CochignonFrames
 	dw CorsolaFrames
 	dw RemoraidFrames
 	dw OctilleryFrames

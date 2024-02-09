@@ -220,7 +220,7 @@ AnimationIdlePointers:
 	dw SlugmaAnimationIdle
 	dw MagcargoAnimationIdle
 	dw SwinubAnimationIdle
-	dw PiloswineAnimationIdle
+	dw CochignonAnimationIdle
 	dw CorsolaAnimationIdle
 	dw RemoraidAnimationIdle
 	dw OctilleryAnimationIdle

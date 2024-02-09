@@ -221,7 +221,7 @@ PokedexDataPointerTable:
 	dw SlugmaPokedexEntry
 	dw MagcargoPokedexEntry
 	dw SwinubPokedexEntry
-	dw PiloswinePokedexEntry
+	dw CochignonPokedexEntry
 	dw CorsolaPokedexEntry
 	dw RemoraidPokedexEntry
 	dw OctilleryPokedexEntry

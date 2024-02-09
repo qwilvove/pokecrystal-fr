@@ -226,7 +226,7 @@ PokemonCries::
 	mon_cry CRY_SLUGMA,     -472,  320 ; SLUGMA
 	mon_cry CRY_MAGCARGO,   -525,  448 ; MAGCARGO
 	mon_cry CRY_CYNDAQUIL,   510,  320 ; SWINUB
-	mon_cry CRY_MAGCARGO,   -265,  256 ; PILOSWINE
+	mon_cry CRY_MAGCARGO,   -265,  256 ; COCHIGNON
 	mon_cry CRY_MAGCARGO,    161,  232 ; CORSOLA
 	mon_cry CRY_SUNFLORA,     13,  256 ; REMORAID
 	mon_cry CRY_TOTODILE,      0,  384 ; OCTILLERY

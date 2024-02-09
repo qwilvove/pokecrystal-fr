@@ -222,7 +222,7 @@ EvosAttacksPointers::
 	dw SlugmaEvosAttacks
 	dw MagcargoEvosAttacks
 	dw SwinubEvosAttacks
-	dw PiloswineEvosAttacks
+	dw CochignonEvosAttacks
 	dw CorsolaEvosAttacks
 	dw RemoraidEvosAttacks
 	dw OctilleryEvosAttacks

@@ -33,7 +33,7 @@ AlphabeticalPokedexOrder:
 	db CHETIFLOR
 	db CHRYSACIER
 	db CIZAYOX
-	db PILOSWINE
+	db COCHIGNON
 	db KAKUNA
 	db PRIMEAPE
 	db CORSOLA

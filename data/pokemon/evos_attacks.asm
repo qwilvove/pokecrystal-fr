@@ -2943,7 +2943,7 @@ MagcargoEvosAttacks:
 	db 0 ; no more level-up moves
 
 SwinubEvosAttacks:
-	db EVOLVE_LEVEL, 33, PILOSWINE
+	db EVOLVE_LEVEL, 33, COCHIGNON
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 10, POWDER_SNOW
@@ -2954,7 +2954,7 @@ SwinubEvosAttacks:
 	db 55, AMNESIA
 	db 0 ; no more level-up moves
 
-PiloswineEvosAttacks:
+CochignonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, HORN_ATTACK
 	db 1, POWDER_SNOW

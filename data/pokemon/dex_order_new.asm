@@ -193,7 +193,7 @@ NewPokedexOrder:
 	db GLIGAR
 	db CADOIZO
 	db SWINUB
-	db PILOSWINE
+	db COCHIGNON
 	db TEDDIURSA
 	db URSARING
 	db PHANPY

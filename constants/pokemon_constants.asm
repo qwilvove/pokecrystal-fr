@@ -240,7 +240,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const SLUGMA     ; da
 	const MAGCARGO   ; db
 	const SWINUB     ; dc
-	const PILOSWINE  ; dd
+	const COCHIGNON  ; dd
 	const CORSOLA    ; de
 	const REMORAID   ; df
 	const OCTILLERY  ; e0
