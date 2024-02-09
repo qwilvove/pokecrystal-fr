@@ -197,7 +197,7 @@ BitmasksPointers:
 	dw QuagsireBitmasks
 	dw EspeonBitmasks
 	dw UmbreonBitmasks
-	dw MurkrowBitmasks
+	dw CornebreBitmasks
 	dw SlowkingBitmasks
 	dw MisdreavusBitmasks
 	dw UnownBitmasks

@@ -203,7 +203,7 @@ PokemonCries::
 	mon_cry CRY_AXOLOTO,     -198,  320 ; QUAGSIRE
 	mon_cry CRY_CAPUMAIN,       162,  320 ; ESPEON
 	mon_cry CRY_VENONAT,    -233,  240 ; UMBREON
-	mon_cry CRY_MARILL,      -31,  384 ; MURKROW
+	mon_cry CRY_MARILL,      -31,  384 ; CORNEBRE
 	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
 	mon_cry CRY_HOOTHOOT,    304,  232 ; MISDREAVUS
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN

@@ -449,7 +449,7 @@ INCBIN "gfx/footprints/axoloto.1bpp",     footprint_top
 INCBIN "gfx/footprints/quagsire.1bpp",   footprint_top
 INCBIN "gfx/footprints/espeon.1bpp",     footprint_top
 INCBIN "gfx/footprints/umbreon.1bpp",    footprint_top
-INCBIN "gfx/footprints/murkrow.1bpp",    footprint_top
+INCBIN "gfx/footprints/cornebre.1bpp",    footprint_top
 INCBIN "gfx/footprints/slowking.1bpp",   footprint_top
 INCBIN "gfx/footprints/misdreavus.1bpp", footprint_top
 ; 193-200 bottom halves
@@ -458,7 +458,7 @@ INCBIN "gfx/footprints/axoloto.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/quagsire.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/espeon.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/umbreon.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/murkrow.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/cornebre.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/slowking.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/misdreavus.1bpp", footprint_bottom
 ; 201-208 top halves

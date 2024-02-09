@@ -199,7 +199,7 @@ MonMenuIcons:
 	db ICON_MONSTER     ; QUAGSIRE
 	db ICON_FOX         ; ESPEON
 	db ICON_FOX         ; UMBREON
-	db ICON_BIRD        ; MURKROW
+	db ICON_BIRD        ; CORNEBRE
 	db ICON_SLOWPOKE    ; SLOWKING
 	db ICON_GHOST       ; MISDREAVUS
 	db ICON_UNOWN       ; UNOWN

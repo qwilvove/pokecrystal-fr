@@ -199,7 +199,7 @@ EvosAttacksPointers::
 	dw QuagsireEvosAttacks
 	dw EspeonEvosAttacks
 	dw UmbreonEvosAttacks
-	dw MurkrowEvosAttacks
+	dw CornebreEvosAttacks
 	dw SlowkingEvosAttacks
 	dw MisdreavusEvosAttacks
 	dw UnownEvosAttacks

@@ -2668,7 +2668,7 @@ UmbreonEvosAttacks:
 	db 52, MOONLIGHT
 	db 0 ; no more level-up moves
 
-MurkrowEvosAttacks:
+CornebreEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 11, PURSUIT

@@ -197,7 +197,7 @@ FramesPointers:
 	dw QuagsireFrames
 	dw EspeonFrames
 	dw UmbreonFrames
-	dw MurkrowFrames
+	dw CornebreFrames
 	dw SlowkingFrames
 	dw MisdreavusFrames
 	dw UnownFrames

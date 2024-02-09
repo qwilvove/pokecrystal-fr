@@ -600,7 +600,7 @@ AxolotoEggMoves:
 	db SAFEGUARD
 	db -1 ; end
 
-MurkrowEggMoves:
+CornebreEggMoves:
 	db WHIRLWIND
 	db DRILL_PECK
 	db QUICK_ATTACK

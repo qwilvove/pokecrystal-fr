@@ -237,7 +237,7 @@ Pokered_MonIndices:
 	db QUAGSIRE
 	db ESPEON
 	db UMBREON
-	db MURKROW
+	db CORNEBRE
 	db SLOWKING
 	db MISDREAVUS
 	db UNOWN

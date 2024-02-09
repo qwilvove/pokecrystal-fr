@@ -198,7 +198,7 @@ PokedexDataPointerTable:
 	dw QuagsirePokedexEntry
 	dw EspeonPokedexEntry
 	dw UmbreonPokedexEntry
-	dw MurkrowPokedexEntry
+	dw CornebrePokedexEntry
 	dw SlowkingPokedexEntry
 	dw MisdreavusPokedexEntry
 	dw UnownPokedexEntry

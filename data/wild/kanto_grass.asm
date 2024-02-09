@@ -358,7 +358,7 @@ KantoGrassWildMons:
 	db 16, ABRA
 	; nite
 	db 17, MEOWTH
-	db 17, MURKROW
+	db 17, CORNEBRE
 	db 18, HOUNDOUR
 	db 18, PERSIAN
 	db 18, JIGGLYPUFF
@@ -584,8 +584,8 @@ KantoGrassWildMons:
 	db 26, GRIMER
 	db 27, GRIMER
 	db 28, GRIMER
-	db 29, MURKROW
-	db 29, MURKROW
+	db 29, CORNEBRE
+	db 29, CORNEBRE
 	db 30, MUK
 	db 30, MUK
 	end_grass_wildmons

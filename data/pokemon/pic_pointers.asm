@@ -397,8 +397,8 @@ PokemonPicPointers::
 	dba_pic EspeonBackpic
 	dba_pic UmbreonFrontpic
 	dba_pic UmbreonBackpic
-	dba_pic MurkrowFrontpic
-	dba_pic MurkrowBackpic
+	dba_pic CornebreFrontpic
+	dba_pic CornebreBackpic
 	dba_pic SlowkingFrontpic
 	dba_pic SlowkingBackpic
 	dba_pic MisdreavusFrontpic

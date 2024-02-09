@@ -209,7 +209,7 @@ NewPokedexOrder:
 	db KANGASKHAN
 	db RHYHORN
 	db RHYDON
-	db MURKROW
+	db CORNEBRE
 	db HOUNDOUR
 	db HOUNDOOM
 	db SLUGMA
