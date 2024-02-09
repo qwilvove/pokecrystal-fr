@@ -20,7 +20,7 @@ PokemonCries::
 	mon_cry CRY_CHENIPAN,    119,  192 ; BUTTERFREE
 	mon_cry CRY_ASPICOT,      238,  129 ; ASPICOT
 	mon_cry CRY_BLASTOISE,   255,  129 ; COCONFORT
-	mon_cry CRY_BLASTOISE,    96,  256 ; BEEDRILL
+	mon_cry CRY_BLASTOISE,    96,  256 ; DARDARGNAN
 	mon_cry CRY_PIDGEY,      223,  132 ; PIDGEY
 	mon_cry CRY_PIDGEOTTO,    40,  320 ; PIDGEOTTO
 	mon_cry CRY_PIDGEOTTO,    17,  383 ; PIDGEOT

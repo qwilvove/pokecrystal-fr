@@ -43,7 +43,7 @@ AlphabeticalPokedexOrder:
 	db COXYCLAQUE
 	db CROCRODIL
 	db CRUSTABRI
-	db BEEDRILL
+	db DARDARGNAN
 	db TYROGUE
 	db MANTINE
 	db HOUNDOOM

@@ -6,7 +6,7 @@ AsleepTreeMonsNite:
 	db BUTTERFREE
 	db ASPICOT
 	db COCONFORT
-	db BEEDRILL
+	db DARDARGNAN
 	db SPEAROW
 	db ABO
 	db EXEGGCUTE

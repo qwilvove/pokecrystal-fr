@@ -14,7 +14,7 @@ FramesPointers:
 	dw ButterfreeFrames
 	dw AspicotFrames
 	dw CoconfortFrames
-	dw BeedrillFrames
+	dw DardargnanFrames
 	dw PidgeyFrames
 	dw PidgeottoFrames
 	dw PidgeotFrames

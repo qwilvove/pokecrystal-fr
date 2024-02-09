@@ -33,7 +33,7 @@
 	const BUTTERFREE ; 0c
 	const ASPICOT     ; 0d
 	const COCONFORT     ; 0e
-	const BEEDRILL   ; 0f
+	const DARDARGNAN   ; 0f
 	const PIDGEY     ; 10
 	const PIDGEOTTO  ; 11
 	const PIDGEOT    ; 12

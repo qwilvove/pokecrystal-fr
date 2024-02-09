@@ -15,7 +15,7 @@ PokedexDataPointerTable:
 	dw ButterfreePokedexEntry
 	dw AspicotPokedexEntry
 	dw CoconfortPokedexEntry
-	dw BeedrillPokedexEntry
+	dw DardargnanPokedexEntry
 	dw PidgeyPokedexEntry
 	dw PidgeottoPokedexEntry
 	dw PidgeotPokedexEntry

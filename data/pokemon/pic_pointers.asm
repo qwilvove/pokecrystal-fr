@@ -31,8 +31,8 @@ PokemonPicPointers::
 	dba_pic AspicotBackpic
 	dba_pic CoconfortFrontpic
 	dba_pic CoconfortBackpic
-	dba_pic BeedrillFrontpic
-	dba_pic BeedrillBackpic
+	dba_pic DardargnanFrontpic
+	dba_pic DardargnanBackpic
 	dba_pic PidgeyFrontpic
 	dba_pic PidgeyBackpic
 	dba_pic PidgeottoFrontpic

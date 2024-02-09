@@ -16,7 +16,7 @@ KantoMonSpecials:
 	db  80 ; BUTTERFREE
 	db  20 ; ASPICOT
 	db  25 ; COCONFORT
-	db  45 ; BEEDRILL
+	db  45 ; DARDARGNAN
 	db  35 ; PIDGEY
 	db  50 ; PIDGEOTTO
 	db  70 ; PIDGEOT

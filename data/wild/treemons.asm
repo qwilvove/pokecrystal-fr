@@ -114,7 +114,7 @@ TreeMonSet_Forest:
 	db 15, PINECO,     10
 	db 10, NOCTOWL,    10
 	db  5, BUTTERFREE, 10
-	db  5, BEEDRILL,   10
+	db  5, DARDARGNAN,   10
 	db -1
 ; rare
 	db 50, HOOTHOOT,   10

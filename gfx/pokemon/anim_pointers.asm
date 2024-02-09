@@ -14,7 +14,7 @@ AnimationPointers:
 	dw ButterfreeAnimation
 	dw AspicotAnimation
 	dw CoconfortAnimation
-	dw BeedrillAnimation
+	dw DardargnanAnimation
 	dw PidgeyAnimation
 	dw PidgeottoAnimation
 	dw PidgeotAnimation
