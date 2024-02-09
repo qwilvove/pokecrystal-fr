@@ -221,7 +221,7 @@ AnimationPointers:
 	dw MagcargoAnimation
 	dw SwinubAnimation
 	dw CochignonAnimation
-	dw CorsolaAnimation
+	dw CorayonAnimation
 	dw RemoraidAnimation
 	dw OctilleryAnimation
 	dw CadoizoAnimation

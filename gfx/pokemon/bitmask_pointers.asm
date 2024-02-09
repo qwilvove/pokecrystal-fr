@@ -221,7 +221,7 @@ BitmasksPointers:
 	dw MagcargoBitmasks
 	dw SwinubBitmasks
 	dw CochignonBitmasks
-	dw CorsolaBitmasks
+	dw CorayonBitmasks
 	dw RemoraidBitmasks
 	dw OctilleryBitmasks
 	dw CadoizoBitmasks

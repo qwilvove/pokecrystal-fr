@@ -223,7 +223,7 @@ EvosAttacksPointers::
 	dw MagcargoEvosAttacks
 	dw SwinubEvosAttacks
 	dw CochignonEvosAttacks
-	dw CorsolaEvosAttacks
+	dw CorayonEvosAttacks
 	dw RemoraidEvosAttacks
 	dw OctilleryEvosAttacks
 	dw CadoizoEvosAttacks

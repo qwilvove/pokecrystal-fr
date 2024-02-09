@@ -701,7 +701,7 @@ SwinubEggMoves:
 	db ANCIENTPOWER
 	db -1 ; end
 
-CorsolaEggMoves:
+CorayonEggMoves:
 	db ROCK_SLIDE
 	db SAFEGUARD
 	db SCREECH

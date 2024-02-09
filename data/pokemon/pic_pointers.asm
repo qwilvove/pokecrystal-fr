@@ -448,8 +448,8 @@ PokemonPicPointers::
 	dba_pic SwinubBackpic
 	dba_pic CochignonFrontpic
 	dba_pic CochignonBackpic
-	dba_pic CorsolaFrontpic
-	dba_pic CorsolaBackpic
+	dba_pic CorayonFrontpic
+	dba_pic CorayonBackpic
 	dba_pic RemoraidFrontpic
 	dba_pic RemoraidBackpic
 	dba_pic OctilleryFrontpic

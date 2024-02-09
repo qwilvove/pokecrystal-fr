@@ -221,7 +221,7 @@ FramesPointers:
 	dw MagcargoFrames
 	dw SwinubFrames
 	dw CochignonFrames
-	dw CorsolaFrames
+	dw CorayonFrames
 	dw RemoraidFrames
 	dw OctilleryFrames
 	dw CadoizoFrames

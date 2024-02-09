@@ -36,7 +36,7 @@ AlphabeticalPokedexOrder:
 	db COCHIGNON
 	db COCONFORT
 	db COLOSSINGE
-	db CORSOLA
+	db CORAYON
 	db MURKROW
 	db JUMPLUFF
 	db LEDYBA

@@ -1154,7 +1154,7 @@ BeautyGroup:
 
 	; BEAUTY (17)
 	db "LOANNA@", TRAINERTYPE_NORMAL
-	db 19, CORSOLA
+	db 19, CORAYON
 	db -1 ; end
 
 PokemaniacGroup:

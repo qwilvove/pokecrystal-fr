@@ -221,7 +221,7 @@ AnimationIdlePointers:
 	dw MagcargoAnimationIdle
 	dw SwinubAnimationIdle
 	dw CochignonAnimationIdle
-	dw CorsolaAnimationIdle
+	dw CorayonAnimationIdle
 	dw RemoraidAnimationIdle
 	dw OctilleryAnimationIdle
 	dw CadoizoAnimationIdle
