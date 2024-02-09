@@ -228,7 +228,7 @@ BitmasksPointers:
 	dw DemantaBitmasks
 	dw AirmureBitmasks
 	dw HoundourBitmasks
-	dw HoundoomBitmasks
+	dw DemolosseBitmasks
 	dw KingdraBitmasks
 	dw PhanpyBitmasks
 	dw DonphanBitmasks

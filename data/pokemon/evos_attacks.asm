@@ -3035,7 +3035,7 @@ AirmureEvosAttacks:
 	db 0 ; no more level-up moves
 
 HoundourEvosAttacks:
-	db EVOLVE_LEVEL, 24, HOUNDOOM
+	db EVOLVE_LEVEL, 24, DEMOLOSSE
 	db 0 ; no more evolutions
 	db 1, LEER
 	db 1, EMBER
@@ -3047,7 +3047,7 @@ HoundourEvosAttacks:
 	db 43, CRUNCH
 	db 0 ; no more level-up moves
 
-HoundoomEvosAttacks:
+DemolosseEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, LEER
 	db 1, EMBER

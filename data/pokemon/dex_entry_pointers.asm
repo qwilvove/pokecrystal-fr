@@ -229,7 +229,7 @@ PokedexDataPointerTable:
 	dw DemantaPokedexEntry
 	dw AirmurePokedexEntry
 	dw HoundourPokedexEntry
-	dw HoundoomPokedexEntry
+	dw DemolossePokedexEntry
 	dw KingdraPokedexEntry
 	dw PhanpyPokedexEntry
 	dw DonphanPokedexEntry

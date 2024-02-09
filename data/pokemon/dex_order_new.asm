@@ -211,7 +211,7 @@ NewPokedexOrder:
 	db RHYDON
 	db CORNEBRE
 	db HOUNDOUR
-	db HOUNDOOM
+	db DEMOLOSSE
 	db SLUGMA
 	db MAGCARGO
 	db SNEASEL

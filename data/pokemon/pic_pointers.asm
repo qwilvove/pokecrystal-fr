@@ -462,8 +462,8 @@ PokemonPicPointers::
 	dba_pic AirmureBackpic
 	dba_pic HoundourFrontpic
 	dba_pic HoundourBackpic
-	dba_pic HoundoomFrontpic
-	dba_pic HoundoomBackpic
+	dba_pic DemolosseFrontpic
+	dba_pic DemolosseBackpic
 	dba_pic KingdraFrontpic
 	dba_pic KingdraBackpic
 	dba_pic PhanpyFrontpic

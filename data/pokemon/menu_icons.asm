@@ -230,7 +230,7 @@ MonMenuIcons:
 	db ICON_FISH        ; DEMANTA
 	db ICON_BIRD        ; AIRMURE
 	db ICON_FOX         ; HOUNDOUR
-	db ICON_FOX         ; HOUNDOOM
+	db ICON_FOX         ; DEMOLOSSE
 	db ICON_BIGMON      ; KINGDRA
 	db ICON_EQUINE      ; PHANPY
 	db ICON_EQUINE      ; DONPHAN

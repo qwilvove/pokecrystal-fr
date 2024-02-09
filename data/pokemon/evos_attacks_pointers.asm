@@ -230,7 +230,7 @@ EvosAttacksPointers::
 	dw DemantaEvosAttacks
 	dw AirmureEvosAttacks
 	dw HoundourEvosAttacks
-	dw HoundoomEvosAttacks
+	dw DemolosseEvosAttacks
 	dw KingdraEvosAttacks
 	dw PhanpyEvosAttacks
 	dw DonphanEvosAttacks

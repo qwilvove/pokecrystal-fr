@@ -228,7 +228,7 @@ FramesPointers:
 	dw DemantaFrames
 	dw AirmureFrames
 	dw HoundourFrames
-	dw HoundoomFrames
+	dw DemolosseFrames
 	dw KingdraFrames
 	dw PhanpyFrames
 	dw DonphanFrames

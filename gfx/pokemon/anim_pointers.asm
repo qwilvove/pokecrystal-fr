@@ -228,7 +228,7 @@ AnimationPointers:
 	dw DemantaAnimation
 	dw AirmureAnimation
 	dw HoundourAnimation
-	dw HoundoomAnimation
+	dw DemolosseAnimation
 	dw KingdraAnimation
 	dw PhanpyAnimation
 	dw DonphanAnimation

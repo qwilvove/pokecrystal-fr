@@ -228,7 +228,7 @@ AnimationIdlePointers:
 	dw DemantaAnimationIdle
 	dw AirmureAnimationIdle
 	dw HoundourAnimationIdle
-	dw HoundoomAnimationIdle
+	dw DemolosseAnimationIdle
 	dw KingdraAnimationIdle
 	dw PhanpyAnimationIdle
 	dw DonphanAnimationIdle

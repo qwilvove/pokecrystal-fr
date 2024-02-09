@@ -46,7 +46,7 @@ AlphabeticalPokedexOrder:
 	db DARDARGNAN
 	db DEBUGANT
 	db DEMANTA
-	db HOUNDOOM
+	db DEMOLOSSE
 	db DODRIO
 	db DODUO
 	db DONPHAN

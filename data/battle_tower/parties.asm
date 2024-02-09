@@ -1284,7 +1284,7 @@ BattleTowerMons:
 	bigdw 109 ; SDef
 	db "HAPINASU@@@"
 
-	db HOUNDOOM
+	db DEMOLOSSE
 	db CHARCOAL
 	db FLAMETHROWER, CRUNCH, SHADOW_BALL, DREAM_EATER
 	dw 0 ; OT ID
@@ -2226,7 +2226,7 @@ BattleTowerMons:
 	bigdw 144 ; SDef
 	db "KINGUDORA@@"
 
-	db HOUNDOOM
+	db DEMOLOSSE
 	db MIRACLEBERRY
 	db REST, CRUNCH, DREAM_EATER, FLAMETHROWER
 	dw 0 ; OT ID
@@ -2801,7 +2801,7 @@ BattleTowerMons:
 	bigdw 175 ; SDef
 	db "BANGIRASU@@"
 
-	db HOUNDOOM
+	db DEMOLOSSE
 	db MIRACLEBERRY
 	db FLAMETHROWER, CRUNCH, DREAM_EATER, REST
 	dw 0 ; OT ID
@@ -3428,7 +3428,7 @@ BattleTowerMons:
 	bigdw 215 ; SDef
 	db "KABIGON@@@@"
 
-	db HOUNDOOM
+	db DEMOLOSSE
 	db KINGS_ROCK
 	db CRUNCH, FLAMETHROWER, FAINT_ATTACK, ROAR
 	dw 0 ; OT ID
@@ -3899,7 +3899,7 @@ BattleTowerMons:
 	bigdw 250 ; SDef
 	db "KABIGON@@@@"
 
-	db HOUNDOOM
+	db DEMOLOSSE
 	db MINT_BERRY
 	db REST, CRUNCH, FLAMETHROWER, SUNNY_DAY
 	dw 0 ; OT ID
@@ -4760,7 +4760,7 @@ BattleTowerMons:
 	bigdw 322 ; SDef
 	db "HAPINASU@@@"
 
-	db HOUNDOOM
+	db DEMOLOSSE
 	db BRIGHTPOWDER
 	db FLAMETHROWER, CRUNCH, SUNNY_DAY, SOLARBEAM
 	dw 0 ; OT ID
@@ -4945,7 +4945,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 10
 
-	db HOUNDOOM
+	db DEMOLOSSE
 	db MINT_BERRY
 	db CRUNCH, FLAMETHROWER, ROAR, REST
 	dw 0 ; OT ID
