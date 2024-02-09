@@ -58,7 +58,7 @@ Cries:
 	dba Cry_Coxy
 	dba Cry_Entei
 	dba Cry_Axoloto
-	dba Cry_Mantine
+	dba Cry_Demanta
 	dba Cry_Typhlosion
 	dba Cry_Natu
 	dba Cry_Teddiursa

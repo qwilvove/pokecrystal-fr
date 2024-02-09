@@ -45,7 +45,7 @@ AlphabeticalPokedexOrder:
 	db CRUSTABRI
 	db DARDARGNAN
 	db DEBUGANT
-	db MANTINE
+	db DEMANTA
 	db HOUNDOOM
 	db DODRIO
 	db DODUO

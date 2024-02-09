@@ -225,7 +225,7 @@ AnimationIdlePointers:
 	dw RemoraidAnimationIdle
 	dw OctilleryAnimationIdle
 	dw CadoizoAnimationIdle
-	dw MantineAnimationIdle
+	dw DemantaAnimationIdle
 	dw AirmureAnimationIdle
 	dw HoundourAnimationIdle
 	dw HoundoomAnimationIdle

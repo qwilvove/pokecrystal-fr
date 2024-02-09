@@ -225,7 +225,7 @@ BitmasksPointers:
 	dw RemoraidBitmasks
 	dw OctilleryBitmasks
 	dw CadoizoBitmasks
-	dw MantineBitmasks
+	dw DemantaBitmasks
 	dw AirmureBitmasks
 	dw HoundourBitmasks
 	dw HoundoomBitmasks

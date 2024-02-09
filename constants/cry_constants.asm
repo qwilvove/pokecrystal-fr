@@ -61,7 +61,7 @@
 	const CRY_COXY
 	const CRY_ENTEI
 	const CRY_AXOLOTO
-	const CRY_MANTINE
+	const CRY_DEMANTA
 	const CRY_TYPHLOSION
 	const CRY_NATU
 	const CRY_TEDDIURSA

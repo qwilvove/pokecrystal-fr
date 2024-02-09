@@ -4159,7 +4159,7 @@ BattleTowerMons:
 	bigdw 225 ; SDef
 	db "RU-ZIyuRA@@"
 
-	db MANTINE
+	db DEMANTA
 	db GOLD_BERRY
 	db SURF, CONFUSE_RAY, BLIZZARD, WING_ATTACK
 	dw 0 ; OT ID

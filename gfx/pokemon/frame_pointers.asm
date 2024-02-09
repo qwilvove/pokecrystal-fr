@@ -225,7 +225,7 @@ FramesPointers:
 	dw RemoraidFrames
 	dw OctilleryFrames
 	dw CadoizoFrames
-	dw MantineFrames
+	dw DemantaFrames
 	dw AirmureFrames
 	dw HoundourFrames
 	dw HoundoomFrames

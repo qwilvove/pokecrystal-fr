@@ -3011,7 +3011,7 @@ CadoizoEvosAttacks:
 	db 1, PRESENT
 	db 0 ; no more level-up moves
 
-MantineEvosAttacks:
+DemantaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, BUBBLE

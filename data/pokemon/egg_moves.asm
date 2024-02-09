@@ -725,7 +725,7 @@ CadoizoEggMoves:
 	db RAPID_SPIN
 	db -1 ; end
 
-MantineEggMoves:
+DemantaEggMoves:
 	db TWISTER
 	db HYDRO_PUMP
 	db HAZE

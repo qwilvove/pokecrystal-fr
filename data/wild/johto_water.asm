@@ -174,7 +174,7 @@ JohtoWaterWildMons:
 	db 6 percent ; encounter rate
 	db 20, TENTACOOL
 	db 20, TENTACRUEL
-	db 20, MANTINE
+	db 20, DEMANTA
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_42

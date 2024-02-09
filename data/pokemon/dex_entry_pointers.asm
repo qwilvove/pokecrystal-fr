@@ -226,7 +226,7 @@ PokedexDataPointerTable:
 	dw RemoraidPokedexEntry
 	dw OctilleryPokedexEntry
 	dw CadoizoPokedexEntry
-	dw MantinePokedexEntry
+	dw DemantaPokedexEntry
 	dw AirmurePokedexEntry
 	dw HoundourPokedexEntry
 	dw HoundoomPokedexEntry

@@ -225,7 +225,7 @@ EggMovePointers::
 	dw RemoraidEggMoves
 	dw NoEggMoves
 	dw CadoizoEggMoves
-	dw MantineEggMoves
+	dw DemantaEggMoves
 	dw AirmureEggMoves
 	dw HoundourEggMoves
 	dw NoEggMoves

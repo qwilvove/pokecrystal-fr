@@ -231,7 +231,7 @@ PokemonCries::
 	mon_cry CRY_SUNFLORA,     13,  256 ; REMORAID
 	mon_cry CRY_TOTODILE,      0,  384 ; OCTILLERY
 	mon_cry CRY_TEDDIURSA,     2,  106 ; CADOIZO
-	mon_cry CRY_MANTINE,    -190,  240 ; MANTINE
+	mon_cry CRY_DEMANTA,    -190,  240 ; DEMANTA
 	mon_cry CRY_AMPHAROS,   2217,  384 ; AIRMURE
 	mon_cry CRY_CYNDAQUIL,    57,  320 ; HOUNDOUR
 	mon_cry CRY_TOTODILE,   -266,  256 ; HOUNDOOM

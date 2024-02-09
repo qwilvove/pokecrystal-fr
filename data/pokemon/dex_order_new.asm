@@ -198,7 +198,7 @@ NewPokedexOrder:
 	db URSARING
 	db PHANPY
 	db DONPHAN
-	db MANTINE
+	db DEMANTA
 	db AIRMURE
 	db DODUO
 	db DODRIO

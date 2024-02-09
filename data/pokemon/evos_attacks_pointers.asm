@@ -227,7 +227,7 @@ EvosAttacksPointers::
 	dw RemoraidEvosAttacks
 	dw OctilleryEvosAttacks
 	dw CadoizoEvosAttacks
-	dw MantineEvosAttacks
+	dw DemantaEvosAttacks
 	dw AirmureEvosAttacks
 	dw HoundourEvosAttacks
 	dw HoundoomEvosAttacks

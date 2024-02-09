@@ -225,7 +225,7 @@ AnimationPointers:
 	dw RemoraidAnimation
 	dw OctilleryAnimation
 	dw CadoizoAnimation
-	dw MantineAnimation
+	dw DemantaAnimation
 	dw AirmureAnimation
 	dw HoundourAnimation
 	dw HoundoomAnimation

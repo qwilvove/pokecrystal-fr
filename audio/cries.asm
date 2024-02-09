@@ -166,11 +166,11 @@ Cry_Entei:
 	channel 6, Cry_Entei_Ch6
 	channel 8, Cry_Entei_Ch8
 
-Cry_Mantine:
+Cry_Demanta:
 	channel_count 3
-	channel 5, Cry_Mantine_Ch5
-	channel 6, Cry_Mantine_Ch6
-	channel 8, Cry_Mantine_Ch8
+	channel 5, Cry_Demanta_Ch5
+	channel 6, Cry_Demanta_Ch6
+	channel 8, Cry_Demanta_Ch8
 
 Cry_Entei_Ch5:
 	pitch_sweep 15, -7
@@ -714,18 +714,18 @@ Cry_Sunflora_Ch5:
 	duty_cycle 0
 	sound_jump Cry_Natu_Ch5.body1
 
-Cry_Mantine_Ch5:
+Cry_Demanta_Ch5:
 	duty_cycle 0
 	sound_call Cry_Natu_Ch5.body1
 	sound_call Cry_Natu_Ch5.body2
 	sound_ret
 
-Cry_Mantine_Ch6:
+Cry_Demanta_Ch6:
 	sound_call Cry_Sunflora_Ch6.body1
 	sound_call Cry_Sunflora_Ch6.body2
 	sound_ret
 
-Cry_Mantine_Ch8:
+Cry_Demanta_Ch8:
 	sound_call Cry_Sunflora_Ch8.body1
 	sound_call Cry_Sunflora_Ch8.body2
 	sound_ret
