@@ -2243,7 +2243,7 @@ NoctowlEvosAttacks:
 	db 0 ; no more level-up moves
 
 LedybaEvosAttacks:
-	db EVOLVE_LEVEL, 18, LEDIAN
+	db EVOLVE_LEVEL, 18, COXYCLAQUE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 8, SUPERSONIC
@@ -2257,7 +2257,7 @@ LedybaEvosAttacks:
 	db 50, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
-LedianEvosAttacks:
+CoxyclaqueEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, SUPERSONIC

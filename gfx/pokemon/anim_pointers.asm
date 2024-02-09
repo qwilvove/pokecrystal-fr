@@ -165,7 +165,7 @@ AnimationPointers:
 	dw HoothootAnimation
 	dw NoctowlAnimation
 	dw LedybaAnimation
-	dw LedianAnimation
+	dw CoxyclaqueAnimation
 	dw SpinarakAnimation
 	dw AriadosAnimation
 	dw CrobatAnimation

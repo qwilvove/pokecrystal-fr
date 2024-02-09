@@ -167,7 +167,7 @@ EvosAttacksPointers::
 	dw HoothootEvosAttacks
 	dw NoctowlEvosAttacks
 	dw LedybaEvosAttacks
-	dw LedianEvosAttacks
+	dw CoxyclaqueEvosAttacks
 	dw SpinarakEvosAttacks
 	dw AriadosEvosAttacks
 	dw CrobatEvosAttacks

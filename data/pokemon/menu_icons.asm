@@ -167,7 +167,7 @@ MonMenuIcons:
 	db ICON_BIRD        ; HOOTHOOT
 	db ICON_BIRD        ; NOCTOWL
 	db ICON_BUG         ; LEDYBA
-	db ICON_BUG         ; LEDIAN
+	db ICON_BUG         ; COXYCLAQUE
 	db ICON_BUG         ; SPINARAK
 	db ICON_BUG         ; ARIADOS
 	db ICON_BAT         ; CROBAT

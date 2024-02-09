@@ -40,7 +40,7 @@ AlphabeticalPokedexOrder:
 	db CORNEBRE
 	db COTOVOL
 	db LEDYBA
-	db LEDIAN
+	db COXYCLAQUE
 	db CROCONAW
 	db CLOYSTER
 	db BEEDRILL

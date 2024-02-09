@@ -1466,8 +1466,8 @@ JohtoGrassWildMons:
 	db 15, PIDGEY
 	db 16, CANINOS
 	db 15, PIDGEOTTO
-	db 15, LEDIAN
-	db 15, LEDIAN
+	db 15, COXYCLAQUE
+	db 15, COXYCLAQUE
 	; day
 	db 13, PIDGEY
 	db 14, CANINOS

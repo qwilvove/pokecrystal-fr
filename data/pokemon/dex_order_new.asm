@@ -32,7 +32,7 @@ NewPokedexOrder:
 	db COCONFORT
 	db BEEDRILL
 	db LEDYBA
-	db LEDIAN
+	db COXYCLAQUE
 	db SPINARAK
 	db ARIADOS
 	db GEODUDE

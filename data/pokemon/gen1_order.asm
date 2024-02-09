@@ -205,7 +205,7 @@ Pokered_MonIndices:
 	db HOOTHOOT
 	db NOCTOWL
 	db LEDYBA
-	db LEDIAN
+	db COXYCLAQUE
 	db SPINARAK
 	db ARIADOS
 	db CROBAT

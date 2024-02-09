@@ -205,7 +205,7 @@ KantoGrassWildMons:
 	db 3, LEDYBA
 	db 5, PIDGEY
 	db 7, BUTTERFREE
-	db 7, LEDIAN
+	db 7, COXYCLAQUE
 	db 4, PIKACHU
 	db 4, PIKACHU
 	; day
