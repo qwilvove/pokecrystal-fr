@@ -164,7 +164,7 @@ FramesPointers:
 	dw FurretFrames
 	dw HoothootFrames
 	dw NoctowlFrames
-	dw LedybaFrames
+	dw CoxyFrames
 	dw CoxyclaqueFrames
 	dw SpinarakFrames
 	dw AriadosFrames

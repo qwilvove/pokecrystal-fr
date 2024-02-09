@@ -331,8 +331,8 @@ PokemonPicPointers::
 	dba_pic HoothootBackpic
 	dba_pic NoctowlFrontpic
 	dba_pic NoctowlBackpic
-	dba_pic LedybaFrontpic
-	dba_pic LedybaBackpic
+	dba_pic CoxyFrontpic
+	dba_pic CoxyBackpic
 	dba_pic CoxyclaqueFrontpic
 	dba_pic CoxyclaqueBackpic
 	dba_pic SpinarakFrontpic

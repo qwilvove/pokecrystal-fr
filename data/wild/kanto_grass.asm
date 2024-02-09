@@ -202,7 +202,7 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 3, CHENIPAN
-	db 3, LEDYBA
+	db 3, COXY
 	db 5, PIDGEY
 	db 7, BUTTERFREE
 	db 7, COXYCLAQUE

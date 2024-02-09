@@ -343,7 +343,7 @@ JohtoGrassWildMons:
 	; morn
 	db 12, NIDORAN_M
 	db 12, NIDORAN_F
-	db 14, LEDYBA
+	db 14, COXY
 	db 13, PIDGEY
 	db 10, CHENIPAN
 	db 10, ASPICOT
@@ -1265,7 +1265,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_30
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, LEDYBA
+	db 3, COXY
 	db 3, CHENIPAN
 	db 4, CHENIPAN
 	db 4, PIDGEY
@@ -1293,7 +1293,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_31
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 4, LEDYBA
+	db 4, COXY
 	db 4, CHENIPAN
 	db 5, CHETIFLOR
 	db 5, PIDGEY
@@ -1433,7 +1433,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_36
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 4, LEDYBA
+	db 4, COXY
 	db 4, PIDGEY
 	db 5, CHETIFLOR
 	db 5, CANINOS
@@ -1461,7 +1461,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_37
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 13, LEDYBA
+	db 13, COXY
 	db 14, CANINOS
 	db 15, PIDGEY
 	db 16, CANINOS

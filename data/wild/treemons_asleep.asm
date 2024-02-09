@@ -10,7 +10,7 @@ AsleepTreeMonsNite:
 	db SPEAROW
 	db ABO
 	db EXEGGCUTE
-	db LEDYBA
+	db COXY
 	db CAPUMAIN
 	db -1 ; end
 

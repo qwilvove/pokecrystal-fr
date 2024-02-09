@@ -164,7 +164,7 @@ AnimationIdlePointers:
 	dw FurretAnimationIdle
 	dw HoothootAnimationIdle
 	dw NoctowlAnimationIdle
-	dw LedybaAnimationIdle
+	dw CoxyAnimationIdle
 	dw CoxyclaqueAnimationIdle
 	dw SpinarakAnimationIdle
 	dw AriadosAnimationIdle

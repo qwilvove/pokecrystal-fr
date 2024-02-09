@@ -164,7 +164,7 @@ AnimationPointers:
 	dw FurretAnimation
 	dw HoothootAnimation
 	dw NoctowlAnimation
-	dw LedybaAnimation
+	dw CoxyAnimation
 	dw CoxyclaqueAnimation
 	dw SpinarakAnimation
 	dw AriadosAnimation

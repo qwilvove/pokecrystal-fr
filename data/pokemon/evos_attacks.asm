@@ -2242,7 +2242,7 @@ NoctowlEvosAttacks:
 	db 57, DREAM_EATER
 	db 0 ; no more level-up moves
 
-LedybaEvosAttacks:
+CoxyEvosAttacks:
 	db EVOLVE_LEVEL, 18, COXYCLAQUE
 	db 0 ; no more evolutions
 	db 1, TACKLE

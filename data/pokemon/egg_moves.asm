@@ -484,7 +484,7 @@ HoothootEggMoves:
 	db SKY_ATTACK
 	db -1 ; end
 
-LedybaEggMoves:
+CoxyEggMoves:
 	db PSYBEAM
 	db BIDE
 	db LIGHT_SCREEN

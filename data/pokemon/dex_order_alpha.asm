@@ -39,7 +39,7 @@ AlphabeticalPokedexOrder:
 	db CORAYON
 	db CORNEBRE
 	db COTOVOL
-	db LEDYBA
+	db COXY
 	db COXYCLAQUE
 	db CROCONAW
 	db CLOYSTER

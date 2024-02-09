@@ -76,11 +76,11 @@ Cry_Slugma:
 	channel 5, Cry_Slugma_Ch5
 	channel 8, Cry_Slugma_Ch8
 
-Cry_Ledyba:
+Cry_Coxy:
 	channel_count 3
-	channel 5, Cry_Ledyba_Ch5
-	channel 6, Cry_Ledyba_Ch6
-	channel 8, Cry_Ledyba_Ch8
+	channel 5, Cry_Coxy_Ch5
+	channel 6, Cry_Coxy_Ch6
+	channel 8, Cry_Coxy_Ch8
 
 Cry_Axoloto:
 	channel_count 3
@@ -563,12 +563,12 @@ Cry_Slugma_Ch8:
 	noise_note 8, 10, 1, 92
 	sound_ret
 
-Cry_Ledyba_Ch5:
+Cry_Coxy_Ch5:
 	pitch_offset 2
 	duty_cycle 2
-	sound_jump Cry_Ledyba_Ch6.body
+	sound_jump Cry_Coxy_Ch6.body
 
-Cry_Ledyba_Ch6:
+Cry_Coxy_Ch6:
 	duty_cycle_pattern 0, 0, 0, 1
 .body:
 	square_note 3, 15, 8, 1937
@@ -579,7 +579,7 @@ Cry_Ledyba_Ch6:
 	square_note 4, 14, 1, 1873
 	sound_ret
 
-Cry_Ledyba_Ch8:
+Cry_Coxy_Ch8:
 	noise_note 3, 5, -1, 33
 	noise_note 3, 8, 1, 0
 	noise_note 2, 2, 0, 0

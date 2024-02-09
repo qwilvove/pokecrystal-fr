@@ -55,7 +55,7 @@ Cries:
 	dba Cry_Gligar
 	dba Cry_Cleffa
 	dba Cry_Slugma
-	dba Cry_Ledyba
+	dba Cry_Coxy
 	dba Cry_Entei
 	dba Cry_Axoloto
 	dba Cry_Mantine

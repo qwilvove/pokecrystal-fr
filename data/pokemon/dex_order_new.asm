@@ -31,7 +31,7 @@ NewPokedexOrder:
 	db ASPICOT
 	db COCONFORT
 	db BEEDRILL
-	db LEDYBA
+	db COXY
 	db COXYCLAQUE
 	db SPINARAK
 	db ARIADOS
