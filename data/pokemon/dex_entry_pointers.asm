@@ -236,7 +236,7 @@ PokedexDataPointerTable:
 	dw Porygon2PokedexEntry
 	dw CerfroussePokedexEntry
 	dw SmearglePokedexEntry
-	dw TyroguePokedexEntry
+	dw DebugantPokedexEntry
 	dw HitmontopPokedexEntry
 	dw SmoochumPokedexEntry
 	dw ElekidPokedexEntry

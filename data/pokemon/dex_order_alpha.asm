@@ -44,7 +44,7 @@ AlphabeticalPokedexOrder:
 	db CROCRODIL
 	db CRUSTABRI
 	db DARDARGNAN
-	db TYROGUE
+	db DEBUGANT
 	db MANTINE
 	db HOUNDOOM
 	db DODRIO

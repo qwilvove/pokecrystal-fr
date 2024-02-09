@@ -15,8 +15,8 @@ MountMortarB1F_MapScripts:
 MountMortarB1FKiyoScript:
 	faceplayer
 	opentext
-	checkevent EVENT_GOT_TYROGUE_FROM_KIYO
-	iftrue .GotTyrogue
+	checkevent EVENT_GOT_DEBUGANT_FROM_KIYO
+	iftrue .GotDebugant
 	checkevent EVENT_BEAT_BLACKBELT_KIYO
 	iftrue .BeatKiyo
 	writetext MountMortarB1FKiyoIntroText
@@ -29,7 +29,7 @@ MountMortarB1FKiyoScript:
 	setevent EVENT_BEAT_BLACKBELT_KIYO
 	opentext
 .BeatKiyo:
-	writetext MountMortarB1FTyrogueRewardText
+	writetext MountMortarB1FDebugantRewardText
 	promptbutton
 	waitsfx
 	readvar VAR_PARTYCOUNT
@@ -37,10 +37,10 @@ MountMortarB1FKiyoScript:
 	writetext MountMortarB1FReceiveMonText
 	playsound SFX_CAUGHT_MON
 	waitsfx
-	givepoke TYROGUE, 10
-	setevent EVENT_GOT_TYROGUE_FROM_KIYO
-.GotTyrogue:
-	writetext MountMortarB1FKiyoGotTyrogueText
+	givepoke DEBUGANT, 10
+	setevent EVENT_GOT_DEBUGANT_FROM_KIYO
+.GotDebugant:
+	writetext MountMortarB1FKiyoGotDebugantText
 	waitbutton
 	closetext
 	end
@@ -92,7 +92,7 @@ MountMortarB1FKiyoWinText:
 	line "Perdu!"
 	done
 
-MountMortarB1FTyrogueRewardText:
+MountMortarB1FDebugantRewardText:
 	text "J'suis...mauvais."
 
 	para "Mon entraînement"
@@ -114,7 +114,7 @@ MountMortarB1FReceiveMonText:
 	line "DEBUGANT."
 	done
 
-MountMortarB1FKiyoGotTyrogueText:
+MountMortarB1FKiyoGotDebugantText:
 	text "DEBUGANT est du"
 	line "type COMBAT."
 

@@ -241,7 +241,7 @@ PokemonCries::
 	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGON2
 	mon_cry CRY_CAPUMAIN,      -352,  384 ; CERFROUSSE
 	mon_cry CRY_PICHU,      -538,  496 ; SMEARGLE
-	mon_cry CRY_CAPUMAIN,        44,  264 ; TYROGUE
+	mon_cry CRY_CAPUMAIN,        44,  264 ; DEBUGANT
 	mon_cry CRY_SLUGMA,        0,  256 ; HITMONTOP
 	mon_cry CRY_MARILL,      104,  256 ; SMOOCHUM
 	mon_cry CRY_SUNFLORA,   -728,  180 ; ELEKID

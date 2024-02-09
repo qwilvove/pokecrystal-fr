@@ -235,7 +235,7 @@ FramesPointers:
 	dw Porygon2Frames
 	dw CerfrousseFrames
 	dw SmeargleFrames
-	dw TyrogueFrames
+	dw DebugantFrames
 	dw HitmontopFrames
 	dw SmoochumFrames
 	dw ElekidFrames

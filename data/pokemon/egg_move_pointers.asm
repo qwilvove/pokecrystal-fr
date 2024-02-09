@@ -235,7 +235,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw CerfrousseEggMoves
 	dw NoEggMoves
-	dw TyrogueEggMoves
+	dw DebugantEggMoves
 	dw NoEggMoves
 	dw SmoochumEggMoves
 	dw ElekidEggMoves

@@ -764,7 +764,7 @@ CerfrousseEggMoves:
 	db BITE
 	db -1 ; end
 
-TyrogueEggMoves:
+DebugantEggMoves:
 	db RAPID_SPIN
 	db HI_JUMP_KICK
 	db MACH_PUNCH
