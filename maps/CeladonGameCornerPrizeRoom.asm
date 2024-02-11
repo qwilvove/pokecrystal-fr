@@ -3,7 +3,7 @@ DEF CELADONGAMECORNERPRIZEROOM_TM29_COINS     EQU 3500
 DEF CELADONGAMECORNERPRIZEROOM_TM15_COINS     EQU 7500
 DEF CELADONGAMECORNERPRIZEROOM_PIKACHU_COINS  EQU 2222
 DEF CELADONGAMECORNERPRIZEROOM_PORYGON_COINS  EQU 5555
-DEF CELADONGAMECORNERPRIZEROOM_LARVITAR_COINS EQU 8888
+DEF CELADONGAMECORNERPRIZEROOM_EMBRYLEX_COINS EQU 8888
 
 	object_const_def
 	const CELADONGAMECORNERPRIZEROOM_GENTLEMAN
@@ -136,7 +136,7 @@ CeladonGameCornerPrizeRoomPokemonVendor:
 	closewindow
 	ifequal 1, .Pikachu
 	ifequal 2, .Porygon
-	ifequal 3, .Larvitar
+	ifequal 3, .Embrylex
 	sjump CeladonPrizeRoom_CancelPurchaseScript
 
 .Pikachu:
@@ -175,22 +175,22 @@ CeladonGameCornerPrizeRoomPokemonVendor:
 	takecoins CELADONGAMECORNERPRIZEROOM_PORYGON_COINS
 	sjump .loop
 
-.Larvitar:
-	checkcoins CELADONGAMECORNERPRIZEROOM_LARVITAR_COINS
+.Embrylex:
+	checkcoins CELADONGAMECORNERPRIZEROOM_EMBRYLEX_COINS
 	ifequal HAVE_LESS, CeladonPrizeRoom_notenoughcoins
 	readvar VAR_PARTYCOUNT
 	ifequal PARTY_LENGTH, CeladonPrizeRoom_notenoughroom
-	getmonname STRING_BUFFER_3, LARVITAR
+	getmonname STRING_BUFFER_3, EMBRYLEX
 	scall CeladonPrizeRoom_askbuy
 	iffalse CeladonPrizeRoom_CancelPurchaseScript
 	waitsfx
 	playsound SFX_TRANSACTION
 	writetext CeladonPrizeRoom_HereYouGoText
 	waitbutton
-	setval LARVITAR
+	setval EMBRYLEX
 	special GameCornerPrizeMonCheckDex
-	givepoke LARVITAR, 40
-	takecoins CELADONGAMECORNERPRIZEROOM_LARVITAR_COINS
+	givepoke EMBRYLEX, 40
+	takecoins CELADONGAMECORNERPRIZEROOM_EMBRYLEX_COINS
 	sjump .loop
 
 .MenuHeader:
@@ -204,7 +204,7 @@ CeladonGameCornerPrizeRoomPokemonVendor:
 	db 4 ; items
 	db "PIKACHU    {d:CELADONGAMECORNERPRIZEROOM_PIKACHU_COINS}@"
 	db "PORYGON    {d:CELADONGAMECORNERPRIZEROOM_PORYGON_COINS}@"
-	db "EMBRYLEX   {d:CELADONGAMECORNERPRIZEROOM_LARVITAR_COINS}@"
+	db "EMBRYLEX   {d:CELADONGAMECORNERPRIZEROOM_EMBRYLEX_COINS}@"
 	db "RETOUR@"
 
 CeladonGameCornerPrizeRoomGentlemanText:

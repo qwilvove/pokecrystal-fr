@@ -3267,7 +3267,7 @@ SuicuneEvosAttacks:
 	db 71, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-LarvitarEvosAttacks:
+EmbrylexEvosAttacks:
 	db EVOLVE_LEVEL, 30, PUPITAR
 	db 0 ; no more evolutions
 	db 1, BITE

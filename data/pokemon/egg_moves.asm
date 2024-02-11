@@ -797,7 +797,7 @@ EcremeuhEggMoves:
 	db SEISMIC_TOSS
 	db -1 ; end
 
-LarvitarEggMoves:
+EmbrylexEggMoves:
 	db PURSUIT
 	db STOMP
 	db OUTRAGE

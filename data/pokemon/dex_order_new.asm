@@ -245,7 +245,7 @@ NewPokedexOrder:
 	db DRATINI
 	db DRACO
 	db DRACOLOSSE
-	db LARVITAR
+	db EMBRYLEX
 	db PUPITAR
 	db TYRANITAR
 	db LUGIA

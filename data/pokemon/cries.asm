@@ -251,7 +251,7 @@ PokemonCries::
 	mon_cry CRY_RAIKOU,      558,  288 ; RAIKOU
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
 	mon_cry CRY_MAGCARGO,      0,  384 ; SUICUNE
-	mon_cry CRY_RAIKOU,       95,  208 ; LARVITAR
+	mon_cry CRY_RAIKOU,       95,  208 ; EMBRYLEX
 	mon_cry CRY_SPINARAK,   -475,  336 ; PUPITAR
 	mon_cry CRY_RAIKOU,     -256,  384 ; TYRANITAR
 	mon_cry CRY_TYPHLOSION,    0,  256 ; LUGIA

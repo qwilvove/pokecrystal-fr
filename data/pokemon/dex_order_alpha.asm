@@ -59,7 +59,7 @@ AlphabeticalPokedexOrder:
 	db ELECTRODE
 	db ELEKID
 	db ELEKTEK
-	db LARVITAR
+	db EMBRYLEX
 	db VICTREEBEL
 	db ENTEI
 	db EEVEE

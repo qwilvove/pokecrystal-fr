@@ -245,7 +245,7 @@ AnimationIdlePointers:
 	dw RaikouAnimationIdle
 	dw EnteiAnimationIdle
 	dw SuicuneAnimationIdle
-	dw LarvitarAnimationIdle
+	dw EmbrylexAnimationIdle
 	dw PupitarAnimationIdle
 	dw TyranitarAnimationIdle
 	dw LugiaAnimationIdle

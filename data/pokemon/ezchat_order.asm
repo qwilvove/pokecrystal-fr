@@ -85,7 +85,7 @@ EZChat_SortedPokemon:
 .mo:       db FLAAFFY, AEROMITE, TANGELA, -1
 .ya:       db SLOWKING, SLOWBRO, SLOWPOKE, CORNEBRE, YANMA, -1
 .yu:       db KADABRA, -1
-.yo:       db LARVITAR, NOCTOWL, -1
+.yo:       db EMBRYLEX, NOCTOWL, -1
 .ra:       db RAIKOU, RAICHU, CHANSEY, RATICATE, LAPRAS, VILEPLUME, LANTURN, -1
 .ri:       db CHARMELEON, DRACAUFEU, URSARING, -1
 .ru:       db JYNX, LUGIA, -1

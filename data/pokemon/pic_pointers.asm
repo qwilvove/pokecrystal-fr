@@ -496,8 +496,8 @@ PokemonPicPointers::
 	dba_pic EnteiBackpic
 	dba_pic SuicuneFrontpic
 	dba_pic SuicuneBackpic
-	dba_pic LarvitarFrontpic
-	dba_pic LarvitarBackpic
+	dba_pic EmbrylexFrontpic
+	dba_pic EmbrylexBackpic
 	dba_pic PupitarFrontpic
 	dba_pic PupitarBackpic
 	dba_pic TyranitarFrontpic

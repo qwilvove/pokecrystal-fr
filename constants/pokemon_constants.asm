@@ -265,7 +265,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const RAIKOU     ; f3
 	const ENTEI      ; f4
 	const SUICUNE    ; f5
-	const LARVITAR   ; f6
+	const EMBRYLEX   ; f6
 	const PUPITAR    ; f7
 	const TYRANITAR  ; f8
 	const LUGIA      ; f9

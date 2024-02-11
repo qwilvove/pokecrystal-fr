@@ -245,7 +245,7 @@ AnimationPointers:
 	dw RaikouAnimation
 	dw EnteiAnimation
 	dw SuicuneAnimation
-	dw LarvitarAnimation
+	dw EmbrylexAnimation
 	dw PupitarAnimation
 	dw TyranitarAnimation
 	dw LugiaAnimation

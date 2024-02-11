@@ -245,7 +245,7 @@ BitmasksPointers:
 	dw RaikouBitmasks
 	dw EnteiBitmasks
 	dw SuicuneBitmasks
-	dw LarvitarBitmasks
+	dw EmbrylexBitmasks
 	dw PupitarBitmasks
 	dw TyranitarBitmasks
 	dw LugiaBitmasks

@@ -246,7 +246,7 @@ PokedexDataPointerTable:
 	dw RaikouPokedexEntry
 	dw EnteiPokedexEntry
 	dw SuicunePokedexEntry
-	dw LarvitarPokedexEntry
+	dw EmbrylexPokedexEntry
 	dw PupitarPokedexEntry
 	dw TyranitarPokedexEntry
 	dw LugiaPokedexEntry

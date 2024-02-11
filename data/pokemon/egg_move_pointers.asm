@@ -245,7 +245,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw LarvitarEggMoves
+	dw EmbrylexEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

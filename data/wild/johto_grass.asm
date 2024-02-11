@@ -1074,16 +1074,16 @@ JohtoGrassWildMons:
 	db 42, ONIX
 	db 45, MAGMAR
 	db 45, GOLBAT
-	db 20, LARVITAR
-	db 15, LARVITAR
+	db 20, EMBRYLEX
+	db 15, EMBRYLEX
 	; day
 	db 43, GRAVELER
 	db 44, URSARING
 	db 42, ONIX
 	db 45, MAGMAR
 	db 45, GOLBAT
-	db 20, LARVITAR
-	db 15, LARVITAR
+	db 20, EMBRYLEX
+	db 15, EMBRYLEX
 	; nite
 	db 43, GRAVELER
 	db 44, GOLBAT
@@ -1102,16 +1102,16 @@ JohtoGrassWildMons:
 	db 47, URSARING
 	db 46, PARASECT
 	db 48, PARASECT
-	db 15, LARVITAR
-	db 20, LARVITAR
+	db 15, EMBRYLEX
+	db 20, EMBRYLEX
 	; day
 	db 48, GOLBAT
 	db 48, MACHOKE
 	db 47, URSARING
 	db 46, PARASECT
 	db 48, PARASECT
-	db 15, LARVITAR
-	db 20, LARVITAR
+	db 15, EMBRYLEX
+	db 20, EMBRYLEX
 	; nite
 	db 48, GOLBAT
 	db 48, AKWAKWAK
@@ -1129,16 +1129,16 @@ JohtoGrassWildMons:
 	db 48, ONIX
 	db 48, GRAVELER
 	db 50, URSARING
-	db 20, LARVITAR
-	db 15, LARVITAR
+	db 20, EMBRYLEX
+	db 15, EMBRYLEX
 	db 20, PUPITAR
 	; day
 	db 51, GOLBAT
 	db 48, ONIX
 	db 48, GRAVELER
 	db 50, URSARING
-	db 20, LARVITAR
-	db 15, LARVITAR
+	db 20, EMBRYLEX
+	db 15, EMBRYLEX
 	db 20, PUPITAR
 	; nite
 	db 51, GOLBAT
