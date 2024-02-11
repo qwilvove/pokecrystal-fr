@@ -70,7 +70,7 @@ AnimationIdlePointers:
 	dw MachampAnimationIdle
 	dw ChetiflorAnimationIdle
 	dw BoustiflorAnimationIdle
-	dw VictreebelAnimationIdle
+	dw EmpiflorAnimationIdle
 	dw TentacoolAnimationIdle
 	dw TentacruelAnimationIdle
 	dw GeodudeAnimationIdle

@@ -143,8 +143,8 @@ PokemonPicPointers::
 	dba_pic ChetiflorBackpic
 	dba_pic BoustiflorFrontpic
 	dba_pic BoustiflorBackpic
-	dba_pic VictreebelFrontpic
-	dba_pic VictreebelBackpic
+	dba_pic EmpiflorFrontpic
+	dba_pic EmpiflorBackpic
 	dba_pic TentacoolFrontpic
 	dba_pic TentacoolBackpic
 	dba_pic TentacruelFrontpic

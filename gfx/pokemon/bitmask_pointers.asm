@@ -70,7 +70,7 @@ BitmasksPointers:
 	dw MachampBitmasks
 	dw ChetiflorBitmasks
 	dw BoustiflorBitmasks
-	dw VictreebelBitmasks
+	dw EmpiflorBitmasks
 	dw TentacoolBitmasks
 	dw TentacruelBitmasks
 	dw GeodudeBitmasks

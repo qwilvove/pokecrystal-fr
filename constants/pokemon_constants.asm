@@ -89,7 +89,7 @@
 	const MACHAMP    ; 44
 	const CHETIFLOR ; 45
 	const BOUSTIFLOR ; 46
-	const VICTREEBEL ; 47
+	const EMPIFLOR ; 47
 	const TENTACOOL  ; 48
 	const TENTACRUEL ; 49
 	const GEODUDE    ; 4a

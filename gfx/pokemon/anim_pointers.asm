@@ -70,7 +70,7 @@ AnimationPointers:
 	dw MachampAnimation
 	dw ChetiflorAnimation
 	dw BoustiflorAnimation
-	dw VictreebelAnimation
+	dw EmpiflorAnimation
 	dw TentacoolAnimation
 	dw TentacruelAnimation
 	dw GeodudeAnimation

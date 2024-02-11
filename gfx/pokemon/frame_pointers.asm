@@ -70,7 +70,7 @@ FramesPointers:
 	dw MachampFrames
 	dw ChetiflorFrames
 	dw BoustiflorFrames
-	dw VictreebelFrames
+	dw EmpiflorFrames
 	dw TentacoolFrames
 	dw TentacruelFrames
 	dw GeodudeFrames

@@ -924,7 +924,7 @@ ChetiflorEvosAttacks:
 	db 0 ; no more level-up moves
 
 BoustiflorEvosAttacks:
-	db EVOLVE_ITEM, LEAF_STONE, VICTREEBEL
+	db EVOLVE_ITEM, LEAF_STONE, EMPIFLOR
 	db 0 ; no more evolutions
 	db 1, VINE_WHIP
 	db 1, GROWTH
@@ -940,7 +940,7 @@ BoustiflorEvosAttacks:
 	db 54, SLAM
 	db 0 ; no more level-up moves
 
-VictreebelEvosAttacks:
+EmpiflorEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, VINE_WHIP
 	db 1, SLEEP_POWDER

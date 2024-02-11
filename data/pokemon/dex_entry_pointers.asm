@@ -71,7 +71,7 @@ PokedexDataPointerTable:
 	dw MachampPokedexEntry
 	dw ChetiflorPokedexEntry
 	dw BoustiflorPokedexEntry
-	dw VictreebelPokedexEntry
+	dw EmpiflorPokedexEntry
 	dw TentacoolPokedexEntry
 	dw TentacruelPokedexEntry
 	dw GeodudePokedexEntry

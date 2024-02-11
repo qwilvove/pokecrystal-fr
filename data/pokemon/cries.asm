@@ -76,7 +76,7 @@ PokemonCries::
 	mon_cry CRY_CANINOS,     8,  320 ; MACHAMP
 	mon_cry CRY_PSYDUCK,      85,  129 ; CHETIFLOR
 	mon_cry CRY_BOUSTIFLOR,   68,  160 ; BOUSTIFLOR
-	mon_cry CRY_BOUSTIFLOR,  102,  332 ; VICTREEBEL
+	mon_cry CRY_BOUSTIFLOR,  102,  332 ; EMPIFLOR
 	mon_cry CRY_VENONAT,       0,  256 ; TENTACOOL
 	mon_cry CRY_VENONAT,     238,  383 ; TENTACRUEL
 	mon_cry CRY_VULPIX,      240,  144 ; GEODUDE

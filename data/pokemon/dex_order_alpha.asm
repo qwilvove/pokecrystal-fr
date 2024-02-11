@@ -60,7 +60,7 @@ AlphabeticalPokedexOrder:
 	db ELEKID
 	db ELEKTEK
 	db EMBRYLEX
-	db VICTREEBEL
+	db EMPIFLOR
 	db ENTEI
 	db EEVEE
 	db LICKITUNG

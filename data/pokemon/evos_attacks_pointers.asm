@@ -72,7 +72,7 @@ EvosAttacksPointers::
 	dw MachampEvosAttacks
 	dw ChetiflorEvosAttacks
 	dw BoustiflorEvosAttacks
-	dw VictreebelEvosAttacks
+	dw EmpiflorEvosAttacks
 	dw TentacoolEvosAttacks
 	dw TentacruelEvosAttacks
 	dw GeodudeEvosAttacks

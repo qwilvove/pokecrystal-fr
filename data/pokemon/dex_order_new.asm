@@ -67,7 +67,7 @@ NewPokedexOrder:
 	db STEELIX
 	db CHETIFLOR
 	db BOUSTIFLOR
-	db VICTREEBEL
+	db EMPIFLOR
 	db HOPPIP
 	db SKIPLOOM
 	db COTOVOL
