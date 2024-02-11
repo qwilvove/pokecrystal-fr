@@ -339,7 +339,7 @@ INCBIN "gfx/footprints/artikodin.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/zapdos.1bpp",     footprint_top
 INCBIN "gfx/footprints/moltres.1bpp",    footprint_top
 INCBIN "gfx/footprints/dratini.1bpp",    footprint_top
-INCBIN "gfx/footprints/dragonair.1bpp",  footprint_top
+INCBIN "gfx/footprints/draco.1bpp",  footprint_top
 INCBIN "gfx/footprints/dragonite.1bpp",  footprint_top
 INCBIN "gfx/footprints/mewtwo.1bpp",     footprint_top
 INCBIN "gfx/footprints/mew.1bpp",        footprint_top
@@ -348,7 +348,7 @@ INCBIN "gfx/footprints/chikorita.1bpp",  footprint_top
 INCBIN "gfx/footprints/zapdos.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/moltres.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/dratini.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/dragonair.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/draco.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/dragonite.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/mewtwo.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/mew.1bpp",        footprint_bottom

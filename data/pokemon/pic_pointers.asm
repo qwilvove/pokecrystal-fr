@@ -297,8 +297,8 @@ PokemonPicPointers::
 	dba_pic MoltresBackpic
 	dba_pic DratiniFrontpic
 	dba_pic DratiniBackpic
-	dba_pic DragonairFrontpic
-	dba_pic DragonairBackpic
+	dba_pic DracoFrontpic
+	dba_pic DracoBackpic
 	dba_pic DragoniteFrontpic
 	dba_pic DragoniteBackpic
 	dba_pic MewtwoFrontpic

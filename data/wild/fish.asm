@@ -97,7 +97,7 @@ FishGroups:
 	db  40 percent,     MAGIKARP,   40
 	db  70 percent,     time_group 9
 	db  90 percent + 1, MAGIKARP,   40
-	db 100 percent,     DRAGONAIR,  40
+	db 100 percent,     DRACO,  40
 
 .Qwilfish_Swarm_Old:
 	db  70 percent + 1, MAGIKARP,   5
@@ -157,7 +157,7 @@ FishGroups:
 	db  40 percent,     MAGIKARP,   10
 	db  70 percent,     time_group 17
 	db  90 percent + 1, MAGIKARP,   10
-	db 100 percent,     DRAGONAIR,  10
+	db 100 percent,     DRACO,  10
 
 .WhirlIslands_Old:
 	db  70 percent + 1, MAGIKARP,   10

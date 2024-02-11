@@ -353,7 +353,7 @@ DEF NUM_TMS EQU const_value - TM01 - 2 ; discount ITEM_C3 and ITEM_DC
 > - Starter Pikachu's catch rate byte is overwritten with 163 = $A3 for `LIGHT_BALL`
 > - Wild-caught Kadabra's catch rate byte is overwritten with 96 = $60 for `TWISTEDSPOON`
 >
-> (Yellow also directly changed Dragonair's catch rate to 27 and Dragonite's to 9, but this seems to have been only for adjusting their difficulty, since those meaninglessly correspond to `PROTEIN` and `ANTIDOTE`.)
+> (Yellow also directly changed Draco's catch rate to 27 and Dragonite's to 9, but this seems to have been only for adjusting their difficulty, since those meaninglessly correspond to `PROTEIN` and `ANTIDOTE`.)
 >
 > Most catch rates were left as gaps in the item list, and transformed into held items via the `TimeCapsule_CatchRateItems` table in [data/items/catch_rate_items.asm](https://github.com/pret/pokecrystal/blob/master/data/items/catch_rate_items.asm). For example, the 52 Pokémon with catch rate 45 would hold the gap `ITEM_2D`, except that gets transformed into `BITTER_BERRY`.
 >

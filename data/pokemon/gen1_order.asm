@@ -88,7 +88,7 @@ Pokered_MonIndices:
 	db CADOIZO ; MISSINGNO.
 	db DEMANTA ; MISSINGNO.
 	db DRATINI
-	db DRAGONAIR
+	db DRACO
 	db KABUTO
 	db KABUTOPS
 	db HORSEA

@@ -243,7 +243,7 @@ NewPokedexOrder:
 	db ENTEI
 	db SUICUNE
 	db DRATINI
-	db DRAGONAIR
+	db DRACO
 	db DRAGONITE
 	db LARVITAR
 	db PUPITAR

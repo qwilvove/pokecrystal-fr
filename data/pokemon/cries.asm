@@ -153,7 +153,7 @@ PokemonCries::
 	mon_cry CRY_FEAROW,      255,  256 ; ZAPDOS
 	mon_cry CRY_RAICHU,      248,  192 ; MOLTRES
 	mon_cry CRY_BULBIZARRE,    96,  192 ; DRATINI
-	mon_cry CRY_BULBIZARRE,    64,  256 ; DRAGONAIR
+	mon_cry CRY_BULBIZARRE,    64,  256 ; DRACO
 	mon_cry CRY_BULBIZARRE,    60,  320 ; DRAGONITE
 	mon_cry CRY_PARAS,       153,  383 ; MEWTWO
 	mon_cry CRY_PARAS,       238,  383 ; MEW

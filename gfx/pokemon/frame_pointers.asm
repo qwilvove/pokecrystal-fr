@@ -147,7 +147,7 @@ FramesPointers:
 	dw ZapdosFrames
 	dw MoltresFrames
 	dw DratiniFrames
-	dw DragonairFrames
+	dw DracoFrames
 	dw DragoniteFrames
 	dw MewtwoFrames
 	dw MewFrames

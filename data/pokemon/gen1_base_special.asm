@@ -149,7 +149,7 @@ KantoMonSpecials:
 	db 125 ; ZAPDOS
 	db 125 ; MOLTRES
 	db  50 ; DRATINI
-	db  70 ; DRAGONAIR
+	db  70 ; DRACO
 	db 100 ; DRAGONITE
 	db 154 ; MEWTWO
 	db 100 ; MEW

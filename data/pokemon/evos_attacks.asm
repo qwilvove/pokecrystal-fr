@@ -1982,7 +1982,7 @@ MoltresEvosAttacks:
 	db 0 ; no more level-up moves
 
 DratiniEvosAttacks:
-	db EVOLVE_LEVEL, 30, DRAGONAIR
+	db EVOLVE_LEVEL, 30, DRACO
 	db 0 ; no more evolutions
 	db 1, WRAP
 	db 1, LEER
@@ -1996,7 +1996,7 @@ DratiniEvosAttacks:
 	db 57, HYPER_BEAM
 	db 0 ; no more level-up moves
 
-DragonairEvosAttacks:
+DracoEvosAttacks:
 	db EVOLVE_LEVEL, 55, DRAGONITE
 	db 0 ; no more evolutions
 	db 1, WRAP

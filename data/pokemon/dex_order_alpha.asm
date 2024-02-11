@@ -51,7 +51,7 @@ AlphabeticalPokedexOrder:
 	db DODUO
 	db DONPHAN
 	db DRACAUFEU
-	db DRAGONAIR
+	db DRACO
 	db DRAGONITE
 	db MILTANK
 	db GENGAR

@@ -147,7 +147,7 @@ AnimationPointers:
 	dw ZapdosAnimation
 	dw MoltresAnimation
 	dw DratiniAnimation
-	dw DragonairAnimation
+	dw DracoAnimation
 	dw DragoniteAnimation
 	dw MewtwoAnimation
 	dw MewAnimation
