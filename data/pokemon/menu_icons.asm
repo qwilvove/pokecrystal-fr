@@ -134,7 +134,7 @@ MonMenuIcons:
 	db ICON_GYARADOS    ; GYARADOS
 	db ICON_LAPRAS      ; LAPRAS
 	db ICON_BLOB        ; DITTO
-	db ICON_FOX         ; EEVEE
+	db ICON_FOX         ; EVOLI
 	db ICON_FOX         ; AQUALI
 	db ICON_FOX         ; JOLTEON
 	db ICON_FOX         ; FLAREON

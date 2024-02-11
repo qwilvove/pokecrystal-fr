@@ -132,7 +132,7 @@ AnimationPointers:
 	dw GyaradosAnimation
 	dw LaprasAnimation
 	dw DittoAnimation
-	dw EeveeAnimation
+	dw EvoliAnimation
 	dw AqualiAnimation
 	dw JolteonAnimation
 	dw FlareonAnimation

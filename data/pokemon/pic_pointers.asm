@@ -267,8 +267,8 @@ PokemonPicPointers::
 	dba_pic LaprasBackpic
 	dba_pic DittoFrontpic
 	dba_pic DittoBackpic
-	dba_pic EeveeFrontpic
-	dba_pic EeveeBackpic
+	dba_pic EvoliFrontpic
+	dba_pic EvoliBackpic
 	dba_pic AqualiFrontpic
 	dba_pic AqualiBackpic
 	dba_pic JolteonFrontpic

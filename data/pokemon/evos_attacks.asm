@@ -1791,7 +1791,7 @@ DittoEvosAttacks:
 	db 1, TRANSFORM
 	db 0 ; no more level-up moves
 
-EeveeEvosAttacks:
+EvoliEvosAttacks:
 	db EVOLVE_ITEM, THUNDERSTONE, JOLTEON
 	db EVOLVE_ITEM, WATER_STONE, AQUALI
 	db EVOLVE_ITEM, FIRE_STONE, FLAREON

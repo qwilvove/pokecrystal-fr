@@ -304,7 +304,7 @@ INCBIN "gfx/footprints/magikarp.1bpp",   footprint_top
 INCBIN "gfx/footprints/gyarados.1bpp",   footprint_top
 INCBIN "gfx/footprints/lapras.1bpp",     footprint_top
 INCBIN "gfx/footprints/ditto.1bpp",      footprint_top
-INCBIN "gfx/footprints/eevee.1bpp",      footprint_top
+INCBIN "gfx/footprints/evoli.1bpp",      footprint_top
 INCBIN "gfx/footprints/aquali.1bpp",   footprint_top
 INCBIN "gfx/footprints/jolteon.1bpp",    footprint_top
 INCBIN "gfx/footprints/flareon.1bpp",    footprint_top
@@ -313,7 +313,7 @@ INCBIN "gfx/footprints/magikarp.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/gyarados.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/lapras.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/ditto.1bpp",      footprint_bottom
-INCBIN "gfx/footprints/eevee.1bpp",      footprint_bottom
+INCBIN "gfx/footprints/evoli.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/aquali.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/jolteon.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/flareon.1bpp",    footprint_bottom

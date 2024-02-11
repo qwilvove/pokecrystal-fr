@@ -101,7 +101,7 @@ Pokered_MonIndices:
 	db AMONISTAR
 	db JIGGLYPUFF
 	db WIGGLYTUFF
-	db EEVEE
+	db EVOLI
 	db FLAREON
 	db JOLTEON
 	db AQUALI

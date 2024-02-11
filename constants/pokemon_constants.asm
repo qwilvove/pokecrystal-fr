@@ -151,7 +151,7 @@
 	const GYARADOS   ; 82
 	const LAPRAS     ; 83
 	const DITTO      ; 84
-	const EEVEE      ; 85
+	const EVOLI      ; 85
 	const AQUALI   ; 86
 	const JOLTEON    ; 87
 	const FLAREON    ; 88

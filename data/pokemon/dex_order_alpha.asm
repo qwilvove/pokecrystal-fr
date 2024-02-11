@@ -62,7 +62,7 @@ AlphabeticalPokedexOrder:
 	db EMBRYLEX
 	db EMPIFLOR
 	db ENTEI
-	db EEVEE
+	db EVOLI
 	db LICKITUNG
 	db GASTLY
 	db SNEASEL

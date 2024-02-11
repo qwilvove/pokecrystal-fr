@@ -46,8 +46,8 @@ INCBIN "gfx/mail/poliwag.1bpp"
 MailLaprasGFX:
 INCBIN "gfx/mail/lapras.1bpp"
 
-MailEeveeGFX:
-INCBIN "gfx/mail/eevee.1bpp"
+MailEvoliGFX:
+INCBIN "gfx/mail/evoli.1bpp"
 
 MailDittoGFX:
 INCBIN "gfx/mail/ditto.1bpp"

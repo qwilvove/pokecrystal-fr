@@ -134,7 +134,7 @@ EvosAttacksPointers::
 	dw GyaradosEvosAttacks
 	dw LaprasEvosAttacks
 	dw DittoEvosAttacks
-	dw EeveeEvosAttacks
+	dw EvoliEvosAttacks
 	dw AqualiEvosAttacks
 	dw JolteonEvosAttacks
 	dw FlareonEvosAttacks

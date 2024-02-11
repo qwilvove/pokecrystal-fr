@@ -132,7 +132,7 @@ BitmasksPointers:
 	dw GyaradosBitmasks
 	dw LaprasBitmasks
 	dw DittoBitmasks
-	dw EeveeBitmasks
+	dw EvoliBitmasks
 	dw AqualiBitmasks
 	dw JolteonBitmasks
 	dw FlareonBitmasks

@@ -6,7 +6,7 @@ SometimesFleeMons:
 	db GRIMER
 	db TANGELA
 	db MR__MIME
-	db EEVEE
+	db EVOLI
 	db PORYGON
 	db DRATINI
 	db DRACO

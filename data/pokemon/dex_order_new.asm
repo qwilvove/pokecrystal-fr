@@ -181,7 +181,7 @@ NewPokedexOrder:
 	db DEWGONG
 	db LICKITUNG
 	db TANGELA
-	db EEVEE
+	db EVOLI
 	db AQUALI
 	db JOLTEON
 	db FLAREON
