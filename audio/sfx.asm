@@ -2950,11 +2950,11 @@ Sfx_EggHatch_Ch5:
 	note B_, 7
 	sound_ret
 
-Sfx_GsIntroCharizardFireball:
+Sfx_GsIntroDracaufeuFireball:
 	channel_count 1
-	channel 8, Sfx_GsIntroCharizardFireball_Ch8
+	channel 8, Sfx_GsIntroDracaufeuFireball_Ch8
 
-Sfx_GsIntroCharizardFireball_Ch8:
+Sfx_GsIntroDracaufeuFireball_Ch8:
 	noise_note 8, 12, -7, 77
 	noise_note 8, 15, 1, 55
 .loop1:

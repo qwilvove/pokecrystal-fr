@@ -13,8 +13,8 @@ PokemonPicPointers::
 	dba_pic CharmanderBackpic
 	dba_pic CharmeleonFrontpic
 	dba_pic CharmeleonBackpic
-	dba_pic CharizardFrontpic
-	dba_pic CharizardBackpic
+	dba_pic DracaufeuFrontpic
+	dba_pic DracaufeuBackpic
 	dba_pic CarapuceFrontpic
 	dba_pic CarapuceBackpic
 	dba_pic CarabaffeFrontpic

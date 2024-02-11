@@ -5,7 +5,7 @@ BitmasksPointers:
 	dw VenusaurBitmasks
 	dw CharmanderBitmasks
 	dw CharmeleonBitmasks
-	dw CharizardBitmasks
+	dw DracaufeuBitmasks
 	dw CarapuceBitmasks
 	dw CarabaffeBitmasks
 	dw BlastoiseBitmasks

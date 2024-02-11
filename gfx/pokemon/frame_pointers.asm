@@ -5,7 +5,7 @@ FramesPointers:
 	dw VenusaurFrames
 	dw CharmanderFrames
 	dw CharmeleonFrames
-	dw CharizardFrames
+	dw DracaufeuFrames
 	dw CarapuceFrames
 	dw CarabaffeFrames
 	dw BlastoiseFrames

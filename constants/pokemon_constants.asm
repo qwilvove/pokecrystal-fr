@@ -24,7 +24,7 @@
 	const VENUSAUR   ; 03
 	const CHARMANDER ; 04
 	const CHARMELEON ; 05
-	const CHARIZARD  ; 06
+	const DRACAUFEU  ; 06
 	const CARAPUCE   ; 07
 	const CARABAFFE  ; 08
 	const BLASTOISE  ; 09

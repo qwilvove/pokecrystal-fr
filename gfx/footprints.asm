@@ -17,7 +17,7 @@ INCBIN "gfx/footprints/ivysaur.1bpp",    footprint_top
 INCBIN "gfx/footprints/venusaur.1bpp",   footprint_top
 INCBIN "gfx/footprints/charmander.1bpp", footprint_top
 INCBIN "gfx/footprints/charmeleon.1bpp", footprint_top
-INCBIN "gfx/footprints/charizard.1bpp",  footprint_top
+INCBIN "gfx/footprints/dracaufeu.1bpp",  footprint_top
 INCBIN "gfx/footprints/carapuce.1bpp",   footprint_top
 INCBIN "gfx/footprints/carabaffe.1bpp",  footprint_top
 ; 001-008 bottom halves
@@ -26,7 +26,7 @@ INCBIN "gfx/footprints/ivysaur.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/venusaur.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/charmander.1bpp", footprint_bottom
 INCBIN "gfx/footprints/charmeleon.1bpp", footprint_bottom
-INCBIN "gfx/footprints/charizard.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/dracaufeu.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/carapuce.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/carabaffe.1bpp",  footprint_bottom
 ; 009-016 top halves

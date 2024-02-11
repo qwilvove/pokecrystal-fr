@@ -5,7 +5,7 @@ AnimationIdlePointers:
 	dw VenusaurAnimationIdle
 	dw CharmanderAnimationIdle
 	dw CharmeleonAnimationIdle
-	dw CharizardAnimationIdle
+	dw DracaufeuAnimationIdle
 	dw CarapuceAnimationIdle
 	dw CarabaffeAnimationIdle
 	dw BlastoiseAnimationIdle

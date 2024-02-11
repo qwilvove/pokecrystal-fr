@@ -50,7 +50,7 @@ AlphabeticalPokedexOrder:
 	db DODRIO
 	db DODUO
 	db DONPHAN
-	db CHARIZARD
+	db DRACAUFEU
 	db DRAGONAIR
 	db DRAGONITE
 	db MILTANK

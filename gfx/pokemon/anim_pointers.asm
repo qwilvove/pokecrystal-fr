@@ -5,7 +5,7 @@ AnimationPointers:
 	dw VenusaurAnimation
 	dw CharmanderAnimation
 	dw CharmeleonAnimation
-	dw CharizardAnimation
+	dw DracaufeuAnimation
 	dw CarapuceAnimation
 	dw CarabaffeAnimation
 	dw BlastoiseAnimation

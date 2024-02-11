@@ -7,7 +7,7 @@ KantoMonSpecials:
 	db 100 ; VENUSAUR
 	db  50 ; CHARMANDER
 	db  65 ; CHARMELEON
-	db  85 ; CHARIZARD
+	db  85 ; DRACAUFEU
 	db  50 ; CARAPUCE
 	db  65 ; CARABAFFE
 	db  85 ; BLASTOISE

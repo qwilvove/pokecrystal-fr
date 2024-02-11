@@ -6,7 +6,7 @@ PokedexDataPointerTable:
 	dw VenusaurPokedexEntry
 	dw CharmanderPokedexEntry
 	dw CharmeleonPokedexEntry
-	dw CharizardPokedexEntry
+	dw DracaufeuPokedexEntry
 	dw CarapucePokedexEntry
 	dw CarabaffePokedexEntry
 	dw BlastoisePokedexEntry
