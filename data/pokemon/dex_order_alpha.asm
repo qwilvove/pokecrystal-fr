@@ -58,7 +58,7 @@ AlphabeticalPokedexOrder:
 	db ELECTHOR
 	db ELECTRODE
 	db ELEKID
-	db ELECTABUZZ
+	db ELEKTEK
 	db LARVITAR
 	db VICTREEBEL
 	db ENTEI

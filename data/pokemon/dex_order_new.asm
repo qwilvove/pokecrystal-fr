@@ -156,7 +156,7 @@ NewPokedexOrder:
 	db SMOOCHUM
 	db JYNX
 	db ELEKID
-	db ELECTABUZZ
+	db ELEKTEK
 	db MR__MIME
 	db SMEARGLE
 	db CANARTICHO

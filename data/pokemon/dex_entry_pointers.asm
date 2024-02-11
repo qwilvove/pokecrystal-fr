@@ -125,7 +125,7 @@ PokedexDataPointerTable:
 	dw MrMimePokedexEntry
 	dw ScytherPokedexEntry
 	dw JynxPokedexEntry
-	dw ElectabuzzPokedexEntry
+	dw ElektekPokedexEntry
 	dw MagmarPokedexEntry
 	dw PinsirPokedexEntry
 	dw TaurosPokedexEntry

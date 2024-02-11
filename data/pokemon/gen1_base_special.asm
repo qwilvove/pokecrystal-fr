@@ -126,7 +126,7 @@ KantoMonSpecials:
 	db 100 ; MR__MIME
 	db  55 ; SCYTHER
 	db  95 ; JYNX
-	db  85 ; ELECTABUZZ
+	db  85 ; ELEKTEK
 	db  85 ; MAGMAR
 	db  55 ; PINSIR
 	db  70 ; TAUROS

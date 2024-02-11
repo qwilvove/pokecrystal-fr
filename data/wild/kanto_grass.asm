@@ -430,24 +430,24 @@ KantoGrassWildMons:
 	db 15, RATICATE
 	db 15, FEAROW
 	db 15, MAROWAK
-	db 16, ELECTABUZZ
-	db 16, ELECTABUZZ
+	db 16, ELEKTEK
+	db 16, ELEKTEK
 	; day
 	db 15, SPEAROW
 	db 17, VOLTORB
 	db 15, RATICATE
 	db 15, FEAROW
 	db 15, MAROWAK
-	db 18, ELECTABUZZ
-	db 18, ELECTABUZZ
+	db 18, ELEKTEK
+	db 18, ELEKTEK
 	; nite
 	db 15, VENONAT
 	db 17, VOLTORB
 	db 15, RATICATE
 	db 15, AEROMITE
 	db 15, ZUBAT
-	db 16, ELECTABUZZ
-	db 16, ELECTABUZZ
+	db 16, ELEKTEK
+	db 16, ELEKTEK
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_11

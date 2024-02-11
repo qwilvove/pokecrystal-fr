@@ -251,8 +251,8 @@ PokemonPicPointers::
 	dba_pic ScytherBackpic
 	dba_pic JynxFrontpic
 	dba_pic JynxBackpic
-	dba_pic ElectabuzzFrontpic
-	dba_pic ElectabuzzBackpic
+	dba_pic ElektekFrontpic
+	dba_pic ElektekBackpic
 	dba_pic MagmarFrontpic
 	dba_pic MagmarBackpic
 	dba_pic PinsirFrontpic

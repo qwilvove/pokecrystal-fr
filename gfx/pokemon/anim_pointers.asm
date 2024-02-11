@@ -124,7 +124,7 @@ AnimationPointers:
 	dw MrMimeAnimation
 	dw ScytherAnimation
 	dw JynxAnimation
-	dw ElectabuzzAnimation
+	dw ElektekAnimation
 	dw MagmarAnimation
 	dw PinsirAnimation
 	dw TaurosAnimation

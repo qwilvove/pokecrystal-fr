@@ -2171,7 +2171,7 @@ BattleTowerMons:
 	bigdw 111 ; SDef
 	db "BETOBETON@@"
 
-	db ELECTABUZZ
+	db ELEKTEK
 	db KINGS_ROCK
 	db LIGHT_SCREEN, THUNDERPUNCH, SWIFT, SNORE
 	dw 0 ; OT ID

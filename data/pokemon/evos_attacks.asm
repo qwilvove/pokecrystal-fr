@@ -1697,7 +1697,7 @@ JynxEvosAttacks:
 	db 57, BLIZZARD
 	db 0 ; no more level-up moves
 
-ElectabuzzEvosAttacks:
+ElektekEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, QUICK_ATTACK
 	db 1, LEER
@@ -3174,7 +3174,7 @@ SmoochumEvosAttacks:
 	db 0 ; no more level-up moves
 
 ElekidEvosAttacks:
-	db EVOLVE_LEVEL, 30, ELECTABUZZ
+	db EVOLVE_LEVEL, 30, ELEKTEK
 	db 0 ; no more evolutions
 	db 1, QUICK_ATTACK
 	db 1, LEER

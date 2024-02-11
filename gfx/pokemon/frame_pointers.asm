@@ -124,7 +124,7 @@ FramesPointers:
 	dw MrMimeFrames
 	dw ScytherFrames
 	dw JynxFrames
-	dw ElectabuzzFrames
+	dw ElektekFrames
 	dw MagmarFrames
 	dw PinsirFrames
 	dw TaurosFrames

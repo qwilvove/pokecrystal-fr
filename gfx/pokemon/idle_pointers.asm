@@ -124,7 +124,7 @@ AnimationIdlePointers:
 	dw MrMimeAnimationIdle
 	dw ScytherAnimationIdle
 	dw JynxAnimationIdle
-	dw ElectabuzzAnimationIdle
+	dw ElektekAnimationIdle
 	dw MagmarAnimationIdle
 	dw PinsirAnimationIdle
 	dw TaurosAnimationIdle
