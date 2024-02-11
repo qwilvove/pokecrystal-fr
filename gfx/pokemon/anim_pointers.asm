@@ -144,7 +144,7 @@ AnimationPointers:
 	dw AerodactylAnimation
 	dw SnorlaxAnimation
 	dw ArtikodinAnimation
-	dw ZapdosAnimation
+	dw ElecthorAnimation
 	dw MoltresAnimation
 	dw DratiniAnimation
 	dw DracoAnimation

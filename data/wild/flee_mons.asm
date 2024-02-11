@@ -20,7 +20,7 @@ SometimesFleeMons:
 OftenFleeMons:
 	db CUBONE
 	db ARTIKODIN
-	db ZAPDOS
+	db ELECTHOR
 	db MOLTRES
 	db QUAGSIRE
 	db CADOIZO

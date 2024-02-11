@@ -1957,7 +1957,7 @@ ArtikodinEvosAttacks:
 	db 73, BLIZZARD
 	db 0 ; no more level-up moves
 
-ZapdosEvosAttacks:
+ElecthorEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 1, THUNDERSHOCK

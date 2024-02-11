@@ -146,7 +146,7 @@ KantoMonSpecials:
 	db  60 ; AERODACTYL
 	db  65 ; SNORLAX
 	db 125 ; ARTIKODIN
-	db 125 ; ZAPDOS
+	db 125 ; ELECTHOR
 	db 125 ; MOLTRES
 	db  50 ; DRATINI
 	db  70 ; DRACO

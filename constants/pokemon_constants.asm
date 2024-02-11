@@ -163,7 +163,7 @@
 	const AERODACTYL ; 8e
 	const SNORLAX    ; 8f
 	const ARTIKODIN   ; 90
-	const ZAPDOS     ; 91
+	const ELECTHOR     ; 91
 	const MOLTRES    ; 92
 	const DRATINI    ; 93
 	const DRACO  ; 94

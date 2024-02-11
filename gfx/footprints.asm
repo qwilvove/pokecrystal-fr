@@ -336,7 +336,7 @@ INCBIN "gfx/footprints/aerodactyl.1bpp", footprint_bottom
 INCBIN "gfx/footprints/snorlax.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/artikodin.1bpp",   footprint_bottom
 ; 145-152 top halves
-INCBIN "gfx/footprints/zapdos.1bpp",     footprint_top
+INCBIN "gfx/footprints/electhor.1bpp",     footprint_top
 INCBIN "gfx/footprints/moltres.1bpp",    footprint_top
 INCBIN "gfx/footprints/dratini.1bpp",    footprint_top
 INCBIN "gfx/footprints/draco.1bpp",  footprint_top
@@ -345,7 +345,7 @@ INCBIN "gfx/footprints/mewtwo.1bpp",     footprint_top
 INCBIN "gfx/footprints/mew.1bpp",        footprint_top
 INCBIN "gfx/footprints/chikorita.1bpp",  footprint_top
 ; 145-152 bottom halves
-INCBIN "gfx/footprints/zapdos.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/electhor.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/moltres.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/dratini.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/draco.1bpp",  footprint_bottom

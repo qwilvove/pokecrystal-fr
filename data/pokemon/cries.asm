@@ -150,7 +150,7 @@ PokemonCries::
 	mon_cry CRY_VILEPLUME,    32,  368 ; AERODACTYL
 	mon_cry CRY_GRIMER,       85,  129 ; SNORLAX
 	mon_cry CRY_RAICHU,      128,  192 ; ARTIKODIN
-	mon_cry CRY_FEAROW,      255,  256 ; ZAPDOS
+	mon_cry CRY_FEAROW,      255,  256 ; ELECTHOR
 	mon_cry CRY_RAICHU,      248,  192 ; MOLTRES
 	mon_cry CRY_BULBIZARRE,    96,  192 ; DRATINI
 	mon_cry CRY_BULBIZARRE,    64,  256 ; DRACO

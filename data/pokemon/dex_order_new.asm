@@ -237,7 +237,7 @@ NewPokedexOrder:
 	db CARABAFFE
 	db BLASTOISE
 	db ARTIKODIN
-	db ZAPDOS
+	db ELECTHOR
 	db MOLTRES
 	db RAIKOU
 	db ENTEI
