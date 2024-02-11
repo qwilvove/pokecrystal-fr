@@ -107,7 +107,7 @@ FramesPointers:
 	dw MarowakFrames
 	dw HitmonleeFrames
 	dw HitmonchanFrames
-	dw LickitungFrames
+	dw ExcelangueFrames
 	dw KoffingFrames
 	dw WeezingFrames
 	dw RhyhornFrames

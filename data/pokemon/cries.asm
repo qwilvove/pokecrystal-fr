@@ -113,7 +113,7 @@ PokemonCries::
 	mon_cry CRY_ODDISH,       79,  224 ; MAROWAK
 	mon_cry CRY_GOLEM,       128,  320 ; HITMONLEE
 	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN
-	mon_cry CRY_SEEL,          0,  256 ; LICKITUNG
+	mon_cry CRY_SEEL,          0,  256 ; EXCELANGUE
 	mon_cry CRY_GOLEM,       230,  349 ; KOFFING
 	mon_cry CRY_GOLEM,       255,  383 ; WEEZING
 	mon_cry CRY_CHARMANDER,    0,  256 ; RHYHORN

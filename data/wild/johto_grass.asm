@@ -1602,20 +1602,20 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 23, TANGELA
-	db 22, LICKITUNG
+	db 22, EXCELANGUE
 	db 22, CHETIFLOR
 	db 24, BOUSTIFLOR
-	db 24, LICKITUNG
-	db 26, LICKITUNG
-	db 26, LICKITUNG
+	db 24, EXCELANGUE
+	db 26, EXCELANGUE
+	db 26, EXCELANGUE
 	; day
 	db 23, TANGELA
-	db 22, LICKITUNG
+	db 22, EXCELANGUE
 	db 22, CHETIFLOR
 	db 24, BOUSTIFLOR
-	db 24, LICKITUNG
-	db 26, LICKITUNG
-	db 26, LICKITUNG
+	db 24, EXCELANGUE
+	db 26, EXCELANGUE
+	db 26, EXCELANGUE
 	; nite
 	db 23, TANGELA
 	db 22, POLIWAG

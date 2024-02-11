@@ -27,9 +27,9 @@ BillsGrandpa:
 	iftrue .ShowedStaryu
 	checkevent EVENT_SHOWED_ODDISH_TO_BILLS_GRANDPA
 	iftrue .ShowedOddish
-	checkevent EVENT_SHOWED_LICKITUNG_TO_BILLS_GRANDPA
-	iftrue .ShowedLickitung
-	writetext BillsGrandpaLickitungText
+	checkevent EVENT_SHOWED_EXCELANGUE_TO_BILLS_GRANDPA
+	iftrue .ShowedExcelangue
+	writetext BillsGrandpaExcelangueText
 	promptbutton
 	writetext BillsGrandpaAskToSeeMonText
 	yesorno
@@ -37,10 +37,10 @@ BillsGrandpa:
 	scall .ExcitedToSee
 	special BillsGrandfather
 	iffalse .SaidNo
-	ifnotequal LICKITUNG, .WrongPokemon
+	ifnotequal EXCELANGUE, .WrongPokemon
 	scall .CorrectPokemon
-	setevent EVENT_SHOWED_LICKITUNG_TO_BILLS_GRANDPA
-	sjump .ShowedLickitung
+	setevent EVENT_SHOWED_EXCELANGUE_TO_BILLS_GRANDPA
+	sjump .ShowedExcelangue
 
 .GotEverstone:
 	writetext BillsGrandpaOddishText
@@ -114,7 +114,7 @@ BillsGrandpa:
 	setevent EVENT_SHOWED_PICHU_TO_BILLS_GRANDPA
 	sjump .ShowedPichu
 
-.ShowedLickitung:
+.ShowedExcelangue:
 	checkevent EVENT_GOT_EVERSTONE_FROM_BILLS_GRANDPA
 	iftrue .GotEverstone
 	scall .ReceiveItem
@@ -279,7 +279,7 @@ BillsGrandpaWrongPokemonText:
 	cont "m'a parlé."
 	done
 
-BillsGrandpaLickitungText:
+BillsGrandpaExcelangueText:
 	text "LEO mon petit-fils"
 	line "m'a parlé d'un"
 

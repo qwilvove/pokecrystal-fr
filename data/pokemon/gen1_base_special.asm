@@ -109,7 +109,7 @@ KantoMonSpecials:
 	db  50 ; MAROWAK
 	db  35 ; HITMONLEE
 	db  35 ; HITMONCHAN
-	db  60 ; LICKITUNG
+	db  60 ; EXCELANGUE
 	db  60 ; KOFFING
 	db  85 ; WEEZING
 	db  30 ; RHYHORN

@@ -107,7 +107,7 @@ AnimationIdlePointers:
 	dw MarowakAnimationIdle
 	dw HitmonleeAnimationIdle
 	dw HitmonchanAnimationIdle
-	dw LickitungAnimationIdle
+	dw ExcelangueAnimationIdle
 	dw KoffingAnimationIdle
 	dw WeezingAnimationIdle
 	dw RhyhornAnimationIdle

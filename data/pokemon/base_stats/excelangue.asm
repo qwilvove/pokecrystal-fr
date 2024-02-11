@@ -1,4 +1,4 @@
-	db LICKITUNG ; 108
+	db EXCELANGUE ; 108
 
 	db  90,  55,  75,  30,  60,  75
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/lickitung/front.dimensions"
+	INCBIN "gfx/pokemon/excelangue/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_MONSTER, EGG_MONSTER ; egg groups

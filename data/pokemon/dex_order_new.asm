@@ -179,7 +179,7 @@ NewPokedexOrder:
 	db LANTURN
 	db SEEL
 	db DEWGONG
-	db LICKITUNG
+	db EXCELANGUE
 	db TANGELA
 	db EVOLI
 	db AQUALI

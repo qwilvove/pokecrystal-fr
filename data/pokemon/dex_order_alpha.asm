@@ -63,7 +63,7 @@ AlphabeticalPokedexOrder:
 	db EMPIFLOR
 	db ENTEI
 	db EVOLI
-	db LICKITUNG
+	db EXCELANGUE
 	db GASTLY
 	db SNEASEL
 	db MANKEY

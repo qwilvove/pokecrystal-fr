@@ -1461,7 +1461,7 @@ HitmonchanEvosAttacks:
 	db 50, COUNTER
 	db 0 ; no more level-up moves
 
-LickitungEvosAttacks:
+ExcelangueEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, LICK
 	db 7, SUPERSONIC

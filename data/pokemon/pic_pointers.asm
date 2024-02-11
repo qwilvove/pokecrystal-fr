@@ -217,8 +217,8 @@ PokemonPicPointers::
 	dba_pic HitmonleeBackpic
 	dba_pic HitmonchanFrontpic
 	dba_pic HitmonchanBackpic
-	dba_pic LickitungFrontpic
-	dba_pic LickitungBackpic
+	dba_pic ExcelangueFrontpic
+	dba_pic ExcelangueBackpic
 	dba_pic KoffingFrontpic
 	dba_pic KoffingBackpic
 	dba_pic WeezingFrontpic

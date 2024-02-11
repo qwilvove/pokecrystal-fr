@@ -10,7 +10,7 @@ Pokered_MonIndices:
 	db SLOWBRO
 	db IVYSAUR
 	db EXEGGUTOR
-	db LICKITUNG
+	db EXCELANGUE
 	db EXEGGCUTE
 	db GRIMER
 	db ECTOPLASMA

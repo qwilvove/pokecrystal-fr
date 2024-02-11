@@ -108,7 +108,7 @@ PokedexDataPointerTable:
 	dw MarowakPokedexEntry
 	dw HitmonleePokedexEntry
 	dw HitmonchanPokedexEntry
-	dw LickitungPokedexEntry
+	dw ExcelanguePokedexEntry
 	dw KoffingPokedexEntry
 	dw WeezingPokedexEntry
 	dw RhyhornPokedexEntry
