@@ -1997,7 +1997,7 @@ DratiniEvosAttacks:
 	db 0 ; no more level-up moves
 
 DracoEvosAttacks:
-	db EVOLVE_LEVEL, 55, DRAGONITE
+	db EVOLVE_LEVEL, 55, DRACOLOSSE
 	db 0 ; no more evolutions
 	db 1, WRAP
 	db 1, LEER
@@ -2013,7 +2013,7 @@ DracoEvosAttacks:
 	db 65, HYPER_BEAM
 	db 0 ; no more level-up moves
 
-DragoniteEvosAttacks:
+DracolosseEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, WRAP
 	db 1, LEER

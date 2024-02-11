@@ -150,7 +150,7 @@ EvosAttacksPointers::
 	dw MoltresEvosAttacks
 	dw DratiniEvosAttacks
 	dw DracoEvosAttacks
-	dw DragoniteEvosAttacks
+	dw DracolosseEvosAttacks
 	dw MewtwoEvosAttacks
 	dw MewEvosAttacks
 	dw ChikoritaEvosAttacks

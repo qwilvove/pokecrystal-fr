@@ -150,7 +150,7 @@ KantoMonSpecials:
 	db 125 ; MOLTRES
 	db  50 ; DRATINI
 	db  70 ; DRACO
-	db 100 ; DRAGONITE
+	db 100 ; DRACOLOSSE
 	db 154 ; MEWTWO
 	db 100 ; MEW
 	assert_table_length JOHTO_POKEMON - 1

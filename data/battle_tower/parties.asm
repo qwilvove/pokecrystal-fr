@@ -2957,7 +2957,7 @@ BattleTowerMons:
 	bigdw 142 ; SDef
 	db "PUTERA@@@@@"
 
-	db DRAGONITE
+	db DRACOLOSSE
 	db MIRACLEBERRY
 	db HYPER_BEAM, ICY_WIND, THUNDERBOLT, SURF
 	dw 0 ; OT ID
@@ -4081,7 +4081,7 @@ BattleTowerMons:
 	bigdw 221 ; SDef
 	db "KINGUDORA@@"
 
-	db DRAGONITE
+	db DRACOLOSSE
 	db GOLD_BERRY
 	db THUNDER_WAVE, SURF, THUNDERBOLT, OUTRAGE
 	dw 0 ; OT ID
@@ -4422,7 +4422,7 @@ BattleTowerMons:
 	bigdw 314 ; SDef
 	db "BURAtuKI-@@"
 
-	db DRAGONITE
+	db DRACOLOSSE
 	db QUICK_CLAW
 	db FIRE_BLAST, HYPER_BEAM, OUTRAGE, BLIZZARD
 	dw 0 ; OT ID

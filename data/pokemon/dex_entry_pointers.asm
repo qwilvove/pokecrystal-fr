@@ -149,7 +149,7 @@ PokedexDataPointerTable:
 	dw MoltresPokedexEntry
 	dw DratiniPokedexEntry
 	dw DracoPokedexEntry
-	dw DragonitePokedexEntry
+	dw DracolossePokedexEntry
 	dw MewtwoPokedexEntry
 	dw MewPokedexEntry
 	dw ChikoritaPokedexEntry

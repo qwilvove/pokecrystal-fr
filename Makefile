@@ -198,7 +198,7 @@ gfx/pokemon/egg/unused_front.2bpp: rgbgfx += -Z
 gfx/new_game/shrink1.2bpp: rgbgfx += -Z
 gfx/new_game/shrink2.2bpp: rgbgfx += -Z
 
-gfx/mail/dragonite.1bpp: tools/gfx += --remove-whitespace
+gfx/mail/dracolosse.1bpp: tools/gfx += --remove-whitespace
 gfx/mail/large_note.1bpp: tools/gfx += --remove-whitespace
 gfx/mail/surf_mail_border.1bpp: tools/gfx += --remove-whitespace
 gfx/mail/flower_mail_border.1bpp: tools/gfx += --remove-whitespace

@@ -148,7 +148,7 @@ FramesPointers:
 	dw MoltresFrames
 	dw DratiniFrames
 	dw DracoFrames
-	dw DragoniteFrames
+	dw DracolosseFrames
 	dw MewtwoFrames
 	dw MewFrames
 	dw ChikoritaFrames

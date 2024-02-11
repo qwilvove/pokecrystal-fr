@@ -52,7 +52,7 @@ AlphabeticalPokedexOrder:
 	db DONPHAN
 	db DRACAUFEU
 	db DRACO
-	db DRAGONITE
+	db DRACOLOSSE
 	db MILTANK
 	db GENGAR
 	db ZAPDOS

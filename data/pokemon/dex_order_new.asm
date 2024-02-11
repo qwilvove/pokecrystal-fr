@@ -244,7 +244,7 @@ NewPokedexOrder:
 	db SUICUNE
 	db DRATINI
 	db DRACO
-	db DRAGONITE
+	db DRACOLOSSE
 	db LARVITAR
 	db PUPITAR
 	db TYRANITAR

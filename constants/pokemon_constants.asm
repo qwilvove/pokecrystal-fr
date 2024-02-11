@@ -167,7 +167,7 @@
 	const MOLTRES    ; 92
 	const DRATINI    ; 93
 	const DRACO  ; 94
-	const DRAGONITE  ; 95
+	const DRACOLOSSE  ; 95
 	const MEWTWO     ; 96
 	const MEW        ; 97
 DEF JOHTO_POKEMON EQU const_value

@@ -148,7 +148,7 @@ AnimationPointers:
 	dw MoltresAnimation
 	dw DratiniAnimation
 	dw DracoAnimation
-	dw DragoniteAnimation
+	dw DracolosseAnimation
 	dw MewtwoAnimation
 	dw MewAnimation
 	dw ChikoritaAnimation
