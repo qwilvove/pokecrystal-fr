@@ -61,7 +61,7 @@ NewPokedexOrder:
 	db QUAGSIRE
 	db GASTLY
 	db HAUNTER
-	db GENGAR
+	db ECTOPLASMA
 	db UNOWN
 	db ONIX
 	db STEELIX

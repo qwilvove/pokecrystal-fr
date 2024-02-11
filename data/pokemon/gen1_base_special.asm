@@ -95,7 +95,7 @@ KantoMonSpecials:
 	db  85 ; CRUSTABRI
 	db 100 ; GASTLY
 	db 115 ; HAUNTER
-	db 130 ; GENGAR
+	db 130 ; ECTOPLASMA
 	db  30 ; ONIX
 	db  90 ; DROWZEE
 	db 115 ; HYPNO

@@ -1246,7 +1246,7 @@ GastlyEvosAttacks:
 	db 0 ; no more level-up moves
 
 HaunterEvosAttacks:
-	db EVOLVE_TRADE, -1, GENGAR
+	db EVOLVE_TRADE, -1, ECTOPLASMA
 	db 0 ; no more evolutions
 	db 1, HYPNOSIS
 	db 1, LICK
@@ -1260,7 +1260,7 @@ HaunterEvosAttacks:
 	db 48, DESTINY_BOND
 	db 0 ; no more level-up moves
 
-GengarEvosAttacks:
+EctoplasmaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, HYPNOSIS
 	db 1, LICK

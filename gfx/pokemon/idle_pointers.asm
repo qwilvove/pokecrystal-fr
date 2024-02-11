@@ -93,7 +93,7 @@ AnimationIdlePointers:
 	dw CrustabriAnimationIdle
 	dw GastlyAnimationIdle
 	dw HaunterAnimationIdle
-	dw GengarAnimationIdle
+	dw EctoplasmaAnimationIdle
 	dw OnixAnimationIdle
 	dw DrowzeeAnimationIdle
 	dw HypnoAnimationIdle

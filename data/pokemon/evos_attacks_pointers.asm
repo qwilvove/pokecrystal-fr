@@ -95,7 +95,7 @@ EvosAttacksPointers::
 	dw CrustabriEvosAttacks
 	dw GastlyEvosAttacks
 	dw HaunterEvosAttacks
-	dw GengarEvosAttacks
+	dw EctoplasmaEvosAttacks
 	dw OnixEvosAttacks
 	dw DrowzeeEvosAttacks
 	dw HypnoEvosAttacks

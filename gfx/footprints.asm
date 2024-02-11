@@ -215,7 +215,7 @@ INCBIN "gfx/footprints/shellder.1bpp",   footprint_top
 INCBIN "gfx/footprints/crustabri.1bpp",   footprint_top
 INCBIN "gfx/footprints/gastly.1bpp",     footprint_top
 INCBIN "gfx/footprints/haunter.1bpp",    footprint_top
-INCBIN "gfx/footprints/gengar.1bpp",     footprint_top
+INCBIN "gfx/footprints/ectoplasma.1bpp",     footprint_top
 INCBIN "gfx/footprints/onix.1bpp",       footprint_top
 INCBIN "gfx/footprints/drowzee.1bpp",    footprint_top
 ; 089-096 bottom halves
@@ -224,7 +224,7 @@ INCBIN "gfx/footprints/shellder.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/crustabri.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/gastly.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/haunter.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/gengar.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/ectoplasma.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/onix.1bpp",       footprint_bottom
 INCBIN "gfx/footprints/drowzee.1bpp",    footprint_bottom
 ; 097-104 top halves

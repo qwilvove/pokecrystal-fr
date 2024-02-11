@@ -93,7 +93,7 @@ FramesPointers:
 	dw CrustabriFrames
 	dw GastlyFrames
 	dw HaunterFrames
-	dw GengarFrames
+	dw EctoplasmaFrames
 	dw OnixFrames
 	dw DrowzeeFrames
 	dw HypnoFrames

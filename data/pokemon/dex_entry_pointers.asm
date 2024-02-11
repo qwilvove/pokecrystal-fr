@@ -94,7 +94,7 @@ PokedexDataPointerTable:
 	dw CrustabriPokedexEntry
 	dw GastlyPokedexEntry
 	dw HaunterPokedexEntry
-	dw GengarPokedexEntry
+	dw EctoplasmaPokedexEntry
 	dw OnixPokedexEntry
 	dw DrowzeePokedexEntry
 	dw HypnoPokedexEntry

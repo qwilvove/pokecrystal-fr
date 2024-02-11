@@ -54,7 +54,7 @@ AlphabeticalPokedexOrder:
 	db DRACO
 	db DRACOLOSSE
 	db ECREMEUH
-	db GENGAR
+	db ECTOPLASMA
 	db ZAPDOS
 	db ELECTRODE
 	db ELEKID

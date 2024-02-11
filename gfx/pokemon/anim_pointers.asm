@@ -93,7 +93,7 @@ AnimationPointers:
 	dw CrustabriAnimation
 	dw GastlyAnimation
 	dw HaunterAnimation
-	dw GengarAnimation
+	dw EctoplasmaAnimation
 	dw OnixAnimation
 	dw DrowzeeAnimation
 	dw HypnoAnimation

@@ -99,7 +99,7 @@ PokemonCries::
 	mon_cry CRY_FEAROW,      111,  352 ; CRUSTABRI
 	mon_cry CRY_CHRYSACIER,       0,  256 ; GASTLY
 	mon_cry CRY_CHRYSACIER,      48,  192 ; HAUNTER
-	mon_cry CRY_MUK,           0,  383 ; GENGAR
+	mon_cry CRY_MUK,           0,  383 ; ECTOPLASMA
 	mon_cry CRY_ABO,       255,  320 ; ONIX
 	mon_cry CRY_DROWZEE,     136,  160 ; DROWZEE
 	mon_cry CRY_DROWZEE,     238,  192 ; HYPNO

@@ -7,7 +7,7 @@ SpriteMons:
 	db ASPICOT
 	db SHELLDER
 	db ODDISH
-	db GENGAR
+	db ECTOPLASMA
 	db ZUBAT
 	db MAGIKARP
 	db CARAPUCE

@@ -189,8 +189,8 @@ PokemonPicPointers::
 	dba_pic GastlyBackpic
 	dba_pic HaunterFrontpic
 	dba_pic HaunterBackpic
-	dba_pic GengarFrontpic
-	dba_pic GengarBackpic
+	dba_pic EctoplasmaFrontpic
+	dba_pic EctoplasmaBackpic
 	dba_pic OnixFrontpic
 	dba_pic OnixBackpic
 	dba_pic DrowzeeFrontpic

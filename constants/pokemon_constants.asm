@@ -112,7 +112,7 @@
 	const CRUSTABRI   ; 5b
 	const GASTLY     ; 5c
 	const HAUNTER    ; 5d
-	const GENGAR     ; 5e
+	const ECTOPLASMA     ; 5e
 	const ONIX       ; 5f
 	const DROWZEE    ; 60
 	const HYPNO      ; 61

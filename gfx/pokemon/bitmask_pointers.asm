@@ -93,7 +93,7 @@ BitmasksPointers:
 	dw CrustabriBitmasks
 	dw GastlyBitmasks
 	dw HaunterBitmasks
-	dw GengarBitmasks
+	dw EctoplasmaBitmasks
 	dw OnixBitmasks
 	dw DrowzeeBitmasks
 	dw HypnoBitmasks
