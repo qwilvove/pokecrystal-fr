@@ -242,7 +242,7 @@ EvosAttacksPointers::
 	dw SmoochumEvosAttacks
 	dw ElekidEvosAttacks
 	dw MagbyEvosAttacks
-	dw MiltankEvosAttacks
+	dw EcremeuhEvosAttacks
 	dw BlisseyEvosAttacks
 	dw RaikouEvosAttacks
 	dw EnteiEvosAttacks

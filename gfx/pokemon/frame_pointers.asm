@@ -240,7 +240,7 @@ FramesPointers:
 	dw SmoochumFrames
 	dw ElekidFrames
 	dw MagbyFrames
-	dw MiltankFrames
+	dw EcremeuhFrames
 	dw BlisseyFrames
 	dw RaikouFrames
 	dw EnteiFrames

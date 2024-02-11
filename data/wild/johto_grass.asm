@@ -1494,16 +1494,16 @@ JohtoGrassWildMons:
 	db 16, MAGNEMITE
 	db 16, PIDGEOTTO
 	db 13, TAUROS
-	db 13, MILTANK
-	db 13, MILTANK
+	db 13, ECREMEUH
+	db 13, ECREMEUH
 	; day
 	db 16, RATTATA
 	db 16, RATICATE
 	db 16, MAGNEMITE
 	db 16, PIDGEOTTO
 	db 13, TAUROS
-	db 13, MILTANK
-	db 13, MILTANK
+	db 13, ECREMEUH
+	db 13, ECREMEUH
 	; nite
 	db 16, MEOWTH
 	db 16, RATICATE
@@ -1521,7 +1521,7 @@ JohtoGrassWildMons:
 	db 16, RATICATE
 	db 16, MAGNEMITE
 	db 16, PIDGEOTTO
-	db 15, MILTANK
+	db 15, ECREMEUH
 	db 15, TAUROS
 	db 15, TAUROS
 	; day
@@ -1529,7 +1529,7 @@ JohtoGrassWildMons:
 	db 16, RATICATE
 	db 16, MAGNEMITE
 	db 16, PIDGEOTTO
-	db 15, MILTANK
+	db 15, ECREMEUH
 	db 15, TAUROS
 	db 15, TAUROS
 	; nite

@@ -53,7 +53,7 @@ AlphabeticalPokedexOrder:
 	db DRACAUFEU
 	db DRACO
 	db DRACOLOSSE
-	db MILTANK
+	db ECREMEUH
 	db GENGAR
 	db ZAPDOS
 	db ELECTRODE

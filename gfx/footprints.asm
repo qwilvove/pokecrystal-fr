@@ -552,7 +552,7 @@ INCBIN "gfx/footprints/smoochum.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/elekid.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/magby.1bpp",      footprint_bottom
 ; 241-248 top halves
-INCBIN "gfx/footprints/miltank.1bpp",    footprint_top
+INCBIN "gfx/footprints/ecremeuh.1bpp",    footprint_top
 INCBIN "gfx/footprints/blissey.1bpp",    footprint_top
 INCBIN "gfx/footprints/raikou.1bpp",     footprint_top
 INCBIN "gfx/footprints/entei.1bpp",      footprint_top
@@ -561,7 +561,7 @@ INCBIN "gfx/footprints/larvitar.1bpp",   footprint_top
 INCBIN "gfx/footprints/pupitar.1bpp",    footprint_top
 INCBIN "gfx/footprints/tyranitar.1bpp",  footprint_top
 ; 241-248 bottom halves
-INCBIN "gfx/footprints/miltank.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/ecremeuh.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/blissey.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/raikou.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/entei.1bpp",      footprint_bottom

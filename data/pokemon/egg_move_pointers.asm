@@ -240,7 +240,7 @@ EggMovePointers::
 	dw SmoochumEggMoves
 	dw ElekidEggMoves
 	dw MagbyEggMoves
-	dw MiltankEggMoves
+	dw EcremeuhEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

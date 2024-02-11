@@ -240,7 +240,7 @@ BitmasksPointers:
 	dw SmoochumBitmasks
 	dw ElekidBitmasks
 	dw MagbyBitmasks
-	dw MiltankBitmasks
+	dw EcremeuhBitmasks
 	dw BlisseyBitmasks
 	dw RaikouBitmasks
 	dw EnteiBitmasks

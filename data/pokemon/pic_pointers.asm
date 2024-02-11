@@ -486,8 +486,8 @@ PokemonPicPointers::
 	dba_pic ElekidBackpic
 	dba_pic MagbyFrontpic
 	dba_pic MagbyBackpic
-	dba_pic MiltankFrontpic
-	dba_pic MiltankBackpic
+	dba_pic EcremeuhFrontpic
+	dba_pic EcremeuhBackpic
 	dba_pic BlisseyFrontpic
 	dba_pic BlisseyBackpic
 	dba_pic RaikouFrontpic

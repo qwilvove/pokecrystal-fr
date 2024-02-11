@@ -150,7 +150,7 @@ NewPokedexOrder:
 	db HITMONTOP
 	db GIRAFARIG
 	db TAUROS
-	db MILTANK
+	db ECREMEUH
 	db MAGBY
 	db MAGMAR
 	db SMOOCHUM

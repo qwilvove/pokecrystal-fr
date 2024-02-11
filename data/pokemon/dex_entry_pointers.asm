@@ -241,7 +241,7 @@ PokedexDataPointerTable:
 	dw SmoochumPokedexEntry
 	dw ElekidPokedexEntry
 	dw MagbyPokedexEntry
-	dw MiltankPokedexEntry
+	dw EcremeuhPokedexEntry
 	dw BlisseyPokedexEntry
 	dw RaikouPokedexEntry
 	dw EnteiPokedexEntry

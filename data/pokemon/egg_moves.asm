@@ -791,7 +791,7 @@ MagbyEggMoves:
 	db CROSS_CHOP
 	db -1 ; end
 
-MiltankEggMoves:
+EcremeuhEggMoves:
 	db PRESENT
 	db REVERSAL
 	db SEISMIC_TOSS

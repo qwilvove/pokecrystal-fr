@@ -78,7 +78,7 @@ PokefanF_SnoreFarmer:
 	end
 
 FarmerFScript_GiveSnore:
-	writetext FarmerFText_HealedMiltank
+	writetext FarmerFText_HealedEcremeuh
 	promptbutton
 	verbosegiveitem TM_SNORE
 	iffalse FarmerFScript_NoRoomForSnore
@@ -165,7 +165,7 @@ FarmerFText_InTrouble:
 	line "c'est la faillite."
 	done
 
-FarmerFText_HealedMiltank:
+FarmerFText_HealedEcremeuh:
 	text "Tu nous as soigné"
 	line "not'ECREMEUH! Elle"
 

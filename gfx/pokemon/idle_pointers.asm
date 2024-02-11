@@ -240,7 +240,7 @@ AnimationIdlePointers:
 	dw SmoochumAnimationIdle
 	dw ElekidAnimationIdle
 	dw MagbyAnimationIdle
-	dw MiltankAnimationIdle
+	dw EcremeuhAnimationIdle
 	dw BlisseyAnimationIdle
 	dw RaikouAnimationIdle
 	dw EnteiAnimationIdle

@@ -240,7 +240,7 @@ AnimationPointers:
 	dw SmoochumAnimation
 	dw ElekidAnimation
 	dw MagbyAnimation
-	dw MiltankAnimation
+	dw EcremeuhAnimation
 	dw BlisseyAnimation
 	dw RaikouAnimation
 	dw EnteiAnimation
