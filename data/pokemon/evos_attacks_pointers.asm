@@ -163,7 +163,7 @@ EvosAttacksPointers::
 	dw CrocrodilEvosAttacks
 	dw AligatueurEvosAttacks
 	dw SentretEvosAttacks
-	dw FurretEvosAttacks
+	dw FouinarEvosAttacks
 	dw HoothootEvosAttacks
 	dw NoctowlEvosAttacks
 	dw CoxyEvosAttacks

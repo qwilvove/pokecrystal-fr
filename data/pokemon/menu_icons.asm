@@ -163,7 +163,7 @@ MonMenuIcons:
 	db ICON_MONSTER     ; CROCRODIL
 	db ICON_MONSTER     ; ALIGATUEUR
 	db ICON_FOX         ; SENTRET
-	db ICON_FOX         ; FURRET
+	db ICON_FOX         ; FOUINAR
 	db ICON_BIRD        ; HOOTHOOT
 	db ICON_BIRD        ; NOCTOWL
 	db ICON_BUG         ; COXY

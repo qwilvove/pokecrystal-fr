@@ -74,7 +74,7 @@ AlphabeticalPokedexOrder:
 	db FLORAVOL
 	db FLORIZARRE
 	db FORETRESS
-	db FURRET
+	db FOUINAR
 	db SENTRET
 	db RAPIDASH
 	db CHIKORITA

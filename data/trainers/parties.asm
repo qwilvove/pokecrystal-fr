@@ -1088,7 +1088,7 @@ BeautyGroup:
 
 	; BEAUTY (5)
 	db "CINDY@", TRAINERTYPE_NORMAL
-	db 16, FURRET
+	db 16, FOUINAR
 	db -1 ; end
 
 	; BEAUTY (6)
@@ -2794,7 +2794,7 @@ PicnickerGroup:
 
 	; PICNICKER (7)
 	db "TARA@", TRAINERTYPE_NORMAL
-	db 31, FURRET
+	db 31, FOUINAR
 	db 33, RAPIDASH
 	db -1 ; end
 
@@ -3413,7 +3413,7 @@ PokefanFGroup:
 	db 23, SENTRET,    BERRY
 	db 23, SENTRET,    BERRY
 	db 23, SENTRET,    BERRY
-	db 28, FURRET,     BERRY
+	db 28, FOUINAR,     BERRY
 	db 23, SENTRET,    BERRY
 	db -1 ; end
 

@@ -21,7 +21,7 @@ NewPokedexOrder:
 	db RATTATA
 	db RATICATE
 	db SENTRET
-	db FURRET
+	db FOUINAR
 	db PICHU
 	db PIKACHU
 	db RAICHU

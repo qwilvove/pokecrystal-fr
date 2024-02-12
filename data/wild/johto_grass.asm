@@ -1576,18 +1576,18 @@ JohtoGrassWildMons:
 	db 15, SENTRET
 	db 16, PIDGEOTTO
 	db 16, CANARTICHO
-	db 15, FURRET
+	db 15, FOUINAR
 	db 17, RATICATE
-	db 17, FURRET
-	db 17, FURRET
+	db 17, FOUINAR
+	db 17, FOUINAR
 	; day
 	db 15, SENTRET
 	db 16, PIDGEOTTO
 	db 16, CANARTICHO
-	db 15, FURRET
+	db 15, FOUINAR
 	db 17, RATICATE
-	db 17, FURRET
-	db 17, FURRET
+	db 17, FOUINAR
+	db 17, FOUINAR
 	; nite
 	db 15, VENONAT
 	db 16, NOCTOWL

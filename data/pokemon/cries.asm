@@ -167,7 +167,7 @@ PokemonCries::
 	mon_cry CRY_TOTODILE,   1088,  272 ; CROCRODIL
 	mon_cry CRY_TOTODILE,   1020,  384 ; ALIGATUEUR
 	mon_cry CRY_SENTRET,     138,  184 ; SENTRET
-	mon_cry CRY_SENTRET,     107,  258 ; FURRET
+	mon_cry CRY_SENTRET,     107,  258 ; FOUINAR
 	mon_cry CRY_HOOTHOOT,    145,  216 ; HOOTHOOT
 	mon_cry CRY_HOOTHOOT,      0,  416 ; NOCTOWL
 	mon_cry CRY_COXY,        0,  222 ; COXY

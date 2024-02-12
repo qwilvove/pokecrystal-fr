@@ -2189,7 +2189,7 @@ AligatueurEvosAttacks:
 	db 0 ; no more level-up moves
 
 SentretEvosAttacks:
-	db EVOLVE_LEVEL, 15, FURRET
+	db EVOLVE_LEVEL, 15, FOUINAR
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 5, DEFENSE_CURL
@@ -2200,7 +2200,7 @@ SentretEvosAttacks:
 	db 41, AMNESIA
 	db 0 ; no more level-up moves
 
-FurretEvosAttacks:
+FouinarEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, DEFENSE_CURL

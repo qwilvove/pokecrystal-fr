@@ -1,4 +1,4 @@
-	db FURRET ; 162
+	db FOUINARR ; 162
 
 	db  85,  76,  64,  90,  45,  55
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 15 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/furret/front.dimensions"
+	INCBIN "gfx/pokemon/fouinar/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_GROUND, EGG_GROUND ; egg groups

@@ -181,7 +181,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const CROCRODIL   ; 9f
 	const ALIGATUEUR ; a0
 	const SENTRET    ; a1
-	const FURRET     ; a2
+	const FOUINAR     ; a2
 	const HOOTHOOT   ; a3
 	const NOCTOWL    ; a4
 	const COXY     ; a5

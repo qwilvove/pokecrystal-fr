@@ -201,7 +201,7 @@ Pokered_MonIndices:
 	db CROCRODIL
 	db ALIGATUEUR
 	db SENTRET
-	db FURRET
+	db FOUINAR
 	db HOOTHOOT
 	db NOCTOWL
 	db COXY
