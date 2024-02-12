@@ -189,7 +189,7 @@ EvosAttacksPointers::
 	dw SudowoodoEvosAttacks
 	dw PolitoedEvosAttacks
 	dw HoppipEvosAttacks
-	dw SkiploomEvosAttacks
+	dw FloravolEvosAttacks
 	dw CotovolEvosAttacks
 	dw CapumainEvosAttacks
 	dw SunkernEvosAttacks

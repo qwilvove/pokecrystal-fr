@@ -429,7 +429,7 @@ INCBIN "gfx/footprints/azumarill.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/sudowoodo.1bpp",  footprint_top
 INCBIN "gfx/footprints/politoed.1bpp",   footprint_top
 INCBIN "gfx/footprints/hoppip.1bpp",     footprint_top
-INCBIN "gfx/footprints/skiploom.1bpp",   footprint_top
+INCBIN "gfx/footprints/floravol.1bpp",   footprint_top
 INCBIN "gfx/footprints/cotovol.1bpp",   footprint_top
 INCBIN "gfx/footprints/capumain.1bpp",      footprint_top
 INCBIN "gfx/footprints/sunkern.1bpp",    footprint_top
@@ -438,7 +438,7 @@ INCBIN "gfx/footprints/sunflora.1bpp",   footprint_top
 INCBIN "gfx/footprints/sudowoodo.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/politoed.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/hoppip.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/skiploom.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/floravol.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/cotovol.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/capumain.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/sunkern.1bpp",    footprint_bottom

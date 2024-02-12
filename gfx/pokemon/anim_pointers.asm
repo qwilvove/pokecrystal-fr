@@ -187,7 +187,7 @@ AnimationPointers:
 	dw SudowoodoAnimation
 	dw PolitoedAnimation
 	dw HoppipAnimation
-	dw SkiploomAnimation
+	dw FloravolAnimation
 	dw CotovolAnimation
 	dw CapumainAnimation
 	dw SunkernAnimation

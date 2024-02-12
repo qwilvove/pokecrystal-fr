@@ -2519,7 +2519,7 @@ PolitoedEvosAttacks:
 	db 0 ; no more level-up moves
 
 HoppipEvosAttacks:
-	db EVOLVE_LEVEL, 18, SKIPLOOM
+	db EVOLVE_LEVEL, 18, FLORAVOL
 	db 0 ; no more evolutions
 	db 1, SPLASH
 	db 5, SYNTHESIS
@@ -2533,7 +2533,7 @@ HoppipEvosAttacks:
 	db 30, MEGA_DRAIN
 	db 0 ; no more level-up moves
 
-SkiploomEvosAttacks:
+FloravolEvosAttacks:
 	db EVOLVE_LEVEL, 27, COTOVOL
 	db 0 ; no more evolutions
 	db 1, SPLASH

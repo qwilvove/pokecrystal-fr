@@ -227,7 +227,7 @@ Pokered_MonIndices:
 	db SUDOWOODO
 	db POLITOED
 	db HOPPIP
-	db SKIPLOOM
+	db FLORAVOL
 	db COTOVOL
 	db CAPUMAIN
 	db SUNKERN

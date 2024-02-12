@@ -187,7 +187,7 @@ AnimationIdlePointers:
 	dw SudowoodoAnimationIdle
 	dw PolitoedAnimationIdle
 	dw HoppipAnimationIdle
-	dw SkiploomAnimationIdle
+	dw FloravolAnimationIdle
 	dw CotovolAnimationIdle
 	dw CapumainAnimationIdle
 	dw SunkernAnimationIdle

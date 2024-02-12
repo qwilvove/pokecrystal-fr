@@ -69,7 +69,7 @@ NewPokedexOrder:
 	db BOUSTIFLOR
 	db EMPIFLOR
 	db HOPPIP
-	db SKIPLOOM
+	db FLORAVOL
 	db COTOVOL
 	db PARAS
 	db PARASECT

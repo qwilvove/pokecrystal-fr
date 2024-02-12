@@ -187,7 +187,7 @@ FramesPointers:
 	dw SudowoodoFrames
 	dw PolitoedFrames
 	dw HoppipFrames
-	dw SkiploomFrames
+	dw FloravolFrames
 	dw CotovolFrames
 	dw CapumainFrames
 	dw SunkernFrames
