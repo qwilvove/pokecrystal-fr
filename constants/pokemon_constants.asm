@@ -175,7 +175,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const BAYLEEF    ; 99
 	const MEGANIUM   ; 9a
 	const CYNDAQUIL  ; 9b
-	const QUILAVA    ; 9c
+	const FEURISSON    ; 9c
 	const TYPHLOSION ; 9d
 	const TOTODILE   ; 9e
 	const CROCRODIL   ; 9f

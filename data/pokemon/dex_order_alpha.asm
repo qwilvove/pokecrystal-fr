@@ -69,7 +69,7 @@ AlphabeticalPokedexOrder:
 	db FEROSINGE
 	db FEUFOREVE
 	db FEUNARD
-	db QUILAVA
+	db FEURISSON
 	db SLOWBRO
 	db SKIPLOOM
 	db VENUSAUR

@@ -156,7 +156,7 @@ PokedexDataPointerTable:
 	dw BayleefPokedexEntry
 	dw MeganiumPokedexEntry
 	dw CyndaquilPokedexEntry
-	dw QuilavaPokedexEntry
+	dw FeurissonPokedexEntry
 	dw TyphlosionPokedexEntry
 	dw TotodilePokedexEntry
 	dw CrocrodilPokedexEntry

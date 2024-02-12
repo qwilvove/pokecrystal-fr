@@ -2104,7 +2104,7 @@ MeganiumEvosAttacks:
 	db 0 ; no more level-up moves
 
 CyndaquilEvosAttacks:
-	db EVOLVE_LEVEL, 14, QUILAVA
+	db EVOLVE_LEVEL, 14, FEURISSON
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, LEER
@@ -2116,7 +2116,7 @@ CyndaquilEvosAttacks:
 	db 46, FLAMETHROWER
 	db 0 ; no more level-up moves
 
-QuilavaEvosAttacks:
+FeurissonEvosAttacks:
 	db EVOLVE_LEVEL, 36, TYPHLOSION
 	db 0 ; no more evolutions
 	db 1, TACKLE

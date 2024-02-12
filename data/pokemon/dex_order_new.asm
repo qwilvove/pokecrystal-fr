@@ -6,7 +6,7 @@ NewPokedexOrder:
 	db BAYLEEF
 	db MEGANIUM
 	db CYNDAQUIL
-	db QUILAVA
+	db FEURISSON
 	db TYPHLOSION
 	db TOTODILE
 	db CROCRODIL

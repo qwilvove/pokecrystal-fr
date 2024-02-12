@@ -155,7 +155,7 @@ AnimationPointers:
 	dw BayleefAnimation
 	dw MeganiumAnimation
 	dw CyndaquilAnimation
-	dw QuilavaAnimation
+	dw FeurissonAnimation
 	dw TyphlosionAnimation
 	dw TotodileAnimation
 	dw CrocrodilAnimation

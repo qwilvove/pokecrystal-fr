@@ -357,7 +357,7 @@ INCBIN "gfx/footprints/chikorita.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/bayleef.1bpp",    footprint_top
 INCBIN "gfx/footprints/meganium.1bpp",   footprint_top
 INCBIN "gfx/footprints/cyndaquil.1bpp",  footprint_top
-INCBIN "gfx/footprints/quilava.1bpp",    footprint_top
+INCBIN "gfx/footprints/feurisson.1bpp",    footprint_top
 INCBIN "gfx/footprints/typhlosion.1bpp", footprint_top
 INCBIN "gfx/footprints/totodile.1bpp",   footprint_top
 INCBIN "gfx/footprints/crocrodil.1bpp",   footprint_top
@@ -366,7 +366,7 @@ INCBIN "gfx/footprints/aligatueur.1bpp", footprint_top
 INCBIN "gfx/footprints/bayleef.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/meganium.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/cyndaquil.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/quilava.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/feurisson.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/typhlosion.1bpp", footprint_bottom
 INCBIN "gfx/footprints/totodile.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/crocrodil.1bpp",   footprint_bottom

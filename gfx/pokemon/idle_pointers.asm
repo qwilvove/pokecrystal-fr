@@ -155,7 +155,7 @@ AnimationIdlePointers:
 	dw BayleefAnimationIdle
 	dw MeganiumAnimationIdle
 	dw CyndaquilAnimationIdle
-	dw QuilavaAnimationIdle
+	dw FeurissonAnimationIdle
 	dw TyphlosionAnimationIdle
 	dw TotodileAnimationIdle
 	dw CrocrodilAnimationIdle

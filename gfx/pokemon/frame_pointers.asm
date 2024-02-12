@@ -155,7 +155,7 @@ FramesPointers:
 	dw BayleefFrames
 	dw MeganiumFrames
 	dw CyndaquilFrames
-	dw QuilavaFrames
+	dw FeurissonFrames
 	dw TyphlosionFrames
 	dw TotodileFrames
 	dw CrocrodilFrames

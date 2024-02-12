@@ -313,8 +313,8 @@ PokemonPicPointers::
 	dba_pic MeganiumBackpic
 	dba_pic CyndaquilFrontpic
 	dba_pic CyndaquilBackpic
-	dba_pic QuilavaFrontpic
-	dba_pic QuilavaBackpic
+	dba_pic FeurissonFrontpic
+	dba_pic FeurissonBackpic
 	dba_pic TyphlosionFrontpic
 	dba_pic TyphlosionBackpic
 	dba_pic TotodileFrontpic
