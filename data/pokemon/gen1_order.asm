@@ -56,7 +56,7 @@ Pokered_MonIndices:
 	db MAGNETON
 	db KOFFING
 	db FARFURET ; MISSINGNO.
-	db MANKEY
+	db FEROSINGE
 	db SEEL
 	db DIGLETT
 	db TAUROS

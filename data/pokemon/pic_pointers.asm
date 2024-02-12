@@ -113,8 +113,8 @@ PokemonPicPointers::
 	dba_pic PsyduckBackpic
 	dba_pic AkwakwakFrontpic
 	dba_pic AkwakwakBackpic
-	dba_pic MankeyFrontpic
-	dba_pic MankeyBackpic
+	dba_pic FerosingeFrontpic
+	dba_pic FerosingeBackpic
 	dba_pic ColossingeFrontpic
 	dba_pic ColossingeBackpic
 	dba_pic CaninosFrontpic

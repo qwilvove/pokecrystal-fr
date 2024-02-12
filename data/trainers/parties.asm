@@ -368,7 +368,7 @@ YoungsterGroup:
 
 	; YOUNGSTER (6)
 	db "IAN@", TRAINERTYPE_NORMAL
-	db 10, MANKEY
+	db 10, FEROSINGE
 	db 12, DIGLETT
 	db -1 ; end
 
@@ -2640,8 +2640,8 @@ BlackbeltGroup:
 
 	; BLACKBELT_T (7)
 	db "PING@", TRAINERTYPE_NORMAL
-	db 23, MANKEY
-	db 23, MANKEY
+	db 23, FEROSINGE
+	db 23, FEROSINGE
 	db 25, COLOSSINGE
 	db -1 ; end
 
@@ -2973,7 +2973,7 @@ CamperGroup:
 
 	; CAMPER (11)
 	db "LAURENT@", TRAINERTYPE_NORMAL
-	db 17, MANKEY
+	db 17, FEROSINGE
 	db -1 ; end
 
 	; CAMPER (12)

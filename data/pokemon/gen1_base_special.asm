@@ -57,7 +57,7 @@ KantoMonSpecials:
 	db  65 ; PERSIAN
 	db  50 ; PSYDUCK
 	db  80 ; AKWAKWAK
-	db  35 ; MANKEY
+	db  35 ; FEROSINGE
 	db  60 ; COLOSSINGE
 	db  50 ; CANINOS
 	db  80 ; ARCANIN

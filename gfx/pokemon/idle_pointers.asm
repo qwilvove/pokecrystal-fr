@@ -55,7 +55,7 @@ AnimationIdlePointers:
 	dw PersianAnimationIdle
 	dw PsyduckAnimationIdle
 	dw AkwakwakAnimationIdle
-	dw MankeyAnimationIdle
+	dw FerosingeAnimationIdle
 	dw ColossingeAnimationIdle
 	dw CaninosAnimationIdle
 	dw ArcaninAnimationIdle

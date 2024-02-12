@@ -55,7 +55,7 @@ BitmasksPointers:
 	dw PersianBitmasks
 	dw PsyduckBitmasks
 	dw AkwakwakBitmasks
-	dw MankeyBitmasks
+	dw FerosingeBitmasks
 	dw ColossingeBitmasks
 	dw CaninosBitmasks
 	dw ArcaninBitmasks

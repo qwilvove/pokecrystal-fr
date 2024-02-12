@@ -74,7 +74,7 @@
 	const PERSIAN    ; 35
 	const PSYDUCK    ; 36
 	const AKWAKWAK    ; 37
-	const MANKEY     ; 38
+	const FEROSINGE     ; 38
 	const COLOSSINGE   ; 39
 	const CANINOS  ; 3a
 	const ARCANIN   ; 3b

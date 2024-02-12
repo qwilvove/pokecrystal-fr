@@ -57,7 +57,7 @@ MonMenuIcons:
 	db ICON_FOX         ; PERSIAN
 	db ICON_MONSTER     ; PSYDUCK
 	db ICON_MONSTER     ; AKWAKWAK
-	db ICON_FIGHTER     ; MANKEY
+	db ICON_FIGHTER     ; FEROSINGE
 	db ICON_FIGHTER     ; COLOSSINGE
 	db ICON_FOX         ; CANINOS
 	db ICON_FOX         ; ARCANIN

@@ -61,7 +61,7 @@ PokemonCries::
 	mon_cry CRY_CLEFAIRY,    153,  383 ; PERSIAN
 	mon_cry CRY_PSYDUCK,      32,  224 ; PSYDUCK
 	mon_cry CRY_PSYDUCK,     255,  192 ; AKWAKWAK
-	mon_cry CRY_NIDOQUEEN,   221,  224 ; MANKEY
+	mon_cry CRY_NIDOQUEEN,   221,  224 ; FEROSINGE
 	mon_cry CRY_NIDOQUEEN,   175,  192 ; COLOSSINGE
 	mon_cry CRY_CANINOS,    32,  192 ; CANINOS
 	mon_cry CRY_ASPICOT,        0,  256 ; ARCANIN

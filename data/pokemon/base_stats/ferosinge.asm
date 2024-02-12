@@ -1,4 +1,4 @@
-	db MANKEY ; 056
+	db FEROSINGE ; 056
 
 	db  40,  80,  35,  70,  35,  45
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/mankey/front.dimensions"
+	INCBIN "gfx/pokemon/ferosinge/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_GROUND, EGG_GROUND ; egg groups

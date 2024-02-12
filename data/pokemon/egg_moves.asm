@@ -160,7 +160,7 @@ PsyduckEggMoves:
 	db CROSS_CHOP
 	db -1 ; end
 
-MankeyEggMoves:
+FerosingeEggMoves:
 	db ROCK_SLIDE
 	db FORESIGHT
 	db MEDITATE

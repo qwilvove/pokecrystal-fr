@@ -66,7 +66,7 @@ AlphabeticalPokedexOrder:
 	db EXCELANGUE
 	db FANTOMINUS
 	db FARFURET
-	db MANKEY
+	db FEROSINGE
 	db MISDREAVUS
 	db NINETALES
 	db QUILAVA

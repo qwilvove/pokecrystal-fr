@@ -734,7 +734,7 @@ AkwakwakEvosAttacks:
 	db 58, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-MankeyEvosAttacks:
+FerosingeEvosAttacks:
 	db EVOLVE_LEVEL, 28, COLOSSINGE
 	db 0 ; no more evolutions
 	db 1, SCRATCH

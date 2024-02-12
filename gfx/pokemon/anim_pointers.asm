@@ -55,7 +55,7 @@ AnimationPointers:
 	dw PersianAnimation
 	dw PsyduckAnimation
 	dw AkwakwakAnimation
-	dw MankeyAnimation
+	dw FerosingeAnimation
 	dw ColossingeAnimation
 	dw CaninosAnimation
 	dw ArcaninAnimation

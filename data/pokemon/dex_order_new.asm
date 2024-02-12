@@ -135,7 +135,7 @@ NewPokedexOrder:
 	db AZUMARILL
 	db DIGLETT
 	db DUGTRIO
-	db MANKEY
+	db FEROSINGE
 	db COLOSSINGE
 	db MEOWTH
 	db PERSIAN

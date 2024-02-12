@@ -57,7 +57,7 @@ EvosAttacksPointers::
 	dw PersianEvosAttacks
 	dw PsyduckEvosAttacks
 	dw AkwakwakEvosAttacks
-	dw MankeyEvosAttacks
+	dw FerosingeEvosAttacks
 	dw ColossingeEvosAttacks
 	dw CaninosEvosAttacks
 	dw ArcaninEvosAttacks

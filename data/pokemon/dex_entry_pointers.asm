@@ -56,7 +56,7 @@ PokedexDataPointerTable:
 	dw PersianPokedexEntry
 	dw PsyduckPokedexEntry
 	dw AkwakwakPokedexEntry
-	dw MankeyPokedexEntry
+	dw FerosingePokedexEntry
 	dw ColossingePokedexEntry
 	dw CaninosPokedexEntry
 	dw ArcaninPokedexEntry
