@@ -161,7 +161,7 @@ PokedexDataPointerTable:
 	dw TotodilePokedexEntry
 	dw CrocrodilPokedexEntry
 	dw AligatueurPokedexEntry
-	dw SentretPokedexEntry
+	dw FouinettePokedexEntry
 	dw FouinarPokedexEntry
 	dw HoothootPokedexEntry
 	dw NoctowlPokedexEntry

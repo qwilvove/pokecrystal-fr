@@ -1,4 +1,4 @@
-	db SENTRET ; 161
+	db FOUINETTE ; 161
 
 	db  35,  46,  34,  20,  35,  45
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 15 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/sentret/front.dimensions"
+	INCBIN "gfx/pokemon/fouinette/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_GROUND, EGG_GROUND ; egg groups

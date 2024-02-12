@@ -47,7 +47,7 @@ Cries:
 	dba Cry_Mareep
 	dba Cry_Togetic
 	dba Cry_Hoothoot
-	dba Cry_Sentret
+	dba Cry_Fouinette
 	dba Cry_Slowking
 	dba Cry_Cyndaquil
 	dba Cry_Chikorita

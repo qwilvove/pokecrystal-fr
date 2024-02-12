@@ -467,7 +467,7 @@ TotodileEggMoves:
 	db ROCK_SLIDE
 	db -1 ; end
 
-SentretEggMoves:
+FouinetteEggMoves:
 	db DOUBLE_EDGE
 	db PURSUIT
 	db SLASH

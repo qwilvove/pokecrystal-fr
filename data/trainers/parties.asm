@@ -1065,9 +1065,9 @@ CooltrainerFGroup:
 BeautyGroup:
 	; BEAUTY (1)
 	db "VICTORIA@", TRAINERTYPE_NORMAL
-	db  9, SENTRET
-	db 13, SENTRET
-	db 17, SENTRET
+	db  9, FOUINETTE
+	db 13, FOUINETTE
+	db 17, FOUINETTE
 	db -1 ; end
 
 	; BEAUTY (2)
@@ -1078,12 +1078,12 @@ BeautyGroup:
 
 	; BEAUTY (3)
 	db "STEPHANIE@", TRAINERTYPE_NORMAL
-	db 15, SENTRET
+	db 15, FOUINETTE
 	db -1 ; end
 
 	; BEAUTY (4)
 	db "EVA@", TRAINERTYPE_NORMAL
-	db 15, SENTRET
+	db 15, FOUINETTE
 	db -1 ; end
 
 	; BEAUTY (5)
@@ -1106,32 +1106,32 @@ BeautyGroup:
 
 	; BEAUTY (8)
 	db "GISELE@", TRAINERTYPE_NORMAL
-	db 15, SENTRET
+	db 15, FOUINETTE
 	db -1 ; end
 
 	; BEAUTY (9)
 	db "ULLA@", TRAINERTYPE_NORMAL
-	db 15, SENTRET
+	db 15, FOUINETTE
 	db -1 ; end
 
 	; BEAUTY (10)
 	db "RACHEL@", TRAINERTYPE_NORMAL
-	db 15, SENTRET
+	db 15, FOUINETTE
 	db -1 ; end
 
 	; BEAUTY (11)
 	db "ANGELICA@", TRAINERTYPE_NORMAL
-	db 15, SENTRET
+	db 15, FOUINETTE
 	db -1 ; end
 
 	; BEAUTY (12)
 	db "VENUS@", TRAINERTYPE_NORMAL
-	db 15, SENTRET
+	db 15, FOUINETTE
 	db -1 ; end
 
 	; BEAUTY (13)
 	db "MONICA@", TRAINERTYPE_NORMAL
-	db 15, SENTRET
+	db 15, FOUINETTE
 	db -1 ; end
 
 	; BEAUTY (14)
@@ -1143,7 +1143,7 @@ BeautyGroup:
 
 	; BEAUTY (15)
 	db "JESSICA@", TRAINERTYPE_NORMAL
-	db 15, SENTRET
+	db 15, FOUINETTE
 	db -1 ; end
 
 	; BEAUTY (16)
@@ -3410,11 +3410,11 @@ PokefanFGroup:
 
 	; POKEFANF (5)
 	db "ODILE@", TRAINERTYPE_ITEM
-	db 23, SENTRET,    BERRY
-	db 23, SENTRET,    BERRY
-	db 23, SENTRET,    BERRY
+	db 23, FOUINETTE,    BERRY
+	db 23, FOUINETTE,    BERRY
+	db 23, FOUINETTE,    BERRY
 	db 28, FOUINAR,     BERRY
-	db 23, SENTRET,    BERRY
+	db 23, FOUINETTE,    BERRY
 	db -1 ; end
 
 	; POKEFANF (6)

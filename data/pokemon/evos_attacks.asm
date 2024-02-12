@@ -2188,7 +2188,7 @@ AligatueurEvosAttacks:
 	db 58, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-SentretEvosAttacks:
+FouinetteEvosAttacks:
 	db EVOLVE_LEVEL, 15, FOUINAR
 	db 0 ; no more evolutions
 	db 1, TACKLE

@@ -55,9 +55,9 @@ INCBIN "gfx/mail/ditto.1bpp"
 MailMewGFX:
 INCBIN "gfx/mail/mew.1bpp"
 
-MailDracolosseAndSentretGFX:
+MailDracolosseAndFouinetteGFX:
 INCBIN "gfx/mail/dracolosse.1bpp"
-INCBIN "gfx/mail/sentret.1bpp"
+INCBIN "gfx/mail/fouinette.1bpp"
 
 PortraitMailLargePokeballGFX:
 INCBIN "gfx/mail/large_pokeball.1bpp"

@@ -166,8 +166,8 @@ PokemonCries::
 	mon_cry CRY_TOTODILE,   1132,  232 ; TOTODILE
 	mon_cry CRY_TOTODILE,   1088,  272 ; CROCRODIL
 	mon_cry CRY_TOTODILE,   1020,  384 ; ALIGATUEUR
-	mon_cry CRY_SENTRET,     138,  184 ; SENTRET
-	mon_cry CRY_SENTRET,     107,  258 ; FOUINAR
+	mon_cry CRY_FOUINETTE,     138,  184 ; FOUINETTE
+	mon_cry CRY_FOUINETTE,     107,  258 ; FOUINAR
 	mon_cry CRY_HOOTHOOT,    145,  216 ; HOOTHOOT
 	mon_cry CRY_HOOTHOOT,      0,  416 ; NOCTOWL
 	mon_cry CRY_COXY,        0,  222 ; COXY
@@ -236,7 +236,7 @@ PokemonCries::
 	mon_cry CRY_CYNDAQUIL,    57,  320 ; HOUNDOUR
 	mon_cry CRY_TOTODILE,   -266,  256 ; DEMOLOSSE
 	mon_cry CRY_SLUGMA,      763,  256 ; KINGDRA
-	mon_cry CRY_SENTRET,      72,  560 ; PHANPY
+	mon_cry CRY_FOUINETTE,      72,  560 ; PHANPY
 	mon_cry CRY_DONPHAN,       0,  416 ; DONPHAN
 	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGON2
 	mon_cry CRY_CAPUMAIN,      -352,  384 ; CERFROUSSE

@@ -160,7 +160,7 @@ EggMovePointers::
 	dw TotodileEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw SentretEggMoves
+	dw FouinetteEggMoves
 	dw NoEggMoves
 	dw HoothootEggMoves
 	dw NoEggMoves

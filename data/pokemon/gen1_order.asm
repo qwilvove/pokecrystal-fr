@@ -200,7 +200,7 @@ Pokered_MonIndices:
 	db TOTODILE
 	db CROCRODIL
 	db ALIGATUEUR
-	db SENTRET
+	db FOUINETTE
 	db FOUINAR
 	db HOOTHOOT
 	db NOCTOWL

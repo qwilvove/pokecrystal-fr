@@ -20,7 +20,7 @@ NewPokedexOrder:
 	db NOCTOWL
 	db RATTATA
 	db RATICATE
-	db SENTRET
+	db FOUINETTE
 	db FOUINAR
 	db PICHU
 	db PIKACHU

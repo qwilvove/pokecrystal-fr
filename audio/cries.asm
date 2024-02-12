@@ -32,10 +32,10 @@ Cry_Hoothoot:
 	channel 6, Cry_Hoothoot_Ch6
 	channel 8, Cry_Hoothoot_Ch8
 
-Cry_Sentret:
+Cry_Fouinette:
 	channel_count 2
-	channel 5, Cry_Sentret_Ch5
-	channel 6, Cry_Sentret_Ch6
+	channel 5, Cry_Fouinette_Ch5
+	channel 6, Cry_Fouinette_Ch6
 
 Cry_Slowking:
 	channel_count 3
@@ -452,19 +452,19 @@ Cry_Hoothoot_Ch8:
 	noise_note 16, 10, 7, 110
 	sound_ret
 
-Cry_Sentret_Ch5:
+Cry_Fouinette_Ch5:
 	pitch_offset 32
 	duty_cycle 0
-	sound_jump Cry_Sentret_Ch6.body
+	sound_jump Cry_Fouinette_Ch6.body
 
-Cry_Sentret_Ch6:
+Cry_Fouinette_Ch6:
 	duty_cycle_pattern 0, 1, 2, 3
 .body:
 	square_note 8, 3, -1, 1837
 	square_note 8, 15, 1, 1824
 	sound_ret
 
-Cry_Sentret_Ch8: ; unreferenced
+Cry_Fouinette_Ch8: ; unreferenced
 	noise_note 8, 3, -3, 0
 	noise_note 8, 9, 2, 0
 	sound_ret

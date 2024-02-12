@@ -160,7 +160,7 @@ FramesPointers:
 	dw TotodileFrames
 	dw CrocrodilFrames
 	dw AligatueurFrames
-	dw SentretFrames
+	dw FouinetteFrames
 	dw FouinarFrames
 	dw HoothootFrames
 	dw NoctowlFrames

@@ -160,7 +160,7 @@ AnimationPointers:
 	dw TotodileAnimation
 	dw CrocrodilAnimation
 	dw AligatueurAnimation
-	dw SentretAnimation
+	dw FouinetteAnimation
 	dw FouinarAnimation
 	dw HoothootAnimation
 	dw NoctowlAnimation
