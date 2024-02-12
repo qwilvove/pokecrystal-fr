@@ -152,7 +152,7 @@ PokedexDataPointerTable:
 	dw DracolossePokedexEntry
 	dw MewtwoPokedexEntry
 	dw MewPokedexEntry
-	dw ChikoritaPokedexEntry
+	dw GermignonPokedexEntry
 	dw BayleefPokedexEntry
 	dw MeganiumPokedexEntry
 	dw CyndaquilPokedexEntry

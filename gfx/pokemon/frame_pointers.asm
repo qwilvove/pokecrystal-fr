@@ -151,7 +151,7 @@ FramesPointers:
 	dw DracolosseFrames
 	dw MewtwoFrames
 	dw MewFrames
-	dw ChikoritaFrames
+	dw GermignonFrames
 	dw BayleefFrames
 	dw MeganiumFrames
 	dw CyndaquilFrames

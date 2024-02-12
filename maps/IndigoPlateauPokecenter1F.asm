@@ -90,8 +90,8 @@ PlateauRivalBattleCommon:
 	setevent EVENT_INDIGO_PLATEAU_POKECENTER_RIVAL
 	checkevent EVENT_GOT_TOTODILE_FROM_ELM
 	iftrue .Totodile
-	checkevent EVENT_GOT_CHIKORITA_FROM_ELM
-	iftrue .Chikorita
+	checkevent EVENT_GOT_GERMIGNON_FROM_ELM
+	iftrue .Germignon
 	; Cyndaquil
 	winlosstext PlateauRivalWinText, PlateauRivalLoseText
 	setlasttalked INDIGOPLATEAUPOKECENTER1F_RIVAL
@@ -104,13 +104,13 @@ PlateauRivalBattleCommon:
 .Totodile:
 	winlosstext PlateauRivalWinText, PlateauRivalLoseText
 	setlasttalked INDIGOPLATEAUPOKECENTER1F_RIVAL
-	loadtrainer RIVAL2, RIVAL2_2_CHIKORITA
+	loadtrainer RIVAL2, RIVAL2_2_GERMIGNON
 	startbattle
 	dontrestartmapmusic
 	reloadmapafterbattle
 	sjump PlateauRivalPostBattle
 
-.Chikorita:
+.Germignon:
 	winlosstext PlateauRivalWinText, PlateauRivalLoseText
 	setlasttalked INDIGOPLATEAUPOKECENTER1F_RIVAL
 	loadtrainer RIVAL2, RIVAL2_2_CYNDAQUIL

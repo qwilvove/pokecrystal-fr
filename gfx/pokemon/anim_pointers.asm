@@ -151,7 +151,7 @@ AnimationPointers:
 	dw DracolosseAnimation
 	dw MewtwoAnimation
 	dw MewAnimation
-	dw ChikoritaAnimation
+	dw GermignonAnimation
 	dw BayleefAnimation
 	dw MeganiumAnimation
 	dw CyndaquilAnimation

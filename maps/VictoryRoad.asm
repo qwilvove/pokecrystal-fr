@@ -58,8 +58,8 @@ VictoryRoadRivalNext:
 	setevent EVENT_RIVAL_VICTORY_ROAD
 	checkevent EVENT_GOT_TOTODILE_FROM_ELM
 	iftrue .GotTotodile
-	checkevent EVENT_GOT_CHIKORITA_FROM_ELM
-	iftrue .GotChikorita
+	checkevent EVENT_GOT_GERMIGNON_FROM_ELM
+	iftrue .GotGermignon
 	winlosstext VictoryRoadRivalDefeatText, VictoryRoadRivalVictoryText
 	setlasttalked VICTORYROAD_RIVAL
 	loadtrainer RIVAL1, RIVAL1_5_TOTODILE
@@ -71,13 +71,13 @@ VictoryRoadRivalNext:
 .GotTotodile:
 	winlosstext VictoryRoadRivalDefeatText, VictoryRoadRivalVictoryText
 	setlasttalked VICTORYROAD_RIVAL
-	loadtrainer RIVAL1, RIVAL1_5_CHIKORITA
+	loadtrainer RIVAL1, RIVAL1_5_GERMIGNON
 	startbattle
 	dontrestartmapmusic
 	reloadmapafterbattle
 	sjump .AfterBattle
 
-.GotChikorita:
+.GotGermignon:
 	winlosstext VictoryRoadRivalDefeatText, VictoryRoadRivalVictoryText
 	setlasttalked VICTORYROAD_RIVAL
 	loadtrainer RIVAL1, RIVAL1_5_CYNDAQUIL

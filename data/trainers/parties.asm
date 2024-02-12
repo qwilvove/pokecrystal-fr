@@ -76,7 +76,7 @@ ClairGroup:
 Rival1Group:
 	; RIVAL1 (1)
 	db "?@", TRAINERTYPE_NORMAL
-	db  5, CHIKORITA
+	db  5, GERMIGNON
 	db -1 ; end
 
 	; RIVAL1 (2)
@@ -206,7 +206,7 @@ WillGroup:
 PKMNTrainerGroup:
 	; CAL (1)
 	db "JULOT@", TRAINERTYPE_NORMAL
-	db 10, CHIKORITA
+	db 10, GERMIGNON
 	db 10, CYNDAQUIL
 	db 10, TOTODILE
 	db -1 ; end

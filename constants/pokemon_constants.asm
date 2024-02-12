@@ -171,7 +171,7 @@
 	const MEWTWO     ; 96
 	const MEW        ; 97
 DEF JOHTO_POKEMON EQU const_value
-	const CHIKORITA  ; 98
+	const GERMIGNON  ; 98
 	const BAYLEEF    ; 99
 	const MEGANIUM   ; 9a
 	const CYNDAQUIL  ; 9b

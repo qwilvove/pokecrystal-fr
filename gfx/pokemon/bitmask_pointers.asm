@@ -151,7 +151,7 @@ BitmasksPointers:
 	dw DracolosseBitmasks
 	dw MewtwoBitmasks
 	dw MewBitmasks
-	dw ChikoritaBitmasks
+	dw GermignonBitmasks
 	dw BayleefBitmasks
 	dw MeganiumBitmasks
 	dw CyndaquilBitmasks

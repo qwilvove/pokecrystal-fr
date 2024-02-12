@@ -157,9 +157,9 @@ PokemonCries::
 	mon_cry CRY_BULBIZARRE,    60,  320 ; DRACOLOSSE
 	mon_cry CRY_PARAS,       153,  383 ; MEWTWO
 	mon_cry CRY_PARAS,       238,  383 ; MEW
-	mon_cry CRY_CHIKORITA,   -16,  176 ; CHIKORITA
-	mon_cry CRY_CHIKORITA,   -34,  288 ; BAYLEEF
-	mon_cry CRY_CHIKORITA,  -183,  512 ; MEGANIUM
+	mon_cry CRY_GERMIGNON,   -16,  176 ; GERMIGNON
+	mon_cry CRY_GERMIGNON,   -34,  288 ; BAYLEEF
+	mon_cry CRY_GERMIGNON,  -183,  512 ; MEGANIUM
 	mon_cry CRY_CYNDAQUIL,   839,  128 ; CYNDAQUIL
 	mon_cry CRY_CYNDAQUIL,   801,  288 ; FEURISSON
 	mon_cry CRY_TYPHLOSION, 3840,  212 ; TYPHLOSION
@@ -179,7 +179,7 @@ PokemonCries::
 	mon_cry CRY_CYNDAQUIL,   720,  272 ; LANTURN
 	mon_cry CRY_PICHU,         0,  320 ; PICHU
 	mon_cry CRY_CLEFFA,       97,  145 ; CLEFFA
-	mon_cry CRY_CHIKORITA,   232,  232 ; IGGLYBUFF
+	mon_cry CRY_GERMIGNON,   232,  232 ; IGGLYBUFF
 	mon_cry CRY_TOGEPI,       16,  256 ; TOGEPI
 	mon_cry CRY_TOGETIC,      59,   56 ; TOGETIC
 	mon_cry CRY_NATU,       -103,  256 ; NATU

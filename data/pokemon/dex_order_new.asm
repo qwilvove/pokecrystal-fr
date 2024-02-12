@@ -2,7 +2,7 @@
 
 NewPokedexOrder:
 	table_width 1, NewPokedexOrder
-	db CHIKORITA
+	db GERMIGNON
 	db BAYLEEF
 	db MEGANIUM
 	db CYNDAQUIL

@@ -305,8 +305,8 @@ PokemonPicPointers::
 	dba_pic MewtwoBackpic
 	dba_pic MewFrontpic
 	dba_pic MewBackpic
-	dba_pic ChikoritaFrontpic
-	dba_pic ChikoritaBackpic
+	dba_pic GermignonFrontpic
+	dba_pic GermignonBackpic
 	dba_pic BayleefFrontpic
 	dba_pic BayleefBackpic
 	dba_pic MeganiumFrontpic

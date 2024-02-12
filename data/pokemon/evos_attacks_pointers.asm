@@ -153,7 +153,7 @@ EvosAttacksPointers::
 	dw DracolosseEvosAttacks
 	dw MewtwoEvosAttacks
 	dw MewEvosAttacks
-	dw ChikoritaEvosAttacks
+	dw GermignonEvosAttacks
 	dw BayleefEvosAttacks
 	dw MeganiumEvosAttacks
 	dw CyndaquilEvosAttacks

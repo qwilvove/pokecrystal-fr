@@ -77,7 +77,7 @@ AlphabeticalPokedexOrder:
 	db FOUINAR
 	db FOUINETTE
 	db GALOPA
-	db CHIKORITA
+	db GERMIGNON
 	db GIRAFARIG
 	db VULPIX
 	db GRANBULL

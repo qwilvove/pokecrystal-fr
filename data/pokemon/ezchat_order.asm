@@ -64,7 +64,7 @@ EZChat_SortedPokemon:
 .se_ze:    db CARAPUCE, CELEBI, -1
 .so_zo:    db WOBBUFFET, -1
 .ta_da:    db DUGTRIO, HORSEA, EXEGGCUTE, -1
-.chi_dhi:  db CHIKORITA, CHINCHOU, -1
+.chi_dhi:  db GERMIGNON, CHINCHOU, -1
 .tsu_du:   db CARATROC, -1
 .te_de:    db DIGLETT, REMORAID, CADOIZO, HOUNDOUR, AMPHAROS, -1
 .to_do:    db DODUO, DODRIO, SMEARGLE, KOFFING, TENTACRUEL, TOGETIC, TOGEPI, GOLDEEN, CHRYSACIER, DONPHAN, -1

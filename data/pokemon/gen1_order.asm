@@ -191,7 +191,7 @@ Pokered_MonIndices:
 	db BOUSTIFLOR
 	db EMPIFLOR
 	assert_table_length 190 ; gen 1 mon indexes
-	db CHIKORITA
+	db GERMIGNON
 	db BAYLEEF
 	db MEGANIUM
 	db CYNDAQUIL
