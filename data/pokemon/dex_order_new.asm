@@ -203,7 +203,7 @@ NewPokedexOrder:
 	db DODUO
 	db DODRIO
 	db PONYTA
-	db RAPIDASH
+	db GALOPA
 	db CUBONE
 	db MAROWAK
 	db KANGASKHAN

@@ -157,8 +157,8 @@ PokemonPicPointers::
 	dba_pic GolemBackpic
 	dba_pic PonytaFrontpic
 	dba_pic PonytaBackpic
-	dba_pic RapidashFrontpic
-	dba_pic RapidashBackpic
+	dba_pic GalopaFrontpic
+	dba_pic GalopaBackpic
 	dba_pic SlowpokeFrontpic
 	dba_pic SlowpokeBackpic
 	dba_pic FlagadossFrontpic

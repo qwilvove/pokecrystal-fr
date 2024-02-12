@@ -83,7 +83,7 @@ PokemonCries::
 	mon_cry CRY_VULPIX,        0,  256 ; GRAVELER
 	mon_cry CRY_GOLEM,       224,  192 ; GOLEM
 	mon_cry CRY_BOUSTIFLOR,    0,  256 ; PONYTA
-	mon_cry CRY_BOUSTIFLOR,   32,  320 ; RAPIDASH
+	mon_cry CRY_BOUSTIFLOR,   32,  320 ; GALOPA
 	mon_cry CRY_SLOWPOKE,      0,  256 ; SLOWPOKE
 	mon_cry CRY_CANINOS,     0,  256 ; FLAGADOSS
 	mon_cry CRY_CHRYSACIER,     128,  224 ; MAGNEMITE

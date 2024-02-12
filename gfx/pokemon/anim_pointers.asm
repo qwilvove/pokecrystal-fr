@@ -77,7 +77,7 @@ AnimationPointers:
 	dw GravelerAnimation
 	dw GolemAnimation
 	dw PonytaAnimation
-	dw RapidashAnimation
+	dw GalopaAnimation
 	dw SlowpokeAnimation
 	dw FlagadossAnimation
 	dw MagnemiteAnimation

@@ -96,7 +96,7 @@
 	const GRAVELER   ; 4b
 	const GOLEM      ; 4c
 	const PONYTA     ; 4d
-	const RAPIDASH   ; 4e
+	const GALOPA   ; 4e
 	const SLOWPOKE   ; 4f
 	const FLAGADOSS    ; 50
 	const MAGNEMITE  ; 51

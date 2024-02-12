@@ -78,7 +78,7 @@ PokedexDataPointerTable:
 	dw GravelerPokedexEntry
 	dw GolemPokedexEntry
 	dw PonytaPokedexEntry
-	dw RapidashPokedexEntry
+	dw GalopaPokedexEntry
 	dw SlowpokePokedexEntry
 	dw FlagadossPokedexEntry
 	dw MagnemitePokedexEntry

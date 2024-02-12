@@ -819,7 +819,7 @@ KantoGrassWildMons:
 	; morn
 	db 39, TANGELA
 	db 40, PONYTA
-	db 40, RAPIDASH
+	db 40, GALOPA
 	db 42, ARBOK
 	db 41, DODUO
 	db 43, DODRIO
@@ -827,7 +827,7 @@ KantoGrassWildMons:
 	; day
 	db 39, TANGELA
 	db 40, PONYTA
-	db 40, RAPIDASH
+	db 40, GALOPA
 	db 42, ARBOK
 	db 41, DODUO
 	db 43, DODRIO

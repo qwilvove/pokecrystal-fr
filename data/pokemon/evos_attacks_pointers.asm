@@ -79,7 +79,7 @@ EvosAttacksPointers::
 	dw GravelerEvosAttacks
 	dw GolemEvosAttacks
 	dw PonytaEvosAttacks
-	dw RapidashEvosAttacks
+	dw GalopaEvosAttacks
 	dw SlowpokeEvosAttacks
 	dw FlagadossEvosAttacks
 	dw MagnemiteEvosAttacks

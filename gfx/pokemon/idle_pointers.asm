@@ -77,7 +77,7 @@ AnimationIdlePointers:
 	dw GravelerAnimationIdle
 	dw GolemAnimationIdle
 	dw PonytaAnimationIdle
-	dw RapidashAnimationIdle
+	dw GalopaAnimationIdle
 	dw SlowpokeAnimationIdle
 	dw FlagadossAnimationIdle
 	dw MagnemiteAnimationIdle

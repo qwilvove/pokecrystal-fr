@@ -1688,7 +1688,7 @@ JohtoGrassWildMons:
 	db 41, TANGELA
 	db 42, PONYTA
 	db 42, ARBOK
-	db 44, RAPIDASH
+	db 44, GALOPA
 	db 41, DODUO
 	db 43, DODRIO
 	db 43, DODRIO
@@ -1696,7 +1696,7 @@ JohtoGrassWildMons:
 	db 41, TANGELA
 	db 42, PONYTA
 	db 42, ARBOK
-	db 44, RAPIDASH
+	db 44, GALOPA
 	db 41, DODUO
 	db 43, DODRIO
 	db 43, DODRIO

@@ -77,7 +77,7 @@ BitmasksPointers:
 	dw GravelerBitmasks
 	dw GolemBitmasks
 	dw PonytaBitmasks
-	dw RapidashBitmasks
+	dw GalopaBitmasks
 	dw SlowpokeBitmasks
 	dw FlagadossBitmasks
 	dw MagnemiteBitmasks

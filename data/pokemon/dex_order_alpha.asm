@@ -76,7 +76,7 @@ AlphabeticalPokedexOrder:
 	db FORETRESS
 	db FOUINAR
 	db FOUINETTE
-	db RAPIDASH
+	db GALOPA
 	db CHIKORITA
 	db GIRAFARIG
 	db VULPIX

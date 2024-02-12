@@ -179,7 +179,7 @@ INCBIN "gfx/footprints/geodude.1bpp",    footprint_top
 INCBIN "gfx/footprints/graveler.1bpp",   footprint_top
 INCBIN "gfx/footprints/golem.1bpp",      footprint_top
 INCBIN "gfx/footprints/ponyta.1bpp",     footprint_top
-INCBIN "gfx/footprints/rapidash.1bpp",   footprint_top
+INCBIN "gfx/footprints/galopa.1bpp",   footprint_top
 INCBIN "gfx/footprints/slowpoke.1bpp",   footprint_top
 INCBIN "gfx/footprints/flagadoss.1bpp",    footprint_top
 ; 073-080 bottom halves
@@ -188,7 +188,7 @@ INCBIN "gfx/footprints/geodude.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/graveler.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/golem.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/ponyta.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/rapidash.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/galopa.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/slowpoke.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/flagadoss.1bpp",    footprint_bottom
 ; 081-088 top halves

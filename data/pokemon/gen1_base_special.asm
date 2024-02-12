@@ -79,7 +79,7 @@ KantoMonSpecials:
 	db  45 ; GRAVELER
 	db  55 ; GOLEM
 	db  65 ; PONYTA
-	db  80 ; RAPIDASH
+	db  80 ; GALOPA
 	db  40 ; SLOWPOKE
 	db  80 ; FLAGADOSS
 	db  95 ; MAGNEMITE

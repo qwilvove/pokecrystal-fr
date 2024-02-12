@@ -21,7 +21,7 @@ PokemonFanClubChairmanScript:
 	writetext PokemonFanClubChairmanDidYouVisitToHearAboutMyMonText
 	yesorno
 	iffalse .NotListening
-	writetext PokemonFanClubChairmanRapidashText
+	writetext PokemonFanClubChairmanGalopaText
 	promptbutton
 .HeardSpeechButBagFull:
 	writetext PokemonFanClubChairmanIWantYouToHaveThisText
@@ -136,7 +136,7 @@ PokemonFanClubChairmanDidYouVisitToHearAboutMyMonText:
 	cont "sur mes #MON?"
 	done
 
-PokemonFanClubChairmanRapidashText:
+PokemonFanClubChairmanGalopaText:
 	text "Bien!"
 	line "Alors, écoute!"
 

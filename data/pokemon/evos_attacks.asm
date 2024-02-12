@@ -1024,7 +1024,7 @@ GolemEvosAttacks:
 	db 0 ; no more level-up moves
 
 PonytaEvosAttacks:
-	db EVOLVE_LEVEL, 40, RAPIDASH
+	db EVOLVE_LEVEL, 40, GALOPA
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 4, GROWL
@@ -1037,7 +1037,7 @@ PonytaEvosAttacks:
 	db 53, FIRE_BLAST
 	db 0 ; no more level-up moves
 
-RapidashEvosAttacks:
+GalopaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
