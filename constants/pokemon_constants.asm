@@ -21,7 +21,7 @@
 	const_def 1
 	const BULBIZARRE  ; 01
 	const IVYSAUR    ; 02
-	const VENUSAUR   ; 03
+	const FLORIZARRE   ; 03
 	const CHARMANDER ; 04
 	const CHARMELEON ; 05
 	const DRACAUFEU  ; 06

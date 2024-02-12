@@ -72,7 +72,7 @@ AlphabeticalPokedexOrder:
 	db FEURISSON
 	db FLAGADOSS
 	db FLORAVOL
-	db VENUSAUR
+	db FLORIZARRE
 	db FORRETRESS
 	db FURRET
 	db SENTRET

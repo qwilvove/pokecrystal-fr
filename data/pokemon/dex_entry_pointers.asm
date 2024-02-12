@@ -3,7 +3,7 @@ PokedexDataPointerTable:
 	table_width 2, PokedexDataPointerTable
 	dw BulbizarrePokedexEntry
 	dw IvysaurPokedexEntry
-	dw VenusaurPokedexEntry
+	dw FlorizarrePokedexEntry
 	dw CharmanderPokedexEntry
 	dw CharmeleonPokedexEntry
 	dw DracaufeuPokedexEntry

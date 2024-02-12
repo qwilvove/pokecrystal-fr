@@ -4,7 +4,7 @@ EvosAttacksPointers::
 	table_width 2, EvosAttacksPointers
 	dw BulbizarreEvosAttacks
 	dw IvysaurEvosAttacks
-	dw VenusaurEvosAttacks
+	dw FlorizarreEvosAttacks
 	dw CharmanderEvosAttacks
 	dw CharmeleonEvosAttacks
 	dw DracaufeuEvosAttacks

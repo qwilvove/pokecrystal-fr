@@ -43,8 +43,8 @@ PalPacket_GSIntroJigglypuffPikachu:
 PalPacket_GSIntroStartersTransition:
 	sgb_pal_set GS_INTRO_STARTERS_TRANSITION, ROUTES, ROUTES, ROUTES
 
-PalPacket_BetaIntroVenusaur:
-	sgb_pal_set BETA_INTRO_VENUSAUR, ROUTES, ROUTES, ROUTES
+PalPacket_BetaIntroFlorizarre:
+	sgb_pal_set BETA_INTRO_FLORIZARRE, ROUTES, ROUTES, ROUTES
 
 PalPacket_Pack:
 	sgb_pal_set PACK, ROUTES, ROUTES, ROUTES

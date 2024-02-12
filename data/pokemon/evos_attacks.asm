@@ -31,7 +31,7 @@ BulbizarreEvosAttacks:
 	db 0 ; no more level-up moves
 
 IvysaurEvosAttacks:
-	db EVOLVE_LEVEL, 32, VENUSAUR
+	db EVOLVE_LEVEL, 32, FLORIZARRE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
@@ -48,7 +48,7 @@ IvysaurEvosAttacks:
 	db 56, SOLARBEAM
 	db 0 ; no more level-up moves
 
-VenusaurEvosAttacks:
+FlorizarreEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL

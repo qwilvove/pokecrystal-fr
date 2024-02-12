@@ -170,18 +170,18 @@ Intro_LoadAllPal0: ; unreferenced
 	ld hl, BlkPacket_AllPal0
 	jp PushSGBPals
 
-Intro_LoadBetaIntroVenusaurPalettes: ; unreferenced
+Intro_LoadBetaIntroFlorizarrePalettes: ; unreferenced
 	call CheckCGB
 	jr nz, .cgb
 	ldh a, [hSGB]
 	and a
 	ret z
-	ld hl, PalPacket_BetaIntroVenusaur
+	ld hl, PalPacket_BetaIntroFlorizarre
 	jp PushSGBPals
 
 .cgb
 	ld de, wOBPals1
-	ld a, PREDEFPAL_BETA_INTRO_VENUSAUR
+	ld a, PREDEFPAL_BETA_INTRO_FLORIZARRE
 	call GetPredefPal
 	jp LoadHLPaletteIntoDE
 

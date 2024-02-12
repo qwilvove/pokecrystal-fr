@@ -4,7 +4,7 @@ KantoMonSpecials:
 	table_width 1, KantoMonSpecials
 	db  65 ; BULBIZARRE
 	db  80 ; IVYSAUR
-	db 100 ; VENUSAUR
+	db 100 ; FLORIZARRE
 	db  50 ; CHARMANDER
 	db  65 ; CHARMELEON
 	db  85 ; DRACAUFEU
