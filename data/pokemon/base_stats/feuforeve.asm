@@ -1,4 +1,4 @@
-	db MISDREAVUS ; 200
+	db FEUFOREVE ; 200
 
 	db  60,  60,  60,  85,  85,  85
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 25 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/misdreavus/front.dimensions"
+	INCBIN "gfx/pokemon/feuforeve/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_FAST ; growth rate
 	dn EGG_INDETERMINATE, EGG_INDETERMINATE ; egg groups

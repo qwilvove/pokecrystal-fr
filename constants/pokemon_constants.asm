@@ -219,7 +219,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const UMBREON    ; c5
 	const CORNEBRE    ; c6
 	const SLOWKING   ; c7
-	const MISDREAVUS ; c8
+	const FEUFOREVE ; c8
 	const UNOWN      ; c9
 	const WOBBUFFET  ; ca
 	const GIRAFARIG  ; cb

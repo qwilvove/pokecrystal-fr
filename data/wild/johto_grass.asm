@@ -1118,8 +1118,8 @@ JohtoGrassWildMons:
 	db 46, GOLBAT
 	db 46, PARASECT
 	db 48, PARASECT
-	db 45, MISDREAVUS
-	db 45, MISDREAVUS
+	db 45, FEUFOREVE
+	db 45, FEUFOREVE
 	end_grass_wildmons
 
 	def_grass_wildmons SILVER_CAVE_ROOM_3
@@ -1169,7 +1169,7 @@ JohtoGrassWildMons:
 	db 50, PARASECT
 	db 52, PARASECT
 	; nite
-	db 45, MISDREAVUS
+	db 45, FEUFOREVE
 	db 48, GOLBAT
 	db 50, GOLBAT
 	db 46, PARASECT

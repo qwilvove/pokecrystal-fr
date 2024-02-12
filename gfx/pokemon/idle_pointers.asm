@@ -199,7 +199,7 @@ AnimationIdlePointers:
 	dw UmbreonAnimationIdle
 	dw CornebreAnimationIdle
 	dw SlowkingAnimationIdle
-	dw MisdreavusAnimationIdle
+	dw FeuforeveAnimationIdle
 	dw UnownAnimationIdle
 	dw WobbuffetAnimationIdle
 	dw GirafarigAnimationIdle

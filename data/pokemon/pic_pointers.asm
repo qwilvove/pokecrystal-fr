@@ -401,8 +401,8 @@ PokemonPicPointers::
 	dba_pic CornebreBackpic
 	dba_pic SlowkingFrontpic
 	dba_pic SlowkingBackpic
-	dba_pic MisdreavusFrontpic
-	dba_pic MisdreavusBackpic
+	dba_pic FeuforeveFrontpic
+	dba_pic FeuforeveBackpic
 
 	; Unown pics have their own table. See UnownPicPointers
 	dbw -1, -1

@@ -413,8 +413,8 @@ INCBIN "gfx/pokemon/cornebre/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/cornebre/shiny.pal"
 INCBIN "gfx/pokemon/slowking/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/slowking/shiny.pal"
-INCBIN "gfx/pokemon/misdreavus/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/misdreavus/shiny.pal"
+INCBIN "gfx/pokemon/feuforeve/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/feuforeve/shiny.pal"
 INCLUDE "gfx/pokemon/unown/normal.pal" ; not front.gbcpal
 INCLUDE "gfx/pokemon/unown/shiny.pal"
 INCBIN "gfx/pokemon/wobbuffet/front.gbcpal", middle_colors

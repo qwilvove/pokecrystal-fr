@@ -201,7 +201,7 @@ EvosAttacksPointers::
 	dw UmbreonEvosAttacks
 	dw CornebreEvosAttacks
 	dw SlowkingEvosAttacks
-	dw MisdreavusEvosAttacks
+	dw FeuforeveEvosAttacks
 	dw UnownEvosAttacks
 	dw WobbuffetEvosAttacks
 	dw GirafarigEvosAttacks

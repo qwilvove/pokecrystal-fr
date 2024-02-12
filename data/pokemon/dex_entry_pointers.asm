@@ -200,7 +200,7 @@ PokedexDataPointerTable:
 	dw UmbreonPokedexEntry
 	dw CornebrePokedexEntry
 	dw SlowkingPokedexEntry
-	dw MisdreavusPokedexEntry
+	dw FeuforevePokedexEntry
 	dw UnownPokedexEntry
 	dw WobbuffetPokedexEntry
 	dw GirafarigPokedexEntry

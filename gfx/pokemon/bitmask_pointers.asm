@@ -199,7 +199,7 @@ BitmasksPointers:
 	dw UmbreonBitmasks
 	dw CornebreBitmasks
 	dw SlowkingBitmasks
-	dw MisdreavusBitmasks
+	dw FeuforeveBitmasks
 	dw UnownBitmasks
 	dw WobbuffetBitmasks
 	dw GirafarigBitmasks

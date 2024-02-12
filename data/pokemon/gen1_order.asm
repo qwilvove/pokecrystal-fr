@@ -239,7 +239,7 @@ Pokered_MonIndices:
 	db UMBREON
 	db CORNEBRE
 	db SLOWKING
-	db MISDREAVUS
+	db FEUFOREVE
 	db UNOWN
 	db WOBBUFFET
 	db GIRAFARIG

@@ -201,7 +201,7 @@ MonMenuIcons:
 	db ICON_FOX         ; UMBREON
 	db ICON_BIRD        ; CORNEBRE
 	db ICON_SLOWPOKE    ; SLOWKING
-	db ICON_GHOST       ; MISDREAVUS
+	db ICON_GHOST       ; FEUFOREVE
 	db ICON_UNOWN       ; UNOWN
 	db ICON_GHOST       ; WOBBUFFET
 	db ICON_EQUINE      ; GIRAFARIG

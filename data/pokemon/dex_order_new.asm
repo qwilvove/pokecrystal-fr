@@ -215,7 +215,7 @@ NewPokedexOrder:
 	db SLUGMA
 	db MAGCARGO
 	db FARFURET
-	db MISDREAVUS
+	db FEUFOREVE
 	db PORYGON
 	db PORYGON2
 	db CHANSEY

@@ -67,7 +67,7 @@ AlphabeticalPokedexOrder:
 	db FANTOMINUS
 	db FARFURET
 	db FEROSINGE
-	db MISDREAVUS
+	db FEUFOREVE
 	db NINETALES
 	db QUILAVA
 	db SLOWBRO

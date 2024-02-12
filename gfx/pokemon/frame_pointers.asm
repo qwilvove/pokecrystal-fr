@@ -199,7 +199,7 @@ FramesPointers:
 	dw UmbreonFrames
 	dw CornebreFrames
 	dw SlowkingFrames
-	dw MisdreavusFrames
+	dw FeuforeveFrames
 	dw UnownFrames
 	dw WobbuffetFrames
 	dw GirafarigFrames

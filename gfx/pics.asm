@@ -249,7 +249,7 @@ ParasectBackpic:     INCBIN "gfx/pokemon/parasect/back.2bpp.lz"
 
 SECTION "Pics 10", ROMX
 
-MisdreavusFrontpic:  INCBIN "gfx/pokemon/misdreavus/front.animated.2bpp.lz"
+FeuforeveFrontpic:  INCBIN "gfx/pokemon/feuforeve/front.animated.2bpp.lz"
 HoundourFrontpic:    INCBIN "gfx/pokemon/houndour/front.animated.2bpp.lz"
 FerosingeFrontpic:      INCBIN "gfx/pokemon/ferosinge/front.animated.2bpp.lz"
 CelebiFrontpic:      INCBIN "gfx/pokemon/celebi/front.animated.2bpp.lz"
@@ -435,7 +435,7 @@ HitmonchanBackpic:   INCBIN "gfx/pokemon/hitmonchan/back.2bpp.lz"
 CotovolBackpic:     INCBIN "gfx/pokemon/cotovol/back.2bpp.lz"
 CooltrainermPic:     INCBIN "gfx/trainers/cooltrainer_m.2bpp.lz"
 BlastoiseBackpic:    INCBIN "gfx/pokemon/blastoise/back.2bpp.lz"
-MisdreavusBackpic:   INCBIN "gfx/pokemon/misdreavus/back.2bpp.lz"
+FeuforeveBackpic:   INCBIN "gfx/pokemon/feuforeve/back.2bpp.lz"
 DebugantBackpic:      INCBIN "gfx/pokemon/debugant/back.2bpp.lz"
 GeodudeFrontpic:     INCBIN "gfx/pokemon/geodude/front.animated.2bpp.lz"
 CizayoxBackpic:       INCBIN "gfx/pokemon/cizayox/back.2bpp.lz"

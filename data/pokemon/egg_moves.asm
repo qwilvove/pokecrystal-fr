@@ -609,7 +609,7 @@ CornebreEggMoves:
 	db SKY_ATTACK
 	db -1 ; end
 
-MisdreavusEggMoves:
+FeuforeveEggMoves:
 	db SCREECH
 	db DESTINY_BOND
 	db -1 ; end

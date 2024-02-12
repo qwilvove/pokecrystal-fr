@@ -199,7 +199,7 @@ AnimationPointers:
 	dw UmbreonAnimation
 	dw CornebreAnimation
 	dw SlowkingAnimation
-	dw MisdreavusAnimation
+	dw FeuforeveAnimation
 	dw UnownAnimation
 	dw WobbuffetAnimation
 	dw GirafarigAnimation
