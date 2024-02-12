@@ -64,7 +64,7 @@ AlphabeticalPokedexOrder:
 	db ENTEI
 	db EVOLI
 	db EXCELANGUE
-	db GASTLY
+	db FANTOMINUS
 	db SNEASEL
 	db MANKEY
 	db MISDREAVUS

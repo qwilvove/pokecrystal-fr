@@ -91,7 +91,7 @@ FramesPointers:
 	dw MukFrames
 	dw ShellderFrames
 	dw CrustabriFrames
-	dw GastlyFrames
+	dw FantominusFrames
 	dw HaunterFrames
 	dw EctoplasmaFrames
 	dw OnixFrames

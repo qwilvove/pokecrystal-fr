@@ -92,7 +92,7 @@ PokedexDataPointerTable:
 	dw MukPokedexEntry
 	dw ShellderPokedexEntry
 	dw CrustabriPokedexEntry
-	dw GastlyPokedexEntry
+	dw FantominusPokedexEntry
 	dw HaunterPokedexEntry
 	dw EctoplasmaPokedexEntry
 	dw OnixPokedexEntry

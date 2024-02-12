@@ -91,7 +91,7 @@ AnimationPointers:
 	dw MukAnimation
 	dw ShellderAnimation
 	dw CrustabriAnimation
-	dw GastlyAnimation
+	dw FantominusAnimation
 	dw HaunterAnimation
 	dw EctoplasmaAnimation
 	dw OnixAnimation

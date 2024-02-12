@@ -93,7 +93,7 @@ MonMenuIcons:
 	db ICON_BLOB        ; MUK
 	db ICON_SHELL       ; SHELLDER
 	db ICON_SHELL       ; CRUSTABRI
-	db ICON_GHOST       ; GASTLY
+	db ICON_GHOST       ; FANTOMINUS
 	db ICON_GHOST       ; HAUNTER
 	db ICON_GHOST       ; ECTOPLASMA
 	db ICON_SERPENT     ; ONIX

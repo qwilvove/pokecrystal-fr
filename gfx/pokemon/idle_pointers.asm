@@ -91,7 +91,7 @@ AnimationIdlePointers:
 	dw MukAnimationIdle
 	dw ShellderAnimationIdle
 	dw CrustabriAnimationIdle
-	dw GastlyAnimationIdle
+	dw FantominusAnimationIdle
 	dw HaunterAnimationIdle
 	dw EctoplasmaAnimationIdle
 	dw OnixAnimationIdle

@@ -274,7 +274,7 @@ ShellderEggMoves:
 	db SCREECH
 	db -1 ; end
 
-GastlyEggMoves:
+FantominusEggMoves:
 	db PSYWAVE
 	db PERISH_SONG
 	db HAZE

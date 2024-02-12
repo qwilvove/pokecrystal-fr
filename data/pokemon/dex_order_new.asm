@@ -59,7 +59,7 @@ NewPokedexOrder:
 	db AMPHAROS
 	db AXOLOTO
 	db QUAGSIRE
-	db GASTLY
+	db FANTOMINUS
 	db HAUNTER
 	db ECTOPLASMA
 	db UNOWN

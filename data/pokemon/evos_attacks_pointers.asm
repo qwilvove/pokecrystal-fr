@@ -93,7 +93,7 @@ EvosAttacksPointers::
 	dw MukEvosAttacks
 	dw ShellderEvosAttacks
 	dw CrustabriEvosAttacks
-	dw GastlyEvosAttacks
+	dw FantominusEvosAttacks
 	dw HaunterEvosAttacks
 	dw EctoplasmaEvosAttacks
 	dw OnixEvosAttacks

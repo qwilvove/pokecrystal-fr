@@ -110,7 +110,7 @@
 	const MUK        ; 59
 	const SHELLDER   ; 5a
 	const CRUSTABRI   ; 5b
-	const GASTLY     ; 5c
+	const FANTOMINUS     ; 5c
 	const HAUNTER    ; 5d
 	const ECTOPLASMA     ; 5e
 	const ONIX       ; 5f

@@ -91,7 +91,7 @@ BitmasksPointers:
 	dw MukBitmasks
 	dw ShellderBitmasks
 	dw CrustabriBitmasks
-	dw GastlyBitmasks
+	dw FantominusBitmasks
 	dw HaunterBitmasks
 	dw EctoplasmaBitmasks
 	dw OnixBitmasks

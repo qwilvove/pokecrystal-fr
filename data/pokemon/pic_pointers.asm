@@ -185,8 +185,8 @@ PokemonPicPointers::
 	dba_pic ShellderBackpic
 	dba_pic CrustabriFrontpic
 	dba_pic CrustabriBackpic
-	dba_pic GastlyFrontpic
-	dba_pic GastlyBackpic
+	dba_pic FantominusFrontpic
+	dba_pic FantominusBackpic
 	dba_pic HaunterFrontpic
 	dba_pic HaunterBackpic
 	dba_pic EctoplasmaFrontpic

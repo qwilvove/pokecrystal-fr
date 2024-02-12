@@ -93,7 +93,7 @@ KantoMonSpecials:
 	db  65 ; MUK
 	db  45 ; SHELLDER
 	db  85 ; CRUSTABRI
-	db 100 ; GASTLY
+	db 100 ; FANTOMINUS
 	db 115 ; HAUNTER
 	db 130 ; ECTOPLASMA
 	db  30 ; ONIX
