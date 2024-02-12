@@ -127,7 +127,7 @@ NewPokedexOrder:
 	db SNUBBULL
 	db GRANBULL
 	db VULPIX
-	db NINETALES
+	db FEUNARD
 	db CANINOS
 	db ARCANIN
 	db CERFROUSSE

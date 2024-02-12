@@ -38,7 +38,7 @@ PokedexDataPointerTable:
 	dw ClefairyPokedexEntry
 	dw ClefablePokedexEntry
 	dw VulpixPokedexEntry
-	dw NinetalesPokedexEntry
+	dw FeunardPokedexEntry
 	dw JigglypuffPokedexEntry
 	dw WigglytuffPokedexEntry
 	dw ZubatPokedexEntry

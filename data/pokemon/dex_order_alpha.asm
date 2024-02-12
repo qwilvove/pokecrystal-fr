@@ -68,7 +68,7 @@ AlphabeticalPokedexOrder:
 	db FARFURET
 	db FEROSINGE
 	db FEUFOREVE
-	db NINETALES
+	db FEUNARD
 	db QUILAVA
 	db SLOWBRO
 	db SKIPLOOM

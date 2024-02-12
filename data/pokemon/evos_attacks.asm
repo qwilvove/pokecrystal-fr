@@ -486,7 +486,7 @@ ClefableEvosAttacks:
 	db 0 ; no more level-up moves
 
 VulpixEvosAttacks:
-	db EVOLVE_ITEM, FIRE_STONE, NINETALES
+	db EVOLVE_ITEM, FIRE_STONE, FEUNARD
 	db 0 ; no more evolutions
 	db 1, EMBER
 	db 1, TAIL_WHIP
@@ -498,7 +498,7 @@ VulpixEvosAttacks:
 	db 37, FIRE_SPIN
 	db 0 ; no more level-up moves
 
-NinetalesEvosAttacks:
+FeunardEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, EMBER
 	db 1, QUICK_ATTACK

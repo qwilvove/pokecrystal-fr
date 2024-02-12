@@ -37,7 +37,7 @@ AnimationPointers:
 	dw ClefairyAnimation
 	dw ClefableAnimation
 	dw VulpixAnimation
-	dw NinetalesAnimation
+	dw FeunardAnimation
 	dw JigglypuffAnimation
 	dw WigglytuffAnimation
 	dw ZubatAnimation

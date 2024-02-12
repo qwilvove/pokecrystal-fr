@@ -37,7 +37,7 @@ FramesPointers:
 	dw ClefairyFrames
 	dw ClefableFrames
 	dw VulpixFrames
-	dw NinetalesFrames
+	dw FeunardFrames
 	dw JigglypuffFrames
 	dw WigglytuffFrames
 	dw ZubatFrames

@@ -39,7 +39,7 @@ KantoMonSpecials:
 	db  60 ; CLEFAIRY
 	db  85 ; CLEFABLE
 	db  65 ; VULPIX
-	db 100 ; NINETALES
+	db 100 ; FEUNARD
 	db  25 ; JIGGLYPUFF
 	db  50 ; WIGGLYTUFF
 	db  40 ; ZUBAT
