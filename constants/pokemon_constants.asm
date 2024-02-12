@@ -224,7 +224,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const WOBBUFFET  ; ca
 	const GIRAFARIG  ; cb
 	const PINECO     ; cc
-	const FORRETRESS ; cd
+	const FORETRESS ; cd
 	const DUNSPARCE  ; ce
 	const GLIGAR     ; cf
 	const STEELIX    ; d0

@@ -205,7 +205,7 @@ PokedexDataPointerTable:
 	dw WobbuffetPokedexEntry
 	dw GirafarigPokedexEntry
 	dw PinecoPokedexEntry
-	dw ForretressPokedexEntry
+	dw ForetressPokedexEntry
 	dw DunsparcePokedexEntry
 	dw GligarPokedexEntry
 	dw SteelixPokedexEntry

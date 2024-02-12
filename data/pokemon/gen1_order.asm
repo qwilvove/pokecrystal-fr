@@ -244,7 +244,7 @@ Pokered_MonIndices:
 	db WOBBUFFET
 	db GIRAFARIG
 	db PINECO
-	db FORRETRESS
+	db FORETRESS
 	db DUNSPARCE
 	db GLIGAR
 	db STEELIX

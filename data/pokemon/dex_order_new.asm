@@ -95,7 +95,7 @@ NewPokedexOrder:
 	db ALAKAZAM
 	db DITTO
 	db PINECO
-	db FORRETRESS
+	db FORETRESS
 	db NIDORAN_F
 	db NIDORINA
 	db NIDOQUEEN

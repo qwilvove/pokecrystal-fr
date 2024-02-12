@@ -204,7 +204,7 @@ FramesPointers:
 	dw WobbuffetFrames
 	dw GirafarigFrames
 	dw PinecoFrames
-	dw ForretressFrames
+	dw ForetressFrames
 	dw DunsparceFrames
 	dw GligarFrames
 	dw SteelixFrames

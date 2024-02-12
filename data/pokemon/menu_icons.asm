@@ -206,7 +206,7 @@ MonMenuIcons:
 	db ICON_GHOST       ; WOBBUFFET
 	db ICON_EQUINE      ; GIRAFARIG
 	db ICON_BUG         ; PINECO
-	db ICON_BUG         ; FORRETRESS
+	db ICON_BUG         ; FORETRESS
 	db ICON_SERPENT     ; DUNSPARCE
 	db ICON_BUG         ; GLIGAR
 	db ICON_SERPENT     ; STEELIX
