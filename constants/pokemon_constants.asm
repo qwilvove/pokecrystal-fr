@@ -98,7 +98,7 @@
 	const PONYTA     ; 4d
 	const RAPIDASH   ; 4e
 	const SLOWPOKE   ; 4f
-	const SLOWBRO    ; 50
+	const FLAGADOSS    ; 50
 	const MAGNEMITE  ; 51
 	const MAGNETON   ; 52
 	const CANARTICHO ; 53

@@ -1055,7 +1055,7 @@ RapidashEvosAttacks:
 	db 0 ; no more level-up moves
 
 SlowpokeEvosAttacks:
-	db EVOLVE_LEVEL, 37, SLOWBRO
+	db EVOLVE_LEVEL, 37, FLAGADOSS
 	db EVOLVE_TRADE, KINGS_ROCK, SLOWKING
 	db 0 ; no more evolutions
 	db 1, CURSE
@@ -1069,7 +1069,7 @@ SlowpokeEvosAttacks:
 	db 48, PSYCHIC_M
 	db 0 ; no more level-up moves
 
-SlowbroEvosAttacks:
+FlagadossEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, CURSE
 	db 1, TACKLE

@@ -7,7 +7,7 @@ Pokered_MonIndices:
 	db SPEAROW
 	db VOLTORB
 	db NIDOKING
-	db SLOWBRO
+	db FLAGADOSS
 	db IVYSAUR
 	db EXEGGUTOR
 	db EXCELANGUE

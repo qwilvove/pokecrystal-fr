@@ -1937,7 +1937,7 @@ BattleTowerMons:
 	bigdw 91 ; SDef
 	db "DAGUTORIO@@"
 
-	db SLOWBRO
+	db FLAGADOSS
 	db MIRACLEBERRY
 	db SURF, PSYCHIC_M, EARTHQUAKE, BLIZZARD
 	dw 0 ; OT ID

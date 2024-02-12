@@ -82,7 +82,7 @@ NewPokedexOrder:
 	db GOLDEEN
 	db SEAKING
 	db SLOWPOKE
-	db SLOWBRO
+	db FLAGADOSS
 	db SLOWKING
 	db ODDISH
 	db GLOOM

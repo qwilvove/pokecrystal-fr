@@ -85,7 +85,7 @@ PokemonCries::
 	mon_cry CRY_BOUSTIFLOR,    0,  256 ; PONYTA
 	mon_cry CRY_BOUSTIFLOR,   32,  320 ; RAPIDASH
 	mon_cry CRY_SLOWPOKE,      0,  256 ; SLOWPOKE
-	mon_cry CRY_CANINOS,     0,  256 ; SLOWBRO
+	mon_cry CRY_CANINOS,     0,  256 ; FLAGADOSS
 	mon_cry CRY_CHRYSACIER,     128,  224 ; MAGNEMITE
 	mon_cry CRY_CHRYSACIER,      32,  320 ; MAGNETON
 	mon_cry CRY_SPEAROW,     221,  129 ; CANARTICHO

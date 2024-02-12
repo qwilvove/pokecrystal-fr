@@ -81,7 +81,7 @@ KantoMonSpecials:
 	db  65 ; PONYTA
 	db  80 ; RAPIDASH
 	db  40 ; SLOWPOKE
-	db  80 ; SLOWBRO
+	db  80 ; FLAGADOSS
 	db  95 ; MAGNEMITE
 	db 120 ; MAGNETON
 	db  58 ; CANARTICHO

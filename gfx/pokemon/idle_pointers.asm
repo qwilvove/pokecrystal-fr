@@ -79,7 +79,7 @@ AnimationIdlePointers:
 	dw PonytaAnimationIdle
 	dw RapidashAnimationIdle
 	dw SlowpokeAnimationIdle
-	dw SlowbroAnimationIdle
+	dw FlagadossAnimationIdle
 	dw MagnemiteAnimationIdle
 	dw MagnetonAnimationIdle
 	dw CanartichoAnimationIdle

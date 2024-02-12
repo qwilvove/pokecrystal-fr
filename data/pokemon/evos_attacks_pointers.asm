@@ -81,7 +81,7 @@ EvosAttacksPointers::
 	dw PonytaEvosAttacks
 	dw RapidashEvosAttacks
 	dw SlowpokeEvosAttacks
-	dw SlowbroEvosAttacks
+	dw FlagadossEvosAttacks
 	dw MagnemiteEvosAttacks
 	dw MagnetonEvosAttacks
 	dw CanartichoEvosAttacks

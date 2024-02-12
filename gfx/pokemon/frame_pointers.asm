@@ -79,7 +79,7 @@ FramesPointers:
 	dw PonytaFrames
 	dw RapidashFrames
 	dw SlowpokeFrames
-	dw SlowbroFrames
+	dw FlagadossFrames
 	dw MagnemiteFrames
 	dw MagnetonFrames
 	dw CanartichoFrames

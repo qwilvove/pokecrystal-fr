@@ -70,7 +70,7 @@ AlphabeticalPokedexOrder:
 	db FEUFOREVE
 	db FEUNARD
 	db FEURISSON
-	db SLOWBRO
+	db FLAGADOSS
 	db SKIPLOOM
 	db VENUSAUR
 	db FORRETRESS

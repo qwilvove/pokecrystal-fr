@@ -79,7 +79,7 @@ BitmasksPointers:
 	dw PonytaBitmasks
 	dw RapidashBitmasks
 	dw SlowpokeBitmasks
-	dw SlowbroBitmasks
+	dw FlagadossBitmasks
 	dw MagnemiteBitmasks
 	dw MagnetonBitmasks
 	dw CanartichoBitmasks

@@ -80,7 +80,7 @@ PokedexDataPointerTable:
 	dw PonytaPokedexEntry
 	dw RapidashPokedexEntry
 	dw SlowpokePokedexEntry
-	dw SlowbroPokedexEntry
+	dw FlagadossPokedexEntry
 	dw MagnemitePokedexEntry
 	dw MagnetonPokedexEntry
 	dw CanartichoPokedexEntry

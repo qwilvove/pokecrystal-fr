@@ -79,7 +79,7 @@ AnimationPointers:
 	dw PonytaAnimation
 	dw RapidashAnimation
 	dw SlowpokeAnimation
-	dw SlowbroAnimation
+	dw FlagadossAnimation
 	dw MagnemiteAnimation
 	dw MagnetonAnimation
 	dw CanartichoAnimation
