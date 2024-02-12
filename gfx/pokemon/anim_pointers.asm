@@ -214,7 +214,7 @@ AnimationPointers:
 	dw CizayoxAnimation
 	dw CaratrocAnimation
 	dw HeracrossAnimation
-	dw SneaselAnimation
+	dw FarfuretAnimation
 	dw TeddiursaAnimation
 	dw UrsaringAnimation
 	dw SlugmaAnimation

@@ -216,7 +216,7 @@ EvosAttacksPointers::
 	dw CizayoxEvosAttacks
 	dw CaratrocEvosAttacks
 	dw HeracrossEvosAttacks
-	dw SneaselEvosAttacks
+	dw FarfuretEvosAttacks
 	dw TeddiursaEvosAttacks
 	dw UrsaringEvosAttacks
 	dw SlugmaEvosAttacks

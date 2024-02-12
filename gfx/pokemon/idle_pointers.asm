@@ -214,7 +214,7 @@ AnimationIdlePointers:
 	dw CizayoxAnimationIdle
 	dw CaratrocAnimationIdle
 	dw HeracrossAnimationIdle
-	dw SneaselAnimationIdle
+	dw FarfuretAnimationIdle
 	dw TeddiursaAnimationIdle
 	dw UrsaringAnimationIdle
 	dw SlugmaAnimationIdle

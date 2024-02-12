@@ -672,7 +672,7 @@ HeracrossEggMoves:
 	db FLAIL
 	db -1 ; end
 
-SneaselEggMoves:
+FarfuretEggMoves:
 	db COUNTER
 	db SPITE
 	db FORESIGHT

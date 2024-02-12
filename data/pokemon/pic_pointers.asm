@@ -434,8 +434,8 @@ PokemonPicPointers::
 	dba_pic CaratrocBackpic
 	dba_pic HeracrossFrontpic
 	dba_pic HeracrossBackpic
-	dba_pic SneaselFrontpic
-	dba_pic SneaselBackpic
+	dba_pic FarfuretFrontpic
+	dba_pic FarfuretBackpic
 	dba_pic TeddiursaFrontpic
 	dba_pic TeddiursaBackpic
 	dba_pic UrsaringFrontpic

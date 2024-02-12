@@ -234,7 +234,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const CIZAYOX     ; d4
 	const CARATROC    ; d5
 	const HERACROSS  ; d6
-	const SNEASEL    ; d7
+	const FARFURET    ; d7
 	const TEDDIURSA  ; d8
 	const URSARING   ; d9
 	const SLUGMA     ; da

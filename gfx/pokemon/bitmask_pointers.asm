@@ -214,7 +214,7 @@ BitmasksPointers:
 	dw CizayoxBitmasks
 	dw CaratrocBitmasks
 	dw HeracrossBitmasks
-	dw SneaselBitmasks
+	dw FarfuretBitmasks
 	dw TeddiursaBitmasks
 	dw UrsaringBitmasks
 	dw SlugmaBitmasks

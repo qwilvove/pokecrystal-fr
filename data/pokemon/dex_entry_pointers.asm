@@ -215,7 +215,7 @@ PokedexDataPointerTable:
 	dw CizayoxPokedexEntry
 	dw CaratrocPokedexEntry
 	dw HeracrossPokedexEntry
-	dw SneaselPokedexEntry
+	dw FarfuretPokedexEntry
 	dw TeddiursaPokedexEntry
 	dw UrsaringPokedexEntry
 	dw SlugmaPokedexEntry

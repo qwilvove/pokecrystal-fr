@@ -755,7 +755,7 @@ JohtoGrassWildMons:
 	db 24, CADOIZO
 	db 25, GOLBAT
 	db 23, GOLBAT
-	db 22, SNEASEL
+	db 22, FARFURET
 	end_grass_wildmons
 
 	def_grass_wildmons ICE_PATH_B2F_MAHOGANY_SIDE
@@ -782,8 +782,8 @@ JohtoGrassWildMons:
 	db 24, GOLBAT
 	db 25, CADOIZO
 	db 26, GOLBAT
-	db 22, SNEASEL
-	db 24, SNEASEL
+	db 22, FARFURET
+	db 24, FARFURET
 	end_grass_wildmons
 
 	def_grass_wildmons ICE_PATH_B2F_BLACKTHORN_SIDE
@@ -810,8 +810,8 @@ JohtoGrassWildMons:
 	db 24, GOLBAT
 	db 25, CADOIZO
 	db 26, GOLBAT
-	db 22, SNEASEL
-	db 24, SNEASEL
+	db 22, FARFURET
+	db 24, FARFURET
 	end_grass_wildmons
 
 	def_grass_wildmons ICE_PATH_B3F
@@ -837,9 +837,9 @@ JohtoGrassWildMons:
 	db 25, ZUBAT
 	db 25, GOLBAT
 	db 26, CADOIZO
-	db 22, SNEASEL
-	db 24, SNEASEL
-	db 26, SNEASEL
+	db 22, FARFURET
+	db 24, FARFURET
+	db 26, FARFURET
 	end_grass_wildmons
 
 	def_grass_wildmons WHIRL_ISLAND_NW

@@ -55,7 +55,7 @@ Pokered_MonIndices:
 	db ELEKTEK
 	db MAGNETON
 	db KOFFING
-	db SNEASEL ; MISSINGNO.
+	db FARFURET ; MISSINGNO.
 	db MANKEY
 	db SEEL
 	db DIGLETT

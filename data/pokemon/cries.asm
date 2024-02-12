@@ -220,7 +220,7 @@ PokemonCries::
 	mon_cry CRY_AMPHAROS,      0,  352 ; CIZAYOX
 	mon_cry CRY_DUNSPARCE,   656,  168 ; CARATROC
 	mon_cry CRY_AMPHAROS,     53,  224 ; HERACROSS
-	mon_cry CRY_AXOLOTO,       83,  175 ; SNEASEL
+	mon_cry CRY_AXOLOTO,       83,  175 ; FARFURET
 	mon_cry CRY_TEDDIURSA,  1954,  110 ; TEDDIURSA
 	mon_cry CRY_TEDDIURSA,  1600,  216 ; URSARING
 	mon_cry CRY_SLUGMA,     -472,  320 ; SLUGMA

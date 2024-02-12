@@ -238,7 +238,7 @@ BattleTowerMons:
 	bigdw 30 ; SDef
 	db "RAPURASU@@@"
 
-	db SNEASEL
+	db FARFURET
 	db GOLD_BERRY
 	db SLASH, FAINT_ATTACK, SURF, BLIZZARD
 	dw 0 ; OT ID
@@ -5257,7 +5257,7 @@ BattleTowerMons:
 	bigdw 263 ; SDef
 	db "MUUMA@@@@@@"
 
-	db SNEASEL
+	db FARFURET
 	db SCOPE_LENS
 	db SLASH, BLIZZARD, DREAM_EATER, FAINT_ATTACK
 	dw 0 ; OT ID

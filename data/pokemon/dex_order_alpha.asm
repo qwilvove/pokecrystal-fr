@@ -65,7 +65,7 @@ AlphabeticalPokedexOrder:
 	db EVOLI
 	db EXCELANGUE
 	db FANTOMINUS
-	db SNEASEL
+	db FARFURET
 	db MANKEY
 	db MISDREAVUS
 	db NINETALES

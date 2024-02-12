@@ -214,7 +214,7 @@ FramesPointers:
 	dw CizayoxFrames
 	dw CaratrocFrames
 	dw HeracrossFrames
-	dw SneaselFrames
+	dw FarfuretFrames
 	dw TeddiursaFrames
 	dw UrsaringFrames
 	dw SlugmaFrames

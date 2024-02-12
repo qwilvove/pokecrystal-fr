@@ -214,7 +214,7 @@ NewPokedexOrder:
 	db DEMOLOSSE
 	db SLUGMA
 	db MAGCARGO
-	db SNEASEL
+	db FARFURET
 	db MISDREAVUS
 	db PORYGON
 	db PORYGON2
