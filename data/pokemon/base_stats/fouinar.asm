@@ -1,4 +1,4 @@
-	db FOUINARR ; 162
+	db FOUINAR ; 162
 
 	db  85,  76,  64,  90,  45,  55
 	;   hp  atk  def  spd  sat  sdf
