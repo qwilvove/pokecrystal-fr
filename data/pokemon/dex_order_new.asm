@@ -36,7 +36,7 @@ NewPokedexOrder:
 	db SPINARAK
 	db ARIADOS
 	db GEODUDE
-	db GRAVELER
+	db GRAVALANCH
 	db GOLEM
 	db ZUBAT
 	db GOLBAT

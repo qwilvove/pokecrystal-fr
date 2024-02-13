@@ -176,7 +176,7 @@ INCBIN "gfx/footprints/tentacool.1bpp",  footprint_bottom
 ; 073-080 top halves
 INCBIN "gfx/footprints/tentacruel.1bpp", footprint_top
 INCBIN "gfx/footprints/geodude.1bpp",    footprint_top
-INCBIN "gfx/footprints/graveler.1bpp",   footprint_top
+INCBIN "gfx/footprints/gravalanch.1bpp",   footprint_top
 INCBIN "gfx/footprints/golem.1bpp",      footprint_top
 INCBIN "gfx/footprints/ponyta.1bpp",     footprint_top
 INCBIN "gfx/footprints/galopa.1bpp",   footprint_top
@@ -185,7 +185,7 @@ INCBIN "gfx/footprints/flagadoss.1bpp",    footprint_top
 ; 073-080 bottom halves
 INCBIN "gfx/footprints/tentacruel.1bpp", footprint_bottom
 INCBIN "gfx/footprints/geodude.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/graveler.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/gravalanch.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/golem.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/ponyta.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/galopa.1bpp",   footprint_bottom

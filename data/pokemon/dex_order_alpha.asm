@@ -82,7 +82,7 @@ AlphabeticalPokedexOrder:
 	db GOUPIX
 	db GRANBULL
 	db GRANIVOL
-	db GRAVELER
+	db GRAVALANCH
 	db WIGGLYTUFF
 	db GOLEM
 	db MUK

@@ -93,7 +93,7 @@
 	const TENTACOOL  ; 48
 	const TENTACRUEL ; 49
 	const GEODUDE    ; 4a
-	const GRAVELER   ; 4b
+	const GRAVALANCH   ; 4b
 	const GOLEM      ; 4c
 	const PONYTA     ; 4d
 	const GALOPA   ; 4e

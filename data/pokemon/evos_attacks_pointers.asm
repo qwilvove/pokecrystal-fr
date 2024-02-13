@@ -76,7 +76,7 @@ EvosAttacksPointers::
 	dw TentacoolEvosAttacks
 	dw TentacruelEvosAttacks
 	dw GeodudeEvosAttacks
-	dw GravelerEvosAttacks
+	dw GravalanchEvosAttacks
 	dw GolemEvosAttacks
 	dw PonytaEvosAttacks
 	dw GalopaEvosAttacks

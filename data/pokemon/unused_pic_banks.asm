@@ -5,7 +5,7 @@ BetaMonPicBanks: ; unreferenced
 	; last mon in bank, bank #
 	db RAICHU,    $15 + 0
 	db DUGTRIO,   $15 + 1
-	db GRAVELER,  $15 + 2
+	db GRAVALANCH,  $15 + 2
 	db KRABBY,    $15 + 3
 	db STARMIE,   $15 + 4
 	db ARTIKODIN,  $15 + 5

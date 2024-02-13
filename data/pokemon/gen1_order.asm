@@ -38,7 +38,7 @@ Pokered_MonIndices:
 	db PIDGEY
 	db SLOWPOKE
 	db KADABRA
-	db GRAVELER
+	db GRAVALANCH
 	db CHANSEY
 	db MACHOKE
 	db MR__MIME

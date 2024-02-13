@@ -80,7 +80,7 @@ PokemonCries::
 	mon_cry CRY_VENONAT,       0,  256 ; TENTACOOL
 	mon_cry CRY_VENONAT,     238,  383 ; TENTACRUEL
 	mon_cry CRY_GOUPIX,      240,  144 ; GEODUDE
-	mon_cry CRY_GOUPIX,        0,  256 ; GRAVELER
+	mon_cry CRY_GOUPIX,        0,  256 ; GRAVALANCH
 	mon_cry CRY_GOLEM,       224,  192 ; GOLEM
 	mon_cry CRY_BOUSTIFLOR,    0,  256 ; PONYTA
 	mon_cry CRY_BOUSTIFLOR,   32,  320 ; GALOPA

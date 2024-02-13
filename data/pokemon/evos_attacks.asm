@@ -978,7 +978,7 @@ TentacruelEvosAttacks:
 	db 0 ; no more level-up moves
 
 GeodudeEvosAttacks:
-	db EVOLVE_LEVEL, 25, GRAVELER
+	db EVOLVE_LEVEL, 25, GRAVALANCH
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 6, DEFENSE_CURL
@@ -991,7 +991,7 @@ GeodudeEvosAttacks:
 	db 41, EXPLOSION
 	db 0 ; no more level-up moves
 
-GravelerEvosAttacks:
+GravalanchEvosAttacks:
 	db EVOLVE_TRADE, -1, GOLEM
 	db 0 ; no more evolutions
 	db 1, TACKLE

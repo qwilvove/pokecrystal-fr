@@ -74,7 +74,7 @@ BitmasksPointers:
 	dw TentacoolBitmasks
 	dw TentacruelBitmasks
 	dw GeodudeBitmasks
-	dw GravelerBitmasks
+	dw GravalanchBitmasks
 	dw GolemBitmasks
 	dw PonytaBitmasks
 	dw GalopaBitmasks

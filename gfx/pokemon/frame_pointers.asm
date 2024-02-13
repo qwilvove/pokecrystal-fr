@@ -74,7 +74,7 @@ FramesPointers:
 	dw TentacoolFrames
 	dw TentacruelFrames
 	dw GeodudeFrames
-	dw GravelerFrames
+	dw GravalanchFrames
 	dw GolemFrames
 	dw PonytaFrames
 	dw GalopaFrames
