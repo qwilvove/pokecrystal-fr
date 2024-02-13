@@ -68,7 +68,7 @@ NewPokedexOrder:
 	db CHETIFLOR
 	db BOUSTIFLOR
 	db EMPIFLOR
-	db HOPPIP
+	db GRANIVOL
 	db FLORAVOL
 	db COTOVOL
 	db PARAS

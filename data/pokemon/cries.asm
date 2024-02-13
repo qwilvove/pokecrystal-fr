@@ -192,7 +192,7 @@ PokemonCries::
 	mon_cry CRY_MARILL,      182,  384 ; AZUMARILL
 	mon_cry CRY_CLEFFA,     3904,  384 ; SUDOWOODO
 	mon_cry CRY_CLEFFA,     -675,  456 ; POLITOED
-	mon_cry CRY_CLEFFA,       59,  200 ; HOPPIP
+	mon_cry CRY_CLEFFA,       59,  200 ; GRANIVOL
 	mon_cry CRY_CLEFFA,       39,  312 ; FLORAVOL
 	mon_cry CRY_CLEFFA,        0,  384 ; COTOVOL
 	mon_cry CRY_CAPUMAIN,       -81,  232 ; CAPUMAIN

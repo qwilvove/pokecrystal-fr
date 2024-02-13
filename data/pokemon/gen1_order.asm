@@ -226,7 +226,7 @@ Pokered_MonIndices:
 	db AZUMARILL
 	db SUDOWOODO
 	db POLITOED
-	db HOPPIP
+	db GRANIVOL
 	db FLORAVOL
 	db COTOVOL
 	db CAPUMAIN

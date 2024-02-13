@@ -188,7 +188,7 @@ EvosAttacksPointers::
 	dw AzumarillEvosAttacks
 	dw SudowoodoEvosAttacks
 	dw PolitoedEvosAttacks
-	dw HoppipEvosAttacks
+	dw GranivolEvosAttacks
 	dw FloravolEvosAttacks
 	dw CotovolEvosAttacks
 	dw CapumainEvosAttacks

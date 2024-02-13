@@ -81,7 +81,7 @@ AlphabeticalPokedexOrder:
 	db GIRAFARIG
 	db GOUPIX
 	db GRANBULL
-	db HOPPIP
+	db GRANIVOL
 	db GRAVELER
 	db WIGGLYTUFF
 	db GOLEM

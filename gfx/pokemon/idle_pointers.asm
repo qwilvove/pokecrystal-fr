@@ -186,7 +186,7 @@ AnimationIdlePointers:
 	dw AzumarillAnimationIdle
 	dw SudowoodoAnimationIdle
 	dw PolitoedAnimationIdle
-	dw HoppipAnimationIdle
+	dw GranivolAnimationIdle
 	dw FloravolAnimationIdle
 	dw CotovolAnimationIdle
 	dw CapumainAnimationIdle

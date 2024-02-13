@@ -2518,7 +2518,7 @@ PolitoedEvosAttacks:
 	db 51, SWAGGER
 	db 0 ; no more level-up moves
 
-HoppipEvosAttacks:
+GranivolEvosAttacks:
 	db EVOLVE_LEVEL, 18, FLORAVOL
 	db 0 ; no more evolutions
 	db 1, SPLASH

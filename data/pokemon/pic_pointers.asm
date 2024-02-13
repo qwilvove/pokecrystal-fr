@@ -375,8 +375,8 @@ PokemonPicPointers::
 	dba_pic SudowoodoBackpic
 	dba_pic PolitoedFrontpic
 	dba_pic PolitoedBackpic
-	dba_pic HoppipFrontpic
-	dba_pic HoppipBackpic
+	dba_pic GranivolFrontpic
+	dba_pic GranivolBackpic
 	dba_pic FloravolFrontpic
 	dba_pic FloravolBackpic
 	dba_pic CotovolFrontpic

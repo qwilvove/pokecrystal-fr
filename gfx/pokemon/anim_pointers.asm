@@ -186,7 +186,7 @@ AnimationPointers:
 	dw AzumarillAnimation
 	dw SudowoodoAnimation
 	dw PolitoedAnimation
-	dw HoppipAnimation
+	dw GranivolAnimation
 	dw FloravolAnimation
 	dw CotovolAnimation
 	dw CapumainAnimation

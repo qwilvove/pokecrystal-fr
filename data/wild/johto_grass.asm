@@ -1242,16 +1242,16 @@ JohtoGrassWildMons:
 	db 3, PIDGEY
 	db 3, FOUINETTE
 	db 2, RATTATA
-	db 3, HOPPIP
-	db 3, HOPPIP
+	db 3, GRANIVOL
+	db 3, GRANIVOL
 	; day
 	db 2, PIDGEY
 	db 2, FOUINETTE
 	db 3, PIDGEY
 	db 3, FOUINETTE
 	db 2, RATTATA
-	db 3, HOPPIP
-	db 3, HOPPIP
+	db 3, GRANIVOL
+	db 3, GRANIVOL
 	; nite
 	db 2, HOOTHOOT
 	db 2, RATTATA
@@ -1270,16 +1270,16 @@ JohtoGrassWildMons:
 	db 4, CHENIPAN
 	db 4, PIDGEY
 	db 3, ASPICOT
-	db 4, HOPPIP
-	db 4, HOPPIP
+	db 4, GRANIVOL
+	db 4, GRANIVOL
 	; day
 	db 3, PIDGEY
 	db 3, CHENIPAN
 	db 4, CHENIPAN
 	db 4, PIDGEY
 	db 3, ASPICOT
-	db 4, HOPPIP
-	db 4, HOPPIP
+	db 4, GRANIVOL
+	db 4, GRANIVOL
 	; nite
 	db 3, SPINARAK
 	db 3, HOOTHOOT
@@ -1298,16 +1298,16 @@ JohtoGrassWildMons:
 	db 5, CHETIFLOR
 	db 5, PIDGEY
 	db 4, ASPICOT
-	db 5, HOPPIP
-	db 5, HOPPIP
+	db 5, GRANIVOL
+	db 5, GRANIVOL
 	; day
 	db 4, PIDGEY
 	db 4, CHENIPAN
 	db 5, CHETIFLOR
 	db 5, PIDGEY
 	db 4, ASPICOT
-	db 5, HOPPIP
-	db 5, HOPPIP
+	db 5, GRANIVOL
+	db 5, GRANIVOL
 	; nite
 	db 4, SPINARAK
 	db 4, POLIWAG
@@ -1324,18 +1324,18 @@ JohtoGrassWildMons:
 	db 4, ABO
 	db 5, RATTATA
 	db 7, CHETIFLOR
-	db 6, HOPPIP
+	db 6, GRANIVOL
 	db 7, PIDGEY
-	db 7, HOPPIP
-	db 7, HOPPIP
+	db 7, GRANIVOL
+	db 7, GRANIVOL
 	; day
 	db 4, ABO
 	db 5, RATTATA
 	db 7, CHETIFLOR
-	db 6, HOPPIP
+	db 6, GRANIVOL
 	db 7, PIDGEY
-	db 7, HOPPIP
-	db 7, HOPPIP
+	db 7, GRANIVOL
+	db 7, GRANIVOL
 	; nite
 	db 4, AXOLOTO
 	db 5, RATTATA
@@ -1352,18 +1352,18 @@ JohtoGrassWildMons:
 	db 6, RATTATA
 	db 6, SPEAROW
 	db 6, GEODUDE
-	db 6, HOPPIP
+	db 6, GRANIVOL
 	db 7, ABO
-	db 7, HOPPIP
-	db 7, HOPPIP
+	db 7, GRANIVOL
+	db 7, GRANIVOL
 	; day
 	db 6, RATTATA
 	db 6, SPEAROW
 	db 6, GEODUDE
-	db 6, HOPPIP
+	db 6, GRANIVOL
 	db 7, ABO
-	db 7, HOPPIP
-	db 7, HOPPIP
+	db 7, GRANIVOL
+	db 7, GRANIVOL
 	; nite
 	db 6, RATTATA
 	db 6, ZUBAT
