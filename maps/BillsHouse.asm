@@ -21,8 +21,8 @@ BillsGrandpa:
 .MetGrandpa:
 	checkevent EVENT_SHOWED_PICHU_TO_BILLS_GRANDPA
 	iftrue .ShowedPichu
-	checkevent EVENT_SHOWED_CANINOS_VULPIX_TO_BILLS_GRANDPA
-	iftrue .ShowedCaninosVulpix
+	checkevent EVENT_SHOWED_CANINOS_GOUPIX_TO_BILLS_GRANDPA
+	iftrue .ShowedCaninosGoupix
 	checkevent EVENT_SHOWED_STARYU_TO_BILLS_GRANDPA
 	iftrue .ShowedStaryu
 	checkevent EVENT_SHOWED_ODDISH_TO_BILLS_GRANDPA
@@ -72,7 +72,7 @@ BillsGrandpa:
 
 .GotWaterStone:
 	checkver
-	iftrue .AskVulpix
+	iftrue .AskGoupix
 	writetext BillsGrandpaCaninosText
 	promptbutton
 	writetext BillsGrandpaAskToSeeMonText
@@ -83,11 +83,11 @@ BillsGrandpa:
 	iffalse .SaidNo
 	ifnotequal CANINOS, .WrongPokemon
 	scall .CorrectPokemon
-	setevent EVENT_SHOWED_CANINOS_VULPIX_TO_BILLS_GRANDPA
-	sjump .ShowedCaninosVulpix
+	setevent EVENT_SHOWED_CANINOS_GOUPIX_TO_BILLS_GRANDPA
+	sjump .ShowedCaninosGoupix
 
-.AskVulpix:
-	writetext BillsGrandpaVulpixText
+.AskGoupix:
+	writetext BillsGrandpaGoupixText
 	promptbutton
 	writetext BillsGrandpaAskToSeeMonText
 	yesorno
@@ -95,10 +95,10 @@ BillsGrandpa:
 	scall .ExcitedToSee
 	special BillsGrandfather
 	iffalse .SaidNo
-	ifnotequal VULPIX, .WrongPokemon
+	ifnotequal GOUPIX, .WrongPokemon
 	scall .CorrectPokemon
-	setevent EVENT_SHOWED_CANINOS_VULPIX_TO_BILLS_GRANDPA
-	sjump .ShowedCaninosVulpix
+	setevent EVENT_SHOWED_CANINOS_GOUPIX_TO_BILLS_GRANDPA
+	sjump .ShowedCaninosGoupix
 
 .GotFireStone:
 	writetext BillsGrandpaPichuText
@@ -147,7 +147,7 @@ BillsGrandpa:
 	closetext
 	end
 
-.ShowedCaninosVulpix:
+.ShowedCaninosGoupix:
 	checkevent EVENT_GOT_FIRE_STONE_FROM_BILLS_GRANDPA
 	iftrue .GotFireStone
 	scall .ReceiveItem
@@ -325,7 +325,7 @@ BillsGrandpaCaninosText:
 	line "très bien."
 	done
 
-BillsGrandpaVulpixText:
+BillsGrandpaGoupixText:
 	text "On m'a parlé d'un"
 	line "joli #MON à"
 	cont "six queues."

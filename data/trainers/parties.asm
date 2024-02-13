@@ -2541,7 +2541,7 @@ FirebreatherGroup:
 
 	; FIREBREATHER (7)
 	db "LUIGI@", TRAINERTYPE_NORMAL
-	db  9, VULPIX
+	db  9, GOUPIX
 	db -1 ; end
 
 	; FIREBREATHER (8)
@@ -2779,7 +2779,7 @@ PicnickerGroup:
 
 	; PICNICKER (4)
 	db "KIM@", TRAINERTYPE_NORMAL
-	db 15, VULPIX
+	db 15, GOUPIX
 	db -1 ; end
 
 	; PICNICKER (5)
@@ -3297,7 +3297,7 @@ KimonoGirlGroup:
 	; KIMONO_GIRL (1)
 	db "ERI@", TRAINERTYPE_NORMAL
 	db 20, FLORAVOL
-	db 20, VULPIX
+	db 20, GOUPIX
 	db 18, FLORAVOL
 	db -1 ; end
 

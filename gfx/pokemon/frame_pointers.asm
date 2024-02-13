@@ -36,7 +36,7 @@ FramesPointers:
 	dw NidokingFrames
 	dw ClefairyFrames
 	dw ClefableFrames
-	dw VulpixFrames
+	dw GoupixFrames
 	dw FeunardFrames
 	dw JigglypuffFrames
 	dw WigglytuffFrames

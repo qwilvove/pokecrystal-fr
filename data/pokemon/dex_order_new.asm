@@ -126,7 +126,7 @@ NewPokedexOrder:
 	db CAPUMAIN
 	db SNUBBULL
 	db GRANBULL
-	db VULPIX
+	db GOUPIX
 	db FEUNARD
 	db CANINOS
 	db ARCANIN

@@ -36,7 +36,7 @@ AnimationPointers:
 	dw NidokingAnimation
 	dw ClefairyAnimation
 	dw ClefableAnimation
-	dw VulpixAnimation
+	dw GoupixAnimation
 	dw FeunardAnimation
 	dw JigglypuffAnimation
 	dw WigglytuffAnimation

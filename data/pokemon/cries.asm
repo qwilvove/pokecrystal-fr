@@ -42,8 +42,8 @@ PokemonCries::
 	mon_cry CRY_RAICHU,        0,  256 ; NIDOKING
 	mon_cry CRY_CLEFAIRY,    204,  129 ; CLEFAIRY
 	mon_cry CRY_CLEFAIRY,    170,  160 ; CLEFABLE
-	mon_cry CRY_VULPIX,       79,  144 ; VULPIX
-	mon_cry CRY_VULPIX,      136,  224 ; FEUNARD
+	mon_cry CRY_GOUPIX,       79,  144 ; GOUPIX
+	mon_cry CRY_GOUPIX,      136,  224 ; FEUNARD
 	mon_cry CRY_PIDGEY,      255,  181 ; JIGGLYPUFF
 	mon_cry CRY_PIDGEY,      104,  224 ; WIGGLYTUFF
 	mon_cry CRY_CARAPUCE,    224,  256 ; ZUBAT
@@ -79,8 +79,8 @@ PokemonCries::
 	mon_cry CRY_BOUSTIFLOR,  102,  332 ; EMPIFLOR
 	mon_cry CRY_VENONAT,       0,  256 ; TENTACOOL
 	mon_cry CRY_VENONAT,     238,  383 ; TENTACRUEL
-	mon_cry CRY_VULPIX,      240,  144 ; GEODUDE
-	mon_cry CRY_VULPIX,        0,  256 ; GRAVELER
+	mon_cry CRY_GOUPIX,      240,  144 ; GEODUDE
+	mon_cry CRY_GOUPIX,        0,  256 ; GRAVELER
 	mon_cry CRY_GOLEM,       224,  192 ; GOLEM
 	mon_cry CRY_BOUSTIFLOR,    0,  256 ; PONYTA
 	mon_cry CRY_BOUSTIFLOR,   32,  320 ; GALOPA

@@ -79,7 +79,7 @@ AlphabeticalPokedexOrder:
 	db GALOPA
 	db GERMIGNON
 	db GIRAFARIG
-	db VULPIX
+	db GOUPIX
 	db GRANBULL
 	db HOPPIP
 	db GRAVELER

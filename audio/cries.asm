@@ -1070,11 +1070,11 @@ Cry_Vileplume:
 	channel 6, Cry_Vileplume_Ch6
 	channel 8, Cry_Vileplume_Ch8
 
-Cry_Vulpix:
+Cry_Goupix:
 	channel_count 3
-	channel 5, Cry_Vulpix_Ch5
-	channel 6, Cry_Vulpix_Ch6
-	channel 8, Cry_Vulpix_Ch8
+	channel 5, Cry_Goupix_Ch5
+	channel 6, Cry_Goupix_Ch6
+	channel 8, Cry_Goupix_Ch8
 
 Cry_Boustiflor:
 	channel_count 3
@@ -1170,7 +1170,7 @@ Cry_Vileplume_Ch8:
 	noise_note 8, 12, 1, 44
 	sound_ret
 
-Cry_Vulpix_Ch5:
+Cry_Goupix_Ch5:
 	duty_cycle_pattern 3, 3, 0, 0
 	square_note 15, 15, 7, 1664
 	square_note 10, 14, 6, 1668
@@ -1182,7 +1182,7 @@ Cry_Vulpix_Ch5:
 	square_note 8, 12, 1, 1600
 	sound_ret
 
-Cry_Vulpix_Ch6:
+Cry_Goupix_Ch6:
 	duty_cycle_pattern 0, 0, 1, 1
 	square_note 15, 11, 7, 1601
 	square_note 10, 9, 6, 1602
@@ -1194,7 +1194,7 @@ Cry_Vulpix_Ch6:
 	square_note 8, 7, 1, 1537
 	sound_ret
 
-Cry_Vulpix_Ch8:
+Cry_Goupix_Ch8:
 	noise_note 15, 14, 4, 60
 	noise_note 10, 12, 7, 76
 	noise_note 10, 12, 7, 60

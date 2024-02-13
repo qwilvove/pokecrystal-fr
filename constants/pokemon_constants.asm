@@ -55,7 +55,7 @@
 	const NIDOKING   ; 22
 	const CLEFAIRY   ; 23
 	const CLEFABLE   ; 24
-	const VULPIX     ; 25
+	const GOUPIX     ; 25
 	const FEUNARD  ; 26
 	const JIGGLYPUFF ; 27
 	const WIGGLYTUFF ; 28

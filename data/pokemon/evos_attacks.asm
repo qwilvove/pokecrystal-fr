@@ -485,7 +485,7 @@ ClefableEvosAttacks:
 	db 1, MOONLIGHT
 	db 0 ; no more level-up moves
 
-VulpixEvosAttacks:
+GoupixEvosAttacks:
 	db EVOLVE_ITEM, FIRE_STONE, FEUNARD
 	db 0 ; no more evolutions
 	db 1, EMBER

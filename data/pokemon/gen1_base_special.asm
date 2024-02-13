@@ -38,7 +38,7 @@ KantoMonSpecials:
 	db  75 ; NIDOKING
 	db  60 ; CLEFAIRY
 	db  85 ; CLEFABLE
-	db  65 ; VULPIX
+	db  65 ; GOUPIX
 	db 100 ; FEUNARD
 	db  25 ; JIGGLYPUFF
 	db  50 ; WIGGLYTUFF

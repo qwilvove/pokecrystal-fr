@@ -38,7 +38,7 @@
 	const CRY_PSYDUCK
 	const CRY_RATTATA
 	const CRY_VILEPLUME
-	const CRY_VULPIX
+	const CRY_GOUPIX
 	const CRY_BOUSTIFLOR
 
 ; gen 2

@@ -36,7 +36,7 @@ BitmasksPointers:
 	dw NidokingBitmasks
 	dw ClefairyBitmasks
 	dw ClefableBitmasks
-	dw VulpixBitmasks
+	dw GoupixBitmasks
 	dw FeunardBitmasks
 	dw JigglypuffBitmasks
 	dw WigglytuffBitmasks

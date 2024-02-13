@@ -95,7 +95,7 @@ NidoranMEggMoves:
 	db BEAT_UP
 	db -1 ; end
 
-VulpixEggMoves:
+GoupixEggMoves:
 	db FAINT_ATTACK
 	db HYPNOSIS
 	db FLAIL
