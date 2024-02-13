@@ -1,4 +1,4 @@
-	db WIGGLYTUFF ; 040
+	db GRODOUDOU ; 040
 
 	db 140,  70,  45,  45,  75,  50
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 10 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/wigglytuff/front.dimensions"
+	INCBIN "gfx/pokemon/grodoudou/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_FAST ; growth rate
 	dn EGG_FAIRY, EGG_FAIRY ; egg groups

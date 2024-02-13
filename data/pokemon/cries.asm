@@ -45,7 +45,7 @@ PokemonCries::
 	mon_cry CRY_GOUPIX,       79,  144 ; GOUPIX
 	mon_cry CRY_GOUPIX,      136,  224 ; FEUNARD
 	mon_cry CRY_PIDGEY,      255,  181 ; JIGGLYPUFF
-	mon_cry CRY_PIDGEY,      104,  224 ; WIGGLYTUFF
+	mon_cry CRY_PIDGEY,      104,  224 ; GRODOUDOU
 	mon_cry CRY_CARAPUCE,    224,  256 ; ZUBAT
 	mon_cry CRY_CARAPUCE,    250,  256 ; GOLBAT
 	mon_cry CRY_ODDISH,      221,  129 ; ODDISH

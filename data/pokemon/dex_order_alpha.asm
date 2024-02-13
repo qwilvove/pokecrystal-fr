@@ -83,7 +83,7 @@ AlphabeticalPokedexOrder:
 	db GRANBULL
 	db GRANIVOL
 	db GRAVALANCH
-	db WIGGLYTUFF
+	db GRODOUDOU
 	db GOLEM
 	db MUK
 	db SUNFLORA

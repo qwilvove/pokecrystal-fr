@@ -41,7 +41,7 @@ KantoMonSpecials:
 	db  65 ; GOUPIX
 	db 100 ; FEUNARD
 	db  25 ; JIGGLYPUFF
-	db  50 ; WIGGLYTUFF
+	db  50 ; GRODOUDOU
 	db  40 ; ZUBAT
 	db  75 ; GOLBAT
 	db  75 ; ODDISH

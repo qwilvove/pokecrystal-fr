@@ -41,7 +41,7 @@ EvosAttacksPointers::
 	dw GoupixEvosAttacks
 	dw FeunardEvosAttacks
 	dw JigglypuffEvosAttacks
-	dw WigglytuffEvosAttacks
+	dw GrodoudouEvosAttacks
 	dw ZubatEvosAttacks
 	dw GolbatEvosAttacks
 	dw OddishEvosAttacks

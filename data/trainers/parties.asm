@@ -753,7 +753,7 @@ LassGroup:
 
 	; LASS (11)
 	db "GAELLE@", TRAINERTYPE_NORMAL
-	db 30, WIGGLYTUFF
+	db 30, GRODOUDOU
 	db 34, GRANBULL
 	db -1 ; end
 

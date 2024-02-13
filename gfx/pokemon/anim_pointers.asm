@@ -39,7 +39,7 @@ AnimationPointers:
 	dw GoupixAnimation
 	dw FeunardAnimation
 	dw JigglypuffAnimation
-	dw WigglytuffAnimation
+	dw GrodoudouAnimation
 	dw ZubatAnimation
 	dw GolbatAnimation
 	dw OddishAnimation

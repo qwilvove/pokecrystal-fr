@@ -100,7 +100,7 @@ Pokered_MonIndices:
 	db AMONITA
 	db AMONISTAR
 	db JIGGLYPUFF
-	db WIGGLYTUFF
+	db GRODOUDOU
 	db EVOLI
 	db FLAREON
 	db JOLTEON

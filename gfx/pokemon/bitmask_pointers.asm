@@ -39,7 +39,7 @@ BitmasksPointers:
 	dw GoupixBitmasks
 	dw FeunardBitmasks
 	dw JigglypuffBitmasks
-	dw WigglytuffBitmasks
+	dw GrodoudouBitmasks
 	dw ZubatBitmasks
 	dw GolbatBitmasks
 	dw OddishBitmasks

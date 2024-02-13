@@ -81,8 +81,8 @@ PokemonPicPointers::
 	dba_pic FeunardBackpic
 	dba_pic JigglypuffFrontpic
 	dba_pic JigglypuffBackpic
-	dba_pic WigglytuffFrontpic
-	dba_pic WigglytuffBackpic
+	dba_pic GrodoudouFrontpic
+	dba_pic GrodoudouBackpic
 	dba_pic ZubatFrontpic
 	dba_pic ZubatBackpic
 	dba_pic GolbatFrontpic

@@ -40,7 +40,7 @@ PokedexDataPointerTable:
 	dw GoupixPokedexEntry
 	dw FeunardPokedexEntry
 	dw JigglypuffPokedexEntry
-	dw WigglytuffPokedexEntry
+	dw GrodoudouPokedexEntry
 	dw ZubatPokedexEntry
 	dw GolbatPokedexEntry
 	dw OddishPokedexEntry

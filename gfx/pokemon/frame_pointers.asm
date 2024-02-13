@@ -39,7 +39,7 @@ FramesPointers:
 	dw GoupixFrames
 	dw FeunardFrames
 	dw JigglypuffFrames
-	dw WigglytuffFrames
+	dw GrodoudouFrames
 	dw ZubatFrames
 	dw GolbatFrames
 	dw OddishFrames

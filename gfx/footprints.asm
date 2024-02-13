@@ -91,7 +91,7 @@ INCBIN "gfx/footprints/clefable.1bpp",   footprint_top
 INCBIN "gfx/footprints/goupix.1bpp",     footprint_top
 INCBIN "gfx/footprints/feunard.1bpp",  footprint_top
 INCBIN "gfx/footprints/jigglypuff.1bpp", footprint_top
-INCBIN "gfx/footprints/wigglytuff.1bpp", footprint_top
+INCBIN "gfx/footprints/grodoudou.1bpp", footprint_top
 ; 033-040 bottom halves
 INCBIN "gfx/footprints/nidorino.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/nidoking.1bpp",   footprint_bottom
@@ -100,7 +100,7 @@ INCBIN "gfx/footprints/clefable.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/goupix.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/feunard.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/jigglypuff.1bpp", footprint_bottom
-INCBIN "gfx/footprints/wigglytuff.1bpp", footprint_bottom
+INCBIN "gfx/footprints/grodoudou.1bpp", footprint_bottom
 ; 041-048 top halves
 INCBIN "gfx/footprints/zubat.1bpp",      footprint_top
 INCBIN "gfx/footprints/golbat.1bpp",     footprint_top
