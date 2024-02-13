@@ -107,7 +107,7 @@
 	const SEEL       ; 56
 	const DEWGONG    ; 57
 	const GRIMER     ; 58
-	const MUK        ; 59
+	const GROTADMORV        ; 59
 	const SHELLDER   ; 5a
 	const CRUSTABRI   ; 5b
 	const FANTOMINUS     ; 5c

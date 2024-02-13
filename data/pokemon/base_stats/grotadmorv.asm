@@ -1,4 +1,4 @@
-	db MUK ; 089
+	db GROTADMORV ; 089
 
 	db 105, 105,  75,  50,  65, 100
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/muk/front.dimensions"
+	INCBIN "gfx/pokemon/grotadmorv/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_INDETERMINATE, EGG_INDETERMINATE ; egg groups

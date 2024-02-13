@@ -90,7 +90,7 @@ KantoMonSpecials:
 	db  70 ; SEEL
 	db  95 ; DEWGONG
 	db  40 ; GRIMER
-	db  65 ; MUK
+	db  65 ; GROTADMORV
 	db  45 ; SHELLDER
 	db  85 ; CRUSTABRI
 	db 100 ; FANTOMINUS

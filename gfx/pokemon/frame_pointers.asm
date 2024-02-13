@@ -88,7 +88,7 @@ FramesPointers:
 	dw SeelFrames
 	dw DewgongFrames
 	dw GrimerFrames
-	dw MukFrames
+	dw GrotadmorvFrames
 	dw ShellderFrames
 	dw CrustabriFrames
 	dw FantominusFrames

@@ -85,7 +85,7 @@ AlphabeticalPokedexOrder:
 	db GRAVALANCH
 	db GRODOUDOU
 	db GROLEM
-	db MUK
+	db GROTADMORV
 	db SUNFLORA
 	db IVYSAUR
 	db CYNDAQUIL

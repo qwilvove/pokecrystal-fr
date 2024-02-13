@@ -88,7 +88,7 @@ AnimationPointers:
 	dw SeelAnimation
 	dw DewgongAnimation
 	dw GrimerAnimation
-	dw MukAnimation
+	dw GrotadmorvAnimation
 	dw ShellderAnimation
 	dw CrustabriAnimation
 	dw FantominusAnimation

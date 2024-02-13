@@ -89,7 +89,7 @@ PokedexDataPointerTable:
 	dw SeelPokedexEntry
 	dw DewgongPokedexEntry
 	dw GrimerPokedexEntry
-	dw MukPokedexEntry
+	dw GrotadmorvPokedexEntry
 	dw ShellderPokedexEntry
 	dw CrustabriPokedexEntry
 	dw FantominusPokedexEntry

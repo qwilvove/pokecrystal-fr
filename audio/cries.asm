@@ -896,11 +896,11 @@ Cry_Voltorb:
 	channel 6, Cry_Voltorb_Ch6
 	channel 8, Cry_Voltorb_Ch8
 
-Cry_Muk:
+Cry_Grotadmorv:
 	channel_count 3
-	channel 5, Cry_Muk_Ch5
-	channel 6, Cry_Muk_Ch6
-	channel 8, Cry_Muk_Ch8
+	channel 5, Cry_Grotadmorv_Ch5
+	channel 6, Cry_Grotadmorv_Ch6
+	channel 8, Cry_Grotadmorv_Ch8
 
 Cry_Oddish:
 	channel_count 3
@@ -1409,21 +1409,21 @@ Cry_Voltorb_Ch8:
 	noise_note 15, 15, 2, 172
 	sound_ret
 
-Cry_Muk_Ch5:
+Cry_Grotadmorv_Ch5:
 	duty_cycle_pattern 3, 3, 0, 0
 	square_note 4, 15, 3, 1760
 	square_note 15, 14, 4, 1600
 	square_note 8, 12, 1, 1568
 	sound_ret
 
-Cry_Muk_Ch6:
+Cry_Grotadmorv_Ch6:
 	duty_cycle_pattern 0, 0, 2, 2
 	square_note 3, 12, 3, 1667
 	square_note 14, 11, 4, 1538
 	square_note 8, 10, 1, 1537
 	sound_ret
 
-Cry_Muk_Ch8:
+Cry_Grotadmorv_Ch8:
 	noise_note 4, 13, 3, 92
 	noise_note 15, 14, 6, 76
 	noise_note 8, 11, 1, 92

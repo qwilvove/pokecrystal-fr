@@ -90,7 +90,7 @@ EvosAttacksPointers::
 	dw SeelEvosAttacks
 	dw DewgongEvosAttacks
 	dw GrimerEvosAttacks
-	dw MukEvosAttacks
+	dw GrotadmorvEvosAttacks
 	dw ShellderEvosAttacks
 	dw CrustabriEvosAttacks
 	dw FantominusEvosAttacks

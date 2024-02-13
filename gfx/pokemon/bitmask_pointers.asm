@@ -88,7 +88,7 @@ BitmasksPointers:
 	dw SeelBitmasks
 	dw DewgongBitmasks
 	dw GrimerBitmasks
-	dw MukBitmasks
+	dw GrotadmorvBitmasks
 	dw ShellderBitmasks
 	dw CrustabriBitmasks
 	dw FantominusBitmasks

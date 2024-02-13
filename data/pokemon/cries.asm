@@ -94,12 +94,12 @@ PokemonCries::
 	mon_cry CRY_SEEL,        136,  320 ; SEEL
 	mon_cry CRY_SEEL,         35,  383 ; DEWGONG
 	mon_cry CRY_GRIMER,        0,  256 ; GRIMER
-	mon_cry CRY_MUK,         239,  383 ; MUK
+	mon_cry CRY_GROTADMORV,         239,  383 ; GROTADMORV
 	mon_cry CRY_FEAROW,        0,  256 ; SHELLDER
 	mon_cry CRY_FEAROW,      111,  352 ; CRUSTABRI
 	mon_cry CRY_CHRYSACIER,       0,  256 ; FANTOMINUS
 	mon_cry CRY_CHRYSACIER,      48,  192 ; HAUNTER
-	mon_cry CRY_MUK,           0,  383 ; ECTOPLASMA
+	mon_cry CRY_GROTADMORV,           0,  383 ; ECTOPLASMA
 	mon_cry CRY_ABO,       255,  320 ; ONIX
 	mon_cry CRY_DROWZEE,     136,  160 ; DROWZEE
 	mon_cry CRY_DROWZEE,     238,  192 ; HYPNO

@@ -153,7 +153,7 @@ KantoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 20, GRIMER
 	db 15, GRIMER
-	db 15, MUK
+	db 15, GROTADMORV
 	end_water_wildmons
 
 	def_water_wildmons FUCHSIA_CITY

@@ -90,7 +90,7 @@ MonMenuIcons:
 	db ICON_LAPRAS      ; SEEL
 	db ICON_LAPRAS      ; DEWGONG
 	db ICON_BLOB        ; GRIMER
-	db ICON_BLOB        ; MUK
+	db ICON_BLOB        ; GROTADMORV
 	db ICON_SHELL       ; SHELLDER
 	db ICON_SHELL       ; CRUSTABRI
 	db ICON_GHOST       ; FANTOMINUS

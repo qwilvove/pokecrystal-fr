@@ -179,8 +179,8 @@ PokemonPicPointers::
 	dba_pic DewgongBackpic
 	dba_pic GrimerFrontpic
 	dba_pic GrimerBackpic
-	dba_pic MukFrontpic
-	dba_pic MukBackpic
+	dba_pic GrotadmorvFrontpic
+	dba_pic GrotadmorvBackpic
 	dba_pic ShellderFrontpic
 	dba_pic ShellderBackpic
 	dba_pic CrustabriFrontpic

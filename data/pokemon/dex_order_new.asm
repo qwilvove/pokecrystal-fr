@@ -118,7 +118,7 @@ NewPokedexOrder:
 	db KOFFING
 	db WEEZING
 	db GRIMER
-	db MUK
+	db GROTADMORV
 	db MAGNEMITE
 	db MAGNETON
 	db VOLTORB

@@ -570,24 +570,24 @@ KantoGrassWildMons:
 	db 28, GRIMER
 	db 29, FEAROW
 	db 29, FEAROW
-	db 30, MUK
-	db 30, MUK
+	db 30, GROTADMORV
+	db 30, GROTADMORV
 	; day
 	db 26, GRIMER
 	db 27, FEAROW
 	db 28, GRIMER
 	db 29, FEAROW
 	db 29, SLUGMA
-	db 30, MUK
-	db 30, MUK
+	db 30, GROTADMORV
+	db 30, GROTADMORV
 	; nite
 	db 26, GRIMER
 	db 27, GRIMER
 	db 28, GRIMER
 	db 29, CORNEBRE
 	db 29, CORNEBRE
-	db 30, MUK
-	db 30, MUK
+	db 30, GROTADMORV
+	db 30, GROTADMORV
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_17
@@ -598,24 +598,24 @@ KantoGrassWildMons:
 	db 31, GRIMER
 	db 32, FEAROW
 	db 33, GRIMER
-	db 33, MUK
-	db 33, MUK
+	db 33, GROTADMORV
+	db 33, GROTADMORV
 	; day
 	db 30, FEAROW
 	db 29, SLUGMA
 	db 29, GRIMER
 	db 32, FEAROW
 	db 32, SLUGMA
-	db 33, MUK
-	db 33, MUK
+	db 33, GROTADMORV
+	db 33, GROTADMORV
 	; nite
 	db 30, GRIMER
 	db 29, GRIMER
 	db 31, GRIMER
 	db 32, GRIMER
 	db 33, GRIMER
-	db 33, MUK
-	db 33, MUK
+	db 33, GROTADMORV
+	db 33, GROTADMORV
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_18
@@ -626,24 +626,24 @@ KantoGrassWildMons:
 	db 28, GRIMER
 	db 29, FEAROW
 	db 29, FEAROW
-	db 30, MUK
-	db 30, MUK
+	db 30, GROTADMORV
+	db 30, GROTADMORV
 	; day
 	db 26, GRIMER
 	db 27, FEAROW
 	db 28, GRIMER
 	db 29, FEAROW
 	db 29, SLUGMA
-	db 30, MUK
-	db 30, MUK
+	db 30, GROTADMORV
+	db 30, GROTADMORV
 	; nite
 	db 26, GRIMER
 	db 27, GRIMER
 	db 28, GRIMER
 	db 29, GRIMER
 	db 29, GRIMER
-	db 30, MUK
-	db 30, MUK
+	db 30, GROTADMORV
+	db 30, GROTADMORV
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_21
