@@ -1859,7 +1859,7 @@ BattleTowerMons:
 	bigdw 79 ; SDef
 	db "SO-NANSU@@@"
 
-	db GOLEM
+	db GROLEM
 	db FOCUS_BAND
 	db EXPLOSION, EARTHQUAKE, MEGA_PUNCH, ROCK_SLIDE
 	dw 0 ; OT ID
@@ -3269,7 +3269,7 @@ BattleTowerMons:
 	bigdw 144 ; SDef
 	db "PARASEKUTO@"
 
-	db GOLEM
+	db GROLEM
 	db BRIGHTPOWDER
 	db EXPLOSION, EARTHQUAKE, FIRE_PUNCH, FRUSTRATION
 	dw 0 ; OT ID
@@ -5413,7 +5413,7 @@ BattleTowerMons:
 	bigdw 214 ; SDef
 	db "OMUSUTA-@@@"
 
-	db GOLEM
+	db GROLEM
 	db BRIGHTPOWDER
 	db EXPLOSION, EARTHQUAKE, ROCK_SLIDE, FIRE_BLAST
 	dw 0 ; OT ID

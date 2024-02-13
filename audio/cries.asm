@@ -962,11 +962,11 @@ Cry_Rhydon:
 	channel 6, Cry_Rhydon_Ch6
 	channel 8, Cry_Rhydon_Ch8
 
-Cry_Golem:
+Cry_Grolem:
 	channel_count 3
-	channel 5, Cry_Golem_Ch5
-	channel 6, Cry_Golem_Ch6
-	channel 8, Cry_Golem_Ch8
+	channel 5, Cry_Grolem_Ch5
+	channel 6, Cry_Grolem_Ch6
+	channel 8, Cry_Grolem_Ch8
 
 Cry_Blastoise:
 	channel_count 3
@@ -1734,7 +1734,7 @@ Cry_Lapras_Ch8:
 	noise_note 8, 9, 1, 44
 	sound_ret
 
-Cry_Golem_Ch5:
+Cry_Grolem_Ch5:
 	duty_cycle_pattern 2, 2, 1, 1
 	square_note 12, 15, 2, 1088
 	square_note 15, 14, 3, 1184
@@ -1742,7 +1742,7 @@ Cry_Golem_Ch5:
 	square_note 8, 13, 1, 1152
 	sound_ret
 
-Cry_Golem_Ch6:
+Cry_Grolem_Ch6:
 	duty_cycle_pattern 3, 2, 3, 2
 	square_note 11, 13, 2, 1080
 	square_note 14, 12, 6, 1176
@@ -1750,7 +1750,7 @@ Cry_Golem_Ch6:
 	square_note 8, 11, 1, 1144
 	sound_ret
 
-Cry_Golem_Ch8:
+Cry_Grolem_Ch8:
 	noise_note 10, 14, 6, 108
 	noise_note 15, 13, 2, 92
 	noise_note 3, 12, 2, 108

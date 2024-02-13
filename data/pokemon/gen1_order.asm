@@ -48,7 +48,7 @@ Pokered_MonIndices:
 	db PARASECT
 	db PSYDUCK
 	db DROWZEE
-	db GOLEM
+	db GROLEM
 	db HERACROSS ; MISSINGNO.
 	db MAGMAR
 	db HO_OH ; MISSINGNO.

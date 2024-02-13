@@ -992,7 +992,7 @@ GeodudeEvosAttacks:
 	db 0 ; no more level-up moves
 
 GravalanchEvosAttacks:
-	db EVOLVE_TRADE, -1, GOLEM
+	db EVOLVE_TRADE, -1, GROLEM
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, DEFENSE_CURL
@@ -1007,7 +1007,7 @@ GravalanchEvosAttacks:
 	db 48, EXPLOSION
 	db 0 ; no more level-up moves
 
-GolemEvosAttacks:
+GrolemEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, DEFENSE_CURL

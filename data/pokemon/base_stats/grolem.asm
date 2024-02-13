@@ -1,4 +1,4 @@
-	db GOLEM ; 076
+	db GROLEM ; 076
 
 	db  80, 110, 130,  45,  55,  65
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 15 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/golem/front.dimensions"
+	INCBIN "gfx/pokemon/grolem/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_SLOW ; growth rate
 	dn EGG_MINERAL, EGG_MINERAL ; egg groups

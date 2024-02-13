@@ -84,7 +84,7 @@ AlphabeticalPokedexOrder:
 	db GRANIVOL
 	db GRAVALANCH
 	db GRODOUDOU
-	db GOLEM
+	db GROLEM
 	db MUK
 	db SUNFLORA
 	db IVYSAUR

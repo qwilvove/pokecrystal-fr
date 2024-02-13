@@ -94,7 +94,7 @@
 	const TENTACRUEL ; 49
 	const GEODUDE    ; 4a
 	const GRAVALANCH   ; 4b
-	const GOLEM      ; 4c
+	const GROLEM      ; 4c
 	const PONYTA     ; 4d
 	const GALOPA   ; 4e
 	const SLOWPOKE   ; 4f

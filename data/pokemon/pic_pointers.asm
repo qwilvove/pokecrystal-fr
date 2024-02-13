@@ -153,8 +153,8 @@ PokemonPicPointers::
 	dba_pic GeodudeBackpic
 	dba_pic GravalanchFrontpic
 	dba_pic GravalanchBackpic
-	dba_pic GolemFrontpic
-	dba_pic GolemBackpic
+	dba_pic GrolemFrontpic
+	dba_pic GrolemBackpic
 	dba_pic PonytaFrontpic
 	dba_pic PonytaBackpic
 	dba_pic GalopaFrontpic

@@ -77,7 +77,7 @@ KantoMonSpecials:
 	db 120 ; TENTACRUEL
 	db  30 ; GEODUDE
 	db  45 ; GRAVALANCH
-	db  55 ; GOLEM
+	db  55 ; GROLEM
 	db  65 ; PONYTA
 	db  80 ; GALOPA
 	db  40 ; SLOWPOKE

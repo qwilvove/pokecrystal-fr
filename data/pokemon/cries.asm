@@ -81,7 +81,7 @@ PokemonCries::
 	mon_cry CRY_VENONAT,     238,  383 ; TENTACRUEL
 	mon_cry CRY_GOUPIX,      240,  144 ; GEODUDE
 	mon_cry CRY_GOUPIX,        0,  256 ; GRAVALANCH
-	mon_cry CRY_GOLEM,       224,  192 ; GOLEM
+	mon_cry CRY_GROLEM,       224,  192 ; GROLEM
 	mon_cry CRY_BOUSTIFLOR,    0,  256 ; PONYTA
 	mon_cry CRY_BOUSTIFLOR,   32,  320 ; GALOPA
 	mon_cry CRY_SLOWPOKE,      0,  256 ; SLOWPOKE
@@ -111,15 +111,15 @@ PokemonCries::
 	mon_cry CRY_DROWZEE,       0,  256 ; EXEGGUTOR
 	mon_cry CRY_CLEFAIRY,      0,  256 ; CUBONE
 	mon_cry CRY_ODDISH,       79,  224 ; MAROWAK
-	mon_cry CRY_GOLEM,       128,  320 ; HITMONLEE
+	mon_cry CRY_GROLEM,       128,  320 ; HITMONLEE
 	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN
 	mon_cry CRY_SEEL,          0,  256 ; EXCELANGUE
-	mon_cry CRY_GOLEM,       230,  349 ; KOFFING
-	mon_cry CRY_GOLEM,       255,  383 ; WEEZING
+	mon_cry CRY_GROLEM,       230,  349 ; KOFFING
+	mon_cry CRY_GROLEM,       255,  383 ; WEEZING
 	mon_cry CRY_CHARMANDER,    0,  256 ; RHYHORN
 	mon_cry CRY_RHYDON,        0,  256 ; RHYDON
 	mon_cry CRY_PIDGEOTTO,    10,  320 ; CHANSEY
-	mon_cry CRY_GOLEM,         0,  256 ; TANGELA
+	mon_cry CRY_GROLEM,         0,  256 ; TANGELA
 	mon_cry CRY_KANGASKHAN,    0,  256 ; KANGASKHAN
 	mon_cry CRY_CLEFAIRY,    153,  144 ; HORSEA
 	mon_cry CRY_CLEFAIRY,     60,  129 ; SEADRA

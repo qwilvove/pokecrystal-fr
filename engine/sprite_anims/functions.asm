@@ -23,7 +23,7 @@ DoSpriteAnimFrame:
 	dw SpriteAnimFunc_GameFreakLogo
 	dw SpriteAnimFunc_GSGameFreakLogoStar
 	dw SpriteAnimFunc_GSGameFreakLogoSparkle
-	dw SpriteAnimFunc_SlotsGolem
+	dw SpriteAnimFunc_SlotsGrolem
 	dw SpriteAnimFunc_SlotsChansey
 	dw SpriteAnimFunc_SlotsChanseyEgg
 	dw SpriteAnimFunc_MailCursor
@@ -353,8 +353,8 @@ SpriteAnimFunc_GSGameFreakLogoSparkle:
 	call DeinitializeSprite
 	ret
 
-SpriteAnimFunc_SlotsGolem:
-	callfar Slots_AnimateGolem
+SpriteAnimFunc_SlotsGrolem:
+	callfar Slots_AnimateGrolem
 	ret
 
 SpriteAnimFunc_SlotsChansey:

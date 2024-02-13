@@ -46,8 +46,8 @@ SpriteAnimOAMData:
 	spriteanimoam $11, .OAMData_1x1_Palette0             ; SPRITE_ANIM_OAMSET_GS_GAMEFREAK_LOGO_SPARKLE_1
 	spriteanimoam $12, .OAMData_1x1_Palette0             ; SPRITE_ANIM_OAMSET_GS_GAMEFREAK_LOGO_SPARKLE_2
 	spriteanimoam $13, .OAMData_1x1_Palette0             ; SPRITE_ANIM_OAMSET_GS_GAMEFREAK_LOGO_SPARKLE_3
-	spriteanimoam $00, .OAMData_SlotsGolem               ; SPRITE_ANIM_OAMSET_SLOTS_GOLEM_1
-	spriteanimoam $08, .OAMData_SlotsGolem               ; SPRITE_ANIM_OAMSET_SLOTS_GOLEM_2
+	spriteanimoam $00, .OAMData_SlotsGrolem               ; SPRITE_ANIM_OAMSET_SLOTS_GROLEM_1
+	spriteanimoam $08, .OAMData_SlotsGrolem               ; SPRITE_ANIM_OAMSET_SLOTS_GROLEM_2
 	spriteanimoam $10, .OAMData_SlotsChansey1            ; SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_1
 	spriteanimoam $10, .OAMData_SlotsChansey2            ; SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_2
 	spriteanimoam $10, .OAMData_SlotsChansey3            ; SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_3
@@ -496,7 +496,7 @@ SpriteAnimOAMData:
 	dbsprite -1,  1,  4,  4, $0d, 1 | OBP_NUM
 	dbsprite  0,  1,  4,  4, $0e, 1 | OBP_NUM
 
-.OAMData_SlotsGolem:
+.OAMData_SlotsGrolem:
 	db 6
 	dbsprite -2, -2,  4,  4, $00, 5 | OBP_NUM
 	dbsprite -1, -2,  4,  4, $02, 5 | OBP_NUM

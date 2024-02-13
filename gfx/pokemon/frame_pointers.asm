@@ -75,7 +75,7 @@ FramesPointers:
 	dw TentacruelFrames
 	dw GeodudeFrames
 	dw GravalanchFrames
-	dw GolemFrames
+	dw GrolemFrames
 	dw PonytaFrames
 	dw GalopaFrames
 	dw SlowpokeFrames

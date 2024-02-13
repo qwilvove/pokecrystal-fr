@@ -20,7 +20,7 @@
 	const CRY_BULBIZARRE
 	const CRY_SPEAROW
 	const CRY_RHYDON
-	const CRY_GOLEM
+	const CRY_GROLEM
 	const CRY_BLASTOISE
 	const CRY_PIDGEOTTO
 	const CRY_ASPICOT

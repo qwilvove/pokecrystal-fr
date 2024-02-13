@@ -37,7 +37,7 @@ NewPokedexOrder:
 	db ARIADOS
 	db GEODUDE
 	db GRAVALANCH
-	db GOLEM
+	db GROLEM
 	db ZUBAT
 	db GOLBAT
 	db CROBAT
