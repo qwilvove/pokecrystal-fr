@@ -245,7 +245,7 @@ Pokered_MonIndices:
 	db GIRAFARIG
 	db PINECO
 	db FORETRESS
-	db DUNSPARCE
+	db INSOLOURDO
 	db GLIGAR
 	db STEELIX
 	db SNUBBULL

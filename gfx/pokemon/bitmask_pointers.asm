@@ -205,7 +205,7 @@ BitmasksPointers:
 	dw GirafarigBitmasks
 	dw PinecoBitmasks
 	dw ForetressBitmasks
-	dw DunsparceBitmasks
+	dw InsolourdoBitmasks
 	dw GligarBitmasks
 	dw SteelixBitmasks
 	dw SnubbullBitmasks

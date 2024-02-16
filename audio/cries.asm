@@ -148,11 +148,11 @@ Cry_Capumain:
 	channel 6, Cry_Capumain_Ch6
 	channel 8, Cry_Capumain_Ch8
 
-Cry_Dunsparce:
+Cry_Insolourdo:
 	channel_count 3
-	channel 5, Cry_Dunsparce_Ch5
-	channel 6, Cry_Dunsparce_Ch6
-	channel 8, Cry_Dunsparce_Ch8
+	channel 5, Cry_Insolourdo_Ch5
+	channel 6, Cry_Insolourdo_Ch6
+	channel 8, Cry_Insolourdo_Ch8
 
 Cry_Magcargo:
 	channel_count 3
@@ -228,7 +228,7 @@ Cry_Magcargo_Ch8:
 	noise_note 20, 12, 2, 95
 	sound_ret
 
-Cry_Dunsparce_Ch5:
+Cry_Insolourdo_Ch5:
 	duty_cycle_pattern 0, 2, 0, 2
 	square_note 1, 15, 8, 1456
 	square_note 1, 15, 8, 1204
@@ -241,13 +241,13 @@ Cry_Dunsparce_Ch5:
 	pitch_sweep 8, 8
 	sound_ret
 
-Cry_Dunsparce_Ch6:
+Cry_Insolourdo_Ch6:
 	duty_cycle_pattern 0, 2, 0, 2
 	square_note 8, 11, 8, 1224
 	square_note 32, 11, 5, 1040
 	sound_ret
 
-Cry_Dunsparce_Ch8:
+Cry_Insolourdo_Ch8:
 	noise_note 3, 15, -7, 75
 	noise_note 3, 14, -7, 76
 	noise_note 32, 11, 5, 95

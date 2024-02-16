@@ -20,7 +20,7 @@ TrainerHikerAnthony:
 	opentext
 	checkflag ENGINE_ANTHONY_READY_FOR_REMATCH
 	iftrue .Rematch
-	checkflag ENGINE_DUNSPARCE_SWARM
+	checkflag ENGINE_INSOLOURDO_SWARM
 	iftrue .Swarm
 	checkcellnum PHONE_HIKER_ANTHONY
 	iftrue .NumberAccepted
@@ -103,7 +103,7 @@ TrainerHikerAnthony:
 	end
 
 .Swarm:
-	writetext HikerAnthonyDunsparceText
+	writetext HikerAnthonyInsolourdoText
 	waitbutton
 	closetext
 	end
@@ -161,7 +161,7 @@ HikerAnthony2AfterText:
 	cont "dans la montagne."
 	done
 
-HikerAnthonyDunsparceText:
+HikerAnthonyInsolourdoText:
 	text "Hé! As-tu chopé un"
 	line "INSOLOURDO?"
 

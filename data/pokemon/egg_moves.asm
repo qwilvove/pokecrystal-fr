@@ -629,7 +629,7 @@ PinecoEggMoves:
 	db SWIFT
 	db -1 ; end
 
-DunsparceEggMoves:
+InsolourdoEggMoves:
 	db BIDE
 	db ANCIENTPOWER
 	db ROCK_SLIDE

@@ -293,9 +293,9 @@ StoreSwarmMapIndices::
 	jr nz, .yanma
 ; swarm dark cave violet entrance
 	ld a, d
-	ld [wDunsparceMapGroup], a
+	ld [wInsolourdoMapGroup], a
 	ld a, e
-	ld [wDunsparceMapNumber], a
+	ld [wInsolourdoMapNumber], a
 	ret
 
 .yanma

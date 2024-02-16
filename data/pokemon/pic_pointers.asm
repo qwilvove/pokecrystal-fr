@@ -416,8 +416,8 @@ PokemonPicPointers::
 	dba_pic PinecoBackpic
 	dba_pic ForetressFrontpic
 	dba_pic ForetressBackpic
-	dba_pic DunsparceFrontpic
-	dba_pic DunsparceBackpic
+	dba_pic InsolourdoFrontpic
+	dba_pic InsolourdoBackpic
 	dba_pic GligarFrontpic
 	dba_pic GligarBackpic
 	dba_pic SteelixFrontpic

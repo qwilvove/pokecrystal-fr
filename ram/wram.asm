@@ -3360,8 +3360,8 @@ wEggMon:: box_struct wEggMon
 wBugContestSecondPartySpecies:: db
 wContestMon:: party_struct wContestMon
 
-wDunsparceMapGroup:: db
-wDunsparceMapNumber:: db
+wInsolourdoMapGroup:: db
+wInsolourdoMapNumber:: db
 wFishingSwarmFlag:: db
 
 wRoamMon1:: roam_struct wRoamMon1

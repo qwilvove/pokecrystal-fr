@@ -70,7 +70,7 @@
 	const CRY_MAGCARGO
 	const CRY_PICHU
 	const CRY_CAPUMAIN
-	const CRY_DUNSPARCE
+	const CRY_INSOLOURDO
 	const CRY_DONPHAN
 
 DEF NUM_CRIES EQU const_value

@@ -205,7 +205,7 @@ EggMovePointers::
 	dw GirafarigEggMoves
 	dw PinecoEggMoves
 	dw NoEggMoves
-	dw DunsparceEggMoves
+	dw InsolourdoEggMoves
 	dw GligarEggMoves
 	dw NoEggMoves
 	dw SnubbullEggMoves

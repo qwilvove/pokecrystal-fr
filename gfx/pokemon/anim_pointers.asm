@@ -205,7 +205,7 @@ AnimationPointers:
 	dw GirafarigAnimation
 	dw PinecoAnimation
 	dw ForetressAnimation
-	dw DunsparceAnimation
+	dw InsolourdoAnimation
 	dw GligarAnimation
 	dw SteelixAnimation
 	dw SnubbullAnimation

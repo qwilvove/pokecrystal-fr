@@ -67,6 +67,6 @@ Cries:
 	dba Cry_Magcargo
 	dba Cry_Pichu
 	dba Cry_Capumain
-	dba Cry_Dunsparce
+	dba Cry_Insolourdo
 	dba Cry_Donphan
 	assert_table_length NUM_CRIES

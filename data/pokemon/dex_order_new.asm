@@ -53,7 +53,7 @@ NewPokedexOrder:
 	db SANDSLASH
 	db ABO
 	db ARBOK
-	db DUNSPARCE
+	db INSOLOURDO
 	db MAREEP
 	db FLAAFFY
 	db AMPHAROS
