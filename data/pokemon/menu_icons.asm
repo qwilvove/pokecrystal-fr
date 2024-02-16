@@ -231,7 +231,7 @@ MonMenuIcons:
 	db ICON_BIRD        ; AIRMURE
 	db ICON_FOX         ; HOUNDOUR
 	db ICON_FOX         ; DEMOLOSSE
-	db ICON_BIGMON      ; KINGDRA
+	db ICON_BIGMON      ; HYPOROI
 	db ICON_EQUINE      ; PHANPY
 	db ICON_EQUINE      ; DONPHAN
 	db ICON_VOLTORB     ; PORYGON2

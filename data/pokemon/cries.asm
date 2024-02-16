@@ -235,7 +235,7 @@ PokemonCries::
 	mon_cry CRY_AMPHAROS,   2217,  384 ; AIRMURE
 	mon_cry CRY_HERICENDRE,    57,  320 ; HOUNDOUR
 	mon_cry CRY_TOTODILE,   -266,  256 ; DEMOLOSSE
-	mon_cry CRY_SLUGMA,      763,  256 ; KINGDRA
+	mon_cry CRY_SLUGMA,      763,  256 ; HYPOROI
 	mon_cry CRY_FOUINETTE,      72,  560 ; PHANPY
 	mon_cry CRY_DONPHAN,       0,  416 ; DONPHAN
 	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGON2

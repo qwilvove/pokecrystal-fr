@@ -189,7 +189,7 @@ NewPokedexOrder:
 	db UMBREON
 	db HORSEA
 	db HYPOCEAN
-	db KINGDRA
+	db HYPOROI
 	db GLIGAR
 	db CADOIZO
 	db SWINUB

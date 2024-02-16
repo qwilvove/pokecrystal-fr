@@ -229,7 +229,7 @@ FramesPointers:
 	dw AirmureFrames
 	dw HoundourFrames
 	dw DemolosseFrames
-	dw KingdraFrames
+	dw HyporoiFrames
 	dw PhanpyFrames
 	dw DonphanFrames
 	dw Porygon2Frames

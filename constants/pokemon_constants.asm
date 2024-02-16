@@ -249,7 +249,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const AIRMURE   ; e3
 	const HOUNDOUR   ; e4
 	const DEMOLOSSE   ; e5
-	const KINGDRA    ; e6
+	const HYPOROI    ; e6
 	const PHANPY     ; e7
 	const DONPHAN    ; e8
 	const PORYGON2   ; e9

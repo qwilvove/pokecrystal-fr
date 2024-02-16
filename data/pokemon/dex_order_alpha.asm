@@ -93,7 +93,7 @@ AlphabeticalPokedexOrder:
 	db HOOTHOOT
 	db HYPNOMADE
 	db HYPOCEAN
-	db KINGDRA
+	db HYPOROI
 	db HORSEA
 	db SCYTHER
 	db DUNSPARCE

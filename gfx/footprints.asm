@@ -521,7 +521,7 @@ INCBIN "gfx/footprints/demanta.1bpp",    footprint_top
 INCBIN "gfx/footprints/airmure.1bpp",   footprint_top
 INCBIN "gfx/footprints/houndour.1bpp",   footprint_top
 INCBIN "gfx/footprints/demolosse.1bpp",   footprint_top
-INCBIN "gfx/footprints/kingdra.1bpp",    footprint_top
+INCBIN "gfx/footprints/hyporoi.1bpp",    footprint_top
 INCBIN "gfx/footprints/phanpy.1bpp",     footprint_top
 INCBIN "gfx/footprints/donphan.1bpp",    footprint_top
 ; 225-232 bottom halves
@@ -530,7 +530,7 @@ INCBIN "gfx/footprints/demanta.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/airmure.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/houndour.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/demolosse.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/kingdra.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/hyporoi.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/phanpy.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/donphan.1bpp",    footprint_bottom
 ; 233-240 top halves

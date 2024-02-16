@@ -231,7 +231,7 @@ EvosAttacksPointers::
 	dw AirmureEvosAttacks
 	dw HoundourEvosAttacks
 	dw DemolosseEvosAttacks
-	dw KingdraEvosAttacks
+	dw HyporoiEvosAttacks
 	dw PhanpyEvosAttacks
 	dw DonphanEvosAttacks
 	dw Porygon2EvosAttacks

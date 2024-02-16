@@ -229,7 +229,7 @@ AnimationPointers:
 	dw AirmureAnimation
 	dw HoundourAnimation
 	dw DemolosseAnimation
-	dw KingdraAnimation
+	dw HyporoiAnimation
 	dw PhanpyAnimation
 	dw DonphanAnimation
 	dw Porygon2Animation

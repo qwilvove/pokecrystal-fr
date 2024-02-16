@@ -229,7 +229,7 @@ BitmasksPointers:
 	dw AirmureBitmasks
 	dw HoundourBitmasks
 	dw DemolosseBitmasks
-	dw KingdraBitmasks
+	dw HyporoiBitmasks
 	dw PhanpyBitmasks
 	dw DonphanBitmasks
 	dw Porygon2Bitmasks

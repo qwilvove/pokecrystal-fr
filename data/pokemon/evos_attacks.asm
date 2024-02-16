@@ -1585,7 +1585,7 @@ HorseaEvosAttacks:
 	db 0 ; no more level-up moves
 
 HypoceanEvosAttacks:
-	db EVOLVE_TRADE, DRAGON_SCALE, KINGDRA
+	db EVOLVE_TRADE, DRAGON_SCALE, HYPOROI
 	db 0 ; no more evolutions
 	db 1, BUBBLE
 	db 1, SMOKESCREEN
@@ -3059,7 +3059,7 @@ DemolosseEvosAttacks:
 	db 52, CRUNCH
 	db 0 ; no more level-up moves
 
-KingdraEvosAttacks:
+HyporoiEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, BUBBLE
 	db 1, SMOKESCREEN

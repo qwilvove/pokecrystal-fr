@@ -229,7 +229,7 @@ AnimationIdlePointers:
 	dw AirmureAnimationIdle
 	dw HoundourAnimationIdle
 	dw DemolosseAnimationIdle
-	dw KingdraAnimationIdle
+	dw HyporoiAnimationIdle
 	dw PhanpyAnimationIdle
 	dw DonphanAnimationIdle
 	dw Porygon2AnimationIdle
