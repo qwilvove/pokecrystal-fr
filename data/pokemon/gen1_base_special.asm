@@ -98,7 +98,7 @@ KantoMonSpecials:
 	db 130 ; ECTOPLASMA
 	db  30 ; ONIX
 	db  90 ; DROWZEE
-	db 115 ; HYPNO
+	db 115 ; HYPNOMADE
 	db  25 ; KRABBY
 	db  50 ; KINGLER
 	db  55 ; VOLTORB

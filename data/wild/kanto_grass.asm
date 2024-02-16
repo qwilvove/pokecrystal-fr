@@ -474,8 +474,8 @@ KantoGrassWildMons:
 	db 15, MAGNEMITE
 	db 16, NOCTOWL
 	db 16, RATICATE
-	db 16, HYPNO
-	db 16, HYPNO
+	db 16, HYPNOMADE
+	db 16, HYPNOMADE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_13

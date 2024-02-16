@@ -2756,7 +2756,7 @@ PsychicGroup:
 	; PSYCHIC_T (12)
 	db "DANY@", TRAINERTYPE_NORMAL
 	db 29, DROWZEE
-	db 33, HYPNO
+	db 33, HYPNOMADE
 	db -1 ; end
 
 PicnickerGroup:
@@ -3181,7 +3181,7 @@ MediumGroup:
 	; MEDIUM (6)
 	db "LOLA@", TRAINERTYPE_NORMAL
 	db 35, DROWZEE
-	db 35, HYPNO
+	db 35, HYPNOMADE
 	db -1 ; end
 
 	; MEDIUM (7)

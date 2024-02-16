@@ -96,7 +96,7 @@ AnimationIdlePointers:
 	dw EctoplasmaAnimationIdle
 	dw OnixAnimationIdle
 	dw DrowzeeAnimationIdle
-	dw HypnoAnimationIdle
+	dw HypnomadeAnimationIdle
 	dw KrabbyAnimationIdle
 	dw KinglerAnimationIdle
 	dw VoltorbAnimationIdle

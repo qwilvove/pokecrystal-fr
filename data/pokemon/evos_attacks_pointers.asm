@@ -98,7 +98,7 @@ EvosAttacksPointers::
 	dw EctoplasmaEvosAttacks
 	dw OnixEvosAttacks
 	dw DrowzeeEvosAttacks
-	dw HypnoEvosAttacks
+	dw HypnomadeEvosAttacks
 	dw KrabbyEvosAttacks
 	dw KinglerEvosAttacks
 	dw VoltorbEvosAttacks

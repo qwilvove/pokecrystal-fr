@@ -96,7 +96,7 @@ FramesPointers:
 	dw EctoplasmaFrames
 	dw OnixFrames
 	dw DrowzeeFrames
-	dw HypnoFrames
+	dw HypnomadeFrames
 	dw KrabbyFrames
 	dw KinglerFrames
 	dw VoltorbFrames

@@ -89,7 +89,7 @@ NewPokedexOrder:
 	db VILEPLUME
 	db BELLOSSOM
 	db DROWZEE
-	db HYPNO
+	db HYPNOMADE
 	db ABRA
 	db KADABRA
 	db ALAKAZAM

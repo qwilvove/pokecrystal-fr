@@ -96,7 +96,7 @@ AnimationPointers:
 	dw EctoplasmaAnimation
 	dw OnixAnimation
 	dw DrowzeeAnimation
-	dw HypnoAnimation
+	dw HypnomadeAnimation
 	dw KrabbyAnimation
 	dw KinglerAnimation
 	dw VoltorbAnimation

@@ -128,7 +128,7 @@ Pokered_MonIndices:
 	db MACHAMP
 	db DONPHAN ; MISSINGNO.
 	db AKWAKWAK
-	db HYPNO
+	db HYPNOMADE
 	db GOLBAT
 	db MEWTWO
 	db SNORLAX

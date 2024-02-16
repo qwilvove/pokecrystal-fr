@@ -102,7 +102,7 @@ PokemonCries::
 	mon_cry CRY_GROTADMORV,           0,  383 ; ECTOPLASMA
 	mon_cry CRY_ABO,       255,  320 ; ONIX
 	mon_cry CRY_DROWZEE,     136,  160 ; DROWZEE
-	mon_cry CRY_DROWZEE,     238,  192 ; HYPNO
+	mon_cry CRY_DROWZEE,     238,  192 ; HYPNOMADE
 	mon_cry CRY_KRABBY,       32,  352 ; KRABBY
 	mon_cry CRY_KRABBY,      238,  352 ; KINGLER
 	mon_cry CRY_VOLTORB,     237,  256 ; VOLTORB

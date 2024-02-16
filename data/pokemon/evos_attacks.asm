@@ -1288,7 +1288,7 @@ OnixEvosAttacks:
 	db 0 ; no more level-up moves
 
 DrowzeeEvosAttacks:
-	db EVOLVE_LEVEL, 26, HYPNO
+	db EVOLVE_LEVEL, 26, HYPNOMADE
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 1, HYPNOSIS
@@ -1302,7 +1302,7 @@ DrowzeeEvosAttacks:
 	db 45, FUTURE_SIGHT
 	db 0 ; no more level-up moves
 
-HypnoEvosAttacks:
+HypnomadeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 1, HYPNOSIS

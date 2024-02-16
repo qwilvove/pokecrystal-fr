@@ -91,7 +91,7 @@ AlphabeticalPokedexOrder:
 	db HERICENDRE
 	db HO_OH
 	db HOOTHOOT
-	db HYPNO
+	db HYPNOMADE
 	db SEADRA
 	db KINGDRA
 	db HORSEA

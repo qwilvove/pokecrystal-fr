@@ -96,7 +96,7 @@ BitmasksPointers:
 	dw EctoplasmaBitmasks
 	dw OnixBitmasks
 	dw DrowzeeBitmasks
-	dw HypnoBitmasks
+	dw HypnomadeBitmasks
 	dw KrabbyBitmasks
 	dw KinglerBitmasks
 	dw VoltorbBitmasks
