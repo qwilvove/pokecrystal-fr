@@ -183,7 +183,7 @@ EvosAttacksPointers::
 	dw MareepEvosAttacks
 	dw FlaaffyEvosAttacks
 	dw AmpharosEvosAttacks
-	dw BellossomEvosAttacks
+	dw JoliflorEvosAttacks
 	dw MarillEvosAttacks
 	dw AzumarillEvosAttacks
 	dw SudowoodoEvosAttacks

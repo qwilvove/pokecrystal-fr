@@ -413,7 +413,7 @@ INCBIN "gfx/footprints/xatu.1bpp",       footprint_top
 INCBIN "gfx/footprints/mareep.1bpp",     footprint_top
 INCBIN "gfx/footprints/flaaffy.1bpp",    footprint_top
 INCBIN "gfx/footprints/ampharos.1bpp",   footprint_top
-INCBIN "gfx/footprints/bellossom.1bpp",  footprint_top
+INCBIN "gfx/footprints/joliflor.1bpp",  footprint_top
 INCBIN "gfx/footprints/marill.1bpp",     footprint_top
 INCBIN "gfx/footprints/azumarill.1bpp",  footprint_top
 ; 177-184 bottom halves
@@ -422,7 +422,7 @@ INCBIN "gfx/footprints/xatu.1bpp",       footprint_bottom
 INCBIN "gfx/footprints/mareep.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/flaaffy.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/ampharos.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/bellossom.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/joliflor.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/marill.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/azumarill.1bpp",  footprint_bottom
 ; 185-192 top halves

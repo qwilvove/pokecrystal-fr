@@ -187,7 +187,7 @@ PokemonCries::
 	mon_cry CRY_MAREEP,       34,  216 ; MAREEP
 	mon_cry CRY_MAREEP,       -7,  384 ; FLAAFFY
 	mon_cry CRY_AMPHAROS,   -124,  232 ; AMPHAROS
-	mon_cry CRY_CLEFFA,      132,  336 ; BELLOSSOM
+	mon_cry CRY_CLEFFA,      132,  336 ; JOLIFLOR
 	mon_cry CRY_MARILL,      283,  288 ; MARILL
 	mon_cry CRY_MARILL,      182,  384 ; AZUMARILL
 	mon_cry CRY_CLEFFA,     3904,  384 ; SUDOWOODO

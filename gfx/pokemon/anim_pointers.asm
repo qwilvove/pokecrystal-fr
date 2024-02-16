@@ -181,7 +181,7 @@ AnimationPointers:
 	dw MareepAnimation
 	dw FlaaffyAnimation
 	dw AmpharosAnimation
-	dw BellossomAnimation
+	dw JoliflorAnimation
 	dw MarillAnimation
 	dw AzumarillAnimation
 	dw SudowoodoAnimation

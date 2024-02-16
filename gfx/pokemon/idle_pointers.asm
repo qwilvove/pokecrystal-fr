@@ -181,7 +181,7 @@ AnimationIdlePointers:
 	dw MareepAnimationIdle
 	dw FlaaffyAnimationIdle
 	dw AmpharosAnimationIdle
-	dw BellossomAnimationIdle
+	dw JoliflorAnimationIdle
 	dw MarillAnimationIdle
 	dw AzumarillAnimationIdle
 	dw SudowoodoAnimationIdle

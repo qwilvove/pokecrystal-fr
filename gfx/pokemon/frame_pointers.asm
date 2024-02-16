@@ -181,7 +181,7 @@ FramesPointers:
 	dw MareepFrames
 	dw FlaaffyFrames
 	dw AmpharosFrames
-	dw BellossomFrames
+	dw JoliflorFrames
 	dw MarillFrames
 	dw AzumarillFrames
 	dw SudowoodoFrames

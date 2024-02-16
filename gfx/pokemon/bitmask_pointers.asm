@@ -181,7 +181,7 @@ BitmasksPointers:
 	dw MareepBitmasks
 	dw FlaaffyBitmasks
 	dw AmpharosBitmasks
-	dw BellossomBitmasks
+	dw JoliflorBitmasks
 	dw MarillBitmasks
 	dw AzumarillBitmasks
 	dw SudowoodoBitmasks

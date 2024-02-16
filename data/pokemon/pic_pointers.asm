@@ -365,8 +365,8 @@ PokemonPicPointers::
 	dba_pic FlaaffyBackpic
 	dba_pic AmpharosFrontpic
 	dba_pic AmpharosBackpic
-	dba_pic BellossomFrontpic
-	dba_pic BellossomBackpic
+	dba_pic JoliflorFrontpic
+	dba_pic JoliflorBackpic
 	dba_pic MarillFrontpic
 	dba_pic MarillBackpic
 	dba_pic AzumarillFrontpic

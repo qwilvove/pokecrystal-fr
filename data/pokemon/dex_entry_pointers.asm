@@ -182,7 +182,7 @@ PokedexDataPointerTable:
 	dw MareepPokedexEntry
 	dw FlaaffyPokedexEntry
 	dw AmpharosPokedexEntry
-	dw BellossomPokedexEntry
+	dw JoliflorPokedexEntry
 	dw MarillPokedexEntry
 	dw AzumarillPokedexEntry
 	dw SudowoodoPokedexEntry

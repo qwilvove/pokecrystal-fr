@@ -87,7 +87,7 @@ NewPokedexOrder:
 	db ODDISH
 	db GLOOM
 	db VILEPLUME
-	db BELLOSSOM
+	db JOLIFLOR
 	db DROWZEE
 	db HYPNOMADE
 	db ABRA
