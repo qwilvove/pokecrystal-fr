@@ -191,7 +191,7 @@ FramesPointers:
 	dw CotovolFrames
 	dw CapumainFrames
 	dw SunkernFrames
-	dw SunfloraFrames
+	dw HeliatroncFrames
 	dw YanmaFrames
 	dw AxolotoFrames
 	dw QuagsireFrames

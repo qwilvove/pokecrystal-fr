@@ -199,7 +199,7 @@ FloravolPokedexEntry::   INCLUDE "data/pokemon/dex_entries/floravol.asm"
 CotovolPokedexEntry::   INCLUDE "data/pokemon/dex_entries/cotovol.asm"
 CapumainPokedexEntry::      INCLUDE "data/pokemon/dex_entries/capumain.asm"
 SunkernPokedexEntry::    INCLUDE "data/pokemon/dex_entries/sunkern.asm"
-SunfloraPokedexEntry::   INCLUDE "data/pokemon/dex_entries/sunflora.asm"
+HeliatroncPokedexEntry::   INCLUDE "data/pokemon/dex_entries/heliatronc.asm"
 
 
 SECTION "Pokedex Entries 193-251", ROMX

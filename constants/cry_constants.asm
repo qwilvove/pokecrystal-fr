@@ -65,7 +65,7 @@
 	const CRY_TYPHLOSION
 	const CRY_NATU
 	const CRY_TEDDIURSA
-	const CRY_SUNFLORA
+	const CRY_HELIATRONC
 	const CRY_AMPHAROS
 	const CRY_MAGCARGO
 	const CRY_PICHU

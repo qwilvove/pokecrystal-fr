@@ -192,7 +192,7 @@ PokedexDataPointerTable:
 	dw CotovolPokedexEntry
 	dw CapumainPokedexEntry
 	dw SunkernPokedexEntry
-	dw SunfloraPokedexEntry
+	dw HeliatroncPokedexEntry
 	dw YanmaPokedexEntry
 	dw AxolotoPokedexEntry
 	dw QuagsirePokedexEntry

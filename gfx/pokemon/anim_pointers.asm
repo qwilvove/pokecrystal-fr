@@ -191,7 +191,7 @@ AnimationPointers:
 	dw CotovolAnimation
 	dw CapumainAnimation
 	dw SunkernAnimation
-	dw SunfloraAnimation
+	dw HeliatroncAnimation
 	dw YanmaAnimation
 	dw AxolotoAnimation
 	dw QuagsireAnimation

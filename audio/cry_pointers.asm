@@ -62,7 +62,7 @@ Cries:
 	dba Cry_Typhlosion
 	dba Cry_Natu
 	dba Cry_Teddiursa
-	dba Cry_Sunflora
+	dba Cry_Heliatronc
 	dba Cry_Ampharos
 	dba Cry_Magcargo
 	dba Cry_Pichu

@@ -191,7 +191,7 @@ BitmasksPointers:
 	dw CotovolBitmasks
 	dw CapumainBitmasks
 	dw SunkernBitmasks
-	dw SunfloraBitmasks
+	dw HeliatroncBitmasks
 	dw YanmaBitmasks
 	dw AxolotoBitmasks
 	dw QuagsireBitmasks

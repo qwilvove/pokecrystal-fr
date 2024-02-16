@@ -2581,7 +2581,7 @@ CapumainEvosAttacks:
 	db 0 ; no more level-up moves
 
 SunkernEvosAttacks:
-	db EVOLVE_ITEM, SUN_STONE, SUNFLORA
+	db EVOLVE_ITEM, SUN_STONE, HELIATRONC
 	db 0 ; no more evolutions
 	db 1, ABSORB
 	db 4, GROWTH
@@ -2591,7 +2591,7 @@ SunkernEvosAttacks:
 	db 46, GIGA_DRAIN
 	db 0 ; no more level-up moves
 
-SunfloraEvosAttacks:
+HeliatroncEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, ABSORB
 	db 1, POUND

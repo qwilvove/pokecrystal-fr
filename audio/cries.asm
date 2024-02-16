@@ -112,11 +112,11 @@ Cry_Teddiursa:
 	channel 6, Cry_Teddiursa_Ch6
 	channel 8, Cry_Teddiursa_Ch8
 
-Cry_Sunflora:
+Cry_Heliatronc:
 	channel_count 3
-	channel 5, Cry_Sunflora_Ch5
-	channel 6, Cry_Sunflora_Ch6
-	channel 8, Cry_Sunflora_Ch8
+	channel 5, Cry_Heliatronc_Ch5
+	channel 6, Cry_Heliatronc_Ch6
+	channel 8, Cry_Heliatronc_Ch8
 
 Cry_Ampharos:
 	channel_count 3
@@ -681,7 +681,7 @@ Cry_Natu_Ch5:
 	sound_ret
 
 Cry_Natu_Ch6:
-Cry_Sunflora_Ch6:
+Cry_Heliatronc_Ch6:
 .body1:
 	duty_cycle_pattern 3, 3, 0, 2
 	square_note 4, 15, 8, 1970
@@ -694,7 +694,7 @@ Cry_Sunflora_Ch6:
 	sound_ret
 
 Cry_Natu_Ch8:
-Cry_Sunflora_Ch8:
+Cry_Heliatronc_Ch8:
 .body1:
 	noise_note 4, 8, 8, 5
 	noise_note 4, 8, 8, 4
@@ -710,7 +710,7 @@ Cry_Teddiursa_Ch8:
 	noise_note 8, 10, 1, 90
 	sound_ret
 
-Cry_Sunflora_Ch5:
+Cry_Heliatronc_Ch5:
 	duty_cycle 0
 	sound_jump Cry_Natu_Ch5.body1
 
@@ -721,13 +721,13 @@ Cry_Demanta_Ch5:
 	sound_ret
 
 Cry_Demanta_Ch6:
-	sound_call Cry_Sunflora_Ch6.body1
-	sound_call Cry_Sunflora_Ch6.body2
+	sound_call Cry_Heliatronc_Ch6.body1
+	sound_call Cry_Heliatronc_Ch6.body2
 	sound_ret
 
 Cry_Demanta_Ch8:
-	sound_call Cry_Sunflora_Ch8.body1
-	sound_call Cry_Sunflora_Ch8.body2
+	sound_call Cry_Heliatronc_Ch8.body1
+	sound_call Cry_Heliatronc_Ch8.body2
 	sound_ret
 
 Cry_Ampharos_Ch5:

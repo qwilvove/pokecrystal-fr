@@ -193,7 +193,7 @@ EvosAttacksPointers::
 	dw CotovolEvosAttacks
 	dw CapumainEvosAttacks
 	dw SunkernEvosAttacks
-	dw SunfloraEvosAttacks
+	dw HeliatroncEvosAttacks
 	dw YanmaEvosAttacks
 	dw AxolotoEvosAttacks
 	dw QuagsireEvosAttacks

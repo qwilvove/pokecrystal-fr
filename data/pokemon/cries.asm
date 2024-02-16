@@ -197,7 +197,7 @@ PokemonCries::
 	mon_cry CRY_CLEFFA,        0,  384 ; COTOVOL
 	mon_cry CRY_CAPUMAIN,       -81,  232 ; CAPUMAIN
 	mon_cry CRY_MARILL,      299,  184 ; SUNKERN
-	mon_cry CRY_SUNFLORA,    -32,  384 ; SUNFLORA
+	mon_cry CRY_HELIATRONC,    -32,  384 ; HELIATRONC
 	mon_cry CRY_TOTODILE,     49,  200 ; YANMA
 	mon_cry CRY_AXOLOTO,      147,  175 ; AXOLOTO
 	mon_cry CRY_AXOLOTO,     -198,  320 ; QUAGSIRE
@@ -228,7 +228,7 @@ PokemonCries::
 	mon_cry CRY_CYNDAQUIL,   510,  320 ; SWINUB
 	mon_cry CRY_MAGCARGO,   -265,  256 ; COCHIGNON
 	mon_cry CRY_MAGCARGO,    161,  232 ; CORAYON
-	mon_cry CRY_SUNFLORA,     13,  256 ; REMORAID
+	mon_cry CRY_HELIATRONC,     13,  256 ; REMORAID
 	mon_cry CRY_TOTODILE,      0,  384 ; OCTILLERY
 	mon_cry CRY_TEDDIURSA,     2,  106 ; CADOIZO
 	mon_cry CRY_DEMANTA,    -190,  240 ; DEMANTA
@@ -244,7 +244,7 @@ PokemonCries::
 	mon_cry CRY_CAPUMAIN,        44,  264 ; DEBUGANT
 	mon_cry CRY_SLUGMA,        0,  256 ; HITMONTOP
 	mon_cry CRY_MARILL,      104,  256 ; SMOOCHUM
-	mon_cry CRY_SUNFLORA,   -728,  180 ; ELEKID
+	mon_cry CRY_HELIATRONC,   -728,  180 ; ELEKID
 	mon_cry CRY_TEDDIURSA,   374,   58 ; MAGBY
 	mon_cry CRY_GLIGAR,     -461,  416 ; ECREMEUH
 	mon_cry CRY_SLOWKING,    659,  320 ; BLISSEY

@@ -191,7 +191,7 @@ AnimationIdlePointers:
 	dw CotovolAnimationIdle
 	dw CapumainAnimationIdle
 	dw SunkernAnimationIdle
-	dw SunfloraAnimationIdle
+	dw HeliatroncAnimationIdle
 	dw YanmaAnimationIdle
 	dw AxolotoAnimationIdle
 	dw QuagsireAnimationIdle
