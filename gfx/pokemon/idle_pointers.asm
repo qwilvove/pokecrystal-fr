@@ -114,7 +114,7 @@ AnimationIdlePointers:
 	dw RhydonAnimationIdle
 	dw ChanseyAnimationIdle
 	dw TangelaAnimationIdle
-	dw KangaskhanAnimationIdle
+	dw KangourexAnimationIdle
 	dw HypotrempeAnimationIdle
 	dw HypoceanAnimationIdle
 	dw GoldeenAnimationIdle

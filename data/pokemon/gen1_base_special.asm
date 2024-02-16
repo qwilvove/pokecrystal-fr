@@ -116,7 +116,7 @@ KantoMonSpecials:
 	db  45 ; RHYDON
 	db 105 ; CHANSEY
 	db 100 ; TANGELA
-	db  40 ; KANGASKHAN
+	db  40 ; KANGOUREX
 	db  70 ; HYPOTREMPE
 	db  95 ; HYPOCEAN
 	db  50 ; GOLDEEN

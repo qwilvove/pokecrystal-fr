@@ -114,7 +114,7 @@ FramesPointers:
 	dw RhydonFrames
 	dw ChanseyFrames
 	dw TangelaFrames
-	dw KangaskhanFrames
+	dw KangourexFrames
 	dw HypotrempeFrames
 	dw HypoceanFrames
 	dw GoldeenFrames

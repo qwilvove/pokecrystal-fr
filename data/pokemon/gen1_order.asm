@@ -1,7 +1,7 @@
 Pokered_MonIndices:
 	table_width 1, Pokered_MonIndices
 	db RHYDON
-	db KANGASKHAN
+	db KANGOUREX
 	db NIDORAN_M
 	db CLEFAIRY
 	db SPEAROW

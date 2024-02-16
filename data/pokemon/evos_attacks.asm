@@ -1559,7 +1559,7 @@ TangelaEvosAttacks:
 	db 46, GROWTH
 	db 0 ; no more level-up moves
 
-KangaskhanEvosAttacks:
+KangourexEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, COMET_PUNCH
 	db 7, LEER

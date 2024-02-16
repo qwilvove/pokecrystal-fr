@@ -354,7 +354,7 @@ TangelaEggMoves:
 	db AMNESIA
 	db -1 ; end
 
-KangaskhanEggMoves:
+KangourexEggMoves:
 	db STOMP
 	db FORESIGHT
 	db FOCUS_ENERGY

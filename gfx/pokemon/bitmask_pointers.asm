@@ -114,7 +114,7 @@ BitmasksPointers:
 	dw RhydonBitmasks
 	dw ChanseyBitmasks
 	dw TangelaBitmasks
-	dw KangaskhanBitmasks
+	dw KangourexBitmasks
 	dw HypotrempeBitmasks
 	dw HypoceanBitmasks
 	dw GoldeenBitmasks

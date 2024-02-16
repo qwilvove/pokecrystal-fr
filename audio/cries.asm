@@ -872,11 +872,11 @@ Cry_Slowpoke:
 	channel 6, Cry_Slowpoke_Ch6
 	channel 8, Cry_Slowpoke_Ch8
 
-Cry_Kangaskhan:
+Cry_Kangourex:
 	channel_count 3
-	channel 5, Cry_Kangaskhan_Ch5
-	channel 6, Cry_Kangaskhan_Ch6
-	channel 8, Cry_Kangaskhan_Ch8
+	channel 5, Cry_Kangourex_Ch5
+	channel 6, Cry_Kangourex_Ch6
+	channel 8, Cry_Kangourex_Ch8
 
 Cry_Charmander:
 	channel_count 3
@@ -1260,7 +1260,7 @@ Cry_Boustiflor_Ch8:
 	noise_note 8, 9, 1, 28
 	sound_ret
 
-Cry_Kangaskhan_Ch5:
+Cry_Kangourex_Ch5:
 	duty_cycle_pattern 3, 3, 0, 0
 	square_note 4, 15, 7, 1544
 	square_note 6, 14, 6, 1536
@@ -1271,7 +1271,7 @@ Cry_Kangaskhan_Ch5:
 	square_note 8, 14, 1, 1408
 	sound_ret
 
-Cry_Kangaskhan_Ch6:
+Cry_Kangourex_Ch6:
 	duty_cycle_pattern 0, 0, 2, 2
 	square_note 4, 12, 7, 1284
 	square_note 6, 10, 6, 1282
@@ -1282,7 +1282,7 @@ Cry_Kangaskhan_Ch6:
 	square_note 8, 12, 1, 1154
 	sound_ret
 
-Cry_Kangaskhan_Ch8:
+Cry_Kangourex_Ch8:
 	noise_note 12, 14, 4, 76
 	noise_note 10, 12, 7, 92
 	noise_note 12, 11, 6, 76

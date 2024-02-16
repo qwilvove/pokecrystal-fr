@@ -133,7 +133,7 @@
 	const RHYDON     ; 70
 	const CHANSEY    ; 71
 	const TANGELA    ; 72
-	const KANGASKHAN ; 73
+	const KANGOUREX ; 73
 	const HYPOTREMPE     ; 74
 	const HYPOCEAN     ; 75
 	const GOLDEEN    ; 76

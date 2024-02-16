@@ -59,7 +59,7 @@ SECTION "Pics 3", ROMX
 SteelixFrontpic:     INCBIN "gfx/pokemon/steelix/front.animated.2bpp.lz"
 AlakazamFrontpic:    INCBIN "gfx/pokemon/alakazam/front.animated.2bpp.lz"
 GyaradosFrontpic:    INCBIN "gfx/pokemon/gyarados/front.animated.2bpp.lz"
-KangaskhanFrontpic:  INCBIN "gfx/pokemon/kangaskhan/front.animated.2bpp.lz"
+KangourexFrontpic:  INCBIN "gfx/pokemon/kangourex/front.animated.2bpp.lz"
 RhydonFrontpic:      INCBIN "gfx/pokemon/rhydon/front.animated.2bpp.lz"
 AkwakwakFrontpic:     INCBIN "gfx/pokemon/akwakwak/front.animated.2bpp.lz"
 RhyhornFrontpic:     INCBIN "gfx/pokemon/rhyhorn/front.animated.2bpp.lz"
@@ -178,7 +178,7 @@ MagnetonFrontpic:    INCBIN "gfx/pokemon/magneton/front.animated.2bpp.lz"
 DracoFrontpic:   INCBIN "gfx/pokemon/draco/front.animated.2bpp.lz"
 ForetressFrontpic:  INCBIN "gfx/pokemon/foretress/front.animated.2bpp.lz"
 TogeticFrontpic:     INCBIN "gfx/pokemon/togetic/front.animated.2bpp.lz"
-KangaskhanBackpic:   INCBIN "gfx/pokemon/kangaskhan/back.2bpp.lz"
+KangourexBackpic:   INCBIN "gfx/pokemon/kangourex/back.2bpp.lz"
 
 
 SECTION "Pics 8", ROMX

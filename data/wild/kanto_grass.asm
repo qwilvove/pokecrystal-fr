@@ -94,16 +94,16 @@ KantoGrassWildMons:
 	db 16, ONIX
 	db 12, ZUBAT
 	db 15, MAROWAK
-	db 15, KANGASKHAN
-	db 15, KANGASKHAN
+	db 15, KANGOUREX
+	db 15, KANGOUREX
 	; day
 	db 12, CUBONE
 	db 14, GEODUDE
 	db 16, ONIX
 	db 12, ZUBAT
 	db 15, MAROWAK
-	db 15, KANGASKHAN
-	db 15, KANGASKHAN
+	db 15, KANGOUREX
+	db 15, KANGOUREX
 	; nite
 	db 12, ZUBAT
 	db 14, GEODUDE

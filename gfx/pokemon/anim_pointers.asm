@@ -114,7 +114,7 @@ AnimationPointers:
 	dw RhydonAnimation
 	dw ChanseyAnimation
 	dw TangelaAnimation
-	dw KangaskhanAnimation
+	dw KangourexAnimation
 	dw HypotrempeAnimation
 	dw HypoceanAnimation
 	dw GoldeenAnimation

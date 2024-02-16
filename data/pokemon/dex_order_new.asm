@@ -206,7 +206,7 @@ NewPokedexOrder:
 	db GALOPA
 	db CUBONE
 	db MAROWAK
-	db KANGASKHAN
+	db KANGOUREX
 	db RHYHORN
 	db RHYDON
 	db CORNEBRE

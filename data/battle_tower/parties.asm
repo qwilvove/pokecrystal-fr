@@ -108,7 +108,7 @@ BattleTowerMons:
 	bigdw 23 ; SDef
 	db "SO-NANSU@@@"
 
-	db KANGASKHAN
+	db KANGOUREX
 	db MIRACLEBERRY
 	db REVERSAL, HYPER_BEAM, EARTHQUAKE, ATTRACT
 	dw 0 ; OT ID

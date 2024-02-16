@@ -231,8 +231,8 @@ PokemonPicPointers::
 	dba_pic ChanseyBackpic
 	dba_pic TangelaFrontpic
 	dba_pic TangelaBackpic
-	dba_pic KangaskhanFrontpic
-	dba_pic KangaskhanBackpic
+	dba_pic KangourexFrontpic
+	dba_pic KangourexBackpic
 	dba_pic HypotrempeFrontpic
 	dba_pic HypotrempeBackpic
 	dba_pic HypoceanFrontpic

@@ -115,7 +115,7 @@ PokedexDataPointerTable:
 	dw RhydonPokedexEntry
 	dw ChanseyPokedexEntry
 	dw TangelaPokedexEntry
-	dw KangaskhanPokedexEntry
+	dw KangourexPokedexEntry
 	dw HypotrempePokedexEntry
 	dw HypoceanPokedexEntry
 	dw GoldeenPokedexEntry

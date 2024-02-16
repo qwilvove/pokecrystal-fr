@@ -116,7 +116,7 @@ EvosAttacksPointers::
 	dw RhydonEvosAttacks
 	dw ChanseyEvosAttacks
 	dw TangelaEvosAttacks
-	dw KangaskhanEvosAttacks
+	dw KangourexEvosAttacks
 	dw HypotrempeEvosAttacks
 	dw HypoceanEvosAttacks
 	dw GoldeenEvosAttacks

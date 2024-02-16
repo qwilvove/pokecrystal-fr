@@ -1171,7 +1171,7 @@ PokemaniacGroup:
 
 	; POKEMANIAC (3)
 	db "DENIS@", TRAINERTYPE_NORMAL
-	db 26, KANGASKHAN
+	db 26, KANGOUREX
 	db -1 ; end
 
 	; POKEMANIAC (4)
@@ -1203,7 +1203,7 @@ PokemaniacGroup:
 
 	; POKEMANIAC (9)
 	db "JULIEN@", TRAINERTYPE_NORMAL
-	db 25, KANGASKHAN
+	db 25, KANGOUREX
 	db -1 ; end
 
 	; POKEMANIAC (10)
