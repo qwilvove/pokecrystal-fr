@@ -111,7 +111,7 @@ PokemonCries::
 	mon_cry CRY_DROWZEE,       0,  256 ; EXEGGUTOR
 	mon_cry CRY_CLEFAIRY,      0,  256 ; CUBONE
 	mon_cry CRY_ODDISH,       79,  224 ; MAROWAK
-	mon_cry CRY_GROLEM,       128,  320 ; HITMONLEE
+	mon_cry CRY_GROLEM,       128,  320 ; KICKLEE
 	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN
 	mon_cry CRY_SEEL,          0,  256 ; EXCELANGUE
 	mon_cry CRY_GROLEM,       230,  349 ; KOFFING

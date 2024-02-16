@@ -124,7 +124,7 @@
 	const EXEGGUTOR  ; 67
 	const CUBONE     ; 68
 	const MAROWAK    ; 69
-	const HITMONLEE  ; 6a
+	const KICKLEE  ; 6a
 	const HITMONCHAN ; 6b
 	const EXCELANGUE  ; 6c
 	const KOFFING    ; 6d

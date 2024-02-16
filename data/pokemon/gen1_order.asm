@@ -42,7 +42,7 @@ Pokered_MonIndices:
 	db CHANSEY
 	db MACHOKE
 	db MR__MIME
-	db HITMONLEE
+	db KICKLEE
 	db HITMONCHAN
 	db ARBOK
 	db PARASECT

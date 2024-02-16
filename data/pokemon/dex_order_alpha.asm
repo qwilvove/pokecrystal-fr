@@ -104,7 +104,7 @@ AlphabeticalPokedexOrder:
 	db KAIMINUS
 	db KANGOUREX
 	db KAPOERA
-	db HITMONLEE
+	db KICKLEE
 	db SHELLDER
 	db KINGLER
 	db KRABBY

@@ -107,7 +107,7 @@ KantoMonSpecials:
 	db 125 ; EXEGGUTOR
 	db  40 ; CUBONE
 	db  50 ; MAROWAK
-	db  35 ; HITMONLEE
+	db  35 ; KICKLEE
 	db  35 ; HITMONCHAN
 	db  60 ; EXCELANGUE
 	db  60 ; KOFFING

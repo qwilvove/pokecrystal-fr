@@ -1432,7 +1432,7 @@ MarowakEvosAttacks:
 	db 53, BONE_RUSH
 	db 0 ; no more level-up moves
 
-HitmonleeEvosAttacks:
+KickleeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, DOUBLE_KICK
 	db 6, MEDITATE
@@ -3139,7 +3139,7 @@ SmeargleEvosAttacks:
 
 DebugantEvosAttacks:
 	db EVOLVE_STAT, 20, ATK_LT_DEF, HITMONCHAN
-	db EVOLVE_STAT, 20, ATK_GT_DEF, HITMONLEE
+	db EVOLVE_STAT, 20, ATK_GT_DEF, KICKLEE
 	db EVOLVE_STAT, 20, ATK_EQ_DEF, KAPOERA
 	db 0 ; no more evolutions
 	db 1, TACKLE

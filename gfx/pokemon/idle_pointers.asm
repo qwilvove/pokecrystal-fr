@@ -105,7 +105,7 @@ AnimationIdlePointers:
 	dw ExeggutorAnimationIdle
 	dw CuboneAnimationIdle
 	dw MarowakAnimationIdle
-	dw HitmonleeAnimationIdle
+	dw KickleeAnimationIdle
 	dw HitmonchanAnimationIdle
 	dw ExcelangueAnimationIdle
 	dw KoffingAnimationIdle

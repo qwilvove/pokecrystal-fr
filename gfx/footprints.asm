@@ -247,7 +247,7 @@ INCBIN "gfx/footprints/exeggutor.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/cubone.1bpp",     footprint_bottom
 ; 105-112 top halves
 INCBIN "gfx/footprints/marowak.1bpp",    footprint_top
-INCBIN "gfx/footprints/hitmonlee.1bpp",  footprint_top
+INCBIN "gfx/footprints/kicklee.1bpp",  footprint_top
 INCBIN "gfx/footprints/hitmonchan.1bpp", footprint_top
 INCBIN "gfx/footprints/excelangue.1bpp",  footprint_top
 INCBIN "gfx/footprints/koffing.1bpp",    footprint_top
@@ -256,7 +256,7 @@ INCBIN "gfx/footprints/rhyhorn.1bpp",    footprint_top
 INCBIN "gfx/footprints/rhydon.1bpp",     footprint_top
 ; 105-112 bottom halves
 INCBIN "gfx/footprints/marowak.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/hitmonlee.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/kicklee.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/hitmonchan.1bpp", footprint_bottom
 INCBIN "gfx/footprints/excelangue.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/koffing.1bpp",    footprint_bottom

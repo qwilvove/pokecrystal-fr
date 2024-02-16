@@ -1,4 +1,4 @@
-	db HITMONLEE ; 106
+	db KICKLEE ; 106
 
 	db  50, 120,  53,  87,  35, 110
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 25 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/hitmonlee/front.dimensions"
+	INCBIN "gfx/pokemon/kicklee/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_HUMANSHAPE, EGG_HUMANSHAPE ; egg groups

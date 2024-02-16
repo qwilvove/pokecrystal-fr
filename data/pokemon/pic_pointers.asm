@@ -213,8 +213,8 @@ PokemonPicPointers::
 	dba_pic CuboneBackpic
 	dba_pic MarowakFrontpic
 	dba_pic MarowakBackpic
-	dba_pic HitmonleeFrontpic
-	dba_pic HitmonleeBackpic
+	dba_pic KickleeFrontpic
+	dba_pic KickleeBackpic
 	dba_pic HitmonchanFrontpic
 	dba_pic HitmonchanBackpic
 	dba_pic ExcelangueFrontpic

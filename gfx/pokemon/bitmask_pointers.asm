@@ -105,7 +105,7 @@ BitmasksPointers:
 	dw ExeggutorBitmasks
 	dw CuboneBitmasks
 	dw MarowakBitmasks
-	dw HitmonleeBitmasks
+	dw KickleeBitmasks
 	dw HitmonchanBitmasks
 	dw ExcelangueBitmasks
 	dw KoffingBitmasks

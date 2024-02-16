@@ -3714,7 +3714,7 @@ BattleTowerMons:
 	bigdw 152 ; SDef
 	db "KIRINRIKI@@"
 
-	db HITMONLEE
+	db KICKLEE
 	db FOCUS_BAND
 	db REVERSAL, ENDURE, BODY_SLAM, MEGA_KICK
 	dw 0 ; OT ID

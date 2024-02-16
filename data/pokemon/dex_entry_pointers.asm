@@ -106,7 +106,7 @@ PokedexDataPointerTable:
 	dw ExeggutorPokedexEntry
 	dw CubonePokedexEntry
 	dw MarowakPokedexEntry
-	dw HitmonleePokedexEntry
+	dw KickleePokedexEntry
 	dw HitmonchanPokedexEntry
 	dw ExcelanguePokedexEntry
 	dw KoffingPokedexEntry
