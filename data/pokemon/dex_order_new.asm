@@ -187,7 +187,7 @@ NewPokedexOrder:
 	db FLAREON
 	db ESPEON
 	db UMBREON
-	db HORSEA
+	db HYPOTREMPE
 	db HYPOCEAN
 	db HYPOROI
 	db GLIGAR

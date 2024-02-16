@@ -75,20 +75,20 @@ JohtoWaterWildMons:
 	def_water_wildmons WHIRL_ISLAND_SW
 	db 4 percent ; encounter rate
 	db 20, TENTACOOL
-	db 15, HORSEA
+	db 15, HYPOTREMPE
 	db 20, TENTACRUEL
 	end_water_wildmons
 
 	def_water_wildmons WHIRL_ISLAND_B2F
 	db 4 percent ; encounter rate
-	db 15, HORSEA
-	db 20, HORSEA
+	db 15, HYPOTREMPE
+	db 20, HYPOTREMPE
 	db 20, TENTACRUEL
 	end_water_wildmons
 
 	def_water_wildmons WHIRL_ISLAND_LUGIA_CHAMBER
 	db 4 percent ; encounter rate
-	db 20, HORSEA
+	db 20, HYPOTREMPE
 	db 20, TENTACRUEL
 	db 20, HYPOCEAN
 	end_water_wildmons

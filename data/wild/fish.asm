@@ -227,7 +227,7 @@ TimeFishGroups:
 	db GYARADOS,   40,  GYARADOS,   40 ; 15
 	db DRATINI,    10,  DRATINI,    10 ; 16
 	db DRATINI,    10,  DRATINI,    10 ; 17
-	db HORSEA,     20,  HORSEA,     20 ; 18
-	db HORSEA,     40,  HORSEA,     40 ; 19
+	db HYPOTREMPE,     20,  HYPOTREMPE,     20 ; 18
+	db HYPOTREMPE,     40,  HYPOTREMPE,     40 ; 19
 	db TENTACOOL,  20,  TENTACOOL,  20 ; 20
 	db TENTACOOL,  40,  TENTACOOL,  40 ; 21

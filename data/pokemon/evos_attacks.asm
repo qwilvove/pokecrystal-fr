@@ -1572,7 +1572,7 @@ KangaskhanEvosAttacks:
 	db 49, REVERSAL
 	db 0 ; no more level-up moves
 
-HorseaEvosAttacks:
+HypotrempeEvosAttacks:
 	db EVOLVE_LEVEL, 32, HYPOCEAN
 	db 0 ; no more evolutions
 	db 1, BUBBLE

@@ -94,7 +94,7 @@ AlphabeticalPokedexOrder:
 	db HYPNOMADE
 	db HYPOCEAN
 	db HYPOROI
-	db HORSEA
+	db HYPOTREMPE
 	db SCYTHER
 	db DUNSPARCE
 	db BELLOSSOM

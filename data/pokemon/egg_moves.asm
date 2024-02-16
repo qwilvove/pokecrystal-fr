@@ -362,7 +362,7 @@ KangaskhanEggMoves:
 	db DISABLE
 	db -1 ; end
 
-HorseaEggMoves:
+HypotrempeEggMoves:
 	db FLAIL
 	db AURORA_BEAM
 	db OCTAZOOKA

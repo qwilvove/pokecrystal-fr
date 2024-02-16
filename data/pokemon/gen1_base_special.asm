@@ -117,7 +117,7 @@ KantoMonSpecials:
 	db 105 ; CHANSEY
 	db 100 ; TANGELA
 	db  40 ; KANGASKHAN
-	db  70 ; HORSEA
+	db  70 ; HYPOTREMPE
 	db  95 ; HYPOCEAN
 	db  50 ; GOLDEEN
 	db  80 ; SEAKING

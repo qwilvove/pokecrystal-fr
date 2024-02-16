@@ -117,7 +117,7 @@ MonMenuIcons:
 	db ICON_CLEFAIRY    ; CHANSEY
 	db ICON_ODDISH      ; TANGELA
 	db ICON_MONSTER     ; KANGASKHAN
-	db ICON_FISH        ; HORSEA
+	db ICON_FISH        ; HYPOTREMPE
 	db ICON_FISH        ; HYPOCEAN
 	db ICON_FISH        ; GOLDEEN
 	db ICON_FISH        ; SEAKING

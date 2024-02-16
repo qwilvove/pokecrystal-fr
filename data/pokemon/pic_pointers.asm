@@ -233,8 +233,8 @@ PokemonPicPointers::
 	dba_pic TangelaBackpic
 	dba_pic KangaskhanFrontpic
 	dba_pic KangaskhanBackpic
-	dba_pic HorseaFrontpic
-	dba_pic HorseaBackpic
+	dba_pic HypotrempeFrontpic
+	dba_pic HypotrempeBackpic
 	dba_pic HypoceanFrontpic
 	dba_pic HypoceanBackpic
 	dba_pic GoldeenFrontpic

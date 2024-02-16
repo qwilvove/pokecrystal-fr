@@ -115,7 +115,7 @@ AnimationPointers:
 	dw ChanseyAnimation
 	dw TangelaAnimation
 	dw KangaskhanAnimation
-	dw HorseaAnimation
+	dw HypotrempeAnimation
 	dw HypoceanAnimation
 	dw GoldeenAnimation
 	dw SeakingAnimation

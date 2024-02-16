@@ -115,7 +115,7 @@ FramesPointers:
 	dw ChanseyFrames
 	dw TangelaFrames
 	dw KangaskhanFrames
-	dw HorseaFrames
+	dw HypotrempeFrames
 	dw HypoceanFrames
 	dw GoldeenFrames
 	dw SeakingFrames

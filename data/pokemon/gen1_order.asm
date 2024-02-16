@@ -91,7 +91,7 @@ Pokered_MonIndices:
 	db DRACO
 	db KABUTO
 	db KABUTOPS
-	db HORSEA
+	db HYPOTREMPE
 	db HYPOCEAN
 	db AIRMURE ; MISSINGNO.
 	db HOUNDOUR ; MISSINGNO.
