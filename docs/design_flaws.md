@@ -159,7 +159,7 @@ Footprints:
 
 ; 001-008 top halves
 INCBIN "gfx/footprints/bulbizarre.1bpp",  footprint_top
-INCBIN "gfx/footprints/ivysaur.1bpp",    footprint_top
+INCBIN "gfx/footprints/herbizarre.1bpp",    footprint_top
 INCBIN "gfx/footprints/florizarre.1bpp",   footprint_top
 INCBIN "gfx/footprints/charmander.1bpp", footprint_top
 INCBIN "gfx/footprints/charmeleon.1bpp", footprint_top
@@ -168,7 +168,7 @@ INCBIN "gfx/footprints/carapuce.1bpp",   footprint_top
 INCBIN "gfx/footprints/carabaffe.1bpp",  footprint_top
 ; 001-008 bottom halves
 INCBIN "gfx/footprints/bulbizarre.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/ivysaur.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/herbizarre.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/florizarre.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/charmander.1bpp", footprint_bottom
 INCBIN "gfx/footprints/charmeleon.1bpp", footprint_bottom
@@ -190,7 +190,7 @@ Footprints:
 	table_width LEN_1BPP_TILE * 4, Footprints
 
 INCBIN "gfx/footprints/bulbizarre.1bpp"
-INCBIN "gfx/footprints/ivysaur.1bpp"
+INCBIN "gfx/footprints/herbizarre.1bpp"
 INCBIN "gfx/footprints/florizarre.1bpp"
 INCBIN "gfx/footprints/charmander.1bpp"
 INCBIN "gfx/footprints/charmeleon.1bpp"

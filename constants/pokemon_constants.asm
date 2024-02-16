@@ -20,7 +20,7 @@
 ; - EZChat_SortedPokemon (see data/pokemon/ezchat_order.asm)
 	const_def 1
 	const BULBIZARRE  ; 01
-	const IVYSAUR    ; 02
+	const HERBIZARRE    ; 02
 	const FLORIZARRE   ; 03
 	const CHARMANDER ; 04
 	const CHARMELEON ; 05

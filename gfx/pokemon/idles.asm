@@ -1,5 +1,5 @@
 BulbizarreAnimationIdle:  INCLUDE "gfx/pokemon/bulbizarre/anim_idle.asm"
-IvysaurAnimationIdle:    INCLUDE "gfx/pokemon/ivysaur/anim_idle.asm"
+HerbizarreAnimationIdle:    INCLUDE "gfx/pokemon/herbizarre/anim_idle.asm"
 FlorizarreAnimationIdle:   INCLUDE "gfx/pokemon/florizarre/anim_idle.asm"
 CharmanderAnimationIdle: INCLUDE "gfx/pokemon/charmander/anim_idle.asm"
 CharmeleonAnimationIdle: INCLUDE "gfx/pokemon/charmeleon/anim_idle.asm"

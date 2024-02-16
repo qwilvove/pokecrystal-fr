@@ -7,7 +7,7 @@ PokemonCries::
 ; entries correspond to constants/pokemon_constants.asm
 	table_width MON_CRY_LENGTH, PokemonCries
 	mon_cry CRY_BULBIZARRE,   128,  129 ; BULBIZARRE
-	mon_cry CRY_BULBIZARRE,    32,  256 ; IVYSAUR
+	mon_cry CRY_BULBIZARRE,    32,  256 ; HERBIZARRE
 	mon_cry CRY_BULBIZARRE,     0,  320 ; FLORIZARRE
 	mon_cry CRY_CHARMANDER,   96,  192 ; CHARMANDER
 	mon_cry CRY_CHARMANDER,   32,  192 ; CHARMELEON

@@ -87,7 +87,7 @@ AlphabeticalPokedexOrder:
 	db GROLEM
 	db GROTADMORV
 	db HELIATRONC
-	db IVYSAUR
+	db HERBIZARRE
 	db CYNDAQUIL
 	db HO_OH
 	db HOOTHOOT

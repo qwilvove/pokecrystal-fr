@@ -5,8 +5,8 @@ PokemonPicPointers::
 	table_width 3 * 2, PokemonPicPointers
 	dba_pic BulbizarreFrontpic
 	dba_pic BulbizarreBackpic
-	dba_pic IvysaurFrontpic
-	dba_pic IvysaurBackpic
+	dba_pic HerbizarreFrontpic
+	dba_pic HerbizarreBackpic
 	dba_pic FlorizarreFrontpic
 	dba_pic FlorizarreBackpic
 	dba_pic CharmanderFrontpic

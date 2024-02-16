@@ -8,7 +8,7 @@ Pokered_MonIndices:
 	db VOLTORB
 	db NIDOKING
 	db FLAGADOSS
-	db IVYSAUR
+	db HERBIZARRE
 	db EXEGGUTOR
 	db EXCELANGUE
 	db EXEGGCUTE

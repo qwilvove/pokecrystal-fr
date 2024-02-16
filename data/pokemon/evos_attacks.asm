@@ -15,7 +15,7 @@ SECTION "Evolutions and Attacks", ROMX
 INCLUDE "data/pokemon/evos_attacks_pointers.asm"
 
 BulbizarreEvosAttacks:
-	db EVOLVE_LEVEL, 16, IVYSAUR
+	db EVOLVE_LEVEL, 16, HERBIZARRE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 4, GROWL
@@ -30,7 +30,7 @@ BulbizarreEvosAttacks:
 	db 46, SOLARBEAM
 	db 0 ; no more level-up moves
 
-IvysaurEvosAttacks:
+HerbizarreEvosAttacks:
 	db EVOLVE_LEVEL, 32, FLORIZARRE
 	db 0 ; no more evolutions
 	db 1, TACKLE
