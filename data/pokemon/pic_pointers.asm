@@ -478,8 +478,8 @@ PokemonPicPointers::
 	dba_pic SmeargleBackpic
 	dba_pic DebugantFrontpic
 	dba_pic DebugantBackpic
-	dba_pic HitmontopFrontpic
-	dba_pic HitmontopBackpic
+	dba_pic KapoeraFrontpic
+	dba_pic KapoeraBackpic
 	dba_pic SmoochumFrontpic
 	dba_pic SmoochumBackpic
 	dba_pic ElekidFrontpic

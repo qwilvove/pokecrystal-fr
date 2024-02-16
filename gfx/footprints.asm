@@ -538,7 +538,7 @@ INCBIN "gfx/footprints/porygon2.1bpp",   footprint_top
 INCBIN "gfx/footprints/cerfrousse.1bpp",   footprint_top
 INCBIN "gfx/footprints/smeargle.1bpp",   footprint_top
 INCBIN "gfx/footprints/debugant.1bpp",    footprint_top
-INCBIN "gfx/footprints/hitmontop.1bpp",  footprint_top
+INCBIN "gfx/footprints/kapoera.1bpp",  footprint_top
 INCBIN "gfx/footprints/smoochum.1bpp",   footprint_top
 INCBIN "gfx/footprints/elekid.1bpp",     footprint_top
 INCBIN "gfx/footprints/magby.1bpp",      footprint_top
@@ -547,7 +547,7 @@ INCBIN "gfx/footprints/porygon2.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/cerfrousse.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/smeargle.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/debugant.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/hitmontop.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/kapoerabpp",  footprint_bottom
 INCBIN "gfx/footprints/smoochum.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/elekid.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/magby.1bpp",      footprint_bottom

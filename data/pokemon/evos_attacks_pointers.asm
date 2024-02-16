@@ -238,7 +238,7 @@ EvosAttacksPointers::
 	dw CerfrousseEvosAttacks
 	dw SmeargleEvosAttacks
 	dw DebugantEvosAttacks
-	dw HitmontopEvosAttacks
+	dw KapoeraEvosAttacks
 	dw SmoochumEvosAttacks
 	dw ElekidEvosAttacks
 	dw MagbyEvosAttacks

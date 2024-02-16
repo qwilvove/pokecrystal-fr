@@ -236,7 +236,7 @@ AnimationPointers:
 	dw CerfrousseAnimation
 	dw SmeargleAnimation
 	dw DebugantAnimation
-	dw HitmontopAnimation
+	dw KapoeraAnimation
 	dw SmoochumAnimation
 	dw ElekidAnimation
 	dw MagbyAnimation

@@ -103,7 +103,7 @@ AlphabeticalPokedexOrder:
 	db KADABRA
 	db KAIMINUS
 	db KANGOUREX
-	db HITMONTOP
+	db KAPOERA
 	db HITMONLEE
 	db SHELLDER
 	db KINGLER

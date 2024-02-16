@@ -236,7 +236,7 @@ FramesPointers:
 	dw CerfrousseFrames
 	dw SmeargleFrames
 	dw DebugantFrames
-	dw HitmontopFrames
+	dw KapoeraFrames
 	dw SmoochumFrames
 	dw ElekidFrames
 	dw MagbyFrames

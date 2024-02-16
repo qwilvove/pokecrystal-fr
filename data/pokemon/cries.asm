@@ -242,7 +242,7 @@ PokemonCries::
 	mon_cry CRY_CAPUMAIN,      -352,  384 ; CERFROUSSE
 	mon_cry CRY_PICHU,      -538,  496 ; SMEARGLE
 	mon_cry CRY_CAPUMAIN,        44,  264 ; DEBUGANT
-	mon_cry CRY_SLUGMA,        0,  256 ; HITMONTOP
+	mon_cry CRY_SLUGMA,        0,  256 ; KAPOERA
 	mon_cry CRY_MARILL,      104,  256 ; SMOOCHUM
 	mon_cry CRY_HELIATRONC,   -728,  180 ; ELEKID
 	mon_cry CRY_TEDDIURSA,   374,   58 ; MAGBY

@@ -256,7 +256,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const CERFROUSSE   ; ea
 	const SMEARGLE   ; eb
 	const DEBUGANT    ; ec
-	const HITMONTOP  ; ed
+	const KAPOERA  ; ed
 	const SMOOCHUM   ; ee
 	const ELEKID     ; ef
 	const MAGBY      ; f0

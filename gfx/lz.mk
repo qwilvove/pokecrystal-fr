@@ -37,7 +37,7 @@ gfx/pokegear/pokegear_sprites.2bpp.lz: LZFLAGS += --align 4
 gfx/pokegear/town_map.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1
 
 gfx/pokemon/corayon/front.animated.2bpp.lz: LZFLAGS += --method 4
-gfx/pokemon/hitmontop/back.2bpp.lz: LZFLAGS += --method 4
+gfx/pokemon/kapoera/back.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/nidoran_f/front.animated.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/colossinge/front.animated.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/insecateur/front.animated.2bpp.lz: LZFLAGS += --method 4
