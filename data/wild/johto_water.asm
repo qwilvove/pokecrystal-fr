@@ -90,7 +90,7 @@ JohtoWaterWildMons:
 	db 4 percent ; encounter rate
 	db 20, HORSEA
 	db 20, TENTACRUEL
-	db 20, SEADRA
+	db 20, HYPOCEAN
 	end_water_wildmons
 
 	def_water_wildmons SILVER_CAVE_ROOM_2

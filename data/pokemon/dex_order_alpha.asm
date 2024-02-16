@@ -92,7 +92,7 @@ AlphabeticalPokedexOrder:
 	db HO_OH
 	db HOOTHOOT
 	db HYPNOMADE
-	db SEADRA
+	db HYPOCEAN
 	db KINGDRA
 	db HORSEA
 	db SCYTHER

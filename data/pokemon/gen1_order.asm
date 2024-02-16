@@ -92,7 +92,7 @@ Pokered_MonIndices:
 	db KABUTO
 	db KABUTOPS
 	db HORSEA
-	db SEADRA
+	db HYPOCEAN
 	db AIRMURE ; MISSINGNO.
 	db HOUNDOUR ; MISSINGNO.
 	db SANDSHREW

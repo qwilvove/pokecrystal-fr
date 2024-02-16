@@ -116,7 +116,7 @@ BitmasksPointers:
 	dw TangelaBitmasks
 	dw KangaskhanBitmasks
 	dw HorseaBitmasks
-	dw SeadraBitmasks
+	dw HypoceanBitmasks
 	dw GoldeenBitmasks
 	dw SeakingBitmasks
 	dw StaryuBitmasks

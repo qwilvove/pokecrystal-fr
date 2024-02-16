@@ -135,7 +135,7 @@
 	const TANGELA    ; 72
 	const KANGASKHAN ; 73
 	const HORSEA     ; 74
-	const SEADRA     ; 75
+	const HYPOCEAN     ; 75
 	const GOLDEEN    ; 76
 	const SEAKING    ; 77
 	const STARYU     ; 78

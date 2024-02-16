@@ -235,8 +235,8 @@ PokemonPicPointers::
 	dba_pic KangaskhanBackpic
 	dba_pic HorseaFrontpic
 	dba_pic HorseaBackpic
-	dba_pic SeadraFrontpic
-	dba_pic SeadraBackpic
+	dba_pic HypoceanFrontpic
+	dba_pic HypoceanBackpic
 	dba_pic GoldeenFrontpic
 	dba_pic GoldeenBackpic
 	dba_pic SeakingFrontpic

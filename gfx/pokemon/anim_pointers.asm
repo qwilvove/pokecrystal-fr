@@ -116,7 +116,7 @@ AnimationPointers:
 	dw TangelaAnimation
 	dw KangaskhanAnimation
 	dw HorseaAnimation
-	dw SeadraAnimation
+	dw HypoceanAnimation
 	dw GoldeenAnimation
 	dw SeakingAnimation
 	dw StaryuAnimation

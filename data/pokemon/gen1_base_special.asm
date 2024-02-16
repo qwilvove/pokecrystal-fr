@@ -118,7 +118,7 @@ KantoMonSpecials:
 	db 100 ; TANGELA
 	db  40 ; KANGASKHAN
 	db  70 ; HORSEA
-	db  95 ; SEADRA
+	db  95 ; HYPOCEAN
 	db  50 ; GOLDEEN
 	db  80 ; SEAKING
 	db  70 ; STARYU

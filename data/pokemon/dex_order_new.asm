@@ -188,7 +188,7 @@ NewPokedexOrder:
 	db ESPEON
 	db UMBREON
 	db HORSEA
-	db SEADRA
+	db HYPOCEAN
 	db KINGDRA
 	db GLIGAR
 	db CADOIZO

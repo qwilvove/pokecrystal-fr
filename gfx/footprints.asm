@@ -268,7 +268,7 @@ INCBIN "gfx/footprints/chansey.1bpp",    footprint_top
 INCBIN "gfx/footprints/tangela.1bpp",    footprint_top
 INCBIN "gfx/footprints/kangaskhan.1bpp", footprint_top
 INCBIN "gfx/footprints/horsea.1bpp",     footprint_top
-INCBIN "gfx/footprints/seadra.1bpp",     footprint_top
+INCBIN "gfx/footprints/hypocean.1bpp",     footprint_top
 INCBIN "gfx/footprints/goldeen.1bpp",    footprint_top
 INCBIN "gfx/footprints/seaking.1bpp",    footprint_top
 INCBIN "gfx/footprints/staryu.1bpp",     footprint_top
@@ -277,7 +277,7 @@ INCBIN "gfx/footprints/chansey.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/tangela.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/kangaskhan.1bpp", footprint_bottom
 INCBIN "gfx/footprints/horsea.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/seadra.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/hypocean.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/goldeen.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/seaking.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/staryu.1bpp",     footprint_bottom
