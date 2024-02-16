@@ -49,7 +49,7 @@ Cries:
 	dba Cry_Hoothoot
 	dba Cry_Fouinette
 	dba Cry_Slowking
-	dba Cry_Cyndaquil
+	dba Cry_Hericendre
 	dba Cry_Germignon
 	dba Cry_Totodile
 	dba Cry_Gligar

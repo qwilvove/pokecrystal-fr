@@ -154,7 +154,7 @@ AnimationPointers:
 	dw GermignonAnimation
 	dw BayleefAnimation
 	dw MeganiumAnimation
-	dw CyndaquilAnimation
+	dw HericendreAnimation
 	dw FeurissonAnimation
 	dw TyphlosionAnimation
 	dw TotodileAnimation

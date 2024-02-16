@@ -80,7 +80,7 @@ VictoryRoadRivalNext:
 .GotGermignon:
 	winlosstext VictoryRoadRivalDefeatText, VictoryRoadRivalVictoryText
 	setlasttalked VICTORYROAD_RIVAL
-	loadtrainer RIVAL1, RIVAL1_5_CYNDAQUIL
+	loadtrainer RIVAL1, RIVAL1_5_HERICENDRE
 	startbattle
 	dontrestartmapmusic
 	reloadmapafterbattle

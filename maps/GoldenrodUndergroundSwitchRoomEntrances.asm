@@ -191,7 +191,7 @@ UndergroundRivalBattleScript:
 .Germignon:
 	winlosstext UndergroundRivalWinText, UndergroundRivalLossText
 	setlasttalked GOLDENRODUNDERGROUNDSWITCHROOMENTRANCES_RIVAL
-	loadtrainer RIVAL1, RIVAL1_4_CYNDAQUIL
+	loadtrainer RIVAL1, RIVAL1_4_HERICENDRE
 	startbattle
 	dontrestartmapmusic
 	reloadmapafterbattle

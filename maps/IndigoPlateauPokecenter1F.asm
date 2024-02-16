@@ -92,7 +92,7 @@ PlateauRivalBattleCommon:
 	iftrue .Totodile
 	checkevent EVENT_GOT_GERMIGNON_FROM_ELM
 	iftrue .Germignon
-	; Cyndaquil
+	; Hericendre
 	winlosstext PlateauRivalWinText, PlateauRivalLoseText
 	setlasttalked INDIGOPLATEAUPOKECENTER1F_RIVAL
 	loadtrainer RIVAL2, RIVAL2_2_TOTODILE
@@ -113,7 +113,7 @@ PlateauRivalBattleCommon:
 .Germignon:
 	winlosstext PlateauRivalWinText, PlateauRivalLoseText
 	setlasttalked INDIGOPLATEAUPOKECENTER1F_RIVAL
-	loadtrainer RIVAL2, RIVAL2_2_CYNDAQUIL
+	loadtrainer RIVAL2, RIVAL2_2_HERICENDRE
 	startbattle
 	dontrestartmapmusic
 	reloadmapafterbattle

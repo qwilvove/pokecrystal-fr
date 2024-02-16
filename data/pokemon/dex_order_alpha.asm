@@ -88,7 +88,7 @@ AlphabeticalPokedexOrder:
 	db GROTADMORV
 	db HELIATRONC
 	db HERBIZARRE
-	db CYNDAQUIL
+	db HERICENDRE
 	db HO_OH
 	db HOOTHOOT
 	db HYPNO

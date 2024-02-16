@@ -154,7 +154,7 @@ BitmasksPointers:
 	dw GermignonBitmasks
 	dw BayleefBitmasks
 	dw MeganiumBitmasks
-	dw CyndaquilBitmasks
+	dw HericendreBitmasks
 	dw FeurissonBitmasks
 	dw TyphlosionBitmasks
 	dw TotodileBitmasks

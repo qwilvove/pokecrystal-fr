@@ -356,7 +356,7 @@ INCBIN "gfx/footprints/germignon.1bpp",  footprint_bottom
 ; 153-160 top halves
 INCBIN "gfx/footprints/bayleef.1bpp",    footprint_top
 INCBIN "gfx/footprints/meganium.1bpp",   footprint_top
-INCBIN "gfx/footprints/cyndaquil.1bpp",  footprint_top
+INCBIN "gfx/footprints/hericendre.1bpp",  footprint_top
 INCBIN "gfx/footprints/feurisson.1bpp",    footprint_top
 INCBIN "gfx/footprints/typhlosion.1bpp", footprint_top
 INCBIN "gfx/footprints/totodile.1bpp",   footprint_top
@@ -365,7 +365,7 @@ INCBIN "gfx/footprints/aligatueur.1bpp", footprint_top
 ; 153-160 bottom halves
 INCBIN "gfx/footprints/bayleef.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/meganium.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/cyndaquil.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/hericendre.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/feurisson.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/typhlosion.1bpp", footprint_bottom
 INCBIN "gfx/footprints/totodile.1bpp",   footprint_bottom

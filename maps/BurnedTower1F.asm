@@ -84,7 +84,7 @@ BurnedTowerRivalBattleScript:
 .germignon
 	winlosstext BurnedTowerRival_WinText, BurnedTowerRival_LossText
 	setlasttalked BURNEDTOWER1F_RIVAL
-	loadtrainer RIVAL1, RIVAL1_3_CYNDAQUIL
+	loadtrainer RIVAL1, RIVAL1_3_HERICENDRE
 	startbattle
 	dontrestartmapmusic
 	reloadmapafterbattle

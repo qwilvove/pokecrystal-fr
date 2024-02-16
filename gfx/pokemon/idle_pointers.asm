@@ -154,7 +154,7 @@ AnimationIdlePointers:
 	dw GermignonAnimationIdle
 	dw BayleefAnimationIdle
 	dw MeganiumAnimationIdle
-	dw CyndaquilAnimationIdle
+	dw HericendreAnimationIdle
 	dw FeurissonAnimationIdle
 	dw TyphlosionAnimationIdle
 	dw TotodileAnimationIdle

@@ -81,7 +81,7 @@ Rival1Group:
 
 	; RIVAL1 (2)
 	db "?@", TRAINERTYPE_NORMAL
-	db  5, CYNDAQUIL
+	db  5, HERICENDRE
 	db -1 ; end
 
 	; RIVAL1 (3)
@@ -207,7 +207,7 @@ PKMNTrainerGroup:
 	; CAL (1)
 	db "JULOT@", TRAINERTYPE_NORMAL
 	db 10, GERMIGNON
-	db 10, CYNDAQUIL
+	db 10, HERICENDRE
 	db 10, TOTODILE
 	db -1 ; end
 

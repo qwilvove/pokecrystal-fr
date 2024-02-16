@@ -50,7 +50,7 @@ MountMoonRivalBattleScript:
 .Germignon:
 	winlosstext MountMoonRivalTextWin, MountMoonRivalTextLoss
 	setlasttalked MOUNTMOON_RIVAL
-	loadtrainer RIVAL2, RIVAL2_1_CYNDAQUIL
+	loadtrainer RIVAL2, RIVAL2_1_HERICENDRE
 	startbattle
 	dontrestartmapmusic
 	reloadmapafterbattle

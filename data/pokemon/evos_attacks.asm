@@ -2103,7 +2103,7 @@ MeganiumEvosAttacks:
 	db 61, SOLARBEAM
 	db 0 ; no more level-up moves
 
-CyndaquilEvosAttacks:
+HericendreEvosAttacks:
 	db EVOLVE_LEVEL, 14, FEURISSON
 	db 0 ; no more evolutions
 	db 1, TACKLE

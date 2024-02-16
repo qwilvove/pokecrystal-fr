@@ -154,7 +154,7 @@ FramesPointers:
 	dw GermignonFrames
 	dw BayleefFrames
 	dw MeganiumFrames
-	dw CyndaquilFrames
+	dw HericendreFrames
 	dw FeurissonFrames
 	dw TyphlosionFrames
 	dw TotodileFrames

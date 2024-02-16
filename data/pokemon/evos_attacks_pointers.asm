@@ -156,7 +156,7 @@ EvosAttacksPointers::
 	dw GermignonEvosAttacks
 	dw BayleefEvosAttacks
 	dw MeganiumEvosAttacks
-	dw CyndaquilEvosAttacks
+	dw HericendreEvosAttacks
 	dw FeurissonEvosAttacks
 	dw TyphlosionEvosAttacks
 	dw TotodileEvosAttacks

@@ -154,7 +154,7 @@ EggMovePointers::
 	dw GermignonEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw CyndaquilEggMoves
+	dw HericendreEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw TotodileEggMoves

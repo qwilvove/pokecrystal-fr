@@ -48,11 +48,11 @@ Cry_Mareep:
 	channel 5, Cry_Mareep_Ch5
 	channel 6, Cry_Mareep_Ch6
 
-Cry_Cyndaquil:
+Cry_Hericendre:
 	channel_count 3
-	channel 5, Cry_Cyndaquil_Ch5
-	channel 6, Cry_Cyndaquil_Ch6
-	channel 8, Cry_Cyndaquil_Ch8
+	channel 5, Cry_Hericendre_Ch5
+	channel 6, Cry_Hericendre_Ch6
+	channel 8, Cry_Hericendre_Ch8
 
 Cry_Germignon:
 	channel_count 3
@@ -483,9 +483,9 @@ Cry_Mareep_Ch6:
 	square_note 6, 15, 1, 1886
 	sound_ret
 
-Cry_Cyndaquil_Ch5:
+Cry_Hericendre_Ch5:
 	pitch_offset 32
-Cry_Cyndaquil_Ch6:
+Cry_Hericendre_Ch6:
 	duty_cycle 2
 	square_note 8, 2, -7, 263
 .loop1:
@@ -499,7 +499,7 @@ Cry_Cyndaquil_Ch6:
 	sound_ret
 
 Cry_Gligar_Ch8:
-Cry_Cyndaquil_Ch8:
+Cry_Hericendre_Ch8:
 	noise_note 8, 3, -7, 82
 	noise_note 32, 9, 3, 79
 	sound_ret

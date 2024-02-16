@@ -155,7 +155,7 @@ PokedexDataPointerTable:
 	dw GermignonPokedexEntry
 	dw BayleefPokedexEntry
 	dw MeganiumPokedexEntry
-	dw CyndaquilPokedexEntry
+	dw HericendrePokedexEntry
 	dw FeurissonPokedexEntry
 	dw TyphlosionPokedexEntry
 	dw TotodilePokedexEntry
