@@ -91,7 +91,7 @@ KantoMonSpecials:
 	db  95 ; DEWGONG
 	db  40 ; GRIMER
 	db  65 ; GROTADMORV
-	db  45 ; SHELLDER
+	db  45 ; KOKIYAS
 	db  85 ; CRUSTABRI
 	db 100 ; FANTOMINUS
 	db 115 ; HAUNTER

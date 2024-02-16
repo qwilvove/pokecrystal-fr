@@ -959,7 +959,7 @@ CooltrainerFGroup:
 
 	; COOLTRAINERF (5)
 	db "IRENE@", TRAINERTYPE_NORMAL
-	db 26, SHELLDER
+	db 26, KOKIYAS
 	db 28, CRUSTABRI
 	db -1 ; end
 
@@ -1686,7 +1686,7 @@ FisherGroup:
 
 	; FISHER (12)
 	db "JOSEPH@", TRAINERTYPE_NORMAL
-	db 25, SHELLDER
+	db 25, KOKIYAS
 	db 29, OCTILLERY
 	db 25, REMORAID
 	db 29, CRUSTABRI
@@ -1791,14 +1791,14 @@ SwimmerMGroup:
 
 	; SWIMMERM (3)
 	db "BORIS@", TRAINERTYPE_NORMAL
-	db 18, SHELLDER
+	db 18, KOKIYAS
 	db 20, CARABAFFE
-	db 18, SHELLDER
+	db 18, KOKIYAS
 	db -1 ; end
 
 	; SWIMMERM (4)
 	db "HELMUT@", TRAINERTYPE_NORMAL
-	db 21, SHELLDER
+	db 21, KOKIYAS
 	db 19, TENTACOOL
 	db 19, TENTACRUEL
 	db -1 ; end
@@ -1844,9 +1844,9 @@ SwimmerMGroup:
 
 	; SWIMMERM (11)
 	db "GUNTHER@", TRAINERTYPE_NORMAL
-	db 24, SHELLDER
+	db 24, KOKIYAS
 	db 25, CRUSTABRI
-	db 24, SHELLDER
+	db 24, KOKIYAS
 	db -1 ; end
 
 	; SWIMMERM (12)
@@ -1873,7 +1873,7 @@ SwimmerMGroup:
 
 	; SWIMMERM (15)
 	db "SERGEI@", TRAINERTYPE_NORMAL
-	db 30, SHELLDER
+	db 30, KOKIYAS
 	db 34, CRUSTABRI
 	db -1 ; end
 
@@ -1926,7 +1926,7 @@ SwimmerFGroup:
 	; SWIMMERF (2)
 	db "ANNA@", TRAINERTYPE_NORMAL
 	db 19, STARYU
-	db 19, SHELLDER
+	db 19, KOKIYAS
 	db -1 ; end
 
 	; SWIMMERF (3)
@@ -3206,9 +3206,9 @@ BoarderGroup:
 
 	; BOARDER (3)
 	db "BRAD@", TRAINERTYPE_NORMAL
-	db 24, SHELLDER
+	db 24, KOKIYAS
 	db 25, CRUSTABRI
-	db 24, SHELLDER
+	db 24, KOKIYAS
 	db -1 ; end
 
 PokefanMGroup:

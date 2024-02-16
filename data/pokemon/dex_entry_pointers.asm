@@ -90,7 +90,7 @@ PokedexDataPointerTable:
 	dw DewgongPokedexEntry
 	dw GrimerPokedexEntry
 	dw GrotadmorvPokedexEntry
-	dw ShellderPokedexEntry
+	dw KokiyasPokedexEntry
 	dw CrustabriPokedexEntry
 	dw FantominusPokedexEntry
 	dw HaunterPokedexEntry

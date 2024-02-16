@@ -211,8 +211,8 @@ TimeFishGroups:
 	;  day              nite
 	db CORAYON,    20,  STARYU,     20 ; 0
 	db CORAYON,    40,  STARYU,     40 ; 1
-	db SHELLDER,   20,  SHELLDER,   20 ; 2
-	db SHELLDER,   40,  SHELLDER,   40 ; 3
+	db KOKIYAS,   20,  KOKIYAS,   20 ; 2
+	db KOKIYAS,   40,  KOKIYAS,   40 ; 3
 	db GOLDEEN,    20,  GOLDEEN,    20 ; 4
 	db GOLDEEN,    40,  GOLDEEN,    40 ; 5
 	db POLIWAG,    20,  POLIWAG,    20 ; 6

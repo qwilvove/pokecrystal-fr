@@ -89,7 +89,7 @@ AnimationPointers:
 	dw DewgongAnimation
 	dw GrimerAnimation
 	dw GrotadmorvAnimation
-	dw ShellderAnimation
+	dw KokiyasAnimation
 	dw CrustabriAnimation
 	dw FantominusAnimation
 	dw HaunterAnimation

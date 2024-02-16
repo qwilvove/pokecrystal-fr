@@ -5,7 +5,7 @@ SpriteMons:
 	db GEODUDE
 	db CANINOS
 	db ASPICOT
-	db SHELLDER
+	db KOKIYAS
 	db ODDISH
 	db ECTOPLASMA
 	db ZUBAT

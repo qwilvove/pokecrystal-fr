@@ -31,8 +31,8 @@ PalPacket_UnownPuzzle:
 PalPacket_AllPal0:
 	sgb_pal_set ROUTES, ROUTES, ROUTES, ROUTES
 
-PalPacket_GSIntroShellderLapras:
-	sgb_pal_set GS_INTRO_SHELLDER_LAPRAS, ROUTES, ROUTES, ROUTES
+PalPacket_GSIntroKokiyasLapras:
+	sgb_pal_set GS_INTRO_KOKIYAS_LAPRAS, ROUTES, ROUTES, ROUTES
 
 PalPacket_BetaIntroLapras: ; unreferenced
 	sgb_pal_set BETA_INTRO_LAPRAS, ROUTES, ROUTES, ROUTES

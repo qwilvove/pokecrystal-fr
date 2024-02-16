@@ -91,7 +91,7 @@ EvosAttacksPointers::
 	dw DewgongEvosAttacks
 	dw GrimerEvosAttacks
 	dw GrotadmorvEvosAttacks
-	dw ShellderEvosAttacks
+	dw KokiyasEvosAttacks
 	dw CrustabriEvosAttacks
 	dw FantominusEvosAttacks
 	dw HaunterEvosAttacks

@@ -89,7 +89,7 @@ FramesPointers:
 	dw DewgongFrames
 	dw GrimerFrames
 	dw GrotadmorvFrames
-	dw ShellderFrames
+	dw KokiyasFrames
 	dw CrustabriFrames
 	dw FantominusFrames
 	dw HaunterFrames

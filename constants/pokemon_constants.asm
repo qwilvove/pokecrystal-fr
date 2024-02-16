@@ -108,7 +108,7 @@
 	const DEWGONG    ; 57
 	const GRIMER     ; 58
 	const GROTADMORV        ; 59
-	const SHELLDER   ; 5a
+	const KOKIYAS   ; 5a
 	const CRUSTABRI   ; 5b
 	const FANTOMINUS     ; 5c
 	const HAUNTER    ; 5d

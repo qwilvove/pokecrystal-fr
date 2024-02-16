@@ -266,7 +266,7 @@ GrimerEggMoves:
 	db LICK
 	db -1 ; end
 
-ShellderEggMoves:
+KokiyasEggMoves:
 	db BUBBLEBEAM
 	db TAKE_DOWN
 	db BARRIER

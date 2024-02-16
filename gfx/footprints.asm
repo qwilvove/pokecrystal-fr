@@ -211,7 +211,7 @@ INCBIN "gfx/footprints/dewgong.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/grimer.1bpp",     footprint_bottom
 ; 089-096 top halves
 INCBIN "gfx/footprints/grotadmorv.1bpp",        footprint_top
-INCBIN "gfx/footprints/shellder.1bpp",   footprint_top
+INCBIN "gfx/footprints/kokiyas.1bpp",   footprint_top
 INCBIN "gfx/footprints/crustabri.1bpp",   footprint_top
 INCBIN "gfx/footprints/fantominus.1bpp",     footprint_top
 INCBIN "gfx/footprints/haunter.1bpp",    footprint_top
@@ -220,7 +220,7 @@ INCBIN "gfx/footprints/onix.1bpp",       footprint_top
 INCBIN "gfx/footprints/drowzee.1bpp",    footprint_top
 ; 089-096 bottom halves
 INCBIN "gfx/footprints/grotadmorv.1bpp",        footprint_bottom
-INCBIN "gfx/footprints/shellder.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/kokiyas.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/crustabri.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/fantominus.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/haunter.1bpp",    footprint_bottom

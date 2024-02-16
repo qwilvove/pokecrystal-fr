@@ -11,8 +11,8 @@ SpriteAnimOAMData:
 	spriteanimoam $04, .OAMData_RedWalk                  ; SPRITE_ANIM_OAMSET_RED_WALK_2
 	spriteanimoam $4c, .OAMData_1x1_Palette0             ; SPRITE_ANIM_OAMSET_GS_INTRO_BUBBLE_1
 	spriteanimoam $5c, .OAMData_1x1_Palette0             ; SPRITE_ANIM_OAMSET_GS_INTRO_BUBBLE_2
-	spriteanimoam $6c, .OAMData_GSIntroShellder          ; SPRITE_ANIM_OAMSET_GS_INTRO_SHELLDER_1
-	spriteanimoam $6e, .OAMData_GSIntroShellder          ; SPRITE_ANIM_OAMSET_GS_INTRO_SHELLDER_2
+	spriteanimoam $6c, .OAMData_GSIntroKokiyas          ; SPRITE_ANIM_OAMSET_GS_INTRO_KOKIYAS_1
+	spriteanimoam $6e, .OAMData_GSIntroKokiyas          ; SPRITE_ANIM_OAMSET_GS_INTRO_KOKIYAS_2
 	spriteanimoam $2d, .OAMData_GSIntroMagikarp          ; SPRITE_ANIM_OAMSET_GS_INTRO_MAGIKARP_1
 	spriteanimoam $4d, .OAMData_GSIntroMagikarp          ; SPRITE_ANIM_OAMSET_GS_INTRO_MAGIKARP_2
 	spriteanimoam $60, .OAMData_GSIntroLapras            ; SPRITE_ANIM_OAMSET_GS_INTRO_UNUSED_LAPRAS
@@ -153,7 +153,7 @@ SpriteAnimOAMData:
 	db 1
 	dbsprite -1, -1,  4,  4, $00, 0
 
-.OAMData_GSIntroShellder:
+.OAMData_GSIntroKokiyas:
 	db 4
 	dbsprite -1, -1,  0,  0, $00, 0
 	dbsprite  0, -1,  0,  0, $01, 0

@@ -22,7 +22,7 @@ Pokered_MonIndices:
 	db ARCANIN
 	db MEW
 	db GYARADOS
-	db SHELLDER
+	db KOKIYAS
 	db TENTACOOL
 	db FANTOMINUS
 	db INSECATEUR

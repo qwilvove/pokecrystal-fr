@@ -91,7 +91,7 @@ MonMenuIcons:
 	db ICON_LAPRAS      ; DEWGONG
 	db ICON_BLOB        ; GRIMER
 	db ICON_BLOB        ; GROTADMORV
-	db ICON_SHELL       ; SHELLDER
+	db ICON_SHELL       ; KOKIYAS
 	db ICON_SHELL       ; CRUSTABRI
 	db ICON_GHOST       ; FANTOMINUS
 	db ICON_GHOST       ; HAUNTER

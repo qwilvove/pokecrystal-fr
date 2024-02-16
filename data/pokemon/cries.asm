@@ -95,7 +95,7 @@ PokemonCries::
 	mon_cry CRY_SEEL,         35,  383 ; DEWGONG
 	mon_cry CRY_GRIMER,        0,  256 ; GRIMER
 	mon_cry CRY_GROTADMORV,         239,  383 ; GROTADMORV
-	mon_cry CRY_FEAROW,        0,  256 ; SHELLDER
+	mon_cry CRY_FEAROW,        0,  256 ; KOKIYAS
 	mon_cry CRY_FEAROW,      111,  352 ; CRUSTABRI
 	mon_cry CRY_CHRYSACIER,       0,  256 ; FANTOMINUS
 	mon_cry CRY_CHRYSACIER,      48,  192 ; HAUNTER

@@ -105,7 +105,7 @@ AlphabeticalPokedexOrder:
 	db KANGOUREX
 	db KAPOERA
 	db KICKLEE
-	db SHELLDER
+	db KOKIYAS
 	db KINGLER
 	db KRABBY
 	db FLAAFFY

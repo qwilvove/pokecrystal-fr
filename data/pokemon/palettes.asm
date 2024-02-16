@@ -193,8 +193,8 @@ INCBIN "gfx/pokemon/grimer/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/grimer/shiny.pal"
 INCBIN "gfx/pokemon/grotadmorv/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/grotadmorv/shiny.pal"
-INCBIN "gfx/pokemon/shellder/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/shellder/shiny.pal"
+INCBIN "gfx/pokemon/kokiyas/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/kokiyas/shiny.pal"
 INCBIN "gfx/pokemon/crustabri/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/crustabri/shiny.pal"
 INCBIN "gfx/pokemon/fantominus/front.gbcpal", middle_colors

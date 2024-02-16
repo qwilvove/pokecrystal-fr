@@ -1208,7 +1208,7 @@ GrotadmorvEvosAttacks:
 	db 60, SLUDGE_BOMB
 	db 0 ; no more level-up moves
 
-ShellderEvosAttacks:
+KokiyasEvosAttacks:
 	db EVOLVE_ITEM, WATER_STONE, CRUSTABRI
 	db 0 ; no more evolutions
 	db 1, TACKLE

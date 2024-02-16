@@ -89,7 +89,7 @@ AnimationIdlePointers:
 	dw DewgongAnimationIdle
 	dw GrimerAnimationIdle
 	dw GrotadmorvAnimationIdle
-	dw ShellderAnimationIdle
+	dw KokiyasAnimationIdle
 	dw CrustabriAnimationIdle
 	dw FantominusAnimationIdle
 	dw HaunterAnimationIdle

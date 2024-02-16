@@ -170,7 +170,7 @@ NewPokedexOrder:
 	db CARATROC
 	db STARYU
 	db STARMIE
-	db SHELLDER
+	db KOKIYAS
 	db CRUSTABRI
 	db CORAYON
 	db REMORAID

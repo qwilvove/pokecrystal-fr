@@ -181,8 +181,8 @@ PokemonPicPointers::
 	dba_pic GrimerBackpic
 	dba_pic GrotadmorvFrontpic
 	dba_pic GrotadmorvBackpic
-	dba_pic ShellderFrontpic
-	dba_pic ShellderBackpic
+	dba_pic KokiyasFrontpic
+	dba_pic KokiyasBackpic
 	dba_pic CrustabriFrontpic
 	dba_pic CrustabriBackpic
 	dba_pic FantominusFrontpic
