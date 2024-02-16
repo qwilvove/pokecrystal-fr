@@ -157,7 +157,7 @@ EggMovePointers::
 	dw HericendreEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw TotodileEggMoves
+	dw KaiminusEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw FouinetteEggMoves

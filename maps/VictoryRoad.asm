@@ -56,19 +56,19 @@ VictoryRoadRivalNext:
 	waitbutton
 	closetext
 	setevent EVENT_RIVAL_VICTORY_ROAD
-	checkevent EVENT_GOT_TOTODILE_FROM_ELM
-	iftrue .GotTotodile
+	checkevent EVENT_GOT_KAIMINUS_FROM_ELM
+	iftrue .GotKaiminus
 	checkevent EVENT_GOT_GERMIGNON_FROM_ELM
 	iftrue .GotGermignon
 	winlosstext VictoryRoadRivalDefeatText, VictoryRoadRivalVictoryText
 	setlasttalked VICTORYROAD_RIVAL
-	loadtrainer RIVAL1, RIVAL1_5_TOTODILE
+	loadtrainer RIVAL1, RIVAL1_5_KAIMINUS
 	startbattle
 	dontrestartmapmusic
 	reloadmapafterbattle
 	sjump .AfterBattle
 
-.GotTotodile:
+.GotKaiminus:
 	winlosstext VictoryRoadRivalDefeatText, VictoryRoadRivalVictoryText
 	setlasttalked VICTORYROAD_RIVAL
 	loadtrainer RIVAL1, RIVAL1_5_GERMIGNON

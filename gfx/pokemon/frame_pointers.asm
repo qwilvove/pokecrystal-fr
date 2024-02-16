@@ -157,7 +157,7 @@ FramesPointers:
 	dw HericendreFrames
 	dw FeurissonFrames
 	dw TyphlosionFrames
-	dw TotodileFrames
+	dw KaiminusFrames
 	dw CrocrodilFrames
 	dw AligatueurFrames
 	dw FouinetteFrames

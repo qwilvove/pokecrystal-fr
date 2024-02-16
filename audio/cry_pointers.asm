@@ -51,7 +51,7 @@ Cries:
 	dba Cry_Slowking
 	dba Cry_Hericendre
 	dba Cry_Germignon
-	dba Cry_Totodile
+	dba Cry_Kaiminus
 	dba Cry_Gligar
 	dba Cry_Cleffa
 	dba Cry_Slugma

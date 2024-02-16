@@ -60,19 +60,19 @@ AzaleaTownRivalBattleScript:
 	waitbutton
 	closetext
 	setevent EVENT_RIVAL_AZALEA_TOWN
-	checkevent EVENT_GOT_TOTODILE_FROM_ELM
-	iftrue .Totodile
+	checkevent EVENT_GOT_KAIMINUS_FROM_ELM
+	iftrue .Kaiminus
 	checkevent EVENT_GOT_GERMIGNON_FROM_ELM
 	iftrue .Germignon
 	winlosstext AzaleaTownRivalWinText, AzaleaTownRivalLossText
 	setlasttalked AZALEATOWN_RIVAL
-	loadtrainer RIVAL1, RIVAL1_2_TOTODILE
+	loadtrainer RIVAL1, RIVAL1_2_KAIMINUS
 	startbattle
 	dontrestartmapmusic
 	reloadmapafterbattle
 	sjump .AfterBattle
 
-.Totodile:
+.Kaiminus:
 	winlosstext AzaleaTownRivalWinText, AzaleaTownRivalLossText
 	setlasttalked AZALEATOWN_RIVAL
 	loadtrainer RIVAL1, RIVAL1_2_GERMIGNON

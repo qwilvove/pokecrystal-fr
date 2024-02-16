@@ -177,7 +177,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const HERICENDRE  ; 9b
 	const FEURISSON    ; 9c
 	const TYPHLOSION ; 9d
-	const TOTODILE   ; 9e
+	const KAIMINUS   ; 9e
 	const CROCRODIL   ; 9f
 	const ALIGATUEUR ; a0
 	const FOUINETTE    ; a1

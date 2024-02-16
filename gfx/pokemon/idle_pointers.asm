@@ -157,7 +157,7 @@ AnimationIdlePointers:
 	dw HericendreAnimationIdle
 	dw FeurissonAnimationIdle
 	dw TyphlosionAnimationIdle
-	dw TotodileAnimationIdle
+	dw KaiminusAnimationIdle
 	dw CrocrodilAnimationIdle
 	dw AligatueurAnimationIdle
 	dw FouinetteAnimationIdle

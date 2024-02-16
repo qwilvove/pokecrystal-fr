@@ -101,7 +101,7 @@ AlphabeticalPokedexOrder:
 	db KABUTO
 	db KABUTOPS
 	db KADABRA
-	db TOTODILE
+	db KAIMINUS
 	db KANGASKHAN
 	db HITMONTOP
 	db HITMONLEE

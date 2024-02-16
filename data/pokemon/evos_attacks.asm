@@ -2144,7 +2144,7 @@ TyphlosionEvosAttacks:
 	db 60, FLAMETHROWER
 	db 0 ; no more level-up moves
 
-TotodileEvosAttacks:
+KaiminusEvosAttacks:
 	db EVOLVE_LEVEL, 18, CROCRODIL
 	db 0 ; no more evolutions
 	db 1, SCRATCH

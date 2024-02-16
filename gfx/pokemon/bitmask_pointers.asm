@@ -157,7 +157,7 @@ BitmasksPointers:
 	dw HericendreBitmasks
 	dw FeurissonBitmasks
 	dw TyphlosionBitmasks
-	dw TotodileBitmasks
+	dw KaiminusBitmasks
 	dw CrocrodilBitmasks
 	dw AligatueurBitmasks
 	dw FouinetteBitmasks

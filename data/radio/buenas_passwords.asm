@@ -14,7 +14,7 @@ BuenasPasswordTable:
 	assert_table_length NUM_PASSWORD_CATEGORIES
 
                 ; string type, points, option 1, option 2, option 3
-.JohtoStarters: db BUENA_MON,    10, HERICENDRE, TOTODILE, GERMIGNON
+.JohtoStarters: db BUENA_MON,    10, HERICENDRE, KAIMINUS, GERMIGNON
 .Beverages:     db BUENA_ITEM,   11, FRESH_WATER, SODA_POP, LEMONADE
 .HealingItems:  db BUENA_ITEM,    9, POTION, ANTIDOTE, PARLYZ_HEAL
 .Balls:         db BUENA_ITEM,   10, POKE_BALL, GREAT_BALL, ULTRA_BALL

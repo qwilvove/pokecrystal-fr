@@ -159,7 +159,7 @@ EvosAttacksPointers::
 	dw HericendreEvosAttacks
 	dw FeurissonEvosAttacks
 	dw TyphlosionEvosAttacks
-	dw TotodileEvosAttacks
+	dw KaiminusEvosAttacks
 	dw CrocrodilEvosAttacks
 	dw AligatueurEvosAttacks
 	dw FouinetteEvosAttacks

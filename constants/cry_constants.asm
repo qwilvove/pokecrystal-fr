@@ -54,7 +54,7 @@
 	const CRY_SLOWKING
 	const CRY_HERICENDRE
 	const CRY_GERMIGNON
-	const CRY_TOTODILE
+	const CRY_KAIMINUS
 	const CRY_GLIGAR
 	const CRY_CLEFFA
 	const CRY_SLUGMA

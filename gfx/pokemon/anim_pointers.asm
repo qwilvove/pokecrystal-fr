@@ -157,7 +157,7 @@ AnimationPointers:
 	dw HericendreAnimation
 	dw FeurissonAnimation
 	dw TyphlosionAnimation
-	dw TotodileAnimation
+	dw KaiminusAnimation
 	dw CrocrodilAnimation
 	dw AligatueurAnimation
 	dw FouinetteAnimation

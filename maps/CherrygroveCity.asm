@@ -113,13 +113,13 @@ CherrygroveRivalSceneNorth:
 	writetext CherrygroveRivalText_Seen
 	waitbutton
 	closetext
-	checkevent EVENT_GOT_TOTODILE_FROM_ELM
-	iftrue .Totodile
+	checkevent EVENT_GOT_KAIMINUS_FROM_ELM
+	iftrue .Kaiminus
 	checkevent EVENT_GOT_GERMIGNON_FROM_ELM
 	iftrue .Germignon
 	winlosstext RivalCherrygroveWinText, RivalCherrygroveLossText
 	setlasttalked CHERRYGROVECITY_RIVAL
-	loadtrainer RIVAL1, RIVAL1_1_TOTODILE
+	loadtrainer RIVAL1, RIVAL1_1_KAIMINUS
 	loadvar VAR_BATTLETYPE, BATTLETYPE_CANLOSE
 	startbattle
 	dontrestartmapmusic
@@ -127,7 +127,7 @@ CherrygroveRivalSceneNorth:
 	iftrue .AfterVictorious
 	sjump .AfterYourDefeat
 
-.Totodile:
+.Kaiminus:
 	winlosstext RivalCherrygroveWinText, RivalCherrygroveLossText
 	setlasttalked CHERRYGROVECITY_RIVAL
 	loadtrainer RIVAL1, RIVAL1_1_GERMIGNON

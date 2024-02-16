@@ -317,8 +317,8 @@ PokemonPicPointers::
 	dba_pic FeurissonBackpic
 	dba_pic TyphlosionFrontpic
 	dba_pic TyphlosionBackpic
-	dba_pic TotodileFrontpic
-	dba_pic TotodileBackpic
+	dba_pic KaiminusFrontpic
+	dba_pic KaiminusBackpic
 	dba_pic CrocrodilFrontpic
 	dba_pic CrocrodilBackpic
 	dba_pic AligatueurFrontpic

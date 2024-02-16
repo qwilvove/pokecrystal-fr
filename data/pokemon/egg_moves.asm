@@ -458,7 +458,7 @@ HericendreEggMoves:
 	db SUBMISSION
 	db -1 ; end
 
-TotodileEggMoves:
+KaiminusEggMoves:
 	db CRUNCH
 	db THRASH
 	db HYDRO_PUMP

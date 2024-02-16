@@ -26,19 +26,19 @@ MountMoonRivalBattleScript:
 	writetext MountMoonRivalTextBefore
 	waitbutton
 	closetext
-	checkevent EVENT_GOT_TOTODILE_FROM_ELM
-	iftrue .Totodile
+	checkevent EVENT_GOT_KAIMINUS_FROM_ELM
+	iftrue .Kaiminus
 	checkevent EVENT_GOT_GERMIGNON_FROM_ELM
 	iftrue .Germignon
 	winlosstext MountMoonRivalTextWin, MountMoonRivalTextLoss
 	setlasttalked MOUNTMOON_RIVAL
-	loadtrainer RIVAL2, RIVAL2_1_TOTODILE
+	loadtrainer RIVAL2, RIVAL2_1_KAIMINUS
 	startbattle
 	dontrestartmapmusic
 	reloadmapafterbattle
 	sjump .FinishBattle
 
-.Totodile:
+.Kaiminus:
 	winlosstext MountMoonRivalTextWin, MountMoonRivalTextLoss
 	setlasttalked MOUNTMOON_RIVAL
 	loadtrainer RIVAL2, RIVAL2_1_GERMIGNON

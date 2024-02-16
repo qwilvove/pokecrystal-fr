@@ -158,7 +158,7 @@ PokedexDataPointerTable:
 	dw HericendrePokedexEntry
 	dw FeurissonPokedexEntry
 	dw TyphlosionPokedexEntry
-	dw TotodilePokedexEntry
+	dw KaiminusPokedexEntry
 	dw CrocrodilPokedexEntry
 	dw AligatueurPokedexEntry
 	dw FouinettePokedexEntry
