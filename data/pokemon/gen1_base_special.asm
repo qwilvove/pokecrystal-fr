@@ -100,7 +100,7 @@ KantoMonSpecials:
 	db  90 ; DROWZEE
 	db 115 ; HYPNOMADE
 	db  25 ; KRABBY
-	db  50 ; KINGLER
+	db  50 ; KRABBOSS
 	db  55 ; VOLTORB
 	db  80 ; ELECTRODE
 	db  60 ; EXEGGCUTE

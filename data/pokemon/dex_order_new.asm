@@ -166,7 +166,7 @@ NewPokedexOrder:
 	db TENTACOOL
 	db TENTACRUEL
 	db KRABBY
-	db KINGLER
+	db KRABBOSS
 	db CARATROC
 	db STARYU
 	db STARMIE

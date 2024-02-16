@@ -98,7 +98,7 @@ AnimationIdlePointers:
 	dw DrowzeeAnimationIdle
 	dw HypnomadeAnimationIdle
 	dw KrabbyAnimationIdle
-	dw KinglerAnimationIdle
+	dw KrabbossAnimationIdle
 	dw VoltorbAnimationIdle
 	dw ElectrodeAnimationIdle
 	dw ExeggcuteAnimationIdle

@@ -99,7 +99,7 @@ PokedexDataPointerTable:
 	dw DrowzeePokedexEntry
 	dw HypnomadePokedexEntry
 	dw KrabbyPokedexEntry
-	dw KinglerPokedexEntry
+	dw KrabbossPokedexEntry
 	dw VoltorbPokedexEntry
 	dw ElectrodePokedexEntry
 	dw ExeggcutePokedexEntry

@@ -1319,7 +1319,7 @@ HypnomadeEvosAttacks:
 	db 0 ; no more level-up moves
 
 KrabbyEvosAttacks:
-	db EVOLVE_LEVEL, 28, KINGLER
+	db EVOLVE_LEVEL, 28, KRABBOSS
 	db 0 ; no more evolutions
 	db 1, BUBBLE
 	db 5, LEER
@@ -1331,7 +1331,7 @@ KrabbyEvosAttacks:
 	db 41, CRABHAMMER
 	db 0 ; no more level-up moves
 
-KinglerEvosAttacks:
+KrabbossEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, BUBBLE
 	db 1, LEER

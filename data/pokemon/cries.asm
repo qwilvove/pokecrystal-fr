@@ -104,7 +104,7 @@ PokemonCries::
 	mon_cry CRY_DROWZEE,     136,  160 ; DROWZEE
 	mon_cry CRY_DROWZEE,     238,  192 ; HYPNOMADE
 	mon_cry CRY_KRABBY,       32,  352 ; KRABBY
-	mon_cry CRY_KRABBY,      238,  352 ; KINGLER
+	mon_cry CRY_KRABBY,      238,  352 ; KRABBOSS
 	mon_cry CRY_VOLTORB,     237,  256 ; VOLTORB
 	mon_cry CRY_VOLTORB,     168,  272 ; ELECTRODE
 	mon_cry CRY_DIGLETT,       0,  256 ; EXEGGCUTE

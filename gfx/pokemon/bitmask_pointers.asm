@@ -98,7 +98,7 @@ BitmasksPointers:
 	dw DrowzeeBitmasks
 	dw HypnomadeBitmasks
 	dw KrabbyBitmasks
-	dw KinglerBitmasks
+	dw KrabbossBitmasks
 	dw VoltorbBitmasks
 	dw ElectrodeBitmasks
 	dw ExeggcuteBitmasks

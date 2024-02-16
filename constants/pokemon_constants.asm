@@ -117,7 +117,7 @@
 	const DROWZEE    ; 60
 	const HYPNOMADE      ; 61
 	const KRABBY     ; 62
-	const KINGLER    ; 63
+	const KRABBOSS    ; 63
 	const VOLTORB    ; 64
 	const ELECTRODE  ; 65
 	const EXEGGCUTE  ; 66

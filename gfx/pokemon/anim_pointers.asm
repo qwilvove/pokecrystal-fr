@@ -98,7 +98,7 @@ AnimationPointers:
 	dw DrowzeeAnimation
 	dw HypnomadeAnimation
 	dw KrabbyAnimation
-	dw KinglerAnimation
+	dw KrabbossAnimation
 	dw VoltorbAnimation
 	dw ElectrodeAnimation
 	dw ExeggcuteAnimation

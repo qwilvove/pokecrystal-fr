@@ -98,7 +98,7 @@ FramesPointers:
 	dw DrowzeeFrames
 	dw HypnomadeFrames
 	dw KrabbyFrames
-	dw KinglerFrames
+	dw KrabbossFrames
 	dw VoltorbFrames
 	dw ElectrodeFrames
 	dw ExeggcuteFrames

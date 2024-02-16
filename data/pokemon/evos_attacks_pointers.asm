@@ -100,7 +100,7 @@ EvosAttacksPointers::
 	dw DrowzeeEvosAttacks
 	dw HypnomadeEvosAttacks
 	dw KrabbyEvosAttacks
-	dw KinglerEvosAttacks
+	dw KrabbossEvosAttacks
 	dw VoltorbEvosAttacks
 	dw ElectrodeEvosAttacks
 	dw ExeggcuteEvosAttacks

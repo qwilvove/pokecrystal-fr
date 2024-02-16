@@ -199,8 +199,8 @@ PokemonPicPointers::
 	dba_pic HypnomadeBackpic
 	dba_pic KrabbyFrontpic
 	dba_pic KrabbyBackpic
-	dba_pic KinglerFrontpic
-	dba_pic KinglerBackpic
+	dba_pic KrabbossFrontpic
+	dba_pic KrabbossBackpic
 	dba_pic VoltorbFrontpic
 	dba_pic VoltorbBackpic
 	dba_pic ElectrodeFrontpic
