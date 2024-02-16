@@ -33,7 +33,7 @@ BugContestant_BugCatcherEd:
 
 BugContestant_CooltrainerMNick:
 	db COOLTRAINERM, NICK
-	dbw SCYTHER,    357
+	dbw INSECATEUR,    357
 	dbw BUTTERFREE, 349
 	dbw PINSIR,     368
 
@@ -63,7 +63,7 @@ BugContestant_PicnickerCindy:
 
 BugContestant_BugCatcherJosh:
 	db BUG_CATCHER, JOSH
-	dbw SCYTHER,    326
+	dbw INSECATEUR,    326
 	dbw BUTTERFREE, 292
 	dbw CHRYSACIER,    282
 

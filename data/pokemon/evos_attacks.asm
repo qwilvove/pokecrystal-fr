@@ -1666,7 +1666,7 @@ MrMimeEvosAttacks:
 	db 46, SAFEGUARD
 	db 0 ; no more level-up moves
 
-ScytherEvosAttacks:
+InsecateurEvosAttacks:
 	db EVOLVE_TRADE, METAL_COAT, CIZAYOX
 	db 0 ; no more evolutions
 	db 1, QUICK_ATTACK

@@ -40,7 +40,7 @@ gfx/pokemon/corayon/front.animated.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/hitmontop/back.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/nidoran_f/front.animated.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/colossinge/front.animated.2bpp.lz: LZFLAGS += --method 4
-gfx/pokemon/scyther/front.animated.2bpp.lz: LZFLAGS += --method 4
+gfx/pokemon/insecateur/front.animated.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/unown_g/front.animated.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/voltorb/front.animated.2bpp.lz: LZFLAGS += --method 4
 

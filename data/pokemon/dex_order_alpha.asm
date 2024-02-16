@@ -95,7 +95,7 @@ AlphabeticalPokedexOrder:
 	db HYPOCEAN
 	db HYPOROI
 	db HYPOTREMPE
-	db SCYTHER
+	db INSECATEUR
 	db DUNSPARCE
 	db BELLOSSOM
 	db KABUTO

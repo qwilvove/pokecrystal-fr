@@ -122,7 +122,7 @@ AnimationPointers:
 	dw StaryuAnimation
 	dw StarmieAnimation
 	dw MrMimeAnimation
-	dw ScytherAnimation
+	dw InsecateurAnimation
 	dw JynxAnimation
 	dw ElektekAnimation
 	dw MagmarAnimation

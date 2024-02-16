@@ -25,7 +25,7 @@ Pokered_MonIndices:
 	db SHELLDER
 	db TENTACOOL
 	db FANTOMINUS
-	db SCYTHER
+	db INSECATEUR
 	db STARYU
 	db BLASTOISE
 	db PINSIR

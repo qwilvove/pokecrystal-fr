@@ -141,7 +141,7 @@
 	const STARYU     ; 78
 	const STARMIE    ; 79
 	const MR__MIME   ; 7a
-	const SCYTHER    ; 7b
+	const INSECATEUR    ; 7b
 	const JYNX       ; 7c
 	const ELEKTEK ; 7d
 	const MAGMAR     ; 7e

@@ -122,7 +122,7 @@ BitmasksPointers:
 	dw StaryuBitmasks
 	dw StarmieBitmasks
 	dw MrMimeBitmasks
-	dw ScytherBitmasks
+	dw InsecateurBitmasks
 	dw JynxBitmasks
 	dw ElektekBitmasks
 	dw MagmarBitmasks

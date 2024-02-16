@@ -383,7 +383,7 @@ MrMimeEggMoves:
 	db MIMIC
 	db -1 ; end
 
-ScytherEggMoves:
+InsecateurEggMoves:
 	db COUNTER
 	db SAFEGUARD
 	db BATON_PASS

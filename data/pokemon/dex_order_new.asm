@@ -111,7 +111,7 @@ NewPokedexOrder:
 	db WOBBUFFET
 	db VENONAT
 	db AEROMITE
-	db SCYTHER
+	db INSECATEUR
 	db CIZAYOX
 	db PINSIR
 	db HERACROSS
