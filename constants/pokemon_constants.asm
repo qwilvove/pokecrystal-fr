@@ -131,7 +131,7 @@
 	const WEEZING    ; 6e
 	const RHYHORN    ; 6f
 	const RHYDON     ; 70
-	const CHANSEY    ; 71
+	const LEVEINARD    ; 71
 	const TANGELA    ; 72
 	const KANGOUREX ; 73
 	const HYPOTREMPE     ; 74

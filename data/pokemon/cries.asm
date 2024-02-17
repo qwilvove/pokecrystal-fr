@@ -118,7 +118,7 @@ PokemonCries::
 	mon_cry CRY_GROLEM,       255,  383 ; WEEZING
 	mon_cry CRY_CHARMANDER,    0,  256 ; RHYHORN
 	mon_cry CRY_RHYDON,        0,  256 ; RHYDON
-	mon_cry CRY_PIDGEOTTO,    10,  320 ; CHANSEY
+	mon_cry CRY_PIDGEOTTO,    10,  320 ; LEVEINARD
 	mon_cry CRY_GROLEM,         0,  256 ; TANGELA
 	mon_cry CRY_KANGOUREX,    0,  256 ; KANGOUREX
 	mon_cry CRY_CLEFAIRY,    153,  144 ; HYPOTREMPE

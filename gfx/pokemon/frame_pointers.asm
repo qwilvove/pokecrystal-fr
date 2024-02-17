@@ -112,7 +112,7 @@ FramesPointers:
 	dw WeezingFrames
 	dw RhyhornFrames
 	dw RhydonFrames
-	dw ChanseyFrames
+	dw LeveinardFrames
 	dw TangelaFrames
 	dw KangourexFrames
 	dw HypotrempeFrames

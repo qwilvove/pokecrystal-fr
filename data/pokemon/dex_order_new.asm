@@ -218,7 +218,7 @@ NewPokedexOrder:
 	db FEUFOREVE
 	db PORYGON
 	db PORYGON2
-	db CHANSEY
+	db LEVEINARD
 	db LEUPHORIE
 	db LAPRAS
 	db AMONITA

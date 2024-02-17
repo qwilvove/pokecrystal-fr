@@ -487,7 +487,7 @@ KantoGrassWildMons:
 	db 25, GRANIVOL
 	db 27, GRANIVOL
 	db 27, GRANIVOL
-	db 25, CHANSEY
+	db 25, LEVEINARD
 	; day
 	db 23, NIDORINO
 	db 23, NIDORINA
@@ -495,7 +495,7 @@ KantoGrassWildMons:
 	db 25, GRANIVOL
 	db 27, GRANIVOL
 	db 27, GRANIVOL
-	db 25, CHANSEY
+	db 25, LEVEINARD
 	; nite
 	db 23, VENONAT
 	db 23, QUAGSIRE
@@ -503,7 +503,7 @@ KantoGrassWildMons:
 	db 25, AEROMITE
 	db 25, QUAGSIRE
 	db 25, QUAGSIRE
-	db 25, CHANSEY
+	db 25, LEVEINARD
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_14
@@ -515,7 +515,7 @@ KantoGrassWildMons:
 	db 28, GRANIVOL
 	db 30, FLORAVOL
 	db 30, FLORAVOL
-	db 28, CHANSEY
+	db 28, LEVEINARD
 	; day
 	db 26, NIDORINO
 	db 26, NIDORINA
@@ -523,7 +523,7 @@ KantoGrassWildMons:
 	db 28, GRANIVOL
 	db 30, FLORAVOL
 	db 30, FLORAVOL
-	db 28, CHANSEY
+	db 28, LEVEINARD
 	; nite
 	db 26, VENONAT
 	db 26, QUAGSIRE
@@ -531,7 +531,7 @@ KantoGrassWildMons:
 	db 28, AEROMITE
 	db 28, QUAGSIRE
 	db 28, QUAGSIRE
-	db 28, CHANSEY
+	db 28, LEVEINARD
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_15
@@ -543,7 +543,7 @@ KantoGrassWildMons:
 	db 25, GRANIVOL
 	db 27, GRANIVOL
 	db 27, GRANIVOL
-	db 25, CHANSEY
+	db 25, LEVEINARD
 	; day
 	db 23, NIDORINO
 	db 23, NIDORINA
@@ -551,7 +551,7 @@ KantoGrassWildMons:
 	db 25, GRANIVOL
 	db 27, GRANIVOL
 	db 27, GRANIVOL
-	db 25, CHANSEY
+	db 25, LEVEINARD
 	; nite
 	db 23, VENONAT
 	db 23, QUAGSIRE
@@ -559,7 +559,7 @@ KantoGrassWildMons:
 	db 25, AEROMITE
 	db 25, QUAGSIRE
 	db 25, QUAGSIRE
-	db 25, CHANSEY
+	db 25, LEVEINARD
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_16

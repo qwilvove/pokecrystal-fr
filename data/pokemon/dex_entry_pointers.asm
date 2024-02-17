@@ -113,7 +113,7 @@ PokedexDataPointerTable:
 	dw WeezingPokedexEntry
 	dw RhyhornPokedexEntry
 	dw RhydonPokedexEntry
-	dw ChanseyPokedexEntry
+	dw LeveinardPokedexEntry
 	dw TangelaPokedexEntry
 	dw KangourexPokedexEntry
 	dw HypotrempePokedexEntry

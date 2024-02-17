@@ -112,7 +112,7 @@ BitmasksPointers:
 	dw WeezingBitmasks
 	dw RhyhornBitmasks
 	dw RhydonBitmasks
-	dw ChanseyBitmasks
+	dw LeveinardBitmasks
 	dw TangelaBitmasks
 	dw KangourexBitmasks
 	dw HypotrempeBitmasks

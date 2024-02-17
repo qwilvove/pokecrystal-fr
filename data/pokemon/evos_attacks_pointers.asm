@@ -114,7 +114,7 @@ EvosAttacksPointers::
 	dw WeezingEvosAttacks
 	dw RhyhornEvosAttacks
 	dw RhydonEvosAttacks
-	dw ChanseyEvosAttacks
+	dw LeveinardEvosAttacks
 	dw TangelaEvosAttacks
 	dw KangourexEvosAttacks
 	dw HypotrempeEvosAttacks

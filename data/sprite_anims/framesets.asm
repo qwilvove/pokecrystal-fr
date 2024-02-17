@@ -15,8 +15,8 @@ SpriteAnimFrameData:
 	dw .Frameset_GSGameFreakLogoStar
 	dw .Frameset_GSGameFreakLogoSparkle
 	dw .Frameset_SlotsGrolem
-	dw .Frameset_SlotsChansey
-	dw .Frameset_SlotsChansey2
+	dw .Frameset_SlotsLeveinard
+	dw .Frameset_SlotsLeveinard2
 	dw .Frameset_SlotsEgg
 	dw .Frameset_RedWalk
 	dw .Frameset_StillCursor
@@ -176,19 +176,19 @@ SpriteAnimFrameData:
 	oamframe SPRITE_ANIM_OAMSET_SLOTS_GROLEM_2,  7, OAM_X_FLIP
 	oamrestart
 
-.Frameset_SlotsChansey:
-	oamframe SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_1,  7
-	oamframe SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_2,  7
-	oamframe SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_1,  7
-	oamframe SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_3,  7
+.Frameset_SlotsLeveinard:
+	oamframe SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_1,  7
+	oamframe SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_2,  7
+	oamframe SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_1,  7
+	oamframe SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_3,  7
 	oamrestart
 
-.Frameset_SlotsChansey2:
-	oamframe SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_1,  7
-	oamframe SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_4,  7
-	oamframe SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_5,  7
-	oamframe SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_4,  7
-	oamframe SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_1,  7
+.Frameset_SlotsLeveinard2:
+	oamframe SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_1,  7
+	oamframe SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_4,  7
+	oamframe SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_5,  7
+	oamframe SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_4,  7
+	oamframe SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_1,  7
 	oamend
 
 .Frameset_SlotsEgg:

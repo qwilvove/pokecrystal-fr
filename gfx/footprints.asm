@@ -264,7 +264,7 @@ INCBIN "gfx/footprints/weezing.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/rhyhorn.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/rhydon.1bpp",     footprint_bottom
 ; 113-120 top halves
-INCBIN "gfx/footprints/chansey.1bpp",    footprint_top
+INCBIN "gfx/footprints/leveinard.1bpp",    footprint_top
 INCBIN "gfx/footprints/tangela.1bpp",    footprint_top
 INCBIN "gfx/footprints/kangourex.1bpp", footprint_top
 INCBIN "gfx/footprints/hypotrempe.1bpp",     footprint_top
@@ -273,7 +273,7 @@ INCBIN "gfx/footprints/goldeen.1bpp",    footprint_top
 INCBIN "gfx/footprints/seaking.1bpp",    footprint_top
 INCBIN "gfx/footprints/staryu.1bpp",     footprint_top
 ; 113-120 bottom halves
-INCBIN "gfx/footprints/chansey.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/leveinard.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/tangela.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/kangourex.1bpp", footprint_bottom
 INCBIN "gfx/footprints/hypotrempe.1bpp",     footprint_bottom

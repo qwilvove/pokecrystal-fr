@@ -39,7 +39,7 @@ Pokered_MonIndices:
 	db SLOWPOKE
 	db KADABRA
 	db GRAVALANCH
-	db CHANSEY
+	db LEVEINARD
 	db MACHOKE
 	db MR__MIME
 	db KICKLEE

@@ -75,8 +75,8 @@ DEF SLOTS_END_LOOP_F EQU 7
 	const REEL_ACTION_INIT_GROLEM
 	const REEL_ACTION_WAIT_GROLEM
 	const REEL_ACTION_END_GROLEM
-	const REEL_ACTION_INIT_CHANSEY
-	const REEL_ACTION_WAIT_CHANSEY
+	const REEL_ACTION_INIT_LEVEINARD
+	const REEL_ACTION_WAIT_LEVEINARD
 	const REEL_ACTION_WAIT_EGG
 	const REEL_ACTION_DROP_REEL
 
@@ -620,13 +620,13 @@ Slots_StopReel3:
 ; - REEL_ACTION_STOP_REEL3, 37.5%
 ; - REEL_ACTION_START_SLOW_ADVANCE_REEL3, 31.3%
 ; - REEL_ACTION_INIT_GROLEM, 31.3%
-; - REEL_ACTION_INIT_CHANSEY, 0%
+; - REEL_ACTION_INIT_LEVEINARD, 0%
 
 ; If matching SEVEN symbols and bias to SEVEN:
 ; - REEL_ACTION_STOP_REEL3, 29.7%
 ; - REEL_ACTION_START_SLOW_ADVANCE_REEL3, 23.4%
 ; - REEL_ACTION_INIT_GROLEM, 23.4%
-; - REEL_ACTION_INIT_CHANSEY, 23.4%
+; - REEL_ACTION_INIT_LEVEINARD, 23.4%
 
 	ld a, [wFirstTwoReelsMatching]
 	and a
@@ -644,7 +644,7 @@ Slots_StopReel3:
 	jr nc, .slow_advance
 	cp 24 percent - 1
 	jr nc, .grolem
-	ld a, REEL_ACTION_INIT_CHANSEY
+	ld a, REEL_ACTION_INIT_LEVEINARD
 	ret
 
 .biased
@@ -911,8 +911,8 @@ ReelActionJumptable:
 	dw ReelAction_InitGrolem                   ; 12
 	dw ReelAction_WaitGrolem                   ; 13
 	dw ReelAction_EndGrolem                    ; 14
-	dw ReelAction_InitChansey                 ; 15
-	dw ReelAction_WaitChansey                 ; 16
+	dw ReelAction_InitLeveinard                 ; 15
+	dw ReelAction_WaitLeveinard                 ; 16
 	dw ReelAction_WaitEgg                     ; 17
 	dw ReelAction_DropReel                    ; 18
 
@@ -1195,10 +1195,10 @@ ReelAction_EndGrolem:
 	ld [hl], 0
 	ret
 
-ReelAction_InitChansey:
+ReelAction_InitLeveinard:
 ; Ensures the lining up of SEVEN symbols, but this mode is only possible
 ; when there is bias to SEVEN symbols (and even then, it's still rare).
-; Chansey releases and egg and reel #3 is made to advance 17 slots very
+; Leveinard releases and egg and reel #3 is made to advance 17 slots very
 ; quickly as many times as necessary for the match to SEVENs to show up.
 
 	call Slots_CheckMatchedAllThreeReels
@@ -1208,20 +1208,20 @@ ReelAction_InitChansey:
 	call Slots_WaitSFX
 	ld hl, REEL_ACTION
 	add hl, bc
-	inc [hl] ; REEL_ACTION_WAIT_CHANSEY
+	inc [hl] ; REEL_ACTION_WAIT_LEVEINARD
 	ld hl, REEL_SPIN_RATE
 	add hl, bc
 	ld [hl], 0
 	push bc
 	depixel 12, 0
-	ld a, SPRITE_ANIM_OBJ_SLOTS_CHANSEY
+	ld a, SPRITE_ANIM_OBJ_SLOTS_LEVEINARD
 	call InitSpriteAnimStruct
 	pop bc
 	xor a
 	ld [wSlotsDelay], a
 	ret
 
-ReelAction_WaitChansey:
+ReelAction_WaitLeveinard:
 	ld a, [wSlotsDelay]
 	and a
 	ret z
@@ -1269,7 +1269,7 @@ ReelAction_DropReel:
 	ld hl, REEL_ACTION
 	add hl, bc
 	dec [hl]
-	dec [hl] ; REEL_ACTION_WAIT_CHANSEY
+	dec [hl] ; REEL_ACTION_WAIT_LEVEINARD
 	ld a, 1
 	ld [wSlotsDelay], a
 	ret
@@ -2067,7 +2067,7 @@ Slots_AnimateGrolem:
 	ldh [hSCY], a
 	ret
 
-Slots_AnimateChansey:
+Slots_AnimateLeveinard:
 	ld hl, SPRITEANIMSTRUCT_JUMPTABLE_INDEX
 	add hl, bc
 	ld e, [hl]

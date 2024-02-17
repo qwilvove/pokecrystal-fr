@@ -48,11 +48,11 @@ SpriteAnimOAMData:
 	spriteanimoam $13, .OAMData_1x1_Palette0             ; SPRITE_ANIM_OAMSET_GS_GAMEFREAK_LOGO_SPARKLE_3
 	spriteanimoam $00, .OAMData_SlotsGrolem               ; SPRITE_ANIM_OAMSET_SLOTS_GROLEM_1
 	spriteanimoam $08, .OAMData_SlotsGrolem               ; SPRITE_ANIM_OAMSET_SLOTS_GROLEM_2
-	spriteanimoam $10, .OAMData_SlotsChansey1            ; SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_1
-	spriteanimoam $10, .OAMData_SlotsChansey2            ; SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_2
-	spriteanimoam $10, .OAMData_SlotsChansey3            ; SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_3
-	spriteanimoam $10, .OAMData_SlotsChansey4            ; SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_4
-	spriteanimoam $10, .OAMData_SlotsChansey5            ; SPRITE_ANIM_OAMSET_SLOTS_CHANSEY_5
+	spriteanimoam $10, .OAMData_SlotsLeveinard1            ; SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_1
+	spriteanimoam $10, .OAMData_SlotsLeveinard2            ; SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_2
+	spriteanimoam $10, .OAMData_SlotsLeveinard3            ; SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_3
+	spriteanimoam $10, .OAMData_SlotsLeveinard4            ; SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_4
+	spriteanimoam $10, .OAMData_SlotsLeveinard5            ; SPRITE_ANIM_OAMSET_SLOTS_LEVEINARD_5
 	spriteanimoam $3a, .OAMData_1x1_Palette0             ; SPRITE_ANIM_OAMSET_SLOTS_EGG
 	spriteanimoam $00, .OAMData_RedWalk                  ; SPRITE_ANIM_OAMSET_STILL_CURSOR
 	spriteanimoam $00, .OAMData_TradePokeBall1           ; SPRITE_ANIM_OAMSET_TRADE_POKE_BALL_1
@@ -505,7 +505,7 @@ SpriteAnimOAMData:
 	dbsprite -1,  0,  4,  4, $06, 5 | OBP_NUM
 	dbsprite  0,  0,  4,  4, $04, 5 | OBP_NUM | X_FLIP
 
-.OAMData_SlotsChansey1:
+.OAMData_SlotsLeveinard1:
 	db 6
 	dbsprite -2, -2,  4,  4, $00, 6 | OBP_NUM
 	dbsprite -1, -2,  4,  4, $02, 6 | OBP_NUM
@@ -514,7 +514,7 @@ SpriteAnimOAMData:
 	dbsprite -1,  0,  4,  4, $08, 6 | OBP_NUM
 	dbsprite  0,  0,  4,  4, $0a, 6 | OBP_NUM
 
-.OAMData_SlotsChansey2:
+.OAMData_SlotsLeveinard2:
 	db 6
 	dbsprite -2, -2,  4,  4, $00, 6 | OBP_NUM
 	dbsprite -1, -2,  4,  4, $02, 6 | OBP_NUM
@@ -523,7 +523,7 @@ SpriteAnimOAMData:
 	dbsprite -1,  0,  4,  4, $0e, 6 | OBP_NUM
 	dbsprite  0,  0,  4,  4, $10, 6 | OBP_NUM
 
-.OAMData_SlotsChansey3:
+.OAMData_SlotsLeveinard3:
 	db 6
 	dbsprite -2, -2,  4,  4, $00, 6 | OBP_NUM
 	dbsprite -1, -2,  4,  4, $02, 6 | OBP_NUM
@@ -532,7 +532,7 @@ SpriteAnimOAMData:
 	dbsprite -1,  0,  4,  4, $14, 6 | OBP_NUM
 	dbsprite  0,  0,  4,  4, $16, 6 | OBP_NUM
 
-.OAMData_SlotsChansey4:
+.OAMData_SlotsLeveinard4:
 	db 6
 	dbsprite -2, -2,  4,  4, $00, 6 | OBP_NUM
 	dbsprite -1, -2,  4,  4, $02, 6 | OBP_NUM
@@ -541,7 +541,7 @@ SpriteAnimOAMData:
 	dbsprite -1,  0,  4,  4, $1a, 6 | OBP_NUM
 	dbsprite  0,  0,  4,  4, $1c, 6 | OBP_NUM
 
-.OAMData_SlotsChansey5:
+.OAMData_SlotsLeveinard5:
 	db 6
 	dbsprite -2, -2,  4,  4, $1e, 6 | OBP_NUM
 	dbsprite -1, -2,  4,  4, $20, 6 | OBP_NUM

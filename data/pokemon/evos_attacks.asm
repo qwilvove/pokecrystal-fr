@@ -1529,7 +1529,7 @@ RhydonEvosAttacks:
 	db 65, EARTHQUAKE
 	db 0 ; no more level-up moves
 
-ChanseyEvosAttacks:
+LeveinardEvosAttacks:
 	db EVOLVE_HAPPINESS, TR_ANYTIME, LEUPHORIE
 	db 0 ; no more evolutions
 	db 1, POUND

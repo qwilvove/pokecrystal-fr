@@ -24,8 +24,8 @@ DoSpriteAnimFrame:
 	dw SpriteAnimFunc_GSGameFreakLogoStar
 	dw SpriteAnimFunc_GSGameFreakLogoSparkle
 	dw SpriteAnimFunc_SlotsGrolem
-	dw SpriteAnimFunc_SlotsChansey
-	dw SpriteAnimFunc_SlotsChanseyEgg
+	dw SpriteAnimFunc_SlotsLeveinard
+	dw SpriteAnimFunc_SlotsLeveinardEgg
 	dw SpriteAnimFunc_MailCursor
 	dw SpriteAnimFunc_UnusedCursor
 	dw SpriteAnimFunc_MemoryGameCursor
@@ -357,18 +357,18 @@ SpriteAnimFunc_SlotsGrolem:
 	callfar Slots_AnimateGrolem
 	ret
 
-SpriteAnimFunc_SlotsChansey:
-	callfar Slots_AnimateChansey
+SpriteAnimFunc_SlotsLeveinard:
+	callfar Slots_AnimateLeveinard
 	ld hl, wSlotsDelay
 	ld a, [hl]
 	cp $2
 	ret nz
 	ld [hl], $3
-	ld a, SPRITE_ANIM_FRAMESET_SLOTS_CHANSEY_2
+	ld a, SPRITE_ANIM_FRAMESET_SLOTS_LEVEINARD_2
 	call _ReinitSpriteAnimFrame
 	ret
 
-SpriteAnimFunc_SlotsChanseyEgg:
+SpriteAnimFunc_SlotsLeveinardEgg:
 	ld hl, SPRITEANIMSTRUCT_JUMPTABLE_INDEX
 	add hl, bc
 	ld a, [hl]

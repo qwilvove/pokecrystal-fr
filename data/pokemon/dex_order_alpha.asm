@@ -112,7 +112,7 @@ AlphabeticalPokedexOrder:
 	db LAMANTINE
 	db LANTURN
 	db LEUPHORIE
-	db CHANSEY
+	db LEVEINARD
 	db GYARADOS
 	db SLUGMA
 	db SMOOCHUM

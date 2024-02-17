@@ -340,7 +340,7 @@ RhyhornEggMoves:
 	db MAGNITUDE
 	db -1 ; end
 
-ChanseyEggMoves:
+LeveinardEggMoves:
 	db PRESENT
 	db METRONOME
 	db HEAL_BELL

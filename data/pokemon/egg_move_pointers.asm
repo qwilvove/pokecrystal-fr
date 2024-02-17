@@ -112,7 +112,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw RhyhornEggMoves
 	dw NoEggMoves
-	dw ChanseyEggMoves
+	dw LeveinardEggMoves
 	dw TangelaEggMoves
 	dw KangourexEggMoves
 	dw HypotrempeEggMoves

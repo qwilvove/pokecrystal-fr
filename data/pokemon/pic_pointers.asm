@@ -227,8 +227,8 @@ PokemonPicPointers::
 	dba_pic RhyhornBackpic
 	dba_pic RhydonFrontpic
 	dba_pic RhydonBackpic
-	dba_pic ChanseyFrontpic
-	dba_pic ChanseyBackpic
+	dba_pic LeveinardFrontpic
+	dba_pic LeveinardBackpic
 	dba_pic TangelaFrontpic
 	dba_pic TangelaBackpic
 	dba_pic KangourexFrontpic

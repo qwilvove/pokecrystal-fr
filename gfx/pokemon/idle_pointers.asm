@@ -112,7 +112,7 @@ AnimationIdlePointers:
 	dw WeezingAnimationIdle
 	dw RhyhornAnimationIdle
 	dw RhydonAnimationIdle
-	dw ChanseyAnimationIdle
+	dw LeveinardAnimationIdle
 	dw TangelaAnimationIdle
 	dw KangourexAnimationIdle
 	dw HypotrempeAnimationIdle

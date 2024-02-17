@@ -1139,7 +1139,7 @@ BattleCommand_Critical:
 .Item:
 	ld c, 0
 
-	cp CHANSEY
+	cp LEVEINARD
 	jr nz, .Canarticho
 	ld a, [hl]
 	cp LUCKY_PUNCH

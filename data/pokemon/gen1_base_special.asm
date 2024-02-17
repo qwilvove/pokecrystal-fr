@@ -114,7 +114,7 @@ KantoMonSpecials:
 	db  85 ; WEEZING
 	db  30 ; RHYHORN
 	db  45 ; RHYDON
-	db 105 ; CHANSEY
+	db 105 ; LEVEINARD
 	db 100 ; TANGELA
 	db  40 ; KANGOUREX
 	db  70 ; HYPOTREMPE

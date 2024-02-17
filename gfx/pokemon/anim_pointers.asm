@@ -112,7 +112,7 @@ AnimationPointers:
 	dw WeezingAnimation
 	dw RhyhornAnimation
 	dw RhydonAnimation
-	dw ChanseyAnimation
+	dw LeveinardAnimation
 	dw TangelaAnimation
 	dw KangourexAnimation
 	dw HypotrempeAnimation
