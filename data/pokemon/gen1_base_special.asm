@@ -88,7 +88,7 @@ KantoMonSpecials:
 	db  35 ; DODUO
 	db  60 ; DODRIO
 	db  70 ; SEEL
-	db  95 ; DEWGONG
+	db  95 ; LAMANTINE
 	db  40 ; GRIMER
 	db  65 ; GROTADMORV
 	db  45 ; KOKIYAS

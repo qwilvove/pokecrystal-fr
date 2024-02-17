@@ -86,7 +86,7 @@ BitmasksPointers:
 	dw DoduoBitmasks
 	dw DodrioBitmasks
 	dw SeelBitmasks
-	dw DewgongBitmasks
+	dw LamantineBitmasks
 	dw GrimerBitmasks
 	dw GrotadmorvBitmasks
 	dw KokiyasBitmasks

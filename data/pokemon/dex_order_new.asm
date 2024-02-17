@@ -178,7 +178,7 @@ NewPokedexOrder:
 	db CHINCHOU
 	db LANTURN
 	db SEEL
-	db DEWGONG
+	db LAMANTINE
 	db EXCELANGUE
 	db TANGELA
 	db EVOLI

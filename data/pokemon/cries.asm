@@ -92,7 +92,7 @@ PokemonCries::
 	mon_cry CRY_DIGLETT,     187,  129 ; DODUO
 	mon_cry CRY_DIGLETT,     153,  160 ; DODRIO
 	mon_cry CRY_SEEL,        136,  320 ; SEEL
-	mon_cry CRY_SEEL,         35,  383 ; DEWGONG
+	mon_cry CRY_SEEL,         35,  383 ; LAMANTINE
 	mon_cry CRY_GRIMER,        0,  256 ; GRIMER
 	mon_cry CRY_GROTADMORV,         239,  383 ; GROTADMORV
 	mon_cry CRY_FEAROW,        0,  256 ; KOKIYAS

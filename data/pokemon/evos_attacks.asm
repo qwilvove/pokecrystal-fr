@@ -1155,7 +1155,7 @@ DodrioEvosAttacks:
 	db 0 ; no more level-up moves
 
 SeelEvosAttacks:
-	db EVOLVE_LEVEL, 34, DEWGONG
+	db EVOLVE_LEVEL, 34, LAMANTINE
 	db 0 ; no more evolutions
 	db 1, HEADBUTT
 	db 5, GROWL
@@ -1166,7 +1166,7 @@ SeelEvosAttacks:
 	db 48, SAFEGUARD
 	db 0 ; no more level-up moves
 
-DewgongEvosAttacks:
+LamantineEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, HEADBUTT
 	db 1, GROWL

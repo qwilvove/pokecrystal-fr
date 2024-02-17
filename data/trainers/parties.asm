@@ -45,7 +45,7 @@ PryceGroup:
 	; PRYCE (1)
 	db "FREDO@", TRAINERTYPE_MOVES
 	db 27, SEEL,       HEADBUTT, ICY_WIND, AURORA_BEAM, REST
-	db 29, DEWGONG,    HEADBUTT, ICY_WIND, AURORA_BEAM, REST
+	db 29, LAMANTINE,    HEADBUTT, ICY_WIND, AURORA_BEAM, REST
 	db 31, COCHIGNON,  ICY_WIND, FURY_ATTACK, MIST, BLIZZARD
 	db -1 ; end
 
@@ -1465,7 +1465,7 @@ SkierGroup:
 
 	; SKIER (2)
 	db "CLARISSE@", TRAINERTYPE_NORMAL
-	db 28, DEWGONG
+	db 28, LAMANTINE
 	db -1 ; end
 
 TeacherGroup:
@@ -1832,7 +1832,7 @@ SwimmerMGroup:
 	; SWIMMERM (9)
 	db "CLAUDIUS@", TRAINERTYPE_NORMAL
 	db 24, SEEL
-	db 25, DEWGONG
+	db 25, LAMANTINE
 	db 24, SEEL
 	db -1 ; end
 
@@ -1966,7 +1966,7 @@ SwimmerFGroup:
 
 	; SWIMMERF (9)
 	db "GRETA@", TRAINERTYPE_NORMAL
-	db 28, DEWGONG
+	db 28, LAMANTINE
 	db -1 ; end
 
 	; SWIMMERF (10)
@@ -1976,7 +1976,7 @@ SwimmerFGroup:
 
 	; SWIMMERF (11)
 	db "ANKE@", TRAINERTYPE_NORMAL
-	db 33, DEWGONG
+	db 33, LAMANTINE
 	db -1 ; end
 
 	; SWIMMERF (12)
@@ -2012,7 +2012,7 @@ SwimmerFGroup:
 	db 28, SEEL
 	db 28, SEEL
 	db 28, SEEL
-	db 28, DEWGONG
+	db 28, LAMANTINE
 	db -1 ; end
 
 	; SWIMMERF (18)
@@ -3194,7 +3194,7 @@ BoarderGroup:
 	; BOARDER (1)
 	db "SCOTTY@", TRAINERTYPE_NORMAL
 	db 24, SEEL
-	db 25, DEWGONG
+	db 25, LAMANTINE
 	db 24, SEEL
 	db -1 ; end
 

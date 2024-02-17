@@ -109,7 +109,7 @@ AlphabeticalPokedexOrder:
 	db KRABBOSS
 	db KRABBY
 	db LAINERGIE
-	db DEWGONG
+	db LAMANTINE
 	db LANTURN
 	db BLISSEY
 	db CHANSEY

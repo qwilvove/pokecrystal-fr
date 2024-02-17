@@ -86,7 +86,7 @@ FramesPointers:
 	dw DoduoFrames
 	dw DodrioFrames
 	dw SeelFrames
-	dw DewgongFrames
+	dw LamantineFrames
 	dw GrimerFrames
 	dw GrotadmorvFrames
 	dw KokiyasFrames

@@ -86,7 +86,7 @@ AnimationPointers:
 	dw DoduoAnimation
 	dw DodrioAnimation
 	dw SeelAnimation
-	dw DewgongAnimation
+	dw LamantineAnimation
 	dw GrimerAnimation
 	dw GrotadmorvAnimation
 	dw KokiyasAnimation

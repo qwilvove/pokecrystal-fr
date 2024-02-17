@@ -88,7 +88,7 @@ EvosAttacksPointers::
 	dw DoduoEvosAttacks
 	dw DodrioEvosAttacks
 	dw SeelEvosAttacks
-	dw DewgongEvosAttacks
+	dw LamantineEvosAttacks
 	dw GrimerEvosAttacks
 	dw GrotadmorvEvosAttacks
 	dw KokiyasEvosAttacks

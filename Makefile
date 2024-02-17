@@ -168,8 +168,8 @@ gfx/pokemon/%/frames.asm: gfx/pokemon/%/front.animated.tilemap gfx/pokemon/%/fro
 
 ### Terrible hacks to match animations. Delete these rules if you don't care about matching.
 
-# Dewgong has an unused tile id in its last frame. The tile itself is missing.
-gfx/pokemon/dewgong/frames.asm: gfx/pokemon/dewgong/front.animated.tilemap gfx/pokemon/dewgong/front.dimensions
+# Lamantine has an unused tile id in its last frame. The tile itself is missing.
+gfx/pokemon/lamantine/frames.asm: gfx/pokemon/lamantine/front.animated.tilemap gfx/pokemon/lamantine/front.dimensions
 	tools/pokemon_animation -f $^ > $@
 	echo "	db \$$4d" >> $@
 

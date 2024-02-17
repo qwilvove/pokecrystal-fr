@@ -105,7 +105,7 @@
 	const DODUO      ; 54
 	const DODRIO     ; 55
 	const SEEL       ; 56
-	const DEWGONG    ; 57
+	const LAMANTINE    ; 57
 	const GRIMER     ; 58
 	const GROTADMORV        ; 59
 	const KOKIYAS   ; 5a

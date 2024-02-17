@@ -88,7 +88,7 @@ MonMenuIcons:
 	db ICON_BIRD        ; DODUO
 	db ICON_BIRD        ; DODRIO
 	db ICON_LAPRAS      ; SEEL
-	db ICON_LAPRAS      ; DEWGONG
+	db ICON_LAPRAS      ; LAMANTINE
 	db ICON_BLOB        ; GRIMER
 	db ICON_BLOB        ; GROTADMORV
 	db ICON_SHELL       ; KOKIYAS

@@ -87,7 +87,7 @@ PokedexDataPointerTable:
 	dw DoduoPokedexEntry
 	dw DodrioPokedexEntry
 	dw SeelPokedexEntry
-	dw DewgongPokedexEntry
+	dw LamantinePokedexEntry
 	dw GrimerPokedexEntry
 	dw GrotadmorvPokedexEntry
 	dw KokiyasPokedexEntry

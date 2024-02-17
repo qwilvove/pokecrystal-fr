@@ -86,7 +86,7 @@ AnimationIdlePointers:
 	dw DoduoAnimationIdle
 	dw DodrioAnimationIdle
 	dw SeelAnimationIdle
-	dw DewgongAnimationIdle
+	dw LamantineAnimationIdle
 	dw GrimerAnimationIdle
 	dw GrotadmorvAnimationIdle
 	dw KokiyasAnimationIdle
