@@ -243,7 +243,7 @@ EvosAttacksPointers::
 	dw ElekidEvosAttacks
 	dw MagbyEvosAttacks
 	dw EcremeuhEvosAttacks
-	dw BlisseyEvosAttacks
+	dw LeuphorieEvosAttacks
 	dw RaikouEvosAttacks
 	dw EnteiEvosAttacks
 	dw SuicuneEvosAttacks

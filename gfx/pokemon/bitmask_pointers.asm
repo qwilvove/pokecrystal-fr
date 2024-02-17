@@ -241,7 +241,7 @@ BitmasksPointers:
 	dw ElekidBitmasks
 	dw MagbyBitmasks
 	dw EcremeuhBitmasks
-	dw BlisseyBitmasks
+	dw LeuphorieBitmasks
 	dw RaikouBitmasks
 	dw EnteiBitmasks
 	dw SuicuneBitmasks

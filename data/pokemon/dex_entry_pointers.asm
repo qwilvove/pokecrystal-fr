@@ -242,7 +242,7 @@ PokedexDataPointerTable:
 	dw ElekidPokedexEntry
 	dw MagbyPokedexEntry
 	dw EcremeuhPokedexEntry
-	dw BlisseyPokedexEntry
+	dw LeuphoriePokedexEntry
 	dw RaikouPokedexEntry
 	dw EnteiPokedexEntry
 	dw SuicunePokedexEntry

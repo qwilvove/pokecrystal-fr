@@ -111,7 +111,7 @@ AlphabeticalPokedexOrder:
 	db LAINERGIE
 	db LAMANTINE
 	db LANTURN
-	db BLISSEY
+	db LEUPHORIE
 	db CHANSEY
 	db GYARADOS
 	db SLUGMA

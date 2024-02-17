@@ -241,7 +241,7 @@ FramesPointers:
 	dw ElekidFrames
 	dw MagbyFrames
 	dw EcremeuhFrames
-	dw BlisseyFrames
+	dw LeuphorieFrames
 	dw RaikouFrames
 	dw EnteiFrames
 	dw SuicuneFrames

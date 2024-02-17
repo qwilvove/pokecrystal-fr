@@ -241,7 +241,7 @@ AnimationIdlePointers:
 	dw ElekidAnimationIdle
 	dw MagbyAnimationIdle
 	dw EcremeuhAnimationIdle
-	dw BlisseyAnimationIdle
+	dw LeuphorieAnimationIdle
 	dw RaikouAnimationIdle
 	dw EnteiAnimationIdle
 	dw SuicuneAnimationIdle

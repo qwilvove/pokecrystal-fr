@@ -241,7 +241,7 @@ AnimationPointers:
 	dw ElekidAnimation
 	dw MagbyAnimation
 	dw EcremeuhAnimation
-	dw BlisseyAnimation
+	dw LeuphorieAnimation
 	dw RaikouAnimation
 	dw EnteiAnimation
 	dw SuicuneAnimation

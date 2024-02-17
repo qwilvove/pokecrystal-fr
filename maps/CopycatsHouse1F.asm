@@ -27,10 +27,10 @@ CopycatsHouse1FPokefanFScript:
 	closetext
 	end
 
-CopycatsHouse1FBlisseyScript:
+CopycatsHouse1FLeuphorieScript:
 	opentext
-	writetext CopycatsHouse1FBlisseyText
-	cry BLISSEY
+	writetext CopycatsHouse1FLeuphorieText
+	cry LEUPHORIE
 	waitbutton
 	closetext
 	end
@@ -63,7 +63,7 @@ CopycatsHouse1FPokefanFText_ReturnedMachinePart:
 	cont "qu'avant..."
 	done
 
-CopycatsHouse1FBlisseyText:
+CopycatsHouse1FLeuphorieText:
 	text "LEUPHORIE: Rriii!"
 	done
 
@@ -82,4 +82,4 @@ CopycatsHouse1F_MapEvents:
 	def_object_events
 	object_event  2,  3, SPRITE_POKEFAN_M, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, CopycatsHouse1FPokefanMScript, -1
 	object_event  5,  4, SPRITE_POKEFAN_F, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, CopycatsHouse1FPokefanFScript, -1
-	object_event  6,  6, SPRITE_CLEFAIRY, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, CopycatsHouse1FBlisseyScript, -1
+	object_event  6,  6, SPRITE_CLEFAIRY, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, CopycatsHouse1FLeuphorieScript, -1

@@ -1530,7 +1530,7 @@ RhydonEvosAttacks:
 	db 0 ; no more level-up moves
 
 ChanseyEvosAttacks:
-	db EVOLVE_HAPPINESS, TR_ANYTIME, BLISSEY
+	db EVOLVE_HAPPINESS, TR_ANYTIME, LEUPHORIE
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 5, GROWL
@@ -3213,7 +3213,7 @@ EcremeuhEvosAttacks:
 	db 53, HEAL_BELL
 	db 0 ; no more level-up moves
 
-BlisseyEvosAttacks:
+LeuphorieEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 4, GROWL

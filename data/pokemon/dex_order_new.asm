@@ -219,7 +219,7 @@ NewPokedexOrder:
 	db PORYGON
 	db PORYGON2
 	db CHANSEY
-	db BLISSEY
+	db LEUPHORIE
 	db LAPRAS
 	db AMONITA
 	db AMONISTAR
