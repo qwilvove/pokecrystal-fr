@@ -181,7 +181,7 @@ EvosAttacksPointers::
 	dw NatuEvosAttacks
 	dw XatuEvosAttacks
 	dw MareepEvosAttacks
-	dw FlaaffyEvosAttacks
+	dw LainergieEvosAttacks
 	dw AmpharosEvosAttacks
 	dw JoliflorEvosAttacks
 	dw MarillEvosAttacks

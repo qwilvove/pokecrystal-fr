@@ -219,7 +219,7 @@ Pokered_MonIndices:
 	db NATU
 	db XATU
 	db MAREEP
-	db FLAAFFY
+	db LAINERGIE
 	db AMPHAROS
 	db JOLIFLOR
 	db MARILL

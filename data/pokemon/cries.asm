@@ -185,7 +185,7 @@ PokemonCries::
 	mon_cry CRY_NATU,       -103,  256 ; NATU
 	mon_cry CRY_NATU,       -167,  360 ; XATU
 	mon_cry CRY_MAREEP,       34,  216 ; MAREEP
-	mon_cry CRY_MAREEP,       -7,  384 ; FLAAFFY
+	mon_cry CRY_MAREEP,       -7,  384 ; LAINERGIE
 	mon_cry CRY_AMPHAROS,   -124,  232 ; AMPHAROS
 	mon_cry CRY_CLEFFA,      132,  336 ; JOLIFLOR
 	mon_cry CRY_MARILL,      283,  288 ; MARILL

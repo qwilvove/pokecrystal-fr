@@ -2422,7 +2422,7 @@ XatuEvosAttacks:
 	db 0 ; no more level-up moves
 
 MareepEvosAttacks:
-	db EVOLVE_LEVEL, 15, FLAAFFY
+	db EVOLVE_LEVEL, 15, LAINERGIE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
@@ -2433,7 +2433,7 @@ MareepEvosAttacks:
 	db 37, THUNDER
 	db 0 ; no more level-up moves
 
-FlaaffyEvosAttacks:
+LainergieEvosAttacks:
 	db EVOLVE_LEVEL, 30, AMPHAROS
 	db 0 ; no more evolutions
 	db 1, TACKLE

@@ -180,7 +180,7 @@ PokedexDataPointerTable:
 	dw NatuPokedexEntry
 	dw XatuPokedexEntry
 	dw MareepPokedexEntry
-	dw FlaaffyPokedexEntry
+	dw LainergiePokedexEntry
 	dw AmpharosPokedexEntry
 	dw JoliflorPokedexEntry
 	dw MarillPokedexEntry

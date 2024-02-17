@@ -361,8 +361,8 @@ PokemonPicPointers::
 	dba_pic XatuBackpic
 	dba_pic MareepFrontpic
 	dba_pic MareepBackpic
-	dba_pic FlaaffyFrontpic
-	dba_pic FlaaffyBackpic
+	dba_pic LainergieFrontpic
+	dba_pic LainergieBackpic
 	dba_pic AmpharosFrontpic
 	dba_pic AmpharosBackpic
 	dba_pic JoliflorFrontpic

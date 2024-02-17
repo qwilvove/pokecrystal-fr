@@ -179,7 +179,7 @@ FramesPointers:
 	dw NatuFrames
 	dw XatuFrames
 	dw MareepFrames
-	dw FlaaffyFrames
+	dw LainergieFrames
 	dw AmpharosFrames
 	dw JoliflorFrames
 	dw MarillFrames

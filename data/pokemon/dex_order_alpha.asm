@@ -108,7 +108,7 @@ AlphabeticalPokedexOrder:
 	db KOKIYAS
 	db KRABBOSS
 	db KRABBY
-	db FLAAFFY
+	db LAINERGIE
 	db DEWGONG
 	db LANTURN
 	db BLISSEY

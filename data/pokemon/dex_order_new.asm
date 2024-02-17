@@ -55,7 +55,7 @@ NewPokedexOrder:
 	db ARBOK
 	db INSOLOURDO
 	db MAREEP
-	db FLAAFFY
+	db LAINERGIE
 	db AMPHAROS
 	db AXOLOTO
 	db QUAGSIRE

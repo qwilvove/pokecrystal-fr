@@ -181,7 +181,7 @@ MonMenuIcons:
 	db ICON_BIRD        ; NATU
 	db ICON_BIRD        ; XATU
 	db ICON_FOX         ; MAREEP
-	db ICON_MONSTER     ; FLAAFFY
+	db ICON_MONSTER     ; LAINERGIE
 	db ICON_MONSTER     ; AMPHAROS
 	db ICON_ODDISH      ; JOLIFLOR
 	db ICON_JIGGLYPUFF  ; MARILL

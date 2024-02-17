@@ -179,7 +179,7 @@ AnimationPointers:
 	dw NatuAnimation
 	dw XatuAnimation
 	dw MareepAnimation
-	dw FlaaffyAnimation
+	dw LainergieAnimation
 	dw AmpharosAnimation
 	dw JoliflorAnimation
 	dw MarillAnimation
