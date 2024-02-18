@@ -237,7 +237,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const FARFURET    ; d7
 	const TEDDIURSA  ; d8
 	const URSARING   ; d9
-	const SLUGMA     ; da
+	const LIMAGMA     ; da
 	const MAGCARGO   ; db
 	const SWINUB     ; dc
 	const COCHIGNON  ; dd

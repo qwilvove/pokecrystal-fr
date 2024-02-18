@@ -217,7 +217,7 @@ FramesPointers:
 	dw FarfuretFrames
 	dw TeddiursaFrames
 	dw UrsaringFrames
-	dw SlugmaFrames
+	dw LimagmaFrames
 	dw MagcargoFrames
 	dw SwinubFrames
 	dw CochignonFrames

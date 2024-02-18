@@ -217,7 +217,7 @@ AnimationPointers:
 	dw FarfuretAnimation
 	dw TeddiursaAnimation
 	dw UrsaringAnimation
-	dw SlugmaAnimation
+	dw LimagmaAnimation
 	dw MagcargoAnimation
 	dw SwinubAnimation
 	dw CochignonAnimation

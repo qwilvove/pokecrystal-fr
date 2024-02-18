@@ -499,7 +499,7 @@ INCBIN "gfx/footprints/farfuret.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/teddiursa.1bpp",  footprint_bottom
 ; 217-224 top halves
 INCBIN "gfx/footprints/ursaring.1bpp",   footprint_top
-INCBIN "gfx/footprints/slugma.1bpp",     footprint_top
+INCBIN "gfx/footprints/limagma.1bpp",     footprint_top
 INCBIN "gfx/footprints/magcargo.1bpp",   footprint_top
 INCBIN "gfx/footprints/swinub.1bpp",     footprint_top
 INCBIN "gfx/footprints/cochignon.1bpp",  footprint_top
@@ -508,7 +508,7 @@ INCBIN "gfx/footprints/remoraid.1bpp",   footprint_top
 INCBIN "gfx/footprints/octillery.1bpp",  footprint_top
 ; 217-224 bottom halves
 INCBIN "gfx/footprints/ursaring.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/slugma.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/limagma.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/magcargo.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/swinub.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/cochignon.1bpp",  footprint_bottom

@@ -217,7 +217,7 @@ BitmasksPointers:
 	dw FarfuretBitmasks
 	dw TeddiursaBitmasks
 	dw UrsaringBitmasks
-	dw SlugmaBitmasks
+	dw LimagmaBitmasks
 	dw MagcargoBitmasks
 	dw SwinubBitmasks
 	dw CochignonBitmasks

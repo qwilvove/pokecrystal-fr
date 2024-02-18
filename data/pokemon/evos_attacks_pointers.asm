@@ -219,7 +219,7 @@ EvosAttacksPointers::
 	dw FarfuretEvosAttacks
 	dw TeddiursaEvosAttacks
 	dw UrsaringEvosAttacks
-	dw SlugmaEvosAttacks
+	dw LimagmaEvosAttacks
 	dw MagcargoEvosAttacks
 	dw SwinubEvosAttacks
 	dw CochignonEvosAttacks

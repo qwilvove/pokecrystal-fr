@@ -290,7 +290,7 @@ SECTION "Pics 11", ROMX
 
 DodrioBackpic:       INCBIN "gfx/pokemon/dodrio/back.2bpp.lz"
 ClefairyFrontpic:    INCBIN "gfx/pokemon/clefairy/front.animated.2bpp.lz"
-SlugmaFrontpic:      INCBIN "gfx/pokemon/slugma/front.animated.2bpp.lz"
+LimagmaFrontpic:      INCBIN "gfx/pokemon/limagma/front.animated.2bpp.lz"
 CaninosFrontpic:   INCBIN "gfx/pokemon/caninos/front.animated.2bpp.lz"
 SlowpokeFrontpic:    INCBIN "gfx/pokemon/slowpoke/front.animated.2bpp.lz"
 SmoochumFrontpic:    INCBIN "gfx/pokemon/smoochum/front.animated.2bpp.lz"
@@ -528,7 +528,7 @@ SECTION "Pics 16", ROMX
 HoothootBackpic:     INCBIN "gfx/pokemon/hoothoot/back.2bpp.lz"
 NoctowlBackpic:      INCBIN "gfx/pokemon/noctowl/back.2bpp.lz"
 MortyPic:            INCBIN "gfx/trainers/morty.2bpp.lz"
-SlugmaBackpic:       INCBIN "gfx/pokemon/slugma/back.2bpp.lz"
+LimagmaBackpic:       INCBIN "gfx/pokemon/limagma/back.2bpp.lz"
 KabutoBackpic:       INCBIN "gfx/pokemon/kabuto/back.2bpp.lz"
 EmpiflorBackpic:   INCBIN "gfx/pokemon/empiflor/back.2bpp.lz"
 MeowthBackpic:       INCBIN "gfx/pokemon/meowth/back.2bpp.lz"

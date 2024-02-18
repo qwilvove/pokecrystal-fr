@@ -212,7 +212,7 @@ NewPokedexOrder:
 	db CORNEBRE
 	db HOUNDOUR
 	db DEMOLOSSE
-	db SLUGMA
+	db LIMAGMA
 	db MAGCARGO
 	db FARFURET
 	db FEUFOREVE

@@ -57,7 +57,7 @@
 	const CRY_KAIMINUS
 	const CRY_GLIGAR
 	const CRY_CLEFFA
-	const CRY_SLUGMA
+	const CRY_LIMAGMA
 	const CRY_COXY
 	const CRY_ENTEI
 	const CRY_AXOLOTO

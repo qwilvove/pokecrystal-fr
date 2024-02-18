@@ -217,7 +217,7 @@ AnimationIdlePointers:
 	dw FarfuretAnimationIdle
 	dw TeddiursaAnimationIdle
 	dw UrsaringAnimationIdle
-	dw SlugmaAnimationIdle
+	dw LimagmaAnimationIdle
 	dw MagcargoAnimationIdle
 	dw SwinubAnimationIdle
 	dw CochignonAnimationIdle

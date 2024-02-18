@@ -219,7 +219,7 @@ MonMenuIcons:
 	db ICON_FOX         ; FARFURET
 	db ICON_MONSTER     ; TEDDIURSA
 	db ICON_MONSTER     ; URSARING
-	db ICON_BLOB        ; SLUGMA
+	db ICON_BLOB        ; LIMAGMA
 	db ICON_BLOB        ; MAGCARGO
 	db ICON_EQUINE      ; SWINUB
 	db ICON_EQUINE      ; COCHIGNON

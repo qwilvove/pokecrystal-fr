@@ -71,10 +71,10 @@ Cry_Girafarig:
 	channel 6, Cry_Girafarig_Ch6
 	channel 8, Cry_Girafarig_Ch8
 
-Cry_Slugma:
+Cry_Limagma:
 	channel_count 2
-	channel 5, Cry_Slugma_Ch5
-	channel 8, Cry_Slugma_Ch8
+	channel 5, Cry_Limagma_Ch5
+	channel 8, Cry_Limagma_Ch8
 
 Cry_Coxy:
 	channel_count 3
@@ -547,7 +547,7 @@ Cry_Girafarig_Ch8:
 	noise_note 7, 4, 1, 0
 	sound_ret
 
-Cry_Slugma_Ch5:
+Cry_Limagma_Ch5:
 	duty_cycle_pattern 2, 1, 0, 1
 	square_note 12, 15, 2, 1958
 	square_note 4, 15, 8, 1968
@@ -556,7 +556,7 @@ Cry_Slugma_Ch5:
 	square_note 8, 14, 1, 656
 	sound_ret
 
-Cry_Slugma_Ch8:
+Cry_Limagma_Ch8:
 	noise_note 12, 11, 2, 80
 	noise_note 8, 10, 8, 96
 	noise_note 6, 10, 8, 91

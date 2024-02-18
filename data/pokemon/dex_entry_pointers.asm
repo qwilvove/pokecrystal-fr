@@ -218,7 +218,7 @@ PokedexDataPointerTable:
 	dw FarfuretPokedexEntry
 	dw TeddiursaPokedexEntry
 	dw UrsaringPokedexEntry
-	dw SlugmaPokedexEntry
+	dw LimagmaPokedexEntry
 	dw MagcargoPokedexEntry
 	dw SwinubPokedexEntry
 	dw CochignonPokedexEntry

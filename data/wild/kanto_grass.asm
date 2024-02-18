@@ -577,7 +577,7 @@ KantoGrassWildMons:
 	db 27, FEAROW
 	db 28, GRIMER
 	db 29, FEAROW
-	db 29, SLUGMA
+	db 29, LIMAGMA
 	db 30, GROTADMORV
 	db 30, GROTADMORV
 	; nite
@@ -602,10 +602,10 @@ KantoGrassWildMons:
 	db 33, GROTADMORV
 	; day
 	db 30, FEAROW
-	db 29, SLUGMA
+	db 29, LIMAGMA
 	db 29, GRIMER
 	db 32, FEAROW
-	db 32, SLUGMA
+	db 32, LIMAGMA
 	db 33, GROTADMORV
 	db 33, GROTADMORV
 	; nite
@@ -633,7 +633,7 @@ KantoGrassWildMons:
 	db 27, FEAROW
 	db 28, GRIMER
 	db 29, FEAROW
-	db 29, SLUGMA
+	db 29, LIMAGMA
 	db 30, GROTADMORV
 	db 30, GROTADMORV
 	; nite

@@ -689,7 +689,7 @@ TeddiursaEggMoves:
 	db METAL_CLAW
 	db -1 ; end
 
-SlugmaEggMoves:
+LimagmaEggMoves:
 	db ACID_ARMOR
 	db -1 ; end
 

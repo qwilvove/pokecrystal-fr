@@ -2524,7 +2524,7 @@ FirebreatherGroup:
 	; FIREBREATHER (4)
 	db "AKIM@", TRAINERTYPE_NORMAL
 	db 32, KOFFING
-	db 32, SLUGMA
+	db 32, LIMAGMA
 	db -1 ; end
 
 	; FIREBREATHER (5)
@@ -3038,7 +3038,7 @@ CamperGroup:
 	db "BASTIEN@", TRAINERTYPE_NORMAL
 	db 30, GRAVALANCH
 	db 30, GRAVALANCH
-	db 30, SLUGMA
+	db 30, LIMAGMA
 	db 32, PSYDUCK
 	db -1 ; end
 

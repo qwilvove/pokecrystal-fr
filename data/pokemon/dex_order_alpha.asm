@@ -114,7 +114,7 @@ AlphabeticalPokedexOrder:
 	db LEUPHORIE
 	db LEVEINARD
 	db LEVIATOR
-	db SLUGMA
+	db LIMAGMA
 	db SMOOCHUM
 	db JYNX
 	db LAPRAS

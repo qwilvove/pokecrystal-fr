@@ -223,7 +223,7 @@ PokemonCries::
 	mon_cry CRY_AXOLOTO,       83,  175 ; FARFURET
 	mon_cry CRY_TEDDIURSA,  1954,  110 ; TEDDIURSA
 	mon_cry CRY_TEDDIURSA,  1600,  216 ; URSARING
-	mon_cry CRY_SLUGMA,     -472,  320 ; SLUGMA
+	mon_cry CRY_LIMAGMA,     -472,  320 ; LIMAGMA
 	mon_cry CRY_MAGCARGO,   -525,  448 ; MAGCARGO
 	mon_cry CRY_HERICENDRE,   510,  320 ; SWINUB
 	mon_cry CRY_MAGCARGO,   -265,  256 ; COCHIGNON
@@ -235,14 +235,14 @@ PokemonCries::
 	mon_cry CRY_AMPHAROS,   2217,  384 ; AIRMURE
 	mon_cry CRY_HERICENDRE,    57,  320 ; HOUNDOUR
 	mon_cry CRY_KAIMINUS,   -266,  256 ; DEMOLOSSE
-	mon_cry CRY_SLUGMA,      763,  256 ; HYPOROI
+	mon_cry CRY_LIMAGMA,      763,  256 ; HYPOROI
 	mon_cry CRY_FOUINETTE,      72,  560 ; PHANPY
 	mon_cry CRY_DONPHAN,       0,  416 ; DONPHAN
 	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGON2
 	mon_cry CRY_CAPUMAIN,      -352,  384 ; CERFROUSSE
 	mon_cry CRY_PICHU,      -538,  496 ; SMEARGLE
 	mon_cry CRY_CAPUMAIN,        44,  264 ; DEBUGANT
-	mon_cry CRY_SLUGMA,        0,  256 ; KAPOERA
+	mon_cry CRY_LIMAGMA,        0,  256 ; KAPOERA
 	mon_cry CRY_MARILL,      104,  256 ; SMOOCHUM
 	mon_cry CRY_HELIATRONC,   -728,  180 ; ELEKID
 	mon_cry CRY_TEDDIURSA,   374,   58 ; MAGBY
