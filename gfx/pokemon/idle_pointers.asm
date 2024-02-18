@@ -237,7 +237,7 @@ AnimationIdlePointers:
 	dw SmeargleAnimationIdle
 	dw DebugantAnimationIdle
 	dw KapoeraAnimationIdle
-	dw SmoochumAnimationIdle
+	dw LippoutiAnimationIdle
 	dw ElekidAnimationIdle
 	dw MagbyAnimationIdle
 	dw EcremeuhAnimationIdle

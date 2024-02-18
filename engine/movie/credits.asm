@@ -571,10 +571,10 @@ Credits_LoadBorderGFX:
 	dw CreditsPichuGFX     + 32 tiles
 	dw CreditsPichuGFX     + 48 tiles
 
-	dw CreditsSmoochumGFX
-	dw CreditsSmoochumGFX  + 16 tiles
-	dw CreditsSmoochumGFX  + 32 tiles
-	dw CreditsSmoochumGFX  + 48 tiles
+	dw CreditsLippoutiGFX
+	dw CreditsLippoutiGFX  + 16 tiles
+	dw CreditsLippoutiGFX  + 32 tiles
+	dw CreditsLippoutiGFX  + 48 tiles
 
 	dw CreditsDittoGFX
 	dw CreditsDittoGFX     + 16 tiles
@@ -604,7 +604,7 @@ CreditsBorderGFX:    INCBIN "gfx/credits/border.2bpp"
 
 CreditsMonsGFX: ; used only for BANK(CreditsMonsGFX)
 CreditsPichuGFX:     INCBIN "gfx/credits/pichu.2bpp"
-CreditsSmoochumGFX:  INCBIN "gfx/credits/smoochum.2bpp"
+CreditsLippoutiGFX:  INCBIN "gfx/credits/lippouti.2bpp"
 CreditsDittoGFX:     INCBIN "gfx/credits/ditto.2bpp"
 CreditsIgglybuffGFX: INCBIN "gfx/credits/igglybuff.2bpp"
 

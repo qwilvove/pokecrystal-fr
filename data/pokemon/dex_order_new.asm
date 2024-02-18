@@ -153,7 +153,7 @@ NewPokedexOrder:
 	db ECREMEUH
 	db MAGBY
 	db MAGMAR
-	db SMOOCHUM
+	db LIPPOUTI
 	db JYNX
 	db ELEKID
 	db ELEKTEK

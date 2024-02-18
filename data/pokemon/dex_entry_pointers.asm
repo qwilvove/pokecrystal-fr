@@ -238,7 +238,7 @@ PokedexDataPointerTable:
 	dw SmearglePokedexEntry
 	dw DebugantPokedexEntry
 	dw KapoeraPokedexEntry
-	dw SmoochumPokedexEntry
+	dw LippoutiPokedexEntry
 	dw ElekidPokedexEntry
 	dw MagbyPokedexEntry
 	dw EcremeuhPokedexEntry

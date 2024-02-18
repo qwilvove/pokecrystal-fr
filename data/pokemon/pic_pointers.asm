@@ -480,8 +480,8 @@ PokemonPicPointers::
 	dba_pic DebugantBackpic
 	dba_pic KapoeraFrontpic
 	dba_pic KapoeraBackpic
-	dba_pic SmoochumFrontpic
-	dba_pic SmoochumBackpic
+	dba_pic LippoutiFrontpic
+	dba_pic LippoutiBackpic
 	dba_pic ElekidFrontpic
 	dba_pic ElekidBackpic
 	dba_pic MagbyFrontpic

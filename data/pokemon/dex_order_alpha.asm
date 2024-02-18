@@ -115,7 +115,7 @@ AlphabeticalPokedexOrder:
 	db LEVEINARD
 	db LEVIATOR
 	db LIMAGMA
-	db SMOOCHUM
+	db LIPPOUTI
 	db JYNX
 	db LAPRAS
 	db CHINCHOU

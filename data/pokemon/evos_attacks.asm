@@ -3158,7 +3158,7 @@ KapoeraEvosAttacks:
 	db 49, TRIPLE_KICK
 	db 0 ; no more level-up moves
 
-SmoochumEvosAttacks:
+LippoutiEvosAttacks:
 	db EVOLVE_LEVEL, 30, JYNX
 	db 0 ; no more evolutions
 	db 1, POUND
