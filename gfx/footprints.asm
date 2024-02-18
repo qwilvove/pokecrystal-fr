@@ -501,7 +501,7 @@ INCBIN "gfx/footprints/teddiursa.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/ursaring.1bpp",   footprint_top
 INCBIN "gfx/footprints/limagma.1bpp",     footprint_top
 INCBIN "gfx/footprints/magcargo.1bpp",   footprint_top
-INCBIN "gfx/footprints/swinub.1bpp",     footprint_top
+INCBIN "gfx/footprints/marcacrin.1bpp",     footprint_top
 INCBIN "gfx/footprints/cochignon.1bpp",  footprint_top
 INCBIN "gfx/footprints/corayon.1bpp",    footprint_top
 INCBIN "gfx/footprints/remoraid.1bpp",   footprint_top
@@ -510,7 +510,7 @@ INCBIN "gfx/footprints/octillery.1bpp",  footprint_top
 INCBIN "gfx/footprints/ursaring.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/limagma.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/magcargo.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/swinub.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/marcacrin.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/cochignon.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/corayon.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/remoraid.1bpp",   footprint_bottom

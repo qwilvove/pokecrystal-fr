@@ -220,7 +220,7 @@ PokedexDataPointerTable:
 	dw UrsaringPokedexEntry
 	dw LimagmaPokedexEntry
 	dw MagcargoPokedexEntry
-	dw SwinubPokedexEntry
+	dw MarcacrinPokedexEntry
 	dw CochignonPokedexEntry
 	dw CorayonPokedexEntry
 	dw RemoraidPokedexEntry

@@ -2324,7 +2324,7 @@ HikerGroup:
 	; HIKER (9)
 	db "MARTIN@", TRAINERTYPE_NORMAL
 	db 35, ONIX
-	db 33, SWINUB
+	db 33, MARCACRIN
 	db -1 ; end
 
 	; HIKER (10)
@@ -3200,8 +3200,8 @@ BoarderGroup:
 
 	; BOARDER (2)
 	db "BILLY@", TRAINERTYPE_NORMAL
-	db 26, SWINUB
-	db 26, SWINUB
+	db 26, MARCACRIN
+	db 26, MARCACRIN
 	db -1 ; end
 
 	; BOARDER (3)

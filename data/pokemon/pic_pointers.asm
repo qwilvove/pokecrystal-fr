@@ -444,8 +444,8 @@ PokemonPicPointers::
 	dba_pic LimagmaBackpic
 	dba_pic MagcargoFrontpic
 	dba_pic MagcargoBackpic
-	dba_pic SwinubFrontpic
-	dba_pic SwinubBackpic
+	dba_pic MarcacrinFrontpic
+	dba_pic MarcacrinBackpic
 	dba_pic CochignonFrontpic
 	dba_pic CochignonBackpic
 	dba_pic CorayonFrontpic

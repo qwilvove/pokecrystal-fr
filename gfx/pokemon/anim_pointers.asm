@@ -219,7 +219,7 @@ AnimationPointers:
 	dw UrsaringAnimation
 	dw LimagmaAnimation
 	dw MagcargoAnimation
-	dw SwinubAnimation
+	dw MarcacrinAnimation
 	dw CochignonAnimation
 	dw CorayonAnimation
 	dw RemoraidAnimation

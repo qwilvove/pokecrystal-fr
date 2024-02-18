@@ -705,18 +705,18 @@ JohtoGrassWildMons:
 	def_grass_wildmons ICE_PATH_1F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 21, SWINUB
+	db 21, MARCACRIN
 	db 22, ZUBAT
 	db 22, GOLBAT
-	db 23, SWINUB
+	db 23, MARCACRIN
 	db 24, GOLBAT
 	db 22, GOLBAT
 	db 22, GOLBAT
 	; day
-	db 21, SWINUB
+	db 21, MARCACRIN
 	db 22, ZUBAT
 	db 22, GOLBAT
-	db 23, SWINUB
+	db 23, MARCACRIN
 	db 24, GOLBAT
 	db 22, GOLBAT
 	db 22, GOLBAT
@@ -733,18 +733,18 @@ JohtoGrassWildMons:
 	def_grass_wildmons ICE_PATH_B1F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 22, SWINUB
+	db 22, MARCACRIN
 	db 23, ZUBAT
 	db 23, GOLBAT
-	db 24, SWINUB
+	db 24, MARCACRIN
 	db 25, GOLBAT
 	db 23, GOLBAT
 	db 22, LIPPOUTOU
 	; day
-	db 22, SWINUB
+	db 22, MARCACRIN
 	db 23, ZUBAT
 	db 23, GOLBAT
-	db 24, SWINUB
+	db 24, MARCACRIN
 	db 25, GOLBAT
 	db 23, GOLBAT
 	db 22, LIPPOUTOU
@@ -761,18 +761,18 @@ JohtoGrassWildMons:
 	def_grass_wildmons ICE_PATH_B2F_MAHOGANY_SIDE
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, SWINUB
+	db 23, MARCACRIN
 	db 24, ZUBAT
 	db 24, GOLBAT
-	db 25, SWINUB
+	db 25, MARCACRIN
 	db 26, GOLBAT
 	db 22, LIPPOUTOU
 	db 24, LIPPOUTOU
 	; day
-	db 23, SWINUB
+	db 23, MARCACRIN
 	db 24, ZUBAT
 	db 24, GOLBAT
-	db 25, SWINUB
+	db 25, MARCACRIN
 	db 26, GOLBAT
 	db 22, LIPPOUTOU
 	db 24, LIPPOUTOU
@@ -789,18 +789,18 @@ JohtoGrassWildMons:
 	def_grass_wildmons ICE_PATH_B2F_BLACKTHORN_SIDE
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, SWINUB
+	db 23, MARCACRIN
 	db 24, ZUBAT
 	db 24, GOLBAT
-	db 25, SWINUB
+	db 25, MARCACRIN
 	db 26, GOLBAT
 	db 22, LIPPOUTOU
 	db 24, LIPPOUTOU
 	; day
-	db 23, SWINUB
+	db 23, MARCACRIN
 	db 24, ZUBAT
 	db 24, GOLBAT
-	db 25, SWINUB
+	db 25, MARCACRIN
 	db 26, GOLBAT
 	db 22, LIPPOUTOU
 	db 24, LIPPOUTOU
@@ -817,18 +817,18 @@ JohtoGrassWildMons:
 	def_grass_wildmons ICE_PATH_B3F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 24, SWINUB
+	db 24, MARCACRIN
 	db 25, ZUBAT
 	db 25, GOLBAT
-	db 26, SWINUB
+	db 26, MARCACRIN
 	db 22, LIPPOUTOU
 	db 24, LIPPOUTOU
 	db 26, LIPPOUTOU
 	; day
-	db 24, SWINUB
+	db 24, MARCACRIN
 	db 25, ZUBAT
 	db 25, GOLBAT
-	db 26, SWINUB
+	db 26, MARCACRIN
 	db 22, LIPPOUTOU
 	db 24, LIPPOUTOU
 	db 26, LIPPOUTOU

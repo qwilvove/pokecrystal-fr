@@ -219,7 +219,7 @@ AnimationIdlePointers:
 	dw UrsaringAnimationIdle
 	dw LimagmaAnimationIdle
 	dw MagcargoAnimationIdle
-	dw SwinubAnimationIdle
+	dw MarcacrinAnimationIdle
 	dw CochignonAnimationIdle
 	dw CorayonAnimationIdle
 	dw RemoraidAnimationIdle

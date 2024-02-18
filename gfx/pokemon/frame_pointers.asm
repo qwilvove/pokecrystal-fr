@@ -219,7 +219,7 @@ FramesPointers:
 	dw UrsaringFrames
 	dw LimagmaFrames
 	dw MagcargoFrames
-	dw SwinubFrames
+	dw MarcacrinFrames
 	dw CochignonFrames
 	dw CorayonFrames
 	dw RemoraidFrames

@@ -467,7 +467,7 @@ ClefairyBackpic:     INCBIN "gfx/pokemon/clefairy/back.2bpp.lz"
 VenonatBackpic:      INCBIN "gfx/pokemon/venonat/back.2bpp.lz"
 JoliflorBackpic:    INCBIN "gfx/pokemon/joliflor/back.2bpp.lz"
 Rival1Pic:           INCBIN "gfx/trainers/rival1.2bpp.lz"
-SwinubBackpic:       INCBIN "gfx/pokemon/swinub/back.2bpp.lz"
+MarcacrinBackpic:       INCBIN "gfx/pokemon/marcacrin/back.2bpp.lz"
 
 
 SECTION "Pics 15", ROMX
@@ -574,7 +574,7 @@ UnownCFrontpic:      INCBIN "gfx/pokemon/unown_c/front.animated.2bpp.lz"
 MistyPic:            INCBIN "gfx/trainers/misty.2bpp.lz"
 BlainePic:           INCBIN "gfx/trainers/blaine.2bpp.lz"
 UnownZFrontpic:      INCBIN "gfx/pokemon/unown_z/front.animated.2bpp.lz"
-SwinubFrontpic:      INCBIN "gfx/pokemon/swinub/front.animated.2bpp.lz"
+MarcacrinFrontpic:      INCBIN "gfx/pokemon/marcacrin/front.animated.2bpp.lz"
 EmbrylexBackpic:     INCBIN "gfx/pokemon/embrylex/back.2bpp.lz"
 PorygonBackpic:      INCBIN "gfx/pokemon/porygon/back.2bpp.lz"
 UnownHBackpic:       INCBIN "gfx/pokemon/unown_h/back.2bpp.lz"

@@ -132,7 +132,7 @@ AlphabeticalPokedexOrder:
 	db MAGNETON
 	db MALOSSE
 	db MARAISTE
-	db SWINUB
+	db MARCACRIN
 	db MARILL
 	db MEGANIUM
 	db CLEFFA

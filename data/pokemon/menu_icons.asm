@@ -221,7 +221,7 @@ MonMenuIcons:
 	db ICON_MONSTER     ; URSARING
 	db ICON_BLOB        ; LIMAGMA
 	db ICON_BLOB        ; MAGCARGO
-	db ICON_EQUINE      ; SWINUB
+	db ICON_EQUINE      ; MARCACRIN
 	db ICON_EQUINE      ; COCHIGNON
 	db ICON_SHELL       ; CORAYON
 	db ICON_FISH        ; REMORAID

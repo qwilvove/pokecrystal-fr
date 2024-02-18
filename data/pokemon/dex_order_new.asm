@@ -192,7 +192,7 @@ NewPokedexOrder:
 	db HYPOROI
 	db GLIGAR
 	db CADOIZO
-	db SWINUB
+	db MARCACRIN
 	db COCHIGNON
 	db TEDDIURSA
 	db URSARING

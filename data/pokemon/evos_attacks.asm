@@ -2942,7 +2942,7 @@ MagcargoEvosAttacks:
 	db 60, BODY_SLAM
 	db 0 ; no more level-up moves
 
-SwinubEvosAttacks:
+MarcacrinEvosAttacks:
 	db EVOLVE_LEVEL, 33, COCHIGNON
 	db 0 ; no more evolutions
 	db 1, TACKLE

@@ -693,7 +693,7 @@ LimagmaEggMoves:
 	db ACID_ARMOR
 	db -1 ; end
 
-SwinubEggMoves:
+MarcacrinEggMoves:
 	db TAKE_DOWN
 	db BITE
 	db BODY_SLAM

@@ -219,7 +219,7 @@ BitmasksPointers:
 	dw UrsaringBitmasks
 	dw LimagmaBitmasks
 	dw MagcargoBitmasks
-	dw SwinubBitmasks
+	dw MarcacrinBitmasks
 	dw CochignonBitmasks
 	dw CorayonBitmasks
 	dw RemoraidBitmasks

@@ -221,7 +221,7 @@ EvosAttacksPointers::
 	dw UrsaringEvosAttacks
 	dw LimagmaEvosAttacks
 	dw MagcargoEvosAttacks
-	dw SwinubEvosAttacks
+	dw MarcacrinEvosAttacks
 	dw CochignonEvosAttacks
 	dw CorayonEvosAttacks
 	dw RemoraidEvosAttacks
