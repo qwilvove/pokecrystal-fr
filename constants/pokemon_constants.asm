@@ -189,7 +189,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const SPINARAK   ; a7
 	const ARIADOS    ; a8
 	const CROBAT     ; a9
-	const CHINCHOU   ; aa
+	const LOUPIO   ; aa
 	const LANTURN    ; ab
 	const PICHU      ; ac
 	const CLEFFA     ; ad

@@ -209,7 +209,7 @@ Pokered_MonIndices:
 	db SPINARAK
 	db ARIADOS
 	db CROBAT
-	db CHINCHOU
+	db LOUPIO
 	db LANTURN
 	db PICHU
 	db CLEFFA

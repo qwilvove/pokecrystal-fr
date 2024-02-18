@@ -175,7 +175,7 @@ PokemonCries::
 	mon_cry CRY_SPINARAK,     17,  512 ; SPINARAK
 	mon_cry CRY_SPINARAK,   -174,  482 ; ARIADOS
 	mon_cry CRY_CARAPUCE,    -16,  320 ; CROBAT
-	mon_cry CRY_HERICENDRE,   969,  320 ; CHINCHOU
+	mon_cry CRY_HERICENDRE,   969,  320 ; LOUPIO
 	mon_cry CRY_HERICENDRE,   720,  272 ; LANTURN
 	mon_cry CRY_PICHU,         0,  320 ; PICHU
 	mon_cry CRY_CLEFFA,       97,  145 ; CLEFFA

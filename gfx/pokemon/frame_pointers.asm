@@ -169,7 +169,7 @@ FramesPointers:
 	dw SpinarakFrames
 	dw AriadosFrames
 	dw CrobatFrames
-	dw ChinchouFrames
+	dw LoupioFrames
 	dw LanturnFrames
 	dw PichuFrames
 	dw CleffaFrames

@@ -171,7 +171,7 @@ EvosAttacksPointers::
 	dw SpinarakEvosAttacks
 	dw AriadosEvosAttacks
 	dw CrobatEvosAttacks
-	dw ChinchouEvosAttacks
+	dw LoupioEvosAttacks
 	dw LanturnEvosAttacks
 	dw PichuEvosAttacks
 	dw CleffaEvosAttacks

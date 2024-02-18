@@ -391,7 +391,7 @@ INCBIN "gfx/footprints/spinarak.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/ariados.1bpp",    footprint_bottom
 ; 169-176 top halves
 INCBIN "gfx/footprints/crobat.1bpp",     footprint_top
-INCBIN "gfx/footprints/chinchou.1bpp",   footprint_top
+INCBIN "gfx/footprints/loupio.1bpp",   footprint_top
 INCBIN "gfx/footprints/lanturn.1bpp",    footprint_top
 INCBIN "gfx/footprints/pichu.1bpp",      footprint_top
 INCBIN "gfx/footprints/cleffa.1bpp",     footprint_top
@@ -400,7 +400,7 @@ INCBIN "gfx/footprints/togepi.1bpp",     footprint_top
 INCBIN "gfx/footprints/togetic.1bpp",    footprint_top
 ; 169-176 bottom halves
 INCBIN "gfx/footprints/crobat.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/chinchou.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/loupio.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/lanturn.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/pichu.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/cleffa.1bpp",     footprint_bottom

@@ -118,7 +118,7 @@ AlphabeticalPokedexOrder:
 	db LIPPOUTI
 	db LIPPOUTOU
 	db LOKHLASS
-	db CHINCHOU
+	db LOUPIO
 	db LUGIA
 	db MR__MIME
 	db MACHOP

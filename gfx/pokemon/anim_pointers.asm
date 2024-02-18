@@ -169,7 +169,7 @@ AnimationPointers:
 	dw SpinarakAnimation
 	dw AriadosAnimation
 	dw CrobatAnimation
-	dw ChinchouAnimation
+	dw LoupioAnimation
 	dw LanturnAnimation
 	dw PichuAnimation
 	dw CleffaAnimation

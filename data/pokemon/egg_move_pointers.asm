@@ -169,7 +169,7 @@ EggMovePointers::
 	dw SpinarakEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw ChinchouEggMoves
+	dw LoupioEggMoves
 	dw NoEggMoves
 	dw PichuEggMoves
 	dw CleffaEggMoves

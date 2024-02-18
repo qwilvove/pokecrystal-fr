@@ -341,8 +341,8 @@ PokemonPicPointers::
 	dba_pic AriadosBackpic
 	dba_pic CrobatFrontpic
 	dba_pic CrobatBackpic
-	dba_pic ChinchouFrontpic
-	dba_pic ChinchouBackpic
+	dba_pic LoupioFrontpic
+	dba_pic LoupioBackpic
 	dba_pic LanturnFrontpic
 	dba_pic LanturnBackpic
 	dba_pic PichuFrontpic

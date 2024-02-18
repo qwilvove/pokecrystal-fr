@@ -1,4 +1,4 @@
-	db CHINCHOU ; 170
+	db LOUPIO ; 170
 
 	db  75,  38,  38,  67,  56,  56
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/chinchou/front.dimensions"
+	INCBIN "gfx/pokemon/loupio/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_SLOW ; growth rate
 	dn EGG_WATER_2, EGG_WATER_2 ; egg groups

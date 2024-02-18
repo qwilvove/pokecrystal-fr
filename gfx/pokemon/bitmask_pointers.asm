@@ -169,7 +169,7 @@ BitmasksPointers:
 	dw SpinarakBitmasks
 	dw AriadosBitmasks
 	dw CrobatBitmasks
-	dw ChinchouBitmasks
+	dw LoupioBitmasks
 	dw LanturnBitmasks
 	dw PichuBitmasks
 	dw CleffaBitmasks

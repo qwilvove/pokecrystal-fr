@@ -171,7 +171,7 @@ MonMenuIcons:
 	db ICON_BUG         ; SPINARAK
 	db ICON_BUG         ; ARIADOS
 	db ICON_BAT         ; CROBAT
-	db ICON_FISH        ; CHINCHOU
+	db ICON_FISH        ; LOUPIO
 	db ICON_FISH        ; LANTURN
 	db ICON_PIKACHU     ; PICHU
 	db ICON_CLEFAIRY    ; CLEFFA

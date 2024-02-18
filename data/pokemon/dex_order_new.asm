@@ -175,7 +175,7 @@ NewPokedexOrder:
 	db CORAYON
 	db REMORAID
 	db OCTILLERY
-	db CHINCHOU
+	db LOUPIO
 	db LANTURN
 	db SEEL
 	db LAMANTINE

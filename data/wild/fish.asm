@@ -46,10 +46,10 @@ FishGroups:
 .Ocean_Good:
 	db  35 percent,     MAGIKARP,   20
 	db  70 percent,     TENTACOOL,  20
-	db  90 percent + 1, CHINCHOU,   20
+	db  90 percent + 1, LOUPIO,   20
 	db 100 percent,     time_group 2
 .Ocean_Super:
-	db  40 percent,     CHINCHOU,   40
+	db  40 percent,     LOUPIO,   40
 	db  70 percent,     time_group 3
 	db  90 percent + 1, TENTACRUEL, 40
 	db 100 percent,     LANTURN,    40

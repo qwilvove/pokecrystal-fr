@@ -498,7 +498,7 @@ SpinarakEggMoves:
 	db PURSUIT
 	db -1 ; end
 
-ChinchouEggMoves:
+LoupioEggMoves:
 	db FLAIL
 	db SUPERSONIC
 	db SCREECH
