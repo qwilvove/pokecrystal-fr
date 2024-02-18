@@ -121,7 +121,7 @@ FramesPointers:
 	dw SeakingFrames
 	dw StaryuFrames
 	dw StarmieFrames
-	dw MrMimeFrames
+	dw MMimeFrames
 	dw InsecateurFrames
 	dw LippoutouFrames
 	dw ElektekFrames

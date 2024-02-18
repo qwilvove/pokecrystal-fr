@@ -123,7 +123,7 @@ EvosAttacksPointers::
 	dw SeakingEvosAttacks
 	dw StaryuEvosAttacks
 	dw StarmieEvosAttacks
-	dw MrMimeEvosAttacks
+	dw MMimeEvosAttacks
 	dw InsecateurEvosAttacks
 	dw LippoutouEvosAttacks
 	dw ElektekEvosAttacks

@@ -283,7 +283,7 @@ INCBIN "gfx/footprints/seaking.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/staryu.1bpp",     footprint_bottom
 ; 121-128 top halves
 INCBIN "gfx/footprints/starmie.1bpp",    footprint_top
-INCBIN "gfx/footprints/mr__mime.1bpp",   footprint_top
+INCBIN "gfx/footprints/m__mime.1bpp",   footprint_top
 INCBIN "gfx/footprints/insecateur.1bpp",    footprint_top
 INCBIN "gfx/footprints/lippoutou.1bpp",       footprint_top
 INCBIN "gfx/footprints/elektek.1bpp", footprint_top
@@ -292,7 +292,7 @@ INCBIN "gfx/footprints/pinsir.1bpp",     footprint_top
 INCBIN "gfx/footprints/tauros.1bpp",     footprint_top
 ; 121-128 bottom halves
 INCBIN "gfx/footprints/starmie.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/mr__mime.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/m__mime.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/insecateur.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/lippoutou.1bpp",       footprint_bottom
 INCBIN "gfx/footprints/elektek.1bpp", footprint_bottom

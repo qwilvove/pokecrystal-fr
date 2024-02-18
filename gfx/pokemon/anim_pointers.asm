@@ -121,7 +121,7 @@ AnimationPointers:
 	dw SeakingAnimation
 	dw StaryuAnimation
 	dw StarmieAnimation
-	dw MrMimeAnimation
+	dw MMimeAnimation
 	dw InsecateurAnimation
 	dw LippoutouAnimation
 	dw ElektekAnimation

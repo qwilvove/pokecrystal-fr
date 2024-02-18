@@ -157,7 +157,7 @@ NewPokedexOrder:
 	db LIPPOUTOU
 	db ELEKID
 	db ELEKTEK
-	db MR__MIME
+	db M__MIME
 	db SMEARGLE
 	db CANARTICHO
 	db NATU

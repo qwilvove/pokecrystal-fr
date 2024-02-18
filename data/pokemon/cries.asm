@@ -127,7 +127,7 @@ PokemonCries::
 	mon_cry CRY_CHENIPAN,     16,  383 ; SEAKING
 	mon_cry CRY_PARAS,         2,  160 ; STARYU
 	mon_cry CRY_PARAS,         0,  256 ; STARMIE
-	mon_cry CRY_KRABBY,        8,  192 ; MR__MIME
+	mon_cry CRY_KRABBY,        8,  192 ; M__MIME
 	mon_cry CRY_CHENIPAN,      0,  256 ; INSECATEUR
 	mon_cry CRY_DROWZEE,     255,  383 ; LIPPOUTOU
 	mon_cry CRY_VOLTORB,     143,  383 ; ELEKTEK

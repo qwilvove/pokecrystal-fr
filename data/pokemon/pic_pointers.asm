@@ -245,8 +245,8 @@ PokemonPicPointers::
 	dba_pic StaryuBackpic
 	dba_pic StarmieFrontpic
 	dba_pic StarmieBackpic
-	dba_pic MrMimeFrontpic
-	dba_pic MrMimeBackpic
+	dba_pic MMimeFrontpic
+	dba_pic MMimeBackpic
 	dba_pic InsecateurFrontpic
 	dba_pic InsecateurBackpic
 	dba_pic LippoutouFrontpic

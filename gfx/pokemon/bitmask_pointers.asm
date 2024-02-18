@@ -121,7 +121,7 @@ BitmasksPointers:
 	dw SeakingBitmasks
 	dw StaryuBitmasks
 	dw StarmieBitmasks
-	dw MrMimeBitmasks
+	dw MMimeBitmasks
 	dw InsecateurBitmasks
 	dw LippoutouBitmasks
 	dw ElektekBitmasks

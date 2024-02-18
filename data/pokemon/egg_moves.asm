@@ -377,7 +377,7 @@ GoldeenEggMoves:
 	db HYDRO_PUMP
 	db -1 ; end
 
-MrMimeEggMoves:
+MMimeEggMoves:
 	db FUTURE_SIGHT
 	db HYPNOSIS
 	db MIMIC

@@ -1651,7 +1651,7 @@ StarmieEvosAttacks:
 	db 37, CONFUSE_RAY
 	db 0 ; no more level-up moves
 
-MrMimeEvosAttacks:
+MMimeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, BARRIER
 	db 6, CONFUSION

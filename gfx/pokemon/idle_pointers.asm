@@ -121,7 +121,7 @@ AnimationIdlePointers:
 	dw SeakingAnimationIdle
 	dw StaryuAnimationIdle
 	dw StarmieAnimationIdle
-	dw MrMimeAnimationIdle
+	dw MMimeAnimationIdle
 	dw InsecateurAnimationIdle
 	dw LippoutouAnimationIdle
 	dw ElektekAnimationIdle

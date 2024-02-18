@@ -41,7 +41,7 @@ Pokered_MonIndices:
 	db GRAVALANCH
 	db LEVEINARD
 	db MACHOKE
-	db MR__MIME
+	db M__MIME
 	db KICKLEE
 	db HITMONCHAN
 	db ARBOK

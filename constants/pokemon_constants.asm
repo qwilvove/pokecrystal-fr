@@ -140,7 +140,7 @@
 	const SEAKING    ; 77
 	const STARYU     ; 78
 	const STARMIE    ; 79
-	const MR__MIME   ; 7a
+	const M__MIME   ; 7a
 	const INSECATEUR    ; 7b
 	const LIPPOUTOU       ; 7c
 	const ELEKTEK ; 7d

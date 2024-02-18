@@ -5,7 +5,7 @@ SometimesFleeMons:
 	db MAGNEMITE
 	db GRIMER
 	db TANGELA
-	db MR__MIME
+	db M__MIME
 	db EVOLI
 	db PORYGON
 	db DRATINI

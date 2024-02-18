@@ -120,7 +120,7 @@ AlphabeticalPokedexOrder:
 	db LOKHLASS
 	db LOUPIO
 	db LUGIA
-	db MR__MIME
+	db M__MIME
 	db MACHOP
 	db MACHOKE
 	db MACHAMP
