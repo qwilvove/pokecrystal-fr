@@ -158,9 +158,9 @@ KantoWaterWildMons:
 
 	def_water_wildmons FUCHSIA_CITY
 	db 2 percent ; encounter rate
-	db 20, MAGIKARP
-	db 15, MAGIKARP
-	db 10, MAGIKARP
+	db 20, MAGICARPE
+	db 15, MAGICARPE
+	db 10, MAGICARPE
 	end_water_wildmons
 
 	def_water_wildmons CINNABAR_ISLAND

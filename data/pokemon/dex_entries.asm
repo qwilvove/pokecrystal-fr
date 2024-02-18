@@ -136,7 +136,7 @@ TaurosPokedexEntry::     INCLUDE "data/pokemon/dex_entries/tauros.asm"
 
 SECTION "Pokedex Entries 129-192", ROMX
 
-MagikarpPokedexEntry::   INCLUDE "data/pokemon/dex_entries/magikarp.asm"
+MagicarpePokedexEntry::   INCLUDE "data/pokemon/dex_entries/magicarpe.asm"
 LeviatorPokedexEntry::   INCLUDE "data/pokemon/dex_entries/leviator.asm"
 LokhlassPokedexEntry::     INCLUDE "data/pokemon/dex_entries/lokhlass.asm"
 DittoPokedexEntry::      INCLUDE "data/pokemon/dex_entries/ditto.asm"

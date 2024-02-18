@@ -1,15 +1,15 @@
-CheckMagikarpLength:
-	; Returns 3 if you select a Magikarp that beats the previous record.
-	; Returns 2 if you select a Magikarp, but the current record is longer.
+CheckMagicarpeLength:
+	; Returns 3 if you select a Magicarpe that beats the previous record.
+	; Returns 2 if you select a Magicarpe, but the current record is longer.
 	; Returns 1 if you press B in the Pokemon selection menu.
-	; Returns 0 if the Pokemon you select is not a Magikarp.
+	; Returns 0 if the Pokemon you select is not a Magicarpe.
 
-	; Let's start by selecting a Magikarp.
+	; Let's start by selecting a Magicarpe.
 	farcall SelectMonFromParty
 	jr c, .declined
 	ld a, [wCurPartySpecies]
-	cp MAGIKARP
-	jr nz, .not_magikarp
+	cp MAGICARPE
+	jr nz, .not_magicarpe
 
 	; Now let's compute its length based on its DVs and ID.
 	ld a, [wCurPartyMon]
@@ -26,22 +26,22 @@ CheckMagikarpLength:
 	add hl, bc
 	ld b, h
 	ld c, l
-	call CalcMagikarpLength
-	call PrintMagikarpLength
-	farcall StubbedTrainerRankings_MagikarpLength
-	ld hl, .MagikarpGuruMeasureText
+	call CalcMagicarpeLength
+	call PrintMagicarpeLength
+	farcall StubbedTrainerRankings_MagicarpeLength
+	ld hl, .MagicarpeGuruMeasureText
 	call PrintText
 
 	; Did we beat the record?
-	ld hl, wMagikarpLength
-	ld de, wBestMagikarpLengthFeet
+	ld hl, wMagicarpeLength
+	ld de, wBestMagicarpeLengthFeet
 	ld c, 2
 	call CompareBytes
 	jr nc, .not_long_enough
 
 	; NEW RECORD!!! Let's save that.
-	ld hl, wMagikarpLength
-	ld de, wBestMagikarpLengthFeet
+	ld hl, wMagicarpeLength
+	ld de, wBestMagicarpeLengthFeet
 	ld a, [hli]
 	ld [de], a
 	inc de
@@ -52,32 +52,32 @@ CheckMagikarpLength:
 	ld hl, wPartyMonOTs
 	call SkipNames
 	call CopyBytes
-	ld a, MAGIKARPLENGTH_BEAT_RECORD
+	ld a, MAGICARPELENGTH_BEAT_RECORD
 	ld [wScriptVar], a
 	ret
 
 .not_long_enough
-	ld a, MAGIKARPLENGTH_TOO_SHORT
+	ld a, MAGICARPELENGTH_TOO_SHORT
 	ld [wScriptVar], a
 	ret
 
 .declined
-	ld a, MAGIKARPLENGTH_REFUSED
+	ld a, MAGICARPELENGTH_REFUSED
 	ld [wScriptVar], a
 	ret
 
-.not_magikarp
-	xor a ; MAGIKARPLENGTH_NOT_MAGIKARP
+.not_magicarpe
+	xor a ; MAGICARPELENGTH_NOT_MAGICARPE
 	ld [wScriptVar], a
 	ret
 
-.MagikarpGuruMeasureText:
-	text_far _MagikarpGuruMeasureText
+.MagicarpeGuruMeasureText:
+	text_far _MagicarpeGuruMeasureText
 	text_end
 
-PrintMagikarpLength:
+PrintMagicarpeLength:
 	ld hl, wStringBuffer1
-	ld de, wMagikarpLength
+	ld de, wMagicarpeLength
 	lb bc, PRINTNUM_LEADINGZEROS | 2, 4
 	call PrintNum
 	ld a, "@"
@@ -98,8 +98,8 @@ PrintMagikarpLength:
 	ld bc, 6
 	jp CopyBytes
 
-CalcMagikarpLength:
-; Return Magikarp's length (in mm) at wMagikarpLength (big endian).
+CalcMagicarpeLength:
+; Return Magicarpe's length (in mm) at wMagicarpeLength (big endian).
 ;
 ; input:
 ;   de: wEnemyMonDVs
@@ -108,17 +108,17 @@ CalcMagikarpLength:
 ; This function is poorly commented.
 
 ; In short, it generates a value between 190 and 1786 using
-; a Magikarp's DVs and its trainer ID. This value is further
-; filtered in LoadEnemyMon to make longer Magikarp even rarer.
+; a Magicarpe's DVs and its trainer ID. This value is further
+; filtered in LoadEnemyMon to make longer Magicarpe even rarer.
 
 ; The value is generated from a lookup table.
 ; The index is determined by the dv xored with the player's trainer id.
 
 ; bc = rrc(dv[0]) ++ rrc(dv[1]) ^ rrc(id)
 
-; if bc < 10:    [wMagikarpLength] = c + 190
-; if bc ≥ $ff00: [wMagikarpLength] = c + 1370
-; else:          [wMagikarpLength] = z * 100 + (bc - x) / y
+; if bc < 10:    [wMagicarpeLength] = c + 190
+; if bc ≥ $ff00: [wMagicarpeLength] = c + 1370
+; else:          [wMagicarpeLength] = z * 100 + (bc - x) / y
 
 ; X, Y, and Z depend on the value of b as follows:
 
@@ -179,7 +179,7 @@ CalcMagikarpLength:
 
 .no
 
-	ld hl, MagikarpLengths
+	ld hl, MagicarpeLengths
 	ld a, 2
 	ld [wTempByteValue], a
 
@@ -237,14 +237,14 @@ CalcMagikarpLength:
 	ld e, l
 
 .done
-	ld hl, wMagikarpLength
+	ld hl, wMagicarpeLength
 	ld [hl], d
 	inc hl
 	ld [hl], e
 	ret
 
 .BCLessThanDE:
-; BUG: Magikarp lengths can be miscalculated (see docs/bugs_and_glitches.md)
+; BUG: Magicarpe lengths can be miscalculated (see docs/bugs_and_glitches.md)
 	ld a, b
 	cp d
 	ret c
@@ -263,14 +263,14 @@ CalcMagikarpLength:
 	ld b, a
 	ret
 
-INCLUDE "data/events/magikarp_lengths.asm"
+INCLUDE "data/events/magicarpe_lengths.asm"
 
-MagikarpHouseSign:
-	ld a, [wBestMagikarpLengthFeet]
-	ld [wMagikarpLength], a
-	ld a, [wBestMagikarpLengthInches]
-	ld [wMagikarpLength + 1], a
-	call PrintMagikarpLength
+MagicarpeHouseSign:
+	ld a, [wBestMagicarpeLengthFeet]
+	ld [wMagicarpeLength], a
+	ld a, [wBestMagicarpeLengthInches]
+	ld [wMagicarpeLength + 1], a
+	call PrintMagicarpeLength
 	ld hl, .KarpGuruRecordText
 	call PrintText
 	ret

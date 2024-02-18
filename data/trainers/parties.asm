@@ -1616,10 +1616,10 @@ BugCatcherGroup:
 FisherGroup:
 	; FISHER (1)
 	db "CESAR@", TRAINERTYPE_NORMAL
-	db  5, MAGIKARP
-	db  5, MAGIKARP
-	db 15, MAGIKARP
-	db  5, MAGIKARP
+	db  5, MAGICARPE
+	db  5, MAGICARPE
+	db 15, MAGICARPE
+	db  5, MAGICARPE
 	db -1 ; end
 
 	; FISHER (2)
@@ -1647,9 +1647,9 @@ FisherGroup:
 
 	; FISHER (6)
 	db "EUGENE@", TRAINERTYPE_NORMAL
-	db 10, MAGIKARP
+	db 10, MAGICARPE
 	db 10, LEVIATOR
-	db 15, MAGIKARP
+	db 15, MAGICARPE
 	db 15, LEVIATOR
 	db -1 ; end
 
@@ -1665,10 +1665,10 @@ FisherGroup:
 
 	; FISHER (9)
 	db "LUCAS@", TRAINERTYPE_NORMAL
-	db 22, MAGIKARP
-	db 22, MAGIKARP
-	db 22, MAGIKARP
-	db 22, MAGIKARP
+	db 22, MAGICARPE
+	db 22, MAGICARPE
+	db 22, MAGICARPE
+	db 22, MAGICARPE
 	db -1 ; end
 
 	; FISHER (10)
@@ -1700,8 +1700,8 @@ FisherGroup:
 
 	; FISHER (14)
 	db "SIMONIN@", TRAINERTYPE_NORMAL
-	db 25, MAGIKARP
-	db 25, MAGIKARP
+	db 25, MAGICARPE
+	db 25, MAGICARPE
 	db 31, QWILFISH
 	db 31, TENTACRUEL
 	db -1 ; end

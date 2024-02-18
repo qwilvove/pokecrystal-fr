@@ -126,7 +126,7 @@ AlphabeticalPokedexOrder:
 	db MACKOGNEUR
 	db MACRONIUM
 	db MAGBY
-	db MAGIKARP
+	db MAGICARPE
 	db MAGMAR
 	db MAGNEMITE
 	db MAGNETON

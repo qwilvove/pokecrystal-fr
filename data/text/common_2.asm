@@ -1048,7 +1048,7 @@ _ContestJudging_ThirdPlaceScoreText::
 	text " points!"
 	prompt
 
-_MagikarpGuruMeasureText::
+_MagicarpeGuruMeasureText::
 	text "Je vais mesurer"
 	line "ce MAGICARPE."
 
@@ -1065,7 +1065,7 @@ _KarpGuruRecordText::
 	text_ram wStringBuffer1
 	text "cm par"
 	line "@"
-	text_ram wMagikarpRecordHoldersName
+	text_ram wMagicarpeRecordHoldersName
 	text_promptbutton
 	text_end
 

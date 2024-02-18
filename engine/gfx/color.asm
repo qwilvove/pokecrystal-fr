@@ -133,18 +133,18 @@ SGB_ApplyPartyMenuHPPals:
 	ld [hl], e
 	ret
 
-Intro_LoadMagikarpPalettes: ; unreferenced
+Intro_LoadMagicarpePalettes: ; unreferenced
 	call CheckCGB
 	ret z
 
 ; CGB only
-	ld hl, .MagikarpBGPal
+	ld hl, .MagicarpeBGPal
 	ld de, wBGPals1
 	ld bc, 1 palettes
 	ld a, BANK(wBGPals1)
 	call FarCopyWRAM
 
-	ld hl, .MagikarpOBPal
+	ld hl, .MagicarpeOBPal
 	ld de, wOBPals1
 	ld bc, 1 palettes
 	ld a, BANK(wOBPals1)
@@ -155,11 +155,11 @@ Intro_LoadMagikarpPalettes: ; unreferenced
 	ldh [hCGBPalUpdate], a
 	ret
 
-.MagikarpBGPal:
-INCLUDE "gfx/intro/gs_magikarp_bg.pal"
+.MagicarpeBGPal:
+INCLUDE "gfx/intro/gs_magicarpe_bg.pal"
 
-.MagikarpOBPal:
-INCLUDE "gfx/intro/gs_magikarp_ob.pal"
+.MagicarpeOBPal:
+INCLUDE "gfx/intro/gs_magicarpe_ob.pal"
 
 Intro_LoadAllPal0: ; unreferenced
 	call CheckCGB

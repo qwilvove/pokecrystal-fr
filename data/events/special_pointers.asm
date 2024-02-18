@@ -36,8 +36,8 @@ SpecialsPointers::
 	add_special ContestDropOffMons
 	add_special ContestReturnMons
 	add_special GiveParkBalls
-	add_special CheckMagikarpLength
-	add_special MagikarpHouseSign
+	add_special CheckMagicarpeLength
+	add_special MagicarpeHouseSign
 	add_special HealParty ; this is both a special and a predef
 	add_special PokemonCenterPC
 	add_special PlayersHousePC

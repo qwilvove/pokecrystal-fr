@@ -129,7 +129,7 @@ PokedexDataPointerTable:
 	dw MagmarPokedexEntry
 	dw PinsirPokedexEntry
 	dw TaurosPokedexEntry
-	dw MagikarpPokedexEntry
+	dw MagicarpePokedexEntry
 	dw LeviatorPokedexEntry
 	dw LokhlassPokedexEntry
 	dw DittoPokedexEntry

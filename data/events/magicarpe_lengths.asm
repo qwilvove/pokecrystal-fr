@@ -1,5 +1,5 @@
-MagikarpLengths:
-; [wMagikarpLength] = z * 100 + (bc - x) / y
+MagicarpeLengths:
+; [wMagicarpeLength] = z * 100 + (bc - x) / y
 ; First argument is the bc threshold as well as x.
 ; Second argument is y.
 ; In reality, due to the bug at .BCLessThanDE,

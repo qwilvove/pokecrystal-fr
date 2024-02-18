@@ -9,7 +9,7 @@ SpriteMons:
 	db ODDISH
 	db ECTOPLASMA
 	db ZUBAT
-	db MAGIKARP
+	db MAGICARPE
 	db CARAPUCE
 	db TOGEPI
 	db BUTTERFREE

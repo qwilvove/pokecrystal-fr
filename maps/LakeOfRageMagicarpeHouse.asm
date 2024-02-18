@@ -1,60 +1,60 @@
 	object_const_def
-	const LAKEOFRAGEMAGIKARPHOUSE_FISHING_GURU
+	const LAKEOFRAGEMAGICARPEHOUSE_FISHING_GURU
 
-LakeOfRageMagikarpHouse_MapScripts:
+LakeOfRageMagicarpeHouse_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-MagikarpLengthRaterScript:
+MagicarpeLengthRaterScript:
 	faceplayer
 	opentext
 	checkevent EVENT_LAKE_OF_RAGE_ELIXIR_ON_STANDBY
 	iftrue .GetReward
-	checkevent EVENT_LAKE_OF_RAGE_ASKED_FOR_MAGIKARP
-	iftrue .AskedForMagikarp
+	checkevent EVENT_LAKE_OF_RAGE_ASKED_FOR_MAGICARPE
+	iftrue .AskedForMagicarpe
 	checkevent EVENT_CLEARED_ROCKET_HIDEOUT
 	iftrue .ClearedRocketHideout
-	checkevent EVENT_LAKE_OF_RAGE_EXPLAINED_WEIRD_MAGIKARP
+	checkevent EVENT_LAKE_OF_RAGE_EXPLAINED_WEIRD_MAGICARPE
 	iftrue .ExplainedHistory
-	writetext MagikarpLengthRaterText_LakeOfRageHistory
+	writetext MagicarpeLengthRaterText_LakeOfRageHistory
 	waitbutton
 	closetext
-	setevent EVENT_LAKE_OF_RAGE_EXPLAINED_WEIRD_MAGIKARP
+	setevent EVENT_LAKE_OF_RAGE_EXPLAINED_WEIRD_MAGICARPE
 	end
 
 .ExplainedHistory:
-	writetext MagikarpLengthRaterText_MenInBlack
+	writetext MagicarpeLengthRaterText_MenInBlack
 	waitbutton
 	closetext
 	end
 
 .ClearedRocketHideout:
-	writetext MagikarpLengthRaterText_WorldsLargestMagikarp
+	writetext MagicarpeLengthRaterText_WorldsLargestMagicarpe
 	waitbutton
 	closetext
-	setevent EVENT_LAKE_OF_RAGE_ASKED_FOR_MAGIKARP
+	setevent EVENT_LAKE_OF_RAGE_ASKED_FOR_MAGICARPE
 	end
 
-.AskedForMagikarp:
-	setval MAGIKARP
+.AskedForMagicarpe:
+	setval MAGICARPE
 	special FindPartyMonThatSpecies
 	iffalse .ClearedRocketHideout
-	writetext MagikarpLengthRaterText_YouHaveAMagikarp
+	writetext MagicarpeLengthRaterText_YouHaveAMagicarpe
 	waitbutton
-	special CheckMagikarpLength
-	ifequal MAGIKARPLENGTH_NOT_MAGIKARP, .NotMagikarp
-	ifequal MAGIKARPLENGTH_REFUSED, .Refused
-	ifequal MAGIKARPLENGTH_TOO_SHORT, .TooShort
-	; MAGIKARPLENGTH_BEAT_RECORD
+	special CheckMagicarpeLength
+	ifequal MAGICARPELENGTH_NOT_MAGICARPE, .NotMagicarpe
+	ifequal MAGICARPELENGTH_REFUSED, .Refused
+	ifequal MAGICARPELENGTH_TOO_SHORT, .TooShort
+	; MAGICARPELENGTH_BEAT_RECORD
 	sjump .GetReward
 
 .GetReward:
-	writetext MagikarpLengthRaterText_Memento
+	writetext MagicarpeLengthRaterText_Memento
 	promptbutton
 	verbosegiveitem ELIXER
 	iffalse .NoRoom
-	writetext MagikarpLengthRaterText_Bonus
+	writetext MagicarpeLengthRaterText_Bonus
 	waitbutton
 	closetext
 	clearevent EVENT_LAKE_OF_RAGE_ELIXIR_ON_STANDBY
@@ -66,30 +66,30 @@ MagikarpLengthRaterScript:
 	end
 
 .TooShort:
-	writetext MagikarpLengthRaterText_TooShort
+	writetext MagicarpeLengthRaterText_TooShort
 	waitbutton
 	closetext
 	end
 
-.NotMagikarp:
-	writetext MagikarpLengthRaterText_NotMagikarp
+.NotMagicarpe:
+	writetext MagicarpeLengthRaterText_NotMagicarpe
 	waitbutton
 	closetext
 	end
 
 .Refused:
-	writetext MagikarpLengthRaterText_Refused
+	writetext MagicarpeLengthRaterText_Refused
 	waitbutton
 	closetext
 	end
 
-LakeOfRageMagikarpHouseUnusedRecordSign: ; unreferenced
-	jumptext LakeOfRageMagikarpHouseUnusedRecordText
+LakeOfRageMagicarpeHouseUnusedRecordSign: ; unreferenced
+	jumptext LakeOfRageMagicarpeHouseUnusedRecordText
 
-MagikarpHouseBookshelf:
+MagicarpeHouseBookshelf:
 	jumpstd DifficultBookshelfScript
 
-MagikarpLengthRaterText_LakeOfRageHistory:
+MagicarpeLengthRaterText_LakeOfRageHistory:
 	text "Le LAC COLERE est"
 	line "en fait un cratère"
 
@@ -123,7 +123,7 @@ MagikarpLengthRaterText_LakeOfRageHistory:
 	cont "passe."
 	done
 
-MagikarpLengthRaterText_MenInBlack:
+MagicarpeLengthRaterText_MenInBlack:
 	text "Ce LAC n'est plus"
 	line "normal depuis"
 
@@ -131,7 +131,7 @@ MagikarpLengthRaterText_MenInBlack:
 	line "hommes en noir."
 	done
 
-MagikarpLengthRaterText_WorldsLargestMagikarp:
+MagicarpeLengthRaterText_WorldsLargestMagicarpe:
 	text "Le LAC COLERE est"
 	line "redevenu normal."
 
@@ -149,7 +149,7 @@ MagikarpLengthRaterText_WorldsLargestMagikarp:
 	cont "as une."
 	done
 
-MagikarpLengthRaterText_YouHaveAMagikarp:
+MagicarpeLengthRaterText_YouHaveAMagicarpe:
 	text "Ah, tu as un"
 	line "MAGICARPE! Laisse-"
 
@@ -157,7 +157,7 @@ MagikarpLengthRaterText_YouHaveAMagikarp:
 	line "taille."
 	done
 
-MagikarpLengthRaterText_Memento:
+MagicarpeLengthRaterText_Memento:
 	text "Whaou! Celui-ci"
 	line "est démesuré!"
 
@@ -168,7 +168,7 @@ MagikarpLengthRaterText_Memento:
 	line "récompense!"
 	done
 
-MagikarpLengthRaterText_Bonus:
+MagicarpeLengthRaterText_Bonus:
 	text "Ce qui est impor-"
 	line "tant, c'est d'épa-"
 
@@ -176,7 +176,7 @@ MagikarpLengthRaterText_Bonus:
 	line "Suis mes conseils!"
 	done
 
-MagikarpLengthRaterText_TooShort:
+MagicarpeLengthRaterText_TooShort:
 	text "Whaou! C'est pas"
 	line "mal du tout!"
 
@@ -187,12 +187,12 @@ MagikarpLengthRaterText_TooShort:
 	line "vu des plus gros."
 	done
 
-MagikarpLengthRaterText_NotMagikarp:
+MagicarpeLengthRaterText_NotMagicarpe:
 	text "Quoi? Ce n'est pas"
 	line "un MAGICARPE!"
 	done
 
-MagikarpLengthRaterText_Refused:
+MagicarpeLengthRaterText_Refused:
 	text "Alors... Tu n'as"
 	line "rien pris qui"
 
@@ -202,7 +202,7 @@ MagikarpLengthRaterText_Refused:
 	cont "prochaine fois!"
 	done
 
-LakeOfRageMagikarpHouseUnusedRecordText:
+LakeOfRageMagicarpeHouseUnusedRecordText:
 	text "RECORD ACTUEL"
 
 	para "@"
@@ -213,10 +213,10 @@ LakeOfRageMagikarpHouseUnusedRecordText:
 	text_ram wStringBuffer4
 	text_end
 
-LakeOfRageMagikarpHouseUnusedDummyText: ; unreferenced
+LakeOfRageMagicarpeHouseUnusedDummyText: ; unreferenced
 	text_end
 
-LakeOfRageMagikarpHouse_MapEvents:
+LakeOfRageMagicarpeHouse_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
@@ -226,8 +226,8 @@ LakeOfRageMagikarpHouse_MapEvents:
 	def_coord_events
 
 	def_bg_events
-	bg_event  0,  1, BGEVENT_READ, MagikarpHouseBookshelf
-	bg_event  1,  1, BGEVENT_READ, MagikarpHouseBookshelf
+	bg_event  0,  1, BGEVENT_READ, MagicarpeHouseBookshelf
+	bg_event  1,  1, BGEVENT_READ, MagicarpeHouseBookshelf
 
 	def_object_events
-	object_event  2,  3, SPRITE_FISHING_GURU, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, MagikarpLengthRaterScript, -1
+	object_event  2,  3, SPRITE_FISHING_GURU, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, MagicarpeLengthRaterScript, -1

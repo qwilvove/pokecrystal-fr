@@ -259,8 +259,8 @@ PokemonPicPointers::
 	dba_pic PinsirBackpic
 	dba_pic TaurosFrontpic
 	dba_pic TaurosBackpic
-	dba_pic MagikarpFrontpic
-	dba_pic MagikarpBackpic
+	dba_pic MagicarpeFrontpic
+	dba_pic MagicarpeBackpic
 	dba_pic LeviatorFrontpic
 	dba_pic LeviatorBackpic
 	dba_pic LokhlassFrontpic

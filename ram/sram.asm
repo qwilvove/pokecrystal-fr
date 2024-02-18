@@ -273,8 +273,8 @@ sTrainerRankingCurrentSlotsStreak:: ds 2
 sTrainerRankingLongestSlotsStreak:: ds 2
 sTrainerRankingTotalSlotsPayouts:: ds 4
 sTrainerRankingTotalBattlePayouts:: ds 4
-sTrainerRankingLongestMagikarp:: ds 2
-sTrainerRankingShortestMagikarp:: ds 2
+sTrainerRankingLongestMagicarpe:: ds 2
+sTrainerRankingShortestMagicarpe:: ds 2
 sTrainerRankingBugContestScore:: ds 2
 sTrainerRankingsChecksum:: ds 2
 sTrainerRankingsEnd::

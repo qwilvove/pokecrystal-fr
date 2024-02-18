@@ -33,14 +33,14 @@ StubbedTrainerRankings_HallOfFame2::
 	call CloseSRAM
 	ret
 
-StubbedTrainerRankings_MagikarpLength:
+StubbedTrainerRankings_MagicarpeLength:
 	ret
-	ld a, BANK(sTrainerRankingLongestMagikarp)
+	ld a, BANK(sTrainerRankingLongestMagicarpe)
 	call OpenSRAM
-	ld de, wMagikarpLength
-	ld hl, sTrainerRankingLongestMagikarp
+	ld de, wMagicarpeLength
+	ld hl, sTrainerRankingLongestMagicarpe
 
-	; Is this Magikarp the longest measured?
+	; Is this Magicarpe the longest measured?
 	ld a, [de]
 	cp [hl]
 	jr z, .isLowByteHigher
@@ -65,15 +65,15 @@ StubbedTrainerRankings_MagikarpLength:
 	ld [hl], a
 
 .checkShortest
-	; First, check if the record for shortest Magikarp is 0.
+	; First, check if the record for shortest Magicarpe is 0.
 	; This seems unnecessary, because the value is initialized to 100.0 cm.
-	ld hl, sTrainerRankingShortestMagikarp
+	ld hl, sTrainerRankingShortestMagicarpe
 	ld a, [hli]
 	or [hl]
 	dec hl
 	jr z, .newRecordShortest
 
-	; Now check if this Magikarp is the shortest
+	; Now check if this Magicarpe is the shortest
 	ld a, [de]
 	cp [hl]
 	jr z, .isLowByteLower
@@ -562,8 +562,8 @@ InitializeTrainerRankings: ; unreferenced
 	xor a
 	call ByteFill
 
-	; Initialize the shortest Magikarp to 100.0 cm
-	ld hl, sTrainerRankingShortestMagikarp
+	; Initialize the shortest Magicarpe to 100.0 cm
+	ld hl, sTrainerRankingShortestMagicarpe
 	ld a, $3
 	ld [hli], a
 	ld [hl], $e8

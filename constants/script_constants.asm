@@ -268,12 +268,12 @@ DEF NUM_DECODESCS EQU const_value
 	const GBCHECK_SGB ; 1
 	const GBCHECK_CGB ; 2
 
-; CheckMagikarpLength return values
+; CheckMagicarpeLength return values
 	const_def
-	const MAGIKARPLENGTH_NOT_MAGIKARP ; 0
-	const MAGIKARPLENGTH_REFUSED      ; 1
-	const MAGIKARPLENGTH_TOO_SHORT    ; 2
-	const MAGIKARPLENGTH_BEAT_RECORD  ; 3
+	const MAGICARPELENGTH_NOT_MAGICARPE ; 0
+	const MAGICARPELENGTH_REFUSED      ; 1
+	const MAGICARPELENGTH_TOO_SHORT    ; 2
+	const MAGICARPELENGTH_BEAT_RECORD  ; 3
 
 ; ReturnShuckie return values
 	const_def

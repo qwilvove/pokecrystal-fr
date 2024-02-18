@@ -128,7 +128,7 @@ FramesPointers:
 	dw MagmarFrames
 	dw PinsirFrames
 	dw TaurosFrames
-	dw MagikarpFrames
+	dw MagicarpeFrames
 	dw LeviatorFrames
 	dw LokhlassFrames
 	dw DittoFrames

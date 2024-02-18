@@ -93,9 +93,9 @@ Fixes in the [multi-player battle engine](#multi-player-battle-engine) category 
 - [Scripted events](#scripted-events)
   - [Clair can give TM24 Dragonbreath twice](#clair-can-give-tm24-dragonbreath-twice)
   - [Daisy's grooming doesn't always increase happiness](#daisys-grooming-doesnt-always-increase-happiness)
-  - [Magikarp in Lake of Rage are shorter, not longer](#magikarp-in-lake-of-rage-are-shorter-not-longer)
-  - [Magikarp length limits have a unit conversion error](#magikarp-length-limits-have-a-unit-conversion-error)
-  - [Magikarp lengths can be miscalculated](#magikarp-lengths-can-be-miscalculated)
+  - [Magicarpe in Lake of Rage are shorter, not longer](#magicarpe-in-lake-of-rage-are-shorter-not-longer)
+  - [Magicarpe length limits have a unit conversion error](#magicarpe-length-limits-have-a-unit-conversion-error)
+  - [Magicarpe lengths can be miscalculated](#magicarpe-lengths-can-be-miscalculated)
   - [`CheckOwnMon` only checks the first five letters of OT names](#checkownmon-only-checks-the-first-five-letters-of-ot-names)
   - [`CheckOwnMonAnywhere` does not check the Day-Care](#checkownmonanywhere-does-not-check-the-day-care)
   - [The unused `phonecall` script command may crash](#the-unused-phonecall-script-command-may-crash)
@@ -2349,15 +2349,15 @@ CopyPokemonName_Buffer1_Buffer3:
 ```
 
 
-### Magikarp in Lake of Rage are shorter, not longer
+### Magicarpe in Lake of Rage are shorter, not longer
 
 `cp HIGH(1024)` should be `cp 3`, since 1024 mm = 3'4", but `HIGH(1024)` = 4.
 
-**Fix:** Edit `LoadEnemyMon.CheckMagikarpArea` in [engine/battle/core.asm](https://github.com/pret/pokecrystal/blob/master/engine/battle/core.asm):
+**Fix:** Edit `LoadEnemyMon.CheckMagicarpeArea` in [engine/battle/core.asm](https://github.com/pret/pokecrystal/blob/master/engine/battle/core.asm):
 
 ```diff
- .CheckMagikarpArea:
--; BUG: Magikarp in Lake of Rage are shorter, not longer (see docs/bugs_and_glitches.md)
+ .CheckMagicarpeArea:
+-; BUG: Magicarpe in Lake of Rage are shorter, not longer (see docs/bugs_and_glitches.md)
  	ld a, [wMapGroup]
  	cp GROUP_LAKE_OF_RAGE
 -	jr z, .Happiness
@@ -2371,40 +2371,40 @@ CopyPokemonName_Buffer1_Buffer3:
  	cp 39 percent + 1
  	jr c, .Happiness
  ; Try again if length < 1024 mm (i.e. if HIGH(length) < 3 feet)
- 	ld a, [wMagikarpLength]
+ 	ld a, [wMagicarpeLength]
 -	cp HIGH(1024)
 +	cp 3
  	jr c, .GenerateDVs ; try again
 ```
 
 
-### Magikarp length limits have a unit conversion error
+### Magicarpe length limits have a unit conversion error
 
 - `cp HIGH(1536)` should be `cp 5`, since 1536 mm = 5'0", but `HIGH(1536)` = 6.
 - `cp LOW(1616)` should be `cp 4`, since 1616 mm = 5'4", but `LOW(1616)` = 80.
 - `cp LOW(1600)` should be `cp 3`, since 1600 mm = 5'3", but `LOW(1600)` = 64.
 
-**Fix:** Edit `LoadEnemyMon.CheckMagikarpArea` in [engine/battle/core.asm](https://github.com/pret/pokecrystal/blob/master/engine/battle/core.asm):
+**Fix:** Edit `LoadEnemyMon.CheckMagicarpeArea` in [engine/battle/core.asm](https://github.com/pret/pokecrystal/blob/master/engine/battle/core.asm):
 
 ```diff
- ; Get Magikarp's length
--; BUG: Magikarp length limits have a unit conversion error (see docs/bugs_and_glitches.md)
+ ; Get Magicarpe's length
+-; BUG: Magicarpe length limits have a unit conversion error (see docs/bugs_and_glitches.md)
  	ld de, wEnemyMonDVs
  	ld bc, wPlayerID
- 	callfar CalcMagikarpLength
+ 	callfar CalcMagicarpeLength
 
  ; No reason to keep going if length > 1536 mm (i.e. if HIGH(length) > 6 feet)
- 	ld a, [wMagikarpLength]
+ 	ld a, [wMagicarpeLength]
 -	cp HIGH(1536)
 +	cp 5
- 	jr nz, .CheckMagikarpArea
+ 	jr nz, .CheckMagicarpeArea
 
  ; 5% chance of skipping both size checks
  	call Random
  	cp 5 percent
- 	jr c, .CheckMagikarpArea
+ 	jr c, .CheckMagicarpeArea
  ; Try again if length >= 1616 mm (i.e. if LOW(length) >= 4 inches)
- 	ld a, [wMagikarpLength + 1]
+ 	ld a, [wMagicarpeLength + 1]
 -	cp LOW(1616)
 +	cp 4
  	jr nc, .GenerateDVs
@@ -2412,9 +2412,9 @@ CopyPokemonName_Buffer1_Buffer3:
  ; 20% chance of skipping this check
  	call Random
  	cp 20 percent - 1
- 	jr c, .CheckMagikarpArea
+ 	jr c, .CheckMagicarpeArea
  ; Try again if length >= 1600 mm (i.e. if LOW(length) >= 3 inches)
- 	ld a, [wMagikarpLength + 1]
+ 	ld a, [wMagicarpeLength + 1]
 -	cp LOW(1600)
 +	cp 3
  	jr nc, .GenerateDVs
@@ -2423,13 +2423,13 @@ CopyPokemonName_Buffer1_Buffer3:
 **Better fix:** Rewrite the whole system to use millimeters instead of feet and inches, since they have better precision (1 in = 25.4 mm); and only convert from metric to imperial units for display purposes (or don't, of course).
 
 
-### Magikarp lengths can be miscalculated
+### Magicarpe lengths can be miscalculated
 
-**Fix:** Edit `CalcMagikarpLength.BCLessThanDE` in [engine/events/magikarp.asm](https://github.com/pret/pokecrystal/blob/master/engine/events/magikarp.asm):
+**Fix:** Edit `CalcMagicarpeLength.BCLessThanDE` in [engine/events/magicarpe.asm](https://github.com/pret/pokecrystal/blob/master/engine/events/magicarpe.asm):
 
 ```diff
  .BCLessThanDE:
--; BUG: Magikarp lengths can be miscalculated (see docs/bugs_and_glitches.md)
+-; BUG: Magicarpe lengths can be miscalculated (see docs/bugs_and_glitches.md)
  	ld a, b
  	cp d
  	ret c

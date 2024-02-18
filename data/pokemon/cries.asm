@@ -134,7 +134,7 @@ PokemonCries::
 	mon_cry CRY_CHARMANDER,  255,  176 ; MAGMAR
 	mon_cry CRY_PIDGEOTTO,     0,  256 ; PINSIR
 	mon_cry CRY_CARAPUCE,     17,  192 ; TAUROS
-	mon_cry CRY_ABO,       128,  128 ; MAGIKARP
+	mon_cry CRY_ABO,       128,  128 ; MAGICARPE
 	mon_cry CRY_ABO,         0,  256 ; LEVIATOR
 	mon_cry CRY_LOKHLASS,        0,  256 ; LOKHLASS
 	mon_cry CRY_PIDGEY,      255,  383 ; DITTO

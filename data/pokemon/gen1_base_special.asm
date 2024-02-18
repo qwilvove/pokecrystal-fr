@@ -130,7 +130,7 @@ KantoMonSpecials:
 	db  85 ; MAGMAR
 	db  55 ; PINSIR
 	db  70 ; TAUROS
-	db  20 ; MAGIKARP
+	db  20 ; MAGICARPE
 	db 100 ; LEVIATOR
 	db  95 ; LOKHLASS
 	db  48 ; DITTO

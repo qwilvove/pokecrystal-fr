@@ -6140,7 +6140,7 @@ LoadEnemyMon:
 ; Unown
 	ld a, [wTempEnemyMonSpecies]
 	cp UNOWN
-	jr nz, .Magikarp
+	jr nz, .Magicarpe
 
 ; Get letter based on DVs
 	ld hl, wEnemyMonDVs
@@ -6150,50 +6150,50 @@ LoadEnemyMon:
 	call CheckUnownLetter
 	jr c, .GenerateDVs ; try again
 
-.Magikarp:
+.Magicarpe:
 ; These filters are untranslated.
-; They expect at wMagikarpLength a 2-byte value in mm,
+; They expect at wMagicarpeLength a 2-byte value in mm,
 ; but the value is in feet and inches (one byte each).
 
-; The first filter is supposed to make very large Magikarp even rarer,
+; The first filter is supposed to make very large Magicarpe even rarer,
 ; by targeting those 1600 mm (= 5'3") or larger.
 ; After the conversion to feet, it is unable to target any,
-; since the largest possible Magikarp is 5'3", and $0503 = 1283 mm.
+; since the largest possible Magicarpe is 5'3", and $0503 = 1283 mm.
 	ld a, [wTempEnemyMonSpecies]
-	cp MAGIKARP
+	cp MAGICARPE
 	jr nz, .Happiness
 
-; Get Magikarp's length
-; BUG: Magikarp length limits have a unit conversion error (see docs/bugs_and_glitches.md)
+; Get Magicarpe's length
+; BUG: Magicarpe length limits have a unit conversion error (see docs/bugs_and_glitches.md)
 	ld de, wEnemyMonDVs
 	ld bc, wPlayerID
-	callfar CalcMagikarpLength
+	callfar CalcMagicarpeLength
 
 ; No reason to keep going if length > 1536 mm (i.e. if HIGH(length) > 6 feet)
-	ld a, [wMagikarpLength]
+	ld a, [wMagicarpeLength]
 	cp HIGH(1536)
-	jr nz, .CheckMagikarpArea
+	jr nz, .CheckMagicarpeArea
 
 ; 5% chance of skipping both size checks
 	call Random
 	cp 5 percent
-	jr c, .CheckMagikarpArea
+	jr c, .CheckMagicarpeArea
 ; Try again if length >= 1616 mm (i.e. if LOW(length) >= 4 inches)
-	ld a, [wMagikarpLength + 1]
+	ld a, [wMagicarpeLength + 1]
 	cp LOW(1616)
 	jr nc, .GenerateDVs
 
 ; 20% chance of skipping this check
 	call Random
 	cp 20 percent - 1
-	jr c, .CheckMagikarpArea
+	jr c, .CheckMagicarpeArea
 ; Try again if length >= 1600 mm (i.e. if LOW(length) >= 3 inches)
-	ld a, [wMagikarpLength + 1]
+	ld a, [wMagicarpeLength + 1]
 	cp LOW(1600)
 	jr nc, .GenerateDVs
 
-.CheckMagikarpArea:
-; BUG: Magikarp in Lake of Rage are shorter, not longer (see docs/bugs_and_glitches.md)
+.CheckMagicarpeArea:
+; BUG: Magicarpe in Lake of Rage are shorter, not longer (see docs/bugs_and_glitches.md)
 	ld a, [wMapGroup]
 	cp GROUP_LAKE_OF_RAGE
 	jr z, .Happiness
@@ -6205,7 +6205,7 @@ LoadEnemyMon:
 	cp 39 percent + 1
 	jr c, .Happiness
 ; Try again if length < 1024 mm (i.e. if HIGH(length) < 3 feet)
-	ld a, [wMagikarpLength]
+	ld a, [wMagicarpeLength]
 	cp HIGH(1024)
 	jp c, .GenerateDVs ; try again
 

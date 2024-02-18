@@ -13,8 +13,8 @@ SpriteAnimOAMData:
 	spriteanimoam $5c, .OAMData_1x1_Palette0             ; SPRITE_ANIM_OAMSET_GS_INTRO_BUBBLE_2
 	spriteanimoam $6c, .OAMData_GSIntroKokiyas          ; SPRITE_ANIM_OAMSET_GS_INTRO_KOKIYAS_1
 	spriteanimoam $6e, .OAMData_GSIntroKokiyas          ; SPRITE_ANIM_OAMSET_GS_INTRO_KOKIYAS_2
-	spriteanimoam $2d, .OAMData_GSIntroMagikarp          ; SPRITE_ANIM_OAMSET_GS_INTRO_MAGIKARP_1
-	spriteanimoam $4d, .OAMData_GSIntroMagikarp          ; SPRITE_ANIM_OAMSET_GS_INTRO_MAGIKARP_2
+	spriteanimoam $2d, .OAMData_GSIntroMagicarpe          ; SPRITE_ANIM_OAMSET_GS_INTRO_MAGICARPE_1
+	spriteanimoam $4d, .OAMData_GSIntroMagicarpe          ; SPRITE_ANIM_OAMSET_GS_INTRO_MAGICARPE_2
 	spriteanimoam $60, .OAMData_GSIntroLokhlass            ; SPRITE_ANIM_OAMSET_GS_INTRO_UNUSED_LOKHLASS
 	spriteanimoam $00, .OAMData_GSIntroLokhlass            ; SPRITE_ANIM_OAMSET_GS_INTRO_LOKHLASS_1
 	spriteanimoam $00, .OAMData_GSIntroLokhlass            ; SPRITE_ANIM_OAMSET_GS_INTRO_LOKHLASS_2
@@ -393,7 +393,7 @@ SpriteAnimOAMData:
 	dbsprite -1,  0,  0,  0, $09, PAL_OW_RED
 	dbsprite  0,  0,  0,  0, $07, PAL_OW_RED
 
-.OAMData_GSIntroMagikarp:
+.OAMData_GSIntroMagicarpe:
 	db 6
 	dbsprite -2, -1,  4,  0, $00, 1
 	dbsprite -1, -1,  4,  0, $01, 1

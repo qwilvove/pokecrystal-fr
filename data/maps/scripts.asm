@@ -493,6 +493,6 @@ INCLUDE "maps/BattleTowerOutside.asm"
 SECTION "Map Scripts 28", ROMX
 
 INCLUDE "maps/LakeOfRageHiddenPowerHouse.asm"
-INCLUDE "maps/LakeOfRageMagikarpHouse.asm"
+INCLUDE "maps/LakeOfRageMagicarpeHouse.asm"
 INCLUDE "maps/Route43MahoganyGate.asm"
 INCLUDE "maps/Route43Gate.asm"

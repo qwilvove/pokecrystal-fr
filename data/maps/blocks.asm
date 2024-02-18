@@ -163,7 +163,7 @@ CeruleanTradeSpeechHouse_Blocks:
 BillsHouse_Blocks:
 CharcoalKiln_Blocks:
 LakeOfRageHiddenPowerHouse_Blocks:
-LakeOfRageMagikarpHouse_Blocks:
+LakeOfRageMagicarpeHouse_Blocks:
 GoldenrodHappinessRater_Blocks:
 BillsFamilysHouse_Blocks:
 GoldenrodPPSpeechHouse_Blocks:

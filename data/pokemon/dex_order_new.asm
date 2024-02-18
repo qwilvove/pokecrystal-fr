@@ -77,7 +77,7 @@ NewPokedexOrder:
 	db POLIWHIRL
 	db POLIWRATH
 	db POLITOED
-	db MAGIKARP
+	db MAGICARPE
 	db LEVIATOR
 	db GOLDEEN
 	db SEAKING

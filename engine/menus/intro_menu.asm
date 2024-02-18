@@ -183,7 +183,7 @@ _ResetWRAM:
 	call CloseSRAM
 
 	call LoadOrRegenerateLuckyIDNumber
-	call InitializeMagikarpHouse
+	call InitializeMagicarpeHouse
 
 	xor a
 	ld [wMonType], a
@@ -264,8 +264,8 @@ SetDefaultBoxNames:
 .Box:
 	db "BOITE@"
 
-InitializeMagikarpHouse:
-	ld hl, wBestMagikarpLengthFeet
+InitializeMagicarpeHouse:
+	ld hl, wBestMagicarpeLengthFeet
 	ld a, $4
 	ld [hli], a
 	ld a, $1d

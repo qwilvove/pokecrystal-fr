@@ -147,7 +147,7 @@
 	const MAGMAR     ; 7e
 	const PINSIR     ; 7f
 	const TAUROS     ; 80
-	const MAGIKARP   ; 81
+	const MAGICARPE   ; 81
 	const LEVIATOR   ; 82
 	const LOKHLASS     ; 83
 	const DITTO      ; 84

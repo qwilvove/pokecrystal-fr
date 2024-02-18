@@ -128,18 +128,18 @@ LakeOfRageCooltrainerFScript:
 LakeOfRageSign:
 	jumptext LakeOfRageSignText
 
-MagikarpHouseSignScript:
+MagicarpeHouseSignScript:
 	opentext
 	writetext FishingGurusHouseSignText
 	checkevent EVENT_CLEARED_ROCKET_HIDEOUT
-	iftrue .MagikarpLengthRecord
+	iftrue .MagicarpeLengthRecord
 	waitbutton
 	closetext
 	end
 
-.MagikarpLengthRecord:
+.MagicarpeLengthRecord:
 	promptbutton
-	special MagikarpHouseSign
+	special MagicarpeHouseSign
 	closetext
 	end
 
@@ -498,13 +498,13 @@ LakeOfRage_MapEvents:
 
 	def_warp_events
 	warp_event  7,  3, LAKE_OF_RAGE_HIDDEN_POWER_HOUSE, 1
-	warp_event 27, 31, LAKE_OF_RAGE_MAGIKARP_HOUSE, 1
+	warp_event 27, 31, LAKE_OF_RAGE_MAGICARPE_HOUSE, 1
 
 	def_coord_events
 
 	def_bg_events
 	bg_event 21, 27, BGEVENT_READ, LakeOfRageSign
-	bg_event 25, 31, BGEVENT_READ, MagikarpHouseSignScript
+	bg_event 25, 31, BGEVENT_READ, MagicarpeHouseSignScript
 	bg_event 11, 28, BGEVENT_ITEM, LakeOfRageHiddenFullRestore
 	bg_event  4,  4, BGEVENT_ITEM, LakeOfRageHiddenRareCandy
 	bg_event 35,  5, BGEVENT_ITEM, LakeOfRageHiddenMaxPotion
