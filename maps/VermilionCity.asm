@@ -1,7 +1,7 @@
 	object_const_def
 	const VERMILIONCITY_TEACHER
 	const VERMILIONCITY_GRAMPS
-	const VERMILIONCITY_MACHOP
+	const VERMILIONCITY_MACHOC
 	const VERMILIONCITY_SUPER_NERD
 	const VERMILIONCITY_BIG_SNORLAX
 	const VERMILIONCITY_POKEFAN_M
@@ -19,18 +19,18 @@ VermilionCityFlypointCallback:
 VermilionCityTeacherScript:
 	jumptextfaceplayer VermilionCityTeacherText
 
-VermilionMachopOwner:
-	jumptextfaceplayer VermilionMachopOwnerText
+VermilionMachocOwner:
+	jumptextfaceplayer VermilionMachocOwnerText
 
-VermilionMachop:
+VermilionMachoc:
 	opentext
-	writetext VermilionMachopText1
-	cry MACHOP
+	writetext VermilionMachocText1
+	cry MACHOC
 	waitbutton
 	closetext
 	earthquake 30
 	opentext
-	writetext VermilionMachopText2
+	writetext VermilionMachocText2
 	waitbutton
 	closetext
 	end
@@ -135,7 +135,7 @@ VermilionCityTeacherText:
 	cont "jeter l'ancre."
 	done
 
-VermilionMachopOwnerText:
+VermilionMachocOwnerText:
 	text "Mon #MON pré-"
 	line "pare le terrain"
 	cont "pour construire."
@@ -145,12 +145,12 @@ VermilionMachopOwnerText:
 	cont "mencer le projet."
 	done
 
-VermilionMachopText1:
+VermilionMachocText1:
 	text "MACHOC: Maaaa!"
 	line "Choc!"
 	done
 
-VermilionMachopText2:
+VermilionMachocText2:
 	text "Un MACHOC grogne"
 	line "en aplatissant le"
 	cont "sol."
@@ -303,8 +303,8 @@ VermilionCity_MapEvents:
 
 	def_object_events
 	object_event 18,  9, SPRITE_TEACHER, SPRITEMOVEDATA_WANDER, 1, 1, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, VermilionCityTeacherScript, -1
-	object_event 23,  6, SPRITE_GRAMPS, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, VermilionMachopOwner, -1
-	object_event 26,  7, SPRITE_MACHOP, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, VermilionMachop, -1
+	object_event 23,  6, SPRITE_GRAMPS, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, VermilionMachocOwner, -1
+	object_event 26,  7, SPRITE_MACHOC, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, VermilionMachoc, -1
 	object_event 14, 16, SPRITE_SUPER_NERD, SPRITEMOVEDATA_WANDER, 1, 1, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, VermilionCitySuperNerdScript, -1
 	object_event 34,  8, SPRITE_BIG_SNORLAX, SPRITEMOVEDATA_BIGDOLLSYM, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, VermilionSnorlax, EVENT_VERMILION_CITY_SNORLAX
 	object_event 31, 12, SPRITE_POKEFAN_M, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_SCRIPT, 0, VermilionGymBadgeGuy, -1

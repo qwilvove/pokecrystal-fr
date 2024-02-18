@@ -65,7 +65,7 @@ BitmasksPointers:
 	dw AbraBitmasks
 	dw KadabraBitmasks
 	dw AlakazamBitmasks
-	dw MachopBitmasks
+	dw MachocBitmasks
 	dw MachokeBitmasks
 	dw MachampBitmasks
 	dw ChetiflorBitmasks

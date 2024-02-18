@@ -346,7 +346,7 @@ DEF NUM_TMS EQU const_value - TM01 - 2 ; discount ITEM_C3 and ITEM_DC
 > - $4B = 75: `GOLD_LEAF` is for 13 Pokémon
 > - $96 = 150: `MYSTERYBERRY` is for Clefairy
 > - $AA = 170: `POLKADOT_BOW` is for Jigglypuff
-> - $B4 = 180: `BRICK_PIECE` is for Machop
+> - $B4 = 180: `BRICK_PIECE` is for Machoc
 >
 > Yellow was also being developed then, and it did the reverse, altering some Pokémon's data after they're caught to correspond to appropriate Gen 2 items:
 >

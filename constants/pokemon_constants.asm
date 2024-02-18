@@ -84,7 +84,7 @@
 	const ABRA       ; 3f
 	const KADABRA    ; 40
 	const ALAKAZAM   ; 41
-	const MACHOP     ; 42
+	const MACHOC     ; 42
 	const MACHOKE    ; 43
 	const MACHAMP    ; 44
 	const CHETIFLOR ; 45

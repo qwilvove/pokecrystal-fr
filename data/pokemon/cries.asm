@@ -71,7 +71,7 @@ PokemonCries::
 	mon_cry CRY_CHRYSACIER,     192,  129 ; ABRA
 	mon_cry CRY_CHRYSACIER,     168,  320 ; KADABRA
 	mon_cry CRY_CHRYSACIER,     152,  383 ; ALAKAZAM
-	mon_cry CRY_CANINOS,   238,  129 ; MACHOP
+	mon_cry CRY_CANINOS,   238,  129 ; MACHOC
 	mon_cry CRY_CANINOS,    72,  224 ; MACHOKE
 	mon_cry CRY_CANINOS,     8,  320 ; MACHAMP
 	mon_cry CRY_PSYDUCK,      85,  129 ; CHETIFLOR

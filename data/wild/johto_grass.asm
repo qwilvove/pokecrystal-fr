@@ -595,7 +595,7 @@ JohtoGrassWildMons:
 	; morn
 	db 14, RATTATA
 	db 13, ZUBAT
-	db 14, MACHOP
+	db 14, MACHOC
 	db 13, GOLBAT
 	db 14, GEODUDE
 	db 16, RATICATE
@@ -603,7 +603,7 @@ JohtoGrassWildMons:
 	; day
 	db 14, RATTATA
 	db 13, ZUBAT
-	db 14, MACHOP
+	db 14, MACHOC
 	db 13, GOLBAT
 	db 14, GEODUDE
 	db 16, RATICATE
@@ -623,7 +623,7 @@ JohtoGrassWildMons:
 	; morn
 	db 13, GEODUDE
 	db 14, RATTATA
-	db 15, MACHOP
+	db 15, MACHOC
 	db 14, RATICATE
 	db 15, ZUBAT
 	db 15, GOLBAT
@@ -631,7 +631,7 @@ JohtoGrassWildMons:
 	; day
 	db 13, GEODUDE
 	db 14, RATTATA
-	db 15, MACHOP
+	db 15, MACHOC
 	db 14, RATICATE
 	db 15, ZUBAT
 	db 15, GOLBAT
@@ -653,7 +653,7 @@ JohtoGrassWildMons:
 	db 32, MACHOKE
 	db 31, GEODUDE
 	db 30, RATICATE
-	db 28, MACHOP
+	db 28, MACHOC
 	db 30, GOLBAT
 	db 30, GOLBAT
 	; day
@@ -661,7 +661,7 @@ JohtoGrassWildMons:
 	db 32, MACHOKE
 	db 31, GEODUDE
 	db 30, RATICATE
-	db 28, MACHOP
+	db 28, MACHOC
 	db 30, GOLBAT
 	db 30, GOLBAT
 	; nite
@@ -680,7 +680,7 @@ JohtoGrassWildMons:
 	db 15, ZUBAT
 	db 17, ZUBAT
 	db 17, GOLBAT
-	db 16, MACHOP
+	db 16, MACHOC
 	db 16, GEODUDE
 	db 18, RATICATE
 	db 18, RATICATE
@@ -688,7 +688,7 @@ JohtoGrassWildMons:
 	db 15, ZUBAT
 	db 17, ZUBAT
 	db 17, GOLBAT
-	db 16, MACHOP
+	db 16, MACHOC
 	db 16, GEODUDE
 	db 18, RATICATE
 	db 18, RATICATE

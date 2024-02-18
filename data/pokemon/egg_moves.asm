@@ -191,7 +191,7 @@ AbraEggMoves:
 	db BARRIER
 	db -1 ; end
 
-MachopEggMoves:
+MachocEggMoves:
 	db LIGHT_SCREEN
 	db MEDITATE
 	db ROLLING_KICK

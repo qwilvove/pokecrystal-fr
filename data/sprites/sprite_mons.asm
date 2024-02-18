@@ -27,7 +27,7 @@ SpriteMons:
 	db PARAS
 	db TENTACOOL
 	db TAUROS
-	db MACHOP
+	db MACHOC
 	db VOLTORB
 	db LOKHLASS
 	db RHYDON

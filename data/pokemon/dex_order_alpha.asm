@@ -121,7 +121,7 @@ AlphabeticalPokedexOrder:
 	db LOUPIO
 	db LUGIA
 	db M__MIME
-	db MACHOP
+	db MACHOC
 	db MACHOKE
 	db MACHAMP
 	db BAYLEEF

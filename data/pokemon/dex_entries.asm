@@ -69,7 +69,7 @@ KadabraPokedexEntry::    INCLUDE "data/pokemon/dex_entries/kadabra.asm"
 SECTION "Pokedex Entries 065-128", ROMX
 
 AlakazamPokedexEntry::   INCLUDE "data/pokemon/dex_entries/alakazam.asm"
-MachopPokedexEntry::     INCLUDE "data/pokemon/dex_entries/machop.asm"
+MachocPokedexEntry::     INCLUDE "data/pokemon/dex_entries/machoc.asm"
 MachokePokedexEntry::    INCLUDE "data/pokemon/dex_entries/machoke.asm"
 MachampPokedexEntry::    INCLUDE "data/pokemon/dex_entries/machamp.asm"
 ChetiflorPokedexEntry:: INCLUDE "data/pokemon/dex_entries/chetiflor.asm"

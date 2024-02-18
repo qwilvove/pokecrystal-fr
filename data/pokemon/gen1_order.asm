@@ -105,7 +105,7 @@ Pokered_MonIndices:
 	db FLAREON
 	db JOLTEON
 	db AQUALI
-	db MACHOP
+	db MACHOC
 	db ZUBAT
 	db ABO
 	db PARAS

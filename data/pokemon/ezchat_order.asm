@@ -91,5 +91,5 @@ EZChat_SortedPokemon:
 .ru:       db LIPPOUTOU, LUGIA, -1
 .re:       db MAGNETON, COXYCLAQUE, COXY, -1
 .ro:       db GOUPIX, -1
-.wa:       db COTOVOL, KAIMINUS, MACHOP ;, -1
+.wa:       db COTOVOL, KAIMINUS, MACHOC ;, -1
 .end:      db -1

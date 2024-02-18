@@ -862,7 +862,7 @@ AlakazamEvosAttacks:
 	db 45, REFLECT
 	db 0 ; no more level-up moves
 
-MachopEvosAttacks:
+MachocEvosAttacks:
 	db EVOLVE_LEVEL, 28, MACHOKE
 	db 0 ; no more evolutions
 	db 1, LOW_KICK

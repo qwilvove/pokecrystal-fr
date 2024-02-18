@@ -141,7 +141,7 @@ NewPokedexOrder:
 	db PERSIAN
 	db PSYDUCK
 	db AKWAKWAK
-	db MACHOP
+	db MACHOC
 	db MACHOKE
 	db MACHAMP
 	db DEBUGANT
