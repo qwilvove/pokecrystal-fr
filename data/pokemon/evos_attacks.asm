@@ -3034,7 +3034,7 @@ AirmureEvosAttacks:
 	db 49, STEEL_WING
 	db 0 ; no more level-up moves
 
-HoundourEvosAttacks:
+MalosseEvosAttacks:
 	db EVOLVE_LEVEL, 24, DEMOLOSSE
 	db 0 ; no more evolutions
 	db 1, LEER

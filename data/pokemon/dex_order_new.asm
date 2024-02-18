@@ -210,7 +210,7 @@ NewPokedexOrder:
 	db RHYHORN
 	db RHYDON
 	db CORNEBRE
-	db HOUNDOUR
+	db MALOSSE
 	db DEMOLOSSE
 	db LIMAGMA
 	db MAGCARGO

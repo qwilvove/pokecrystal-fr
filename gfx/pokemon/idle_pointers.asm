@@ -227,7 +227,7 @@ AnimationIdlePointers:
 	dw CadoizoAnimationIdle
 	dw DemantaAnimationIdle
 	dw AirmureAnimationIdle
-	dw HoundourAnimationIdle
+	dw MalosseAnimationIdle
 	dw DemolosseAnimationIdle
 	dw HyporoiAnimationIdle
 	dw PhanpyAnimationIdle

@@ -233,7 +233,7 @@ PokemonCries::
 	mon_cry CRY_TEDDIURSA,     2,  106 ; CADOIZO
 	mon_cry CRY_DEMANTA,    -190,  240 ; DEMANTA
 	mon_cry CRY_AMPHAROS,   2217,  384 ; AIRMURE
-	mon_cry CRY_HERICENDRE,    57,  320 ; HOUNDOUR
+	mon_cry CRY_HERICENDRE,    57,  320 ; MALOSSE
 	mon_cry CRY_KAIMINUS,   -266,  256 ; DEMOLOSSE
 	mon_cry CRY_LIMAGMA,      763,  256 ; HYPOROI
 	mon_cry CRY_FOUINETTE,      72,  560 ; PHANPY

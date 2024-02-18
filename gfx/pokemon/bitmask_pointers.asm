@@ -227,7 +227,7 @@ BitmasksPointers:
 	dw CadoizoBitmasks
 	dw DemantaBitmasks
 	dw AirmureBitmasks
-	dw HoundourBitmasks
+	dw MalosseBitmasks
 	dw DemolosseBitmasks
 	dw HyporoiBitmasks
 	dw PhanpyBitmasks

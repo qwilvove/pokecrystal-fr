@@ -739,7 +739,7 @@ AirmureEggMoves:
 	db SKY_ATTACK
 	db -1 ; end
 
-HoundourEggMoves:
+MalosseEggMoves:
 	db FIRE_SPIN
 	db RAGE
 	db PURSUIT

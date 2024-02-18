@@ -130,7 +130,7 @@ AlphabeticalPokedexOrder:
 	db MAGMAR
 	db MAGNETI
 	db MAGNETON
-	db HOUNDOUR
+	db MALOSSE
 	db QUAGSIRE
 	db SWINUB
 	db MARILL

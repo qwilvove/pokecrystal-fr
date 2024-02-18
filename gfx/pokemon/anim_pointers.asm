@@ -227,7 +227,7 @@ AnimationPointers:
 	dw CadoizoAnimation
 	dw DemantaAnimation
 	dw AirmureAnimation
-	dw HoundourAnimation
+	dw MalosseAnimation
 	dw DemolosseAnimation
 	dw HyporoiAnimation
 	dw PhanpyAnimation

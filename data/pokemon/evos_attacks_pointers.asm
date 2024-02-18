@@ -229,7 +229,7 @@ EvosAttacksPointers::
 	dw CadoizoEvosAttacks
 	dw DemantaEvosAttacks
 	dw AirmureEvosAttacks
-	dw HoundourEvosAttacks
+	dw MalosseEvosAttacks
 	dw DemolosseEvosAttacks
 	dw HyporoiEvosAttacks
 	dw PhanpyEvosAttacks

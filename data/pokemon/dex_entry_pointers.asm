@@ -228,7 +228,7 @@ PokedexDataPointerTable:
 	dw CadoizoPokedexEntry
 	dw DemantaPokedexEntry
 	dw AirmurePokedexEntry
-	dw HoundourPokedexEntry
+	dw MalossePokedexEntry
 	dw DemolossePokedexEntry
 	dw HyporoiPokedexEntry
 	dw PhanpyPokedexEntry

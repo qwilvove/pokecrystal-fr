@@ -227,7 +227,7 @@ FramesPointers:
 	dw CadoizoFrames
 	dw DemantaFrames
 	dw AirmureFrames
-	dw HoundourFrames
+	dw MalosseFrames
 	dw DemolosseFrames
 	dw HyporoiFrames
 	dw PhanpyFrames
