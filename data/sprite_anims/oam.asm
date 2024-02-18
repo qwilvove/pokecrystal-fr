@@ -15,10 +15,10 @@ SpriteAnimOAMData:
 	spriteanimoam $6e, .OAMData_GSIntroKokiyas          ; SPRITE_ANIM_OAMSET_GS_INTRO_KOKIYAS_2
 	spriteanimoam $2d, .OAMData_GSIntroMagikarp          ; SPRITE_ANIM_OAMSET_GS_INTRO_MAGIKARP_1
 	spriteanimoam $4d, .OAMData_GSIntroMagikarp          ; SPRITE_ANIM_OAMSET_GS_INTRO_MAGIKARP_2
-	spriteanimoam $60, .OAMData_GSIntroLapras            ; SPRITE_ANIM_OAMSET_GS_INTRO_UNUSED_LAPRAS
-	spriteanimoam $00, .OAMData_GSIntroLapras            ; SPRITE_ANIM_OAMSET_GS_INTRO_LAPRAS_1
-	spriteanimoam $00, .OAMData_GSIntroLapras            ; SPRITE_ANIM_OAMSET_GS_INTRO_LAPRAS_2
-	spriteanimoam $06, .OAMData_GSIntroLapras            ; SPRITE_ANIM_OAMSET_GS_INTRO_LAPRAS_3
+	spriteanimoam $60, .OAMData_GSIntroLokhlass            ; SPRITE_ANIM_OAMSET_GS_INTRO_UNUSED_LOKHLASS
+	spriteanimoam $00, .OAMData_GSIntroLokhlass            ; SPRITE_ANIM_OAMSET_GS_INTRO_LOKHLASS_1
+	spriteanimoam $00, .OAMData_GSIntroLokhlass            ; SPRITE_ANIM_OAMSET_GS_INTRO_LOKHLASS_2
+	spriteanimoam $06, .OAMData_GSIntroLokhlass            ; SPRITE_ANIM_OAMSET_GS_INTRO_LOKHLASS_3
 	spriteanimoam $0c, .OAMData_GSIntroNote              ; SPRITE_ANIM_OAMSET_GS_INTRO_NOTE
 	spriteanimoam $0d, .OAMData_1x1_Palette0             ; SPRITE_ANIM_OAMSET_GS_INTRO_INVISIBLE_NOTE
 	spriteanimoam $00, .OAMData_GSIntroJigglypuffPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_JIGGLYPUFF_1
@@ -402,7 +402,7 @@ SpriteAnimOAMData:
 	dbsprite -1,  0,  4,  0, $11, 1
 	dbsprite  0,  0,  4,  0, $12, 1
 
-.OAMData_GSIntroLapras:
+.OAMData_GSIntroLokhlass:
 	db 29
 	dbsprite -3, -3,  0,  0, $00, 0
 	dbsprite -2, -3,  0,  0, $01, 0

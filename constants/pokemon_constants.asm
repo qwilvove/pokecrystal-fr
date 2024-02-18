@@ -149,7 +149,7 @@
 	const TAUROS     ; 80
 	const MAGIKARP   ; 81
 	const LEVIATOR   ; 82
-	const LAPRAS     ; 83
+	const LOKHLASS     ; 83
 	const DITTO      ; 84
 	const EVOLI      ; 85
 	const AQUALI   ; 86

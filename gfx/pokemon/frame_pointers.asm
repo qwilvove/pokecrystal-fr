@@ -130,7 +130,7 @@ FramesPointers:
 	dw TaurosFrames
 	dw MagikarpFrames
 	dw LeviatorFrames
-	dw LaprasFrames
+	dw LokhlassFrames
 	dw DittoFrames
 	dw EvoliFrames
 	dw AqualiFrames

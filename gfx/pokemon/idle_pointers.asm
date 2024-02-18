@@ -130,7 +130,7 @@ AnimationIdlePointers:
 	dw TaurosAnimationIdle
 	dw MagikarpAnimationIdle
 	dw LeviatorAnimationIdle
-	dw LaprasAnimationIdle
+	dw LokhlassAnimationIdle
 	dw DittoAnimationIdle
 	dw EvoliAnimationIdle
 	dw AqualiAnimationIdle

@@ -130,7 +130,7 @@ AnimationPointers:
 	dw TaurosAnimation
 	dw MagikarpAnimation
 	dw LeviatorAnimation
-	dw LaprasAnimation
+	dw LokhlassAnimation
 	dw DittoAnimation
 	dw EvoliAnimation
 	dw AqualiAnimation

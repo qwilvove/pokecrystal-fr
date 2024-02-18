@@ -450,15 +450,15 @@ _CGB_GSIntro:
 	jp hl
 
 .Jumptable:
-	dw .KokiyasLaprasScene
+	dw .KokiyasLokhlassScene
 	dw .JigglypuffPikachuScene
 	dw .StartersDracaufeuScene
 
-.KokiyasLaprasScene:
-	ld hl, .KokiyasLaprasBGPalette
+.KokiyasLokhlassScene:
+	ld hl, .KokiyasLokhlassBGPalette
 	ld de, wBGPals1
 	call LoadHLPaletteIntoDE
-	ld hl, .KokiyasLaprasOBPals
+	ld hl, .KokiyasLokhlassOBPals
 	ld de, wOBPals1
 	ld bc, 2 palettes
 	ld a, BANK(wOBPals1)
@@ -466,11 +466,11 @@ _CGB_GSIntro:
 	call WipeAttrmap
 	ret
 
-.KokiyasLaprasBGPalette:
-INCLUDE "gfx/intro/gs_kokiyas_lapras_bg.pal"
+.KokiyasLokhlassBGPalette:
+INCLUDE "gfx/intro/gs_kokiyas_lokhlass_bg.pal"
 
-.KokiyasLaprasOBPals:
-INCLUDE "gfx/intro/gs_kokiyas_lapras_ob.pal"
+.KokiyasLokhlassOBPals:
+INCLUDE "gfx/intro/gs_kokiyas_lokhlass_ob.pal"
 
 .JigglypuffPikachuScene:
 	ld de, wBGPals1

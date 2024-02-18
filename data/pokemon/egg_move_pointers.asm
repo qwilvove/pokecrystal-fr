@@ -130,7 +130,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw LaprasEggMoves
+	dw LokhlassEggMoves
 	dw NoEggMoves
 	dw EvoliEggMoves
 	dw NoEggMoves

@@ -397,7 +397,7 @@ PinsirEggMoves:
 	db FLAIL
 	db -1 ; end
 
-LaprasEggMoves:
+LokhlassEggMoves:
 	db AURORA_BEAM
 	db FORESIGHT
 	db -1 ; end

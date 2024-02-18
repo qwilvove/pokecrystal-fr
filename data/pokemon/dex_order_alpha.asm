@@ -117,7 +117,7 @@ AlphabeticalPokedexOrder:
 	db LIMAGMA
 	db LIPPOUTI
 	db LIPPOUTOU
-	db LAPRAS
+	db LOKHLASS
 	db CHINCHOU
 	db LUGIA
 	db MR__MIME

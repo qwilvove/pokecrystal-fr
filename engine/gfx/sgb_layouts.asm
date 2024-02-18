@@ -313,7 +313,7 @@ endr
 	ret
 
 .BlkPacketTable_GSIntro:
-	dw BlkPacket_AllPal0, PalPacket_GSIntroKokiyasLapras
+	dw BlkPacket_AllPal0, PalPacket_GSIntroKokiyasLokhlass
 	dw BlkPacket_GSIntroJigglypuffPikachu, PalPacket_GSIntroJigglypuffPikachu
 	dw BlkPacket_AllPal0, PalPacket_GSIntroStartersTransition
 

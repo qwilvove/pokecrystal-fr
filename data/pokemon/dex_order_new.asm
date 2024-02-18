@@ -220,7 +220,7 @@ NewPokedexOrder:
 	db PORYGON2
 	db LEVEINARD
 	db LEUPHORIE
-	db LAPRAS
+	db LOKHLASS
 	db AMONITA
 	db AMONISTAR
 	db KABUTO

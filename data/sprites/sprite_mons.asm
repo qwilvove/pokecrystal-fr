@@ -29,7 +29,7 @@ SpriteMons:
 	db TAUROS
 	db MACHOP
 	db VOLTORB
-	db LAPRAS
+	db LOKHLASS
 	db RHYDON
 	db MOLTRES
 	db SNORLAX

@@ -13,7 +13,7 @@
 	const ICON_ODDISH
 	const ICON_BUG
 	const ICON_GHOST
-	const ICON_LAPRAS
+	const ICON_LOKHLASS
 	const ICON_HUMANSHAPE
 	const ICON_FOX
 	const ICON_EQUINE

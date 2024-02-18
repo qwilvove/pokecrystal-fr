@@ -14,7 +14,7 @@ IconPointers:
 	dw OddishIcon
 	dw BugIcon
 	dw GhostIcon
-	dw LaprasIcon
+	dw LokhlassIcon
 	dw HumanshapeIcon
 	dw FoxIcon
 	dw EquineIcon

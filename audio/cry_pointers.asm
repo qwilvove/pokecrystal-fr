@@ -28,7 +28,7 @@ Cries:
 	dba Cry_Fearow
 	dba Cry_Clefairy
 	dba Cry_Venonat
-	dba Cry_Lapras
+	dba Cry_Lokhlass
 	dba Cry_Chrysacier
 	dba Cry_Carapuce
 	dba Cry_Paras

@@ -212,7 +212,7 @@ BattleTowerMons:
 	bigdw 26 ; SDef
 	db "PUTERA@@@@@"
 
-	db LAPRAS
+	db LOKHLASS
 	db MIRACLEBERRY
 	db BLIZZARD, SURF, THUNDERBOLT, PSYCHIC_M
 	dw 0 ; OT ID
@@ -813,7 +813,7 @@ BattleTowerMons:
 	bigdw 75 ; SDef
 	db "HAPINASU@@@"
 
-	db LAPRAS
+	db LOKHLASS
 	db GOLD_BERRY
 	db PSYCHIC_M, THUNDERBOLT, BLIZZARD, CONFUSE_RAY
 	dw 0 ; OT ID
@@ -1440,7 +1440,7 @@ BattleTowerMons:
 	bigdw 78 ; SDef
 	db "MARUMAIN@@@"
 
-	db LAPRAS
+	db LOKHLASS
 	db LEFTOVERS
 	db RAIN_DANCE, WATER_GUN, ICY_WIND, STRENGTH
 	dw 0 ; OT ID
@@ -1729,7 +1729,7 @@ BattleTowerMons:
 	bigdw 125 ; SDef
 	db "KABIGON@@@@"
 
-	db LAPRAS
+	db LOKHLASS
 	db LEFTOVERS
 	db THUNDERBOLT, ICE_BEAM, CONFUSE_RAY, SURF
 	dw 0 ; OT ID
@@ -2304,7 +2304,7 @@ BattleTowerMons:
 	bigdw 159 ; SDef
 	db "KABIGON@@@@"
 
-	db LAPRAS
+	db LOKHLASS
 	db GOLD_BERRY
 	db THUNDERBOLT, SURF, CONFUSE_RAY, BLIZZARD
 	dw 0 ; OT ID
@@ -3951,7 +3951,7 @@ BattleTowerMons:
 	bigdw 183 ; SDef
 	db "KENTAROSU@@"
 
-	db LAPRAS
+	db LOKHLASS
 	db MINT_BERRY
 	db REST, SURF, CONFUSE_RAY, PSYCHIC_M
 	dw 0 ; OT ID
@@ -4604,7 +4604,7 @@ BattleTowerMons:
 	bigdw 259 ; SDef
 	db "BANGIRASU@@"
 
-	db LAPRAS
+	db LOKHLASS
 	db MINT_BERRY
 	db REST, SURF, THUNDERBOLT, PSYCHIC_M
 	dw 0 ; OT ID

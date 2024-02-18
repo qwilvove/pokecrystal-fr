@@ -522,7 +522,7 @@ DebugRoomMenu_DecorateAll:
 	ld hl, sPlayerData + (wEventFlags - wPlayerData)
 	ld de, EVENT_DECO_BED_1 ; the first EVENT_DECO_* constant
 	ld b, SET_FLAG
-	ld c, EVENT_DECO_BIG_LAPRAS_DOLL - EVENT_DECO_BED_1 + 1
+	ld c, EVENT_DECO_BIG_LOKHLASS_DOLL - EVENT_DECO_BED_1 + 1
 .loop
 	push bc
 	push de

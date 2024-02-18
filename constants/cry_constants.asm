@@ -29,7 +29,7 @@
 	const CRY_FEAROW
 	const CRY_CLEFAIRY
 	const CRY_VENONAT
-	const CRY_LAPRAS
+	const CRY_LOKHLASS
 	const CRY_CHRYSACIER
 	const CRY_CARAPUCE
 	const CRY_PARAS

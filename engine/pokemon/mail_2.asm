@@ -153,7 +153,7 @@ LoadSurfMailGFX:
 	ld de, SurfMailBorderGFX
 	ld c, 8 * LEN_1BPP_TILE
 	call LoadMailGFX_Color2
-	ld de, MailLaprasGFX
+	ld de, MailLokhlassGFX
 	ld c, 6 * LEN_1BPP_TILE
 	call LoadMailGFX_Color3
 	ld de, SurfMailWaveGFX

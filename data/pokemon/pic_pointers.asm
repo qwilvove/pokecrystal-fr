@@ -263,8 +263,8 @@ PokemonPicPointers::
 	dba_pic MagikarpBackpic
 	dba_pic LeviatorFrontpic
 	dba_pic LeviatorBackpic
-	dba_pic LaprasFrontpic
-	dba_pic LaprasBackpic
+	dba_pic LokhlassFrontpic
+	dba_pic LokhlassBackpic
 	dba_pic DittoFrontpic
 	dba_pic DittoBackpic
 	dba_pic EvoliFrontpic

@@ -132,7 +132,7 @@ KantoMonSpecials:
 	db  70 ; TAUROS
 	db  20 ; MAGIKARP
 	db 100 ; LEVIATOR
-	db  95 ; LAPRAS
+	db  95 ; LOKHLASS
 	db  48 ; DITTO
 	db  65 ; EVOLI
 	db 110 ; AQUALI

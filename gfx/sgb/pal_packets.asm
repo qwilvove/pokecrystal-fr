@@ -31,11 +31,11 @@ PalPacket_UnownPuzzle:
 PalPacket_AllPal0:
 	sgb_pal_set ROUTES, ROUTES, ROUTES, ROUTES
 
-PalPacket_GSIntroKokiyasLapras:
-	sgb_pal_set GS_INTRO_KOKIYAS_LAPRAS, ROUTES, ROUTES, ROUTES
+PalPacket_GSIntroKokiyasLokhlass:
+	sgb_pal_set GS_INTRO_KOKIYAS_LOKHLASS, ROUTES, ROUTES, ROUTES
 
-PalPacket_BetaIntroLapras: ; unreferenced
-	sgb_pal_set BETA_INTRO_LAPRAS, ROUTES, ROUTES, ROUTES
+PalPacket_BetaIntroLokhlass: ; unreferenced
+	sgb_pal_set BETA_INTRO_LOKHLASS, ROUTES, ROUTES, ROUTES
 
 PalPacket_GSIntroJigglypuffPikachu:
 	sgb_pal_set GS_INTRO_JIGGLYPUFF_PIKACHU_BG, GS_INTRO_JIGGLYPUFF_PIKACHU_OB, ROUTES, ROUTES

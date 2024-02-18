@@ -163,7 +163,7 @@ FacingShadow: ; shadow
 	db  0,  0, ABSOLUTE_TILE_ID, $fc
 	db  0,  8, ABSOLUTE_TILE_ID | X_FLIP, $fc
 
-FacingBigDollSymmetric: ; big snorlax or lapras doll
+FacingBigDollSymmetric: ; big snorlax or lokhlass doll
 	db 16 ; #
 	db  0,  0, 0, $00
 	db  0,  8, 0, $01
@@ -196,7 +196,7 @@ FacingWeirdTree3:
 	db  8,  8, X_FLIP, $06
 	db  8,  0, X_FLIP, $07
 
-FacingBigDollAsymmetric: ; big doll other than snorlax or lapras
+FacingBigDollAsymmetric: ; big doll other than snorlax or lokhlass
 	db 14 ; #
 	db  0,  0, 0, $00
 	db  0,  8, 0, $01

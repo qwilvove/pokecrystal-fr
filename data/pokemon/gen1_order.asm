@@ -18,7 +18,7 @@ Pokered_MonIndices:
 	db NIDOQUEEN
 	db CUBONE
 	db RHYHORN
-	db LAPRAS
+	db LOKHLASS
 	db ARCANIN
 	db MEW
 	db LEVIATOR

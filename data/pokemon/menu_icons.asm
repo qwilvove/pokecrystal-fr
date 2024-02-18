@@ -87,8 +87,8 @@ MonMenuIcons:
 	db ICON_BIRD        ; CANARTICHO
 	db ICON_BIRD        ; DODUO
 	db ICON_BIRD        ; DODRIO
-	db ICON_LAPRAS      ; SEEL
-	db ICON_LAPRAS      ; LAMANTINE
+	db ICON_LOKHLASS      ; SEEL
+	db ICON_LOKHLASS      ; LAMANTINE
 	db ICON_BLOB        ; GRIMER
 	db ICON_BLOB        ; GROTADMORV
 	db ICON_SHELL       ; KOKIYAS
@@ -132,7 +132,7 @@ MonMenuIcons:
 	db ICON_EQUINE      ; TAUROS
 	db ICON_FISH        ; MAGIKARP
 	db ICON_LEVIATOR    ; LEVIATOR
-	db ICON_LAPRAS      ; LAPRAS
+	db ICON_LOKHLASS      ; LOKHLASS
 	db ICON_BLOB        ; DITTO
 	db ICON_FOX         ; EVOLI
 	db ICON_FOX         ; AQUALI

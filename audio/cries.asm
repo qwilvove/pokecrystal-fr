@@ -1016,11 +1016,11 @@ Cry_Venonat:
 	channel 6, Cry_Venonat_Ch6
 	channel 8, Cry_Venonat_Ch8
 
-Cry_Lapras:
+Cry_Lokhlass:
 	channel_count 3
-	channel 5, Cry_Lapras_Ch5
-	channel 6, Cry_Lapras_Ch6
-	channel 8, Cry_Lapras_Ch8
+	channel 5, Cry_Lokhlass_Ch5
+	channel 6, Cry_Lokhlass_Ch6
+	channel 8, Cry_Lokhlass_Ch8
 
 Cry_Chrysacier:
 	channel_count 3
@@ -1709,7 +1709,7 @@ Cry_Chenipan_Ch8:
 	noise_note 15, 15, 2, 76
 	sound_ret
 
-Cry_Lapras_Ch5:
+Cry_Lokhlass_Ch5:
 	duty_cycle_pattern 3, 3, 0, 0
 	square_note 6, 15, 7, 1728
 	square_note 15, 14, 7, 1792
@@ -1718,7 +1718,7 @@ Cry_Lapras_Ch5:
 	square_note 8, 13, 1, 1744
 	sound_ret
 
-Cry_Lapras_Ch6:
+Cry_Lokhlass_Ch6:
 	duty_cycle_pattern 0, 0, 2, 2
 	square_note 7, 14, 6, 1665
 	square_note 14, 13, 5, 1729
@@ -1727,7 +1727,7 @@ Cry_Lapras_Ch6:
 	square_note 8, 12, 1, 1681
 	sound_ret
 
-Cry_Lapras_Ch8:
+Cry_Lokhlass_Ch8:
 	noise_note 10, 10, 6, 60
 	noise_note 14, 9, 4, 44
 	noise_note 5, 10, 3, 60

@@ -131,7 +131,7 @@ PokedexDataPointerTable:
 	dw TaurosPokedexEntry
 	dw MagikarpPokedexEntry
 	dw LeviatorPokedexEntry
-	dw LaprasPokedexEntry
+	dw LokhlassPokedexEntry
 	dw DittoPokedexEntry
 	dw EvoliPokedexEntry
 	dw AqualiPokedexEntry

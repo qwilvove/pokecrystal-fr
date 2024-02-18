@@ -130,7 +130,7 @@ BitmasksPointers:
 	dw TaurosBitmasks
 	dw MagikarpBitmasks
 	dw LeviatorBitmasks
-	dw LaprasBitmasks
+	dw LokhlassBitmasks
 	dw DittoBitmasks
 	dw EvoliBitmasks
 	dw AqualiBitmasks
