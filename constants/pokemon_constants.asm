@@ -172,7 +172,7 @@
 	const MEW        ; 97
 DEF JOHTO_POKEMON EQU const_value
 	const GERMIGNON  ; 98
-	const BAYLEEF    ; 99
+	const MACRONIUM    ; 99
 	const MEGANIUM   ; 9a
 	const HERICENDRE  ; 9b
 	const FEURISSON    ; 9c

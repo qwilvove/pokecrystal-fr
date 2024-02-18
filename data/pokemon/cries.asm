@@ -158,7 +158,7 @@ PokemonCries::
 	mon_cry CRY_PARAS,       153,  383 ; MEWTWO
 	mon_cry CRY_PARAS,       238,  383 ; MEW
 	mon_cry CRY_GERMIGNON,   -16,  176 ; GERMIGNON
-	mon_cry CRY_GERMIGNON,   -34,  288 ; BAYLEEF
+	mon_cry CRY_GERMIGNON,   -34,  288 ; MACRONIUM
 	mon_cry CRY_GERMIGNON,  -183,  512 ; MEGANIUM
 	mon_cry CRY_HERICENDRE,   839,  128 ; HERICENDRE
 	mon_cry CRY_HERICENDRE,   801,  288 ; FEURISSON

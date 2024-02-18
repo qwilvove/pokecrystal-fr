@@ -153,7 +153,7 @@ PokedexDataPointerTable:
 	dw MewtwoPokedexEntry
 	dw MewPokedexEntry
 	dw GermignonPokedexEntry
-	dw BayleefPokedexEntry
+	dw MacroniumPokedexEntry
 	dw MeganiumPokedexEntry
 	dw HericendrePokedexEntry
 	dw FeurissonPokedexEntry

@@ -192,7 +192,7 @@ Pokered_MonIndices:
 	db EMPIFLOR
 	assert_table_length 190 ; gen 1 mon indexes
 	db GERMIGNON
-	db BAYLEEF
+	db MACRONIUM
 	db MEGANIUM
 	db HERICENDRE
 	db FEURISSON

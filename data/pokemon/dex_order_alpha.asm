@@ -124,7 +124,7 @@ AlphabeticalPokedexOrder:
 	db MACHOC
 	db MACHOPEUR
 	db MACKOGNEUR
-	db BAYLEEF
+	db MACRONIUM
 	db MAGBY
 	db MAGIKARP
 	db MAGMAR

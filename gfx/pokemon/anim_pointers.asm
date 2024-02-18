@@ -152,7 +152,7 @@ AnimationPointers:
 	dw MewtwoAnimation
 	dw MewAnimation
 	dw GermignonAnimation
-	dw BayleefAnimation
+	dw MacroniumAnimation
 	dw MeganiumAnimation
 	dw HericendreAnimation
 	dw FeurissonAnimation

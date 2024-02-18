@@ -2056,7 +2056,7 @@ MewEvosAttacks:
 	db 0 ; no more level-up moves
 
 GermignonEvosAttacks:
-	db EVOLVE_LEVEL, 16, BAYLEEF
+	db EVOLVE_LEVEL, 16, MACRONIUM
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
@@ -2070,7 +2070,7 @@ GermignonEvosAttacks:
 	db 50, SOLARBEAM
 	db 0 ; no more level-up moves
 
-BayleefEvosAttacks:
+MacroniumEvosAttacks:
 	db EVOLVE_LEVEL, 32, MEGANIUM
 	db 0 ; no more evolutions
 	db 1, TACKLE

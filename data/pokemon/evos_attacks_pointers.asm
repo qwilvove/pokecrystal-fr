@@ -154,7 +154,7 @@ EvosAttacksPointers::
 	dw MewtwoEvosAttacks
 	dw MewEvosAttacks
 	dw GermignonEvosAttacks
-	dw BayleefEvosAttacks
+	dw MacroniumEvosAttacks
 	dw MeganiumEvosAttacks
 	dw HericendreEvosAttacks
 	dw FeurissonEvosAttacks

@@ -1,7 +1,7 @@
 JohtoFrames: ; used only for BANK(JohtoFrames)
 
 GermignonFrames:  INCLUDE "gfx/pokemon/germignon/frames.asm"
-BayleefFrames:    INCLUDE "gfx/pokemon/bayleef/frames.asm"
+MacroniumFrames:    INCLUDE "gfx/pokemon/macronium/frames.asm"
 MeganiumFrames:   INCLUDE "gfx/pokemon/meganium/frames.asm"
 HericendreFrames:  INCLUDE "gfx/pokemon/hericendre/frames.asm"
 FeurissonFrames:    INCLUDE "gfx/pokemon/feurisson/frames.asm"

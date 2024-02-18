@@ -3,7 +3,7 @@
 NewPokedexOrder:
 	table_width 1, NewPokedexOrder
 	db GERMIGNON
-	db BAYLEEF
+	db MACRONIUM
 	db MEGANIUM
 	db HERICENDRE
 	db FEURISSON
