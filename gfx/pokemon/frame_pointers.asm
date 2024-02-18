@@ -123,7 +123,7 @@ FramesPointers:
 	dw StarmieFrames
 	dw MrMimeFrames
 	dw InsecateurFrames
-	dw JynxFrames
+	dw LippoutouFrames
 	dw ElektekFrames
 	dw MagmarFrames
 	dw PinsirFrames

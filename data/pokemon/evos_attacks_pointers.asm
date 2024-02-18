@@ -125,7 +125,7 @@ EvosAttacksPointers::
 	dw StarmieEvosAttacks
 	dw MrMimeEvosAttacks
 	dw InsecateurEvosAttacks
-	dw JynxEvosAttacks
+	dw LippoutouEvosAttacks
 	dw ElektekEvosAttacks
 	dw MagmarEvosAttacks
 	dw PinsirEvosAttacks

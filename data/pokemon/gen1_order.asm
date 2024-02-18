@@ -71,7 +71,7 @@ Pokered_MonIndices:
 	db COCHIGNON ; MISSINGNO.
 	db DODUO
 	db POLIWAG
-	db JYNX
+	db LIPPOUTOU
 	db MOLTRES
 	db ARTIKODIN
 	db ELECTHOR

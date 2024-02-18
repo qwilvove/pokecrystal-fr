@@ -249,8 +249,8 @@ PokemonPicPointers::
 	dba_pic MrMimeBackpic
 	dba_pic InsecateurFrontpic
 	dba_pic InsecateurBackpic
-	dba_pic JynxFrontpic
-	dba_pic JynxBackpic
+	dba_pic LippoutouFrontpic
+	dba_pic LippoutouBackpic
 	dba_pic ElektekFrontpic
 	dba_pic ElektekBackpic
 	dba_pic MagmarFrontpic

@@ -739,7 +739,7 @@ JohtoGrassWildMons:
 	db 24, SWINUB
 	db 25, GOLBAT
 	db 23, GOLBAT
-	db 22, JYNX
+	db 22, LIPPOUTOU
 	; day
 	db 22, SWINUB
 	db 23, ZUBAT
@@ -747,7 +747,7 @@ JohtoGrassWildMons:
 	db 24, SWINUB
 	db 25, GOLBAT
 	db 23, GOLBAT
-	db 22, JYNX
+	db 22, LIPPOUTOU
 	; nite
 	db 22, CADOIZO
 	db 23, ZUBAT
@@ -766,16 +766,16 @@ JohtoGrassWildMons:
 	db 24, GOLBAT
 	db 25, SWINUB
 	db 26, GOLBAT
-	db 22, JYNX
-	db 24, JYNX
+	db 22, LIPPOUTOU
+	db 24, LIPPOUTOU
 	; day
 	db 23, SWINUB
 	db 24, ZUBAT
 	db 24, GOLBAT
 	db 25, SWINUB
 	db 26, GOLBAT
-	db 22, JYNX
-	db 24, JYNX
+	db 22, LIPPOUTOU
+	db 24, LIPPOUTOU
 	; nite
 	db 23, CADOIZO
 	db 24, ZUBAT
@@ -794,16 +794,16 @@ JohtoGrassWildMons:
 	db 24, GOLBAT
 	db 25, SWINUB
 	db 26, GOLBAT
-	db 22, JYNX
-	db 24, JYNX
+	db 22, LIPPOUTOU
+	db 24, LIPPOUTOU
 	; day
 	db 23, SWINUB
 	db 24, ZUBAT
 	db 24, GOLBAT
 	db 25, SWINUB
 	db 26, GOLBAT
-	db 22, JYNX
-	db 24, JYNX
+	db 22, LIPPOUTOU
+	db 24, LIPPOUTOU
 	; nite
 	db 23, CADOIZO
 	db 24, ZUBAT
@@ -821,17 +821,17 @@ JohtoGrassWildMons:
 	db 25, ZUBAT
 	db 25, GOLBAT
 	db 26, SWINUB
-	db 22, JYNX
-	db 24, JYNX
-	db 26, JYNX
+	db 22, LIPPOUTOU
+	db 24, LIPPOUTOU
+	db 26, LIPPOUTOU
 	; day
 	db 24, SWINUB
 	db 25, ZUBAT
 	db 25, GOLBAT
 	db 26, SWINUB
-	db 22, JYNX
-	db 24, JYNX
-	db 26, JYNX
+	db 22, LIPPOUTOU
+	db 24, LIPPOUTOU
+	db 26, LIPPOUTOU
 	; nite
 	db 24, CADOIZO
 	db 25, ZUBAT

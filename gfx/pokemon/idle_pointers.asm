@@ -123,7 +123,7 @@ AnimationIdlePointers:
 	dw StarmieAnimationIdle
 	dw MrMimeAnimationIdle
 	dw InsecateurAnimationIdle
-	dw JynxAnimationIdle
+	dw LippoutouAnimationIdle
 	dw ElektekAnimationIdle
 	dw MagmarAnimationIdle
 	dw PinsirAnimationIdle

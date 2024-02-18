@@ -142,7 +142,7 @@
 	const STARMIE    ; 79
 	const MR__MIME   ; 7a
 	const INSECATEUR    ; 7b
-	const JYNX       ; 7c
+	const LIPPOUTOU       ; 7c
 	const ELEKTEK ; 7d
 	const MAGMAR     ; 7e
 	const PINSIR     ; 7f

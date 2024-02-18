@@ -116,7 +116,7 @@ AlphabeticalPokedexOrder:
 	db LEVIATOR
 	db LIMAGMA
 	db LIPPOUTI
-	db JYNX
+	db LIPPOUTOU
 	db LAPRAS
 	db CHINCHOU
 	db LUGIA

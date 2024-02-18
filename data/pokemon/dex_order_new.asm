@@ -154,7 +154,7 @@ NewPokedexOrder:
 	db MAGBY
 	db MAGMAR
 	db LIPPOUTI
-	db JYNX
+	db LIPPOUTOU
 	db ELEKID
 	db ELEKTEK
 	db MR__MIME

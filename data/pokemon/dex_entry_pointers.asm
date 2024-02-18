@@ -124,7 +124,7 @@ PokedexDataPointerTable:
 	dw StarmiePokedexEntry
 	dw MrMimePokedexEntry
 	dw InsecateurPokedexEntry
-	dw JynxPokedexEntry
+	dw LippoutouPokedexEntry
 	dw ElektekPokedexEntry
 	dw MagmarPokedexEntry
 	dw PinsirPokedexEntry

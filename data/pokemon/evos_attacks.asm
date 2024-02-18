@@ -1681,7 +1681,7 @@ InsecateurEvosAttacks:
 	db 48, DOUBLE_TEAM
 	db 0 ; no more level-up moves
 
-JynxEvosAttacks:
+LippoutouEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 1, LICK
@@ -3159,7 +3159,7 @@ KapoeraEvosAttacks:
 	db 0 ; no more level-up moves
 
 LippoutiEvosAttacks:
-	db EVOLVE_LEVEL, 30, JYNX
+	db EVOLVE_LEVEL, 30, LIPPOUTOU
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 1, LICK

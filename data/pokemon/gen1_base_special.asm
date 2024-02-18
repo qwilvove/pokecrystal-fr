@@ -125,7 +125,7 @@ KantoMonSpecials:
 	db 100 ; STARMIE
 	db 100 ; MR__MIME
 	db  55 ; INSECATEUR
-	db  95 ; JYNX
+	db  95 ; LIPPOUTOU
 	db  85 ; ELEKTEK
 	db  85 ; MAGMAR
 	db  55 ; PINSIR
