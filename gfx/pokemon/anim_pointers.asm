@@ -66,7 +66,7 @@ AnimationPointers:
 	dw KadabraAnimation
 	dw AlakazamAnimation
 	dw MachocAnimation
-	dw MachokeAnimation
+	dw MachopeurAnimation
 	dw MachampAnimation
 	dw ChetiflorAnimation
 	dw BoustiflorAnimation

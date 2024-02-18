@@ -158,7 +158,7 @@ INCBIN "gfx/footprints/kadabra.1bpp",    footprint_bottom
 ; 065-072 top halves
 INCBIN "gfx/footprints/alakazam.1bpp",   footprint_top
 INCBIN "gfx/footprints/machoc.1bpp",     footprint_top
-INCBIN "gfx/footprints/machoke.1bpp",    footprint_top
+INCBIN "gfx/footprints/machopeur.1bpp",    footprint_top
 INCBIN "gfx/footprints/machamp.1bpp",    footprint_top
 INCBIN "gfx/footprints/chetiflor.1bpp", footprint_top
 INCBIN "gfx/footprints/boustiflor.1bpp", footprint_top
@@ -167,7 +167,7 @@ INCBIN "gfx/footprints/tentacool.1bpp",  footprint_top
 ; 065-072 bottom halves
 INCBIN "gfx/footprints/alakazam.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/machoc.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/machoke.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/machopeur.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/machamp.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/chetiflor.1bpp", footprint_bottom
 INCBIN "gfx/footprints/boustiflor.1bpp", footprint_bottom

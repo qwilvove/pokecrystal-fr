@@ -68,7 +68,7 @@ KantoMonSpecials:
 	db 120 ; KADABRA
 	db 135 ; ALAKAZAM
 	db  35 ; MACHOC
-	db  50 ; MACHOKE
+	db  50 ; MACHOPEUR
 	db  65 ; MACHAMP
 	db  70 ; CHETIFLOR
 	db  85 ; BOUSTIFLOR

@@ -67,7 +67,7 @@ PokedexDataPointerTable:
 	dw KadabraPokedexEntry
 	dw AlakazamPokedexEntry
 	dw MachocPokedexEntry
-	dw MachokePokedexEntry
+	dw MachopeurPokedexEntry
 	dw MachampPokedexEntry
 	dw ChetiflorPokedexEntry
 	dw BoustiflorPokedexEntry

@@ -40,7 +40,7 @@ Pokered_MonIndices:
 	db KADABRA
 	db GRAVALANCH
 	db LEVEINARD
-	db MACHOKE
+	db MACHOPEUR
 	db M__MIME
 	db KICKLEE
 	db HITMONCHAN

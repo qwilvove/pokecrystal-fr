@@ -55,8 +55,8 @@ GoldenrodDeptStoreB1FBlackBelt3Script:
 
 GoldenrodDeptStoreB1FMachocScript:
 	opentext
-	writetext GoldenrodDeptStoreB1FMachokeText
-	cry MACHOKE
+	writetext GoldenrodDeptStoreB1FMachopeurText
+	cry MACHOPEUR
 	waitbutton
 	closetext
 	end
@@ -103,7 +103,7 @@ GoldenrodDeptStoreB1FBlackBelt3Text:
 	line "si tu veux!"
 	done
 
-GoldenrodDeptStoreB1FMachokeText:
+GoldenrodDeptStoreB1FMachopeurText:
 	text "MACHOPEUR: Maacho!"
 	done
 

@@ -142,7 +142,7 @@ NewPokedexOrder:
 	db PSYDUCK
 	db AKWAKWAK
 	db MACHOC
-	db MACHOKE
+	db MACHOPEUR
 	db MACHAMP
 	db DEBUGANT
 	db KICKLEE

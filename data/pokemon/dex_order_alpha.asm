@@ -122,7 +122,7 @@ AlphabeticalPokedexOrder:
 	db LUGIA
 	db M__MIME
 	db MACHOC
-	db MACHOKE
+	db MACHOPEUR
 	db MACHAMP
 	db BAYLEEF
 	db MAGBY

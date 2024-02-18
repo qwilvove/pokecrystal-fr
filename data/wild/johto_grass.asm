@@ -650,7 +650,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 31, GRAVALANCH
-	db 32, MACHOKE
+	db 32, MACHOPEUR
 	db 31, GEODUDE
 	db 30, RATICATE
 	db 28, MACHOC
@@ -658,7 +658,7 @@ JohtoGrassWildMons:
 	db 30, GOLBAT
 	; day
 	db 31, GRAVALANCH
-	db 32, MACHOKE
+	db 32, MACHOPEUR
 	db 31, GEODUDE
 	db 30, RATICATE
 	db 28, MACHOC
@@ -1098,7 +1098,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 48, GOLBAT
-	db 48, MACHOKE
+	db 48, MACHOPEUR
 	db 47, URSARING
 	db 46, PARASECT
 	db 48, PARASECT
@@ -1106,7 +1106,7 @@ JohtoGrassWildMons:
 	db 20, EMBRYLEX
 	; day
 	db 48, GOLBAT
-	db 48, MACHOKE
+	db 48, MACHOPEUR
 	db 47, URSARING
 	db 46, PARASECT
 	db 48, PARASECT

@@ -85,7 +85,7 @@
 	const KADABRA    ; 40
 	const ALAKAZAM   ; 41
 	const MACHOC     ; 42
-	const MACHOKE    ; 43
+	const MACHOPEUR    ; 43
 	const MACHAMP    ; 44
 	const CHETIFLOR ; 45
 	const BOUSTIFLOR ; 46
