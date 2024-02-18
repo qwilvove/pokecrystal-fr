@@ -391,8 +391,8 @@ PokemonPicPointers::
 	dba_pic YanmaBackpic
 	dba_pic AxolotoFrontpic
 	dba_pic AxolotoBackpic
-	dba_pic QuagsireFrontpic
-	dba_pic QuagsireBackpic
+	dba_pic MaraisteFrontpic
+	dba_pic MaraisteBackpic
 	dba_pic EspeonFrontpic
 	dba_pic EspeonBackpic
 	dba_pic UmbreonFrontpic

@@ -498,11 +498,11 @@ KantoGrassWildMons:
 	db 25, LEVEINARD
 	; nite
 	db 23, VENONAT
-	db 23, QUAGSIRE
+	db 23, MARAISTE
 	db 25, NOCTOWL
 	db 25, AEROMITE
-	db 25, QUAGSIRE
-	db 25, QUAGSIRE
+	db 25, MARAISTE
+	db 25, MARAISTE
 	db 25, LEVEINARD
 	end_grass_wildmons
 
@@ -526,11 +526,11 @@ KantoGrassWildMons:
 	db 28, LEVEINARD
 	; nite
 	db 26, VENONAT
-	db 26, QUAGSIRE
+	db 26, MARAISTE
 	db 28, NOCTOWL
 	db 28, AEROMITE
-	db 28, QUAGSIRE
-	db 28, QUAGSIRE
+	db 28, MARAISTE
+	db 28, MARAISTE
 	db 28, LEVEINARD
 	end_grass_wildmons
 
@@ -554,11 +554,11 @@ KantoGrassWildMons:
 	db 25, LEVEINARD
 	; nite
 	db 23, VENONAT
-	db 23, QUAGSIRE
+	db 23, MARAISTE
 	db 25, NOCTOWL
 	db 25, AEROMITE
-	db 25, QUAGSIRE
-	db 25, QUAGSIRE
+	db 25, MARAISTE
+	db 25, MARAISTE
 	db 25, LEVEINARD
 	end_grass_wildmons
 
@@ -781,9 +781,9 @@ KantoGrassWildMons:
 	db 28, RATICATE
 	db 32, NOCTOWL
 	db 30, RATICATE
-	db 30, QUAGSIRE
-	db 30, QUAGSIRE
-	db 30, QUAGSIRE
+	db 30, MARAISTE
+	db 30, MARAISTE
+	db 30, MARAISTE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_27
@@ -805,10 +805,10 @@ KantoGrassWildMons:
 	db 30, DODRIO
 	db 30, DODRIO
 	; nite
-	db 28, QUAGSIRE
+	db 28, MARAISTE
 	db 28, NOCTOWL
 	db 30, RATICATE
-	db 30, QUAGSIRE
+	db 30, MARAISTE
 	db 32, NOCTOWL
 	db 32, NOCTOWL
 	db 32, NOCTOWL

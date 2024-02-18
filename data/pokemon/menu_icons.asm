@@ -196,7 +196,7 @@ MonMenuIcons:
 	db ICON_ODDISH      ; HELIATRONC
 	db ICON_BUG         ; YANMA
 	db ICON_MONSTER     ; AXOLOTO
-	db ICON_MONSTER     ; QUAGSIRE
+	db ICON_MONSTER     ; MARAISTE
 	db ICON_FOX         ; ESPEON
 	db ICON_FOX         ; UMBREON
 	db ICON_BIRD        ; CORNEBRE

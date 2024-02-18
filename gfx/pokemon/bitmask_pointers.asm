@@ -194,7 +194,7 @@ BitmasksPointers:
 	dw HeliatroncBitmasks
 	dw YanmaBitmasks
 	dw AxolotoBitmasks
-	dw QuagsireBitmasks
+	dw MaraisteBitmasks
 	dw EspeonBitmasks
 	dw UmbreonBitmasks
 	dw CornebreBitmasks

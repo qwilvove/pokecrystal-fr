@@ -209,7 +209,7 @@ HerbizarreFrontpic:     INCBIN "gfx/pokemon/herbizarre/front.animated.2bpp.lz"
 FouinarFrontpic:      INCBIN "gfx/pokemon/fouinar/front.animated.2bpp.lz"
 HericendreFrontpic:   INCBIN "gfx/pokemon/hericendre/front.animated.2bpp.lz"
 HitmonchanFrontpic:  INCBIN "gfx/pokemon/hitmonchan/front.animated.2bpp.lz"
-QuagsireFrontpic:    INCBIN "gfx/pokemon/quagsire/front.animated.2bpp.lz"
+MaraisteFrontpic:    INCBIN "gfx/pokemon/maraiste/front.animated.2bpp.lz"
 
 
 SECTION "Pics 9", ROMX
@@ -545,7 +545,7 @@ JasminePic:          INCBIN "gfx/trainers/jasmine.2bpp.lz"
 PinecoBackpic:       INCBIN "gfx/pokemon/pineco/back.2bpp.lz"
 ChrysacierFrontpic:     INCBIN "gfx/pokemon/chrysacier/front.animated.2bpp.lz"
 SeelBackpic:         INCBIN "gfx/pokemon/seel/back.2bpp.lz"
-QuagsireBackpic:     INCBIN "gfx/pokemon/quagsire/back.2bpp.lz"
+MaraisteBackpic:     INCBIN "gfx/pokemon/maraiste/back.2bpp.lz"
 WhitneyPic:          INCBIN "gfx/trainers/whitney.2bpp.lz"
 JolteonBackpic:      INCBIN "gfx/pokemon/jolteon/back.2bpp.lz"
 ChenipanFrontpic:    INCBIN "gfx/pokemon/chenipan/front.animated.2bpp.lz"

@@ -196,7 +196,7 @@ EvosAttacksPointers::
 	dw HeliatroncEvosAttacks
 	dw YanmaEvosAttacks
 	dw AxolotoEvosAttacks
-	dw QuagsireEvosAttacks
+	dw MaraisteEvosAttacks
 	dw EspeonEvosAttacks
 	dw UmbreonEvosAttacks
 	dw CornebreEvosAttacks

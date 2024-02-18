@@ -234,7 +234,7 @@ Pokered_MonIndices:
 	db HELIATRONC
 	db YANMA
 	db AXOLOTO
-	db QUAGSIRE
+	db MARAISTE
 	db ESPEON
 	db UMBREON
 	db CORNEBRE

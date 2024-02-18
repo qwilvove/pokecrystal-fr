@@ -131,7 +131,7 @@ AlphabeticalPokedexOrder:
 	db MAGNETI
 	db MAGNETON
 	db MALOSSE
-	db QUAGSIRE
+	db MARAISTE
 	db SWINUB
 	db MARILL
 	db MEGANIUM

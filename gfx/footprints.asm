@@ -446,7 +446,7 @@ INCBIN "gfx/footprints/heliatronc.1bpp",   footprint_bottom
 ; 193-200 top halves
 INCBIN "gfx/footprints/yanma.1bpp",      footprint_top
 INCBIN "gfx/footprints/axoloto.1bpp",     footprint_top
-INCBIN "gfx/footprints/quagsire.1bpp",   footprint_top
+INCBIN "gfx/footprints/maraiste.1bpp",   footprint_top
 INCBIN "gfx/footprints/espeon.1bpp",     footprint_top
 INCBIN "gfx/footprints/umbreon.1bpp",    footprint_top
 INCBIN "gfx/footprints/cornebre.1bpp",    footprint_top
@@ -455,7 +455,7 @@ INCBIN "gfx/footprints/feuforeve.1bpp", footprint_top
 ; 193-200 bottom halves
 INCBIN "gfx/footprints/yanma.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/axoloto.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/quagsire.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/maraiste.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/espeon.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/umbreon.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/cornebre.1bpp",    footprint_bottom

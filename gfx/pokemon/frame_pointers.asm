@@ -194,7 +194,7 @@ FramesPointers:
 	dw HeliatroncFrames
 	dw YanmaFrames
 	dw AxolotoFrames
-	dw QuagsireFrames
+	dw MaraisteFrames
 	dw EspeonFrames
 	dw UmbreonFrames
 	dw CornebreFrames

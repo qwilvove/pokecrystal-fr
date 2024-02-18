@@ -147,7 +147,7 @@ UnusedWoosterScript: ; unreferenced
 	faceplayer
 	opentext
 	writetext WoosterText
-	cry QUAGSIRE
+	cry MARAISTE
 	waitbutton
 	closetext
 	end

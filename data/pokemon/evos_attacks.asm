@@ -2616,7 +2616,7 @@ YanmaEvosAttacks:
 	db 0 ; no more level-up moves
 
 AxolotoEvosAttacks:
-	db EVOLVE_LEVEL, 20, QUAGSIRE
+	db EVOLVE_LEVEL, 20, MARAISTE
 	db 0 ; no more evolutions
 	db 1, WATER_GUN
 	db 1, TAIL_WHIP
@@ -2628,7 +2628,7 @@ AxolotoEvosAttacks:
 	db 51, HAZE
 	db 0 ; no more level-up moves
 
-QuagsireEvosAttacks:
+MaraisteEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, WATER_GUN
 	db 1, TAIL_WHIP

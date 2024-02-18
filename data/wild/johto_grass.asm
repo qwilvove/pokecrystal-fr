@@ -390,8 +390,8 @@ JohtoGrassWildMons:
 	db 18, NATU
 	db 24, NATU
 	db 22, AXOLOTO
-	db 22, QUAGSIRE
-	db 22, QUAGSIRE
+	db 22, MARAISTE
+	db 22, MARAISTE
 	end_grass_wildmons
 
 	def_grass_wildmons RUINS_OF_ALPH_INNER_CHAMBER
@@ -499,7 +499,7 @@ JohtoGrassWildMons:
 	; nite
 	db 22, ZUBAT
 	db 22, GOLBAT
-	db 22, QUAGSIRE
+	db 22, MARAISTE
 	db 21, RATICATE
 	db 20, GEODUDE
 	db 23, ONIX

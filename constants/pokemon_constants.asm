@@ -214,7 +214,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const HELIATRONC   ; c0
 	const YANMA      ; c1
 	const AXOLOTO     ; c2
-	const QUAGSIRE   ; c3
+	const MARAISTE   ; c3
 	const ESPEON     ; c4
 	const UMBREON    ; c5
 	const CORNEBRE    ; c6

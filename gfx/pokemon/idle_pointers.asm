@@ -194,7 +194,7 @@ AnimationIdlePointers:
 	dw HeliatroncAnimationIdle
 	dw YanmaAnimationIdle
 	dw AxolotoAnimationIdle
-	dw QuagsireAnimationIdle
+	dw MaraisteAnimationIdle
 	dw EspeonAnimationIdle
 	dw UmbreonAnimationIdle
 	dw CornebreAnimationIdle

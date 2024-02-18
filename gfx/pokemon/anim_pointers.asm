@@ -194,7 +194,7 @@ AnimationPointers:
 	dw HeliatroncAnimation
 	dw YanmaAnimation
 	dw AxolotoAnimation
-	dw QuagsireAnimation
+	dw MaraisteAnimation
 	dw EspeonAnimation
 	dw UmbreonAnimation
 	dw CornebreAnimation

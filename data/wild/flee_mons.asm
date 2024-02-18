@@ -22,7 +22,7 @@ OftenFleeMons:
 	db ARTIKODIN
 	db ELECTHOR
 	db MOLTRES
-	db QUAGSIRE
+	db MARAISTE
 	db CADOIZO
 	db PHANPY
 	db TEDDIURSA

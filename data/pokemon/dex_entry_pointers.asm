@@ -195,7 +195,7 @@ PokedexDataPointerTable:
 	dw HeliatroncPokedexEntry
 	dw YanmaPokedexEntry
 	dw AxolotoPokedexEntry
-	dw QuagsirePokedexEntry
+	dw MaraistePokedexEntry
 	dw EspeonPokedexEntry
 	dw UmbreonPokedexEntry
 	dw CornebrePokedexEntry
