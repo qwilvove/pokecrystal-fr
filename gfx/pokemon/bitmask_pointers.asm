@@ -80,7 +80,7 @@ BitmasksPointers:
 	dw GalopaBitmasks
 	dw SlowpokeBitmasks
 	dw FlagadossBitmasks
-	dw MagnemiteBitmasks
+	dw MagnetiBitmasks
 	dw MagnetonBitmasks
 	dw CanartichoBitmasks
 	dw DoduoBitmasks

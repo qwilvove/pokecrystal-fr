@@ -81,7 +81,7 @@ PokedexDataPointerTable:
 	dw GalopaPokedexEntry
 	dw SlowpokePokedexEntry
 	dw FlagadossPokedexEntry
-	dw MagnemitePokedexEntry
+	dw MagnetiPokedexEntry
 	dw MagnetonPokedexEntry
 	dw CanartichoPokedexEntry
 	dw DoduoPokedexEntry

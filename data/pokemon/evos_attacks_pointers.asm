@@ -82,7 +82,7 @@ EvosAttacksPointers::
 	dw GalopaEvosAttacks
 	dw SlowpokeEvosAttacks
 	dw FlagadossEvosAttacks
-	dw MagnemiteEvosAttacks
+	dw MagnetiEvosAttacks
 	dw MagnetonEvosAttacks
 	dw CanartichoEvosAttacks
 	dw DoduoEvosAttacks

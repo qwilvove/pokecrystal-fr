@@ -80,7 +80,7 @@ AnimationIdlePointers:
 	dw GalopaAnimationIdle
 	dw SlowpokeAnimationIdle
 	dw FlagadossAnimationIdle
-	dw MagnemiteAnimationIdle
+	dw MagnetiAnimationIdle
 	dw MagnetonAnimationIdle
 	dw CanartichoAnimationIdle
 	dw DoduoAnimationIdle

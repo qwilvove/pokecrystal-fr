@@ -1491,7 +1491,7 @@ JohtoGrassWildMons:
 	; morn
 	db 16, RATTATA
 	db 16, RATICATE
-	db 16, MAGNEMITE
+	db 16, MAGNETI
 	db 16, PIDGEOTTO
 	db 13, TAUROS
 	db 13, ECREMEUH
@@ -1499,7 +1499,7 @@ JohtoGrassWildMons:
 	; day
 	db 16, RATTATA
 	db 16, RATICATE
-	db 16, MAGNEMITE
+	db 16, MAGNETI
 	db 16, PIDGEOTTO
 	db 13, TAUROS
 	db 13, ECREMEUH
@@ -1507,7 +1507,7 @@ JohtoGrassWildMons:
 	; nite
 	db 16, MEOWTH
 	db 16, RATICATE
-	db 16, MAGNEMITE
+	db 16, MAGNETI
 	db 16, NOCTOWL
 	db 16, MEOWTH
 	db 16, MEOWTH
@@ -1519,7 +1519,7 @@ JohtoGrassWildMons:
 	; morn
 	db 16, RATTATA
 	db 16, RATICATE
-	db 16, MAGNEMITE
+	db 16, MAGNETI
 	db 16, PIDGEOTTO
 	db 15, ECREMEUH
 	db 15, TAUROS
@@ -1527,7 +1527,7 @@ JohtoGrassWildMons:
 	; day
 	db 16, RATTATA
 	db 16, RATICATE
-	db 16, MAGNEMITE
+	db 16, MAGNETI
 	db 16, PIDGEOTTO
 	db 15, ECREMEUH
 	db 15, TAUROS
@@ -1535,7 +1535,7 @@ JohtoGrassWildMons:
 	; nite
 	db 16, MEOWTH
 	db 16, RATICATE
-	db 16, MAGNEMITE
+	db 16, MAGNETI
 	db 16, NOCTOWL
 	db 18, MEOWTH
 	db 18, MEOWTH

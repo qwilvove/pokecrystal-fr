@@ -80,7 +80,7 @@ FramesPointers:
 	dw GalopaFrames
 	dw SlowpokeFrames
 	dw FlagadossFrames
-	dw MagnemiteFrames
+	dw MagnetiFrames
 	dw MagnetonFrames
 	dw CanartichoFrames
 	dw DoduoFrames

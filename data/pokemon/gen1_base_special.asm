@@ -82,7 +82,7 @@ KantoMonSpecials:
 	db  80 ; GALOPA
 	db  40 ; SLOWPOKE
 	db  80 ; FLAGADOSS
-	db  95 ; MAGNEMITE
+	db  95 ; MAGNETI
 	db 120 ; MAGNETON
 	db  58 ; CANARTICHO
 	db  35 ; DODUO

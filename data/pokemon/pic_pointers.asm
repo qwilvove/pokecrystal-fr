@@ -163,8 +163,8 @@ PokemonPicPointers::
 	dba_pic SlowpokeBackpic
 	dba_pic FlagadossFrontpic
 	dba_pic FlagadossBackpic
-	dba_pic MagnemiteFrontpic
-	dba_pic MagnemiteBackpic
+	dba_pic MagnetiFrontpic
+	dba_pic MagnetiBackpic
 	dba_pic MagnetonFrontpic
 	dba_pic MagnetonBackpic
 	dba_pic CanartichoFrontpic

@@ -128,7 +128,7 @@ AlphabeticalPokedexOrder:
 	db MAGBY
 	db MAGICARPE
 	db MAGMAR
-	db MAGNEMITE
+	db MAGNETI
 	db MAGNETON
 	db HOUNDOUR
 	db QUAGSIRE

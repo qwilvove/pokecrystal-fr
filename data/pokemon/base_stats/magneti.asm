@@ -1,4 +1,4 @@
-	db MAGNEMITE ; 081
+	db MAGNETI ; 081
 
 	db  25,  35,  70,  45,  95,  55
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/magnemite/front.dimensions"
+	INCBIN "gfx/pokemon/magneti/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_MINERAL, EGG_MINERAL ; egg groups

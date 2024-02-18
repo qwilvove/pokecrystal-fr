@@ -80,7 +80,7 @@ AnimationPointers:
 	dw GalopaAnimation
 	dw SlowpokeAnimation
 	dw FlagadossAnimation
-	dw MagnemiteAnimation
+	dw MagnetiAnimation
 	dw MagnetonAnimation
 	dw CanartichoAnimation
 	dw DoduoAnimation

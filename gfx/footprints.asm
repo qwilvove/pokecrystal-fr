@@ -192,7 +192,7 @@ INCBIN "gfx/footprints/galopa.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/slowpoke.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/flagadoss.1bpp",    footprint_bottom
 ; 081-088 top halves
-INCBIN "gfx/footprints/magnemite.1bpp",  footprint_top
+INCBIN "gfx/footprints/magneti.1bpp",  footprint_top
 INCBIN "gfx/footprints/magneton.1bpp",   footprint_top
 INCBIN "gfx/footprints/canarticho.1bpp", footprint_top
 INCBIN "gfx/footprints/doduo.1bpp",      footprint_top
@@ -201,7 +201,7 @@ INCBIN "gfx/footprints/seel.1bpp",       footprint_top
 INCBIN "gfx/footprints/lamantine.1bpp",    footprint_top
 INCBIN "gfx/footprints/grimer.1bpp",     footprint_top
 ; 081-088 bottom halves
-INCBIN "gfx/footprints/magnemite.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/magneti.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/magneton.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/canarticho.1bpp", footprint_bottom
 INCBIN "gfx/footprints/doduo.1bpp",      footprint_bottom

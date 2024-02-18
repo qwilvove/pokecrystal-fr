@@ -99,7 +99,7 @@
 	const GALOPA   ; 4e
 	const SLOWPOKE   ; 4f
 	const FLAGADOSS    ; 50
-	const MAGNEMITE  ; 51
+	const MAGNETI  ; 51
 	const MAGNETON   ; 52
 	const CANARTICHO ; 53
 	const DODUO      ; 54

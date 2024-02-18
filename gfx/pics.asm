@@ -517,10 +517,10 @@ RattataBackpic:      INCBIN "gfx/pokemon/rattata/back.2bpp.lz"
 YoungsterPic:        INCBIN "gfx/trainers/youngster.2bpp.lz"
 WillPic:             INCBIN "gfx/trainers/will.2bpp.lz"
 SchoolboyPic:        INCBIN "gfx/trainers/schoolboy.2bpp.lz"
-MagnemiteFrontpic:   INCBIN "gfx/pokemon/magnemite/front.animated.2bpp.lz"
+MagnetiFrontpic:   INCBIN "gfx/pokemon/magneti/front.animated.2bpp.lz"
 ErikaPic:            INCBIN "gfx/trainers/erika.2bpp.lz"
 JaninePic:           INCBIN "gfx/trainers/janine.2bpp.lz"
-MagnemiteBackpic:    INCBIN "gfx/pokemon/magnemite/back.2bpp.lz"
+MagnetiBackpic:    INCBIN "gfx/pokemon/magneti/back.2bpp.lz"
 
 
 SECTION "Pics 16", ROMX

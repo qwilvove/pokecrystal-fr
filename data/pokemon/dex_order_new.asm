@@ -119,7 +119,7 @@ NewPokedexOrder:
 	db WEEZING
 	db GRIMER
 	db GROTADMORV
-	db MAGNEMITE
+	db MAGNETI
 	db MAGNETON
 	db VOLTORB
 	db ELECTRODE
