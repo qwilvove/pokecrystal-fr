@@ -148,7 +148,7 @@
 	const PINSIR     ; 7f
 	const TAUROS     ; 80
 	const MAGIKARP   ; 81
-	const GYARADOS   ; 82
+	const LEVIATOR   ; 82
 	const LAPRAS     ; 83
 	const DITTO      ; 84
 	const EVOLI      ; 85

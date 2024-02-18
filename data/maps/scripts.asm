@@ -357,7 +357,7 @@ SECTION "Map Scripts 19", ROMX
 INCLUDE "maps/AzaleaTown.asm"
 INCLUDE "maps/GoldenrodCity.asm"
 INCLUDE "maps/SaffronCity.asm"
-INCLUDE "maps/MahoganyRedGyaradosSpeechHouse.asm"
+INCLUDE "maps/MahoganyRedLeviatorSpeechHouse.asm"
 INCLUDE "maps/MahoganyGym.asm"
 INCLUDE "maps/MahoganyPokecenter1F.asm"
 INCLUDE "maps/Route42EcruteakGate.asm"

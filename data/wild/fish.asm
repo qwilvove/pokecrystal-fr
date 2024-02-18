@@ -16,7 +16,7 @@ FishGroups:
 	fishgroup 50 percent + 1, .Dratini_Old,          .Dratini_Good,          .Dratini_Super
 	fishgroup 50 percent + 1, .Qwilfish_Swarm_Old,   .Qwilfish_Swarm_Good,   .Qwilfish_Swarm_Super
 	fishgroup 50 percent + 1, .Remoraid_Swarm_Old,   .Remoraid_Swarm_Good,   .Remoraid_Swarm_Super
-	fishgroup 50 percent + 1, .Gyarados_Old,         .Gyarados_Good,         .Gyarados_Super
+	fishgroup 50 percent + 1, .Leviator_Old,         .Leviator_Good,         .Leviator_Super
 	fishgroup 50 percent + 1, .Dratini_2_Old,        .Dratini_2_Good,        .Dratini_2_Super
 	fishgroup 50 percent + 1, .WhirlIslands_Old,     .WhirlIslands_Good,     .WhirlIslands_Super
 	fishgroup 50 percent + 1, .Qwilfish_Old,         .Qwilfish_Good,         .Qwilfish_Super
@@ -129,16 +129,16 @@ FishGroups:
 	db  90 percent + 1, REMORAID,   40
 	db 100 percent,     REMORAID,   40
 
-.Gyarados_Old:
+.Leviator_Old:
 	db  70 percent + 1, MAGIKARP,   10
 	db  85 percent + 1, MAGIKARP,   10
 	db 100 percent,     MAGIKARP,   10
-.Gyarados_Good:
+.Leviator_Good:
 	db  35 percent,     MAGIKARP,   20
 	db  70 percent,     MAGIKARP,   20
 	db  90 percent + 1, MAGIKARP,   20
 	db 100 percent,     time_group 14
-.Gyarados_Super:
+.Leviator_Super:
 	db  40 percent,     MAGIKARP,   40
 	db  70 percent,     time_group 15
 	db  90 percent + 1, MAGIKARP,   40
@@ -223,8 +223,8 @@ TimeFishGroups:
 	db QWILFISH,   40,  QWILFISH,   40 ; 11
 	db REMORAID,   20,  REMORAID,   20 ; 12
 	db REMORAID,   40,  REMORAID,   40 ; 13
-	db GYARADOS,   20,  GYARADOS,   20 ; 14
-	db GYARADOS,   40,  GYARADOS,   40 ; 15
+	db LEVIATOR,   20,  LEVIATOR,   20 ; 14
+	db LEVIATOR,   40,  LEVIATOR,   40 ; 15
 	db DRATINI,    10,  DRATINI,    10 ; 16
 	db DRATINI,    10,  DRATINI,    10 ; 17
 	db HYPOTREMPE,     20,  HYPOTREMPE,     20 ; 18

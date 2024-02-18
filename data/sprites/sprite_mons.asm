@@ -33,7 +33,7 @@ SpriteMons:
 	db RHYDON
 	db MOLTRES
 	db SNORLAX
-	db GYARADOS
+	db LEVIATOR
 	db LUGIA
 	db HO_OH
 	assert_table_length NUM_POKEMON_SPRITES

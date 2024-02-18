@@ -53,7 +53,7 @@ ENDM
 	endgroup
 
 	newgroup MAHOGANY                                             ;  2
-	map_const MAHOGANY_RED_GYARADOS_SPEECH_HOUSE,           4,  4 ;  1
+	map_const MAHOGANY_RED_LEVIATOR_SPEECH_HOUSE,           4,  4 ;  1
 	map_const MAHOGANY_GYM,                                 5,  9 ;  2
 	map_const MAHOGANY_POKECENTER_1F,                       5,  4 ;  3
 	map_const ROUTE_42_ECRUTEAK_GATE,                       5,  4 ;  4

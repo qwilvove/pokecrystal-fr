@@ -1752,14 +1752,14 @@ TaurosEvosAttacks:
 	db 0 ; no more level-up moves
 
 MagikarpEvosAttacks:
-	db EVOLVE_LEVEL, 20, GYARADOS
+	db EVOLVE_LEVEL, 20, LEVIATOR
 	db 0 ; no more evolutions
 	db 1, SPLASH
 	db 15, TACKLE
 	db 30, FLAIL
 	db 0 ; no more level-up moves
 
-GyaradosEvosAttacks:
+LeviatorEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, THRASH
 	db 20, BITE

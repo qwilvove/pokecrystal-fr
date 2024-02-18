@@ -78,7 +78,7 @@ NewPokedexOrder:
 	db POLIWRATH
 	db POLITOED
 	db MAGIKARP
-	db GYARADOS
+	db LEVIATOR
 	db GOLDEEN
 	db SEAKING
 	db SLOWPOKE

@@ -131,7 +131,7 @@ EvosAttacksPointers::
 	dw PinsirEvosAttacks
 	dw TaurosEvosAttacks
 	dw MagikarpEvosAttacks
-	dw GyaradosEvosAttacks
+	dw LeviatorEvosAttacks
 	dw LaprasEvosAttacks
 	dw DittoEvosAttacks
 	dw EvoliEvosAttacks

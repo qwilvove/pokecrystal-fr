@@ -251,7 +251,7 @@ JohtoWaterWildMons:
 	db 6 percent ; encounter rate
 	db 15, MAGIKARP
 	db 10, MAGIKARP
-	db 15, GYARADOS
+	db 15, LEVIATOR
 	end_water_wildmons
 
 	def_water_wildmons BLACKTHORN_CITY

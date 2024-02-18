@@ -131,7 +131,7 @@ MonMenuIcons:
 	db ICON_BUG         ; PINSIR
 	db ICON_EQUINE      ; TAUROS
 	db ICON_FISH        ; MAGIKARP
-	db ICON_GYARADOS    ; GYARADOS
+	db ICON_LEVIATOR    ; LEVIATOR
 	db ICON_LAPRAS      ; LAPRAS
 	db ICON_BLOB        ; DITTO
 	db ICON_FOX         ; EVOLI

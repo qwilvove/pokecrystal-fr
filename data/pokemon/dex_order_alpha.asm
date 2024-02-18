@@ -113,7 +113,7 @@ AlphabeticalPokedexOrder:
 	db LANTURN
 	db LEUPHORIE
 	db LEVEINARD
-	db GYARADOS
+	db LEVIATOR
 	db SLUGMA
 	db SMOOCHUM
 	db JYNX

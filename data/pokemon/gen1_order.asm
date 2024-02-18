@@ -21,7 +21,7 @@ Pokered_MonIndices:
 	db LAPRAS
 	db ARCANIN
 	db MEW
-	db GYARADOS
+	db LEVIATOR
 	db KOKIYAS
 	db TENTACOOL
 	db FANTOMINUS

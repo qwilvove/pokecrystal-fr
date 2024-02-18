@@ -36,7 +36,7 @@ IconPointers:
 	dw SnorlaxIcon
 	dw HoOhIcon
 	dw LugiaIcon
-	dw GyaradosIcon
+	dw LeviatorIcon
 	dw SlowpokeIcon
 	dw SudowoodoIcon
 	dw BigmonIcon

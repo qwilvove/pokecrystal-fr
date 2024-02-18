@@ -135,7 +135,7 @@ PokemonCries::
 	mon_cry CRY_PIDGEOTTO,     0,  256 ; PINSIR
 	mon_cry CRY_CARAPUCE,     17,  192 ; TAUROS
 	mon_cry CRY_ABO,       128,  128 ; MAGIKARP
-	mon_cry CRY_ABO,         0,  256 ; GYARADOS
+	mon_cry CRY_ABO,         0,  256 ; LEVIATOR
 	mon_cry CRY_LAPRAS,        0,  256 ; LAPRAS
 	mon_cry CRY_PIDGEY,      255,  383 ; DITTO
 	mon_cry CRY_VENONAT,     136,  224 ; EVOLI

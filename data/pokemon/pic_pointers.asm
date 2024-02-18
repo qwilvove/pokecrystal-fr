@@ -261,8 +261,8 @@ PokemonPicPointers::
 	dba_pic TaurosBackpic
 	dba_pic MagikarpFrontpic
 	dba_pic MagikarpBackpic
-	dba_pic GyaradosFrontpic
-	dba_pic GyaradosBackpic
+	dba_pic LeviatorFrontpic
+	dba_pic LeviatorBackpic
 	dba_pic LaprasFrontpic
 	dba_pic LaprasBackpic
 	dba_pic DittoFrontpic

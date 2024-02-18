@@ -6108,7 +6108,7 @@ LoadEnemyMon:
 ; Register a contains wBattleType
 
 ; Forced shiny battle type
-; Used by Red Gyarados at Lake of Rage
+; Used by Red Leviator at Lake of Rage
 	cp BATTLETYPE_FORCESHINY
 	jr nz, .GenerateDVs
 
