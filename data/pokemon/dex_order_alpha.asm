@@ -123,7 +123,7 @@ AlphabeticalPokedexOrder:
 	db M__MIME
 	db MACHOC
 	db MACHOPEUR
-	db MACHAMP
+	db MACKOGNEUR
 	db BAYLEEF
 	db MAGBY
 	db MAGIKARP

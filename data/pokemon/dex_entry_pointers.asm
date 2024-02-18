@@ -68,7 +68,7 @@ PokedexDataPointerTable:
 	dw AlakazamPokedexEntry
 	dw MachocPokedexEntry
 	dw MachopeurPokedexEntry
-	dw MachampPokedexEntry
+	dw MackogneurPokedexEntry
 	dw ChetiflorPokedexEntry
 	dw BoustiflorPokedexEntry
 	dw EmpiflorPokedexEntry

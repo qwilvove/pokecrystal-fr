@@ -67,7 +67,7 @@ AnimationIdlePointers:
 	dw AlakazamAnimationIdle
 	dw MachocAnimationIdle
 	dw MachopeurAnimationIdle
-	dw MachampAnimationIdle
+	dw MackogneurAnimationIdle
 	dw ChetiflorAnimationIdle
 	dw BoustiflorAnimationIdle
 	dw EmpiflorAnimationIdle

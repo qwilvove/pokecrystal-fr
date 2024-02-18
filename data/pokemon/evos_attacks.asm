@@ -878,7 +878,7 @@ MachocEvosAttacks:
 	db 0 ; no more level-up moves
 
 MachopeurEvosAttacks:
-	db EVOLVE_TRADE, -1, MACHAMP
+	db EVOLVE_TRADE, -1, MACKOGNEUR
 	db 0 ; no more evolutions
 	db 1, LOW_KICK
 	db 1, LEER
@@ -893,7 +893,7 @@ MachopeurEvosAttacks:
 	db 61, SUBMISSION
 	db 0 ; no more level-up moves
 
-MachampEvosAttacks:
+MackogneurEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, LOW_KICK
 	db 1, LEER

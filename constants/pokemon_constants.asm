@@ -86,7 +86,7 @@
 	const ALAKAZAM   ; 41
 	const MACHOC     ; 42
 	const MACHOPEUR    ; 43
-	const MACHAMP    ; 44
+	const MACKOGNEUR    ; 44
 	const CHETIFLOR ; 45
 	const BOUSTIFLOR ; 46
 	const EMPIFLOR ; 47

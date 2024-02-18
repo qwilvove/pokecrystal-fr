@@ -69,7 +69,7 @@ KantoMonSpecials:
 	db 135 ; ALAKAZAM
 	db  35 ; MACHOC
 	db  50 ; MACHOPEUR
-	db  65 ; MACHAMP
+	db  65 ; MACKOGNEUR
 	db  70 ; CHETIFLOR
 	db  85 ; BOUSTIFLOR
 	db 100 ; EMPIFLOR

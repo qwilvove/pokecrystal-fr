@@ -67,7 +67,7 @@ FramesPointers:
 	dw AlakazamFrames
 	dw MachocFrames
 	dw MachopeurFrames
-	dw MachampFrames
+	dw MackogneurFrames
 	dw ChetiflorFrames
 	dw BoustiflorFrames
 	dw EmpiflorFrames

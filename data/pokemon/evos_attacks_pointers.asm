@@ -69,7 +69,7 @@ EvosAttacksPointers::
 	dw AlakazamEvosAttacks
 	dw MachocEvosAttacks
 	dw MachopeurEvosAttacks
-	dw MachampEvosAttacks
+	dw MackogneurEvosAttacks
 	dw ChetiflorEvosAttacks
 	dw BoustiflorEvosAttacks
 	dw EmpiflorEvosAttacks

@@ -137,8 +137,8 @@ PokemonPicPointers::
 	dba_pic MachocBackpic
 	dba_pic MachopeurFrontpic
 	dba_pic MachopeurBackpic
-	dba_pic MachampFrontpic
-	dba_pic MachampBackpic
+	dba_pic MackogneurFrontpic
+	dba_pic MackogneurBackpic
 	dba_pic ChetiflorFrontpic
 	dba_pic ChetiflorBackpic
 	dba_pic BoustiflorFrontpic

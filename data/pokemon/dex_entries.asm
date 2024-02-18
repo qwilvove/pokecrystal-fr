@@ -71,7 +71,7 @@ SECTION "Pokedex Entries 065-128", ROMX
 AlakazamPokedexEntry::   INCLUDE "data/pokemon/dex_entries/alakazam.asm"
 MachocPokedexEntry::     INCLUDE "data/pokemon/dex_entries/machoc.asm"
 MachopeurPokedexEntry::    INCLUDE "data/pokemon/dex_entries/machopeur.asm"
-MachampPokedexEntry::    INCLUDE "data/pokemon/dex_entries/machamp.asm"
+MackogneurPokedexEntry::    INCLUDE "data/pokemon/dex_entries/mackogneur.asm"
 ChetiflorPokedexEntry:: INCLUDE "data/pokemon/dex_entries/chetiflor.asm"
 BoustiflorPokedexEntry:: INCLUDE "data/pokemon/dex_entries/boustiflor.asm"
 EmpiflorPokedexEntry:: INCLUDE "data/pokemon/dex_entries/empiflor.asm"
