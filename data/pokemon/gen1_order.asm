@@ -235,7 +235,7 @@ Pokered_MonIndices:
 	db YANMA
 	db AXOLOTO
 	db MARAISTE
-	db ESPEON
+	db MENTALI
 	db UMBREON
 	db CORNEBRE
 	db SLOWKING

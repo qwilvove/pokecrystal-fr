@@ -138,7 +138,7 @@ AlphabeticalPokedexOrder:
 	db MELO
 	db MELODELFE
 	db MELOFEE
-	db ESPEON
+	db MENTALI
 	db DITTO
 	db MEW
 	db MEWTWO

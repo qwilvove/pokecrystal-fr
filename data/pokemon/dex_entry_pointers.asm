@@ -196,7 +196,7 @@ PokedexDataPointerTable:
 	dw YanmaPokedexEntry
 	dw AxolotoPokedexEntry
 	dw MaraistePokedexEntry
-	dw EspeonPokedexEntry
+	dw MentaliPokedexEntry
 	dw UmbreonPokedexEntry
 	dw CornebrePokedexEntry
 	dw SlowkingPokedexEntry

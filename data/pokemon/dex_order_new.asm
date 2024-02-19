@@ -185,7 +185,7 @@ NewPokedexOrder:
 	db AQUALI
 	db JOLTEON
 	db FLAREON
-	db ESPEON
+	db MENTALI
 	db UMBREON
 	db HYPOTREMPE
 	db HYPOCEAN

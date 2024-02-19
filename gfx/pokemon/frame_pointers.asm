@@ -195,7 +195,7 @@ FramesPointers:
 	dw YanmaFrames
 	dw AxolotoFrames
 	dw MaraisteFrames
-	dw EspeonFrames
+	dw MentaliFrames
 	dw UmbreonFrames
 	dw CornebreFrames
 	dw SlowkingFrames

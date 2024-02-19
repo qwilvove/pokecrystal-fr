@@ -195,7 +195,7 @@ AnimationIdlePointers:
 	dw YanmaAnimationIdle
 	dw AxolotoAnimationIdle
 	dw MaraisteAnimationIdle
-	dw EspeonAnimationIdle
+	dw MentaliAnimationIdle
 	dw UmbreonAnimationIdle
 	dw CornebreAnimationIdle
 	dw SlowkingAnimationIdle

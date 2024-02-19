@@ -197,7 +197,7 @@ EvosAttacksPointers::
 	dw YanmaEvosAttacks
 	dw AxolotoEvosAttacks
 	dw MaraisteEvosAttacks
-	dw EspeonEvosAttacks
+	dw MentaliEvosAttacks
 	dw UmbreonEvosAttacks
 	dw CornebreEvosAttacks
 	dw SlowkingEvosAttacks

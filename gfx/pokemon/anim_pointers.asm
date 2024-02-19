@@ -195,7 +195,7 @@ AnimationPointers:
 	dw YanmaAnimation
 	dw AxolotoAnimation
 	dw MaraisteAnimation
-	dw EspeonAnimation
+	dw MentaliAnimation
 	dw UmbreonAnimation
 	dw CornebreAnimation
 	dw SlowkingAnimation

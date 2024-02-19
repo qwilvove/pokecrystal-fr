@@ -201,7 +201,7 @@ PokemonCries::
 	mon_cry CRY_KAIMINUS,     49,  200 ; YANMA
 	mon_cry CRY_AXOLOTO,      147,  175 ; AXOLOTO
 	mon_cry CRY_AXOLOTO,     -198,  320 ; MARAISTE
-	mon_cry CRY_CAPUMAIN,       162,  320 ; ESPEON
+	mon_cry CRY_CAPUMAIN,       162,  320 ; MENTALI
 	mon_cry CRY_VENONAT,    -233,  240 ; UMBREON
 	mon_cry CRY_MARILL,      -31,  384 ; CORNEBRE
 	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING

@@ -207,7 +207,7 @@ SECTION "Pokedex Entries 193-251", ROMX
 YanmaPokedexEntry::      INCLUDE "data/pokemon/dex_entries/yanma.asm"
 AxolotoPokedexEntry::     INCLUDE "data/pokemon/dex_entries/axoloto.asm"
 MaraistePokedexEntry::   INCLUDE "data/pokemon/dex_entries/maraiste.asm"
-EspeonPokedexEntry::     INCLUDE "data/pokemon/dex_entries/espeon.asm"
+MentaliPokedexEntry::     INCLUDE "data/pokemon/dex_entries/mentali.asm"
 UmbreonPokedexEntry::    INCLUDE "data/pokemon/dex_entries/umbreon.asm"
 CornebrePokedexEntry::    INCLUDE "data/pokemon/dex_entries/cornebre.asm"
 SlowkingPokedexEntry::   INCLUDE "data/pokemon/dex_entries/slowking.asm"
