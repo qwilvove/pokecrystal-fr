@@ -463,7 +463,7 @@ NidokingEvosAttacks:
 	db 0 ; no more level-up moves
 
 ClefairyEvosAttacks:
-	db EVOLVE_ITEM, MOON_STONE, CLEFABLE
+	db EVOLVE_ITEM, MOON_STONE, MELODELFE
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 1, GROWL
@@ -477,7 +477,7 @@ ClefairyEvosAttacks:
 	db 53, LIGHT_SCREEN
 	db 0 ; no more level-up moves
 
-ClefableEvosAttacks:
+MelodelfeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, SING
 	db 1, DOUBLESLAP

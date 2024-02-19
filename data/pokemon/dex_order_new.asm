@@ -43,7 +43,7 @@ NewPokedexOrder:
 	db CROBAT
 	db MELO
 	db CLEFAIRY
-	db CLEFABLE
+	db MELODELFE
 	db IGGLYBUFF
 	db JIGGLYPUFF
 	db GRODOUDOU

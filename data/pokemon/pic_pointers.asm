@@ -73,8 +73,8 @@ PokemonPicPointers::
 	dba_pic NidokingBackpic
 	dba_pic ClefairyFrontpic
 	dba_pic ClefairyBackpic
-	dba_pic ClefableFrontpic
-	dba_pic ClefableBackpic
+	dba_pic MelodelfeFrontpic
+	dba_pic MelodelfeBackpic
 	dba_pic GoupixFrontpic
 	dba_pic GoupixBackpic
 	dba_pic FeunardFrontpic

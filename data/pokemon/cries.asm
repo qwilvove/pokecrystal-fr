@@ -41,7 +41,7 @@ PokemonCries::
 	mon_cry CRY_NIDORAN_M,    44,  320 ; NIDORINO
 	mon_cry CRY_RAICHU,        0,  256 ; NIDOKING
 	mon_cry CRY_CLEFAIRY,    204,  129 ; CLEFAIRY
-	mon_cry CRY_CLEFAIRY,    170,  160 ; CLEFABLE
+	mon_cry CRY_CLEFAIRY,    170,  160 ; MELODELFE
 	mon_cry CRY_GOUPIX,       79,  144 ; GOUPIX
 	mon_cry CRY_GOUPIX,      136,  224 ; FEUNARD
 	mon_cry CRY_PIDGEY,      255,  181 ; JIGGLYPUFF

@@ -54,7 +54,7 @@
 	const NIDORINO   ; 21
 	const NIDOKING   ; 22
 	const CLEFAIRY   ; 23
-	const CLEFABLE   ; 24
+	const MELODELFE   ; 24
 	const GOUPIX     ; 25
 	const FEUNARD  ; 26
 	const JIGGLYPUFF ; 27

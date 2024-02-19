@@ -35,7 +35,7 @@ AnimationIdlePointers:
 	dw NidorinoAnimationIdle
 	dw NidokingAnimationIdle
 	dw ClefairyAnimationIdle
-	dw ClefableAnimationIdle
+	dw MelodelfeAnimationIdle
 	dw GoupixAnimationIdle
 	dw FeunardAnimationIdle
 	dw JigglypuffAnimationIdle
