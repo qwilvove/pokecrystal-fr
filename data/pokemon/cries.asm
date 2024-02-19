@@ -40,8 +40,8 @@ PokemonCries::
 	mon_cry CRY_NIDORAN_M,     0,  256 ; NIDORAN_M
 	mon_cry CRY_NIDORAN_M,    44,  320 ; NIDORINO
 	mon_cry CRY_RAICHU,        0,  256 ; NIDOKING
-	mon_cry CRY_CLEFAIRY,    204,  129 ; CLEFAIRY
-	mon_cry CRY_CLEFAIRY,    170,  160 ; MELODELFE
+	mon_cry CRY_MELOFEE,    204,  129 ; MELOFEE
+	mon_cry CRY_MELOFEE,    170,  160 ; MELODELFE
 	mon_cry CRY_GOUPIX,       79,  144 ; GOUPIX
 	mon_cry CRY_GOUPIX,      136,  224 ; FEUNARD
 	mon_cry CRY_PIDGEY,      255,  181 ; JIGGLYPUFF
@@ -57,8 +57,8 @@ PokemonCries::
 	mon_cry CRY_VENONAT,      41,  256 ; AEROMITE
 	mon_cry CRY_DIGLETT,     170,  129 ; DIGLETT
 	mon_cry CRY_DIGLETT,      42,  144 ; DUGTRIO
-	mon_cry CRY_CLEFAIRY,    119,  144 ; MEOWTH
-	mon_cry CRY_CLEFAIRY,    153,  383 ; PERSIAN
+	mon_cry CRY_MELOFEE,    119,  144 ; MEOWTH
+	mon_cry CRY_MELOFEE,    153,  383 ; PERSIAN
 	mon_cry CRY_PSYDUCK,      32,  224 ; PSYDUCK
 	mon_cry CRY_PSYDUCK,     255,  192 ; AKWAKWAK
 	mon_cry CRY_NIDOQUEEN,   221,  224 ; FEROSINGE
@@ -109,7 +109,7 @@ PokemonCries::
 	mon_cry CRY_VOLTORB,     168,  272 ; ELECTRODE
 	mon_cry CRY_DIGLETT,       0,  256 ; EXEGGCUTE
 	mon_cry CRY_DROWZEE,       0,  256 ; EXEGGUTOR
-	mon_cry CRY_CLEFAIRY,      0,  256 ; CUBONE
+	mon_cry CRY_MELOFEE,      0,  256 ; CUBONE
 	mon_cry CRY_ODDISH,       79,  224 ; MAROWAK
 	mon_cry CRY_GROLEM,       128,  320 ; KICKLEE
 	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN
@@ -121,8 +121,8 @@ PokemonCries::
 	mon_cry CRY_PIDGEOTTO,    10,  320 ; LEVEINARD
 	mon_cry CRY_GROLEM,         0,  256 ; TANGELA
 	mon_cry CRY_KANGOUREX,    0,  256 ; KANGOUREX
-	mon_cry CRY_CLEFAIRY,    153,  144 ; HYPOTREMPE
-	mon_cry CRY_CLEFAIRY,     60,  129 ; HYPOCEAN
+	mon_cry CRY_MELOFEE,    153,  144 ; HYPOTREMPE
+	mon_cry CRY_MELOFEE,     60,  129 ; HYPOCEAN
 	mon_cry CRY_CHENIPAN,    128,  192 ; GOLDEEN
 	mon_cry CRY_CHENIPAN,     16,  383 ; SEAKING
 	mon_cry CRY_PARAS,         2,  160 ; STARYU

@@ -38,24 +38,24 @@ KantoGrassWildMons:
 	db 8, SANDSHREW
 	db 12, PARAS
 	db 10, GEODUDE
-	db 8, CLEFAIRY
-	db 8, CLEFAIRY
+	db 8, MELOFEE
+	db 8, MELOFEE
 	; day
 	db 6, ZUBAT
 	db 8, GEODUDE
 	db 8, SANDSHREW
 	db 12, PARAS
 	db 10, GEODUDE
-	db 8, CLEFAIRY
-	db 8, CLEFAIRY
+	db 8, MELOFEE
+	db 8, MELOFEE
 	; nite
 	db 6, ZUBAT
 	db 8, GEODUDE
-	db 8, CLEFAIRY
+	db 8, MELOFEE
 	db 12, PARAS
 	db 10, GEODUDE
-	db 12, CLEFAIRY
-	db 12, CLEFAIRY
+	db 12, MELOFEE
+	db 12, MELOFEE
 	end_grass_wildmons
 
 	def_grass_wildmons ROCK_TUNNEL_1F
@@ -250,8 +250,8 @@ KantoGrassWildMons:
 	db 10, RATICATE
 	db 6, ZUBAT
 	db 5, RATTATA
-	db 6, CLEFAIRY
-	db 6, CLEFAIRY
+	db 6, MELOFEE
+	db 6, MELOFEE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_4
@@ -278,8 +278,8 @@ KantoGrassWildMons:
 	db 10, RATICATE
 	db 6, ZUBAT
 	db 5, RATTATA
-	db 6, CLEFAIRY
-	db 6, CLEFAIRY
+	db 6, MELOFEE
+	db 6, MELOFEE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_5

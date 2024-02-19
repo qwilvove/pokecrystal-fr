@@ -34,7 +34,7 @@ BitmasksPointers:
 	dw NidoranMBitmasks
 	dw NidorinoBitmasks
 	dw NidokingBitmasks
-	dw ClefairyBitmasks
+	dw MelofeeBitmasks
 	dw MelodelfeBitmasks
 	dw GoupixBitmasks
 	dw FeunardBitmasks

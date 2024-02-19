@@ -1,7 +1,7 @@
 	object_const_def
 	const POKEMONFANCLUB_CHAIRMAN
 	const POKEMONFANCLUB_RECEPTIONIST
-	const POKEMONFANCLUB_CLEFAIRY_GUY
+	const POKEMONFANCLUB_MELOFEE_GUY
 	const POKEMONFANCLUB_TEACHER
 	const POKEMONFANCLUB_FAIRY
 	const POKEMONFANCLUB_ODDISH
@@ -50,20 +50,20 @@ PokemonFanClubChairmanScript:
 PokemonFanClubReceptionistScript:
 	jumptextfaceplayer PokemonFanClubReceptionistText
 
-PokemonFanClubClefairyGuyScript:
+PokemonFanClubMelofeeGuyScript:
 	faceplayer
 	opentext
 	checkevent EVENT_GOT_LOST_ITEM_FROM_FAN_CLUB
 	iftrue .GotLostItem
 	checkevent EVENT_RETURNED_MACHINE_PART
-	iftrue .FoundClefairyDoll
-	writetext PokemonFanClubClefairyGuyClefairyIsSoAdorableText
+	iftrue .FoundMelofeeDoll
+	writetext PokemonFanClubMelofeeGuyMelofeeIsSoAdorableText
 	waitbutton
 	closetext
 	end
 
-.FoundClefairyDoll:
-	writetext PokemonFanClubClefairyGuyMakingDoWithADollIFoundText
+.FoundMelofeeDoll:
+	writetext PokemonFanClubMelofeeGuyMakingDoWithADollIFoundText
 	checkevent EVENT_MET_COPYCAT_FOUND_OUT_ABOUT_LOST_ITEM
 	iftrue .MetCopycat
 	waitbutton
@@ -72,7 +72,7 @@ PokemonFanClubClefairyGuyScript:
 
 .MetCopycat:
 	promptbutton
-	writetext PokemonFanClubClefairyGuyTakeThisDollBackToGirlText
+	writetext PokemonFanClubMelofeeGuyTakeThisDollBackToGirlText
 	promptbutton
 	waitsfx
 	giveitem LOST_ITEM
@@ -87,13 +87,13 @@ PokemonFanClubClefairyGuyScript:
 	end
 
 .GotLostItem:
-	writetext PokemonFanClubClefairyGuyGoingToGetARealClefairyText
+	writetext PokemonFanClubMelofeeGuyGoingToGetARealMelofeeText
 	waitbutton
 	closetext
 	end
 
 .NoRoom:
-	writetext PokemonFanClubClefairyGuyPackIsJammedFullText
+	writetext PokemonFanClubMelofeeGuyPackIsJammedFullText
 	waitbutton
 	closetext
 	end
@@ -101,8 +101,8 @@ PokemonFanClubClefairyGuyScript:
 PokemonFanClubTeacherScript:
 	jumptextfaceplayer PokemonFanClubTeacherText
 
-PokemonFanClubClefairyDollScript:
-	jumptext PokemonFanClubClefairyDollText
+PokemonFanClubMelofeeDollScript:
+	jumptext PokemonFanClubMelofeeDollText
 
 PokemonFanClubMacroniumScript:
 	opentext
@@ -207,7 +207,7 @@ PokemonFanClubReceptionistText:
 	cont "de ses #MON..."
 	done
 
-PokemonFanClubClefairyGuyClefairyIsSoAdorableText:
+PokemonFanClubMelofeeGuyMelofeeIsSoAdorableText:
 	text "J'aime quand"
 	line "MELOFEE gigote son"
 
@@ -218,7 +218,7 @@ PokemonFanClubClefairyGuyClefairyIsSoAdorableText:
 	line "C'est adorable!"
 	done
 
-PokemonFanClubClefairyGuyMakingDoWithADollIFoundText:
+PokemonFanClubMelofeeGuyMakingDoWithADollIFoundText:
 	text "J'aime MELOFEE,"
 	line "mais je ne pourrai"
 
@@ -229,7 +229,7 @@ PokemonFanClubClefairyGuyMakingDoWithADollIFoundText:
 	line "# POUPEE."
 	done
 
-PokemonFanClubClefairyGuyTakeThisDollBackToGirlText:
+PokemonFanClubMelofeeGuyTakeThisDollBackToGirlText:
 	text "Oh, je vois. La"
 	line "fille qui a perdu"
 
@@ -251,7 +251,7 @@ PokemonFanClubPlayerReceivedDollText:
 	line "la # POUPEE."
 	done
 
-PokemonFanClubClefairyGuyGoingToGetARealClefairyText:
+PokemonFanClubMelofeeGuyGoingToGetARealMelofeeText:
 	text "J'attraperai un"
 	line "MELOFEE et il sera"
 
@@ -259,7 +259,7 @@ PokemonFanClubClefairyGuyGoingToGetARealClefairyText:
 	line "vie."
 	done
 
-PokemonFanClubClefairyGuyPackIsJammedFullText:
+PokemonFanClubMelofeeGuyPackIsJammedFullText:
 	text "Ton SAC est plein."
 	done
 
@@ -271,7 +271,7 @@ PokemonFanClubTeacherText:
 	line "tête est mignonne!"
 	done
 
-PokemonFanClubClefairyDollText:
+PokemonFanClubMelofeeDollText:
 	text "C'est un MELOFEE!"
 	line "Hein?"
 
@@ -313,7 +313,7 @@ PokemonFanClub_MapEvents:
 	def_object_events
 	object_event  3,  1, SPRITE_GENTLEMAN, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, PokemonFanClubChairmanScript, -1
 	object_event  4,  1, SPRITE_RECEPTIONIST, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, PokemonFanClubReceptionistScript, -1
-	object_event  2,  3, SPRITE_FISHER, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, PokemonFanClubClefairyGuyScript, -1
+	object_event  2,  3, SPRITE_FISHER, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, PokemonFanClubMelofeeGuyScript, -1
 	object_event  7,  2, SPRITE_TEACHER, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, PokemonFanClubTeacherScript, -1
-	object_event  2,  4, SPRITE_FAIRY, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, PokemonFanClubClefairyDollScript, EVENT_VERMILION_FAN_CLUB_DOLL
+	object_event  2,  4, SPRITE_FAIRY, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, PokemonFanClubMelofeeDollScript, EVENT_VERMILION_FAN_CLUB_DOLL
 	object_event  7,  3, SPRITE_ODDISH, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, PokemonFanClubMacroniumScript, -1

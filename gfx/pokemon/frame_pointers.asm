@@ -34,7 +34,7 @@ FramesPointers:
 	dw NidoranMFrames
 	dw NidorinoFrames
 	dw NidokingFrames
-	dw ClefairyFrames
+	dw MelofeeFrames
 	dw MelodelfeFrames
 	dw GoupixFrames
 	dw FeunardFrames

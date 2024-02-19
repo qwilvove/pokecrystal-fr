@@ -10,7 +10,7 @@ IconPointers:
 	dw FishIcon
 	dw BirdIcon
 	dw MonsterIcon
-	dw ClefairyIcon
+	dw MelofeeIcon
 	dw OddishIcon
 	dw BugIcon
 	dw GhostIcon

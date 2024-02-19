@@ -86,7 +86,7 @@ INCBIN "gfx/footprints/nidoran_m.1bpp",  footprint_bottom
 ; 033-040 top halves
 INCBIN "gfx/footprints/nidorino.1bpp",   footprint_top
 INCBIN "gfx/footprints/nidoking.1bpp",   footprint_top
-INCBIN "gfx/footprints/clefairy.1bpp",   footprint_top
+INCBIN "gfx/footprints/melofee.1bpp",   footprint_top
 INCBIN "gfx/footprints/melodelfe.1bpp",   footprint_top
 INCBIN "gfx/footprints/goupix.1bpp",     footprint_top
 INCBIN "gfx/footprints/feunard.1bpp",  footprint_top
@@ -95,7 +95,7 @@ INCBIN "gfx/footprints/grodoudou.1bpp", footprint_top
 ; 033-040 bottom halves
 INCBIN "gfx/footprints/nidorino.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/nidoking.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/clefairy.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/melofee.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/melodelfe.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/goupix.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/feunard.1bpp",  footprint_bottom

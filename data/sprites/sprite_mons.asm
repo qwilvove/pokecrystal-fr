@@ -16,7 +16,7 @@ SpriteMons:
 	db DIGLETT
 	db POLIWAG
 	db PIKACHU
-	db CLEFAIRY
+	db MELOFEE
 	db CHARMANDER
 	db LIPPOUTOU
 	db STARMIE

@@ -26,7 +26,7 @@ Cries:
 	dba Cry_Chenipan
 	dba Cry_Abo
 	dba Cry_Fearow
-	dba Cry_Clefairy
+	dba Cry_Melofee
 	dba Cry_Venonat
 	dba Cry_Lokhlass
 	dba Cry_Chrysacier

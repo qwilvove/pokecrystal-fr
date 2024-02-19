@@ -321,7 +321,7 @@ _LookPikachuPosterText::
 	line "mignon PIKACHU."
 	done
 
-_LookClefairyPosterText::
+_LookMelofeePosterText::
 	text "C'est un poster du"
 	line "mignon MELOFEE."
 	done

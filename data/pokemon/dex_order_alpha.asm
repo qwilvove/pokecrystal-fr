@@ -137,7 +137,7 @@ AlphabeticalPokedexOrder:
 	db MEGANIUM
 	db MELO
 	db MELODELFE
-	db CLEFAIRY
+	db MELOFEE
 	db ESPEON
 	db DITTO
 	db MEW

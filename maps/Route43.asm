@@ -186,8 +186,8 @@ TrainerPicnickerTiffany:
 	iftrue .HasPinkBow
 	checkcellnum PHONE_PICNICKER_TIFFANY
 	iftrue .NumberAccepted
-	checkpoke CLEFAIRY
-	iffalse .NoClefairy
+	checkpoke MELOFEE
+	iffalse .NoMelofee
 	checkevent EVENT_TIFFANY_ASKED_FOR_PHONE_NUMBER
 	iftrue .AskedAlready
 	writetext PicnickerTiffanyWantsPicnicText
@@ -265,8 +265,8 @@ TrainerPicnickerTiffany:
 .NoRoom:
 	sjump .PackFull
 
-.NoClefairy:
-	writetext PicnickerTiffanyClefairyText
+.NoMelofee:
+	writetext PicnickerTiffanyMelofeeText
 	waitbutton
 	closetext
 	end
@@ -456,7 +456,7 @@ PicnickerTiffanyWantsPicnicText:
 	para "Tu veux venir?"
 	done
 
-PicnickerTiffanyClefairyText:
+PicnickerTiffanyMelofeeText:
 	text "Mon MELOFEE ne"
 	line "serait pas le plus"
 	cont "mimi du monde, par"

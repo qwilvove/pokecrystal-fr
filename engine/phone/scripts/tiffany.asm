@@ -67,29 +67,29 @@ TiffanysFamilyMembers:
 
 .Grandma:
 	getstring STRING_BUFFER_4, GrandmaString
-	sjump .PoorClefairy
+	sjump .PoorMelofee
 
 .Grandpa:
 	getstring STRING_BUFFER_4, GrandpaString
-	sjump .PoorClefairy
+	sjump .PoorMelofee
 
 .Mom:
 	getstring STRING_BUFFER_4, MomString
-	sjump .PoorClefairy
+	sjump .PoorMelofee
 
 .Dad:
 	getstring STRING_BUFFER_4, DadString
-	sjump .PoorClefairy
+	sjump .PoorMelofee
 
 .Sister:
 	getstring STRING_BUFFER_4, SisterString
-	sjump .PoorClefairy
+	sjump .PoorMelofee
 
 .Brother:
 	getstring STRING_BUFFER_4, BrotherString
-	sjump .PoorClefairy
+	sjump .PoorMelofee
 
-.PoorClefairy:
+.PoorMelofee:
 	farsjump TiffanyItsAwful
 
 TiffanyHasPinkBow:

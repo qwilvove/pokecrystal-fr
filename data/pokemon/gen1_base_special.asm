@@ -36,7 +36,7 @@ KantoMonSpecials:
 	db  40 ; NIDORAN_M
 	db  55 ; NIDORINO
 	db  75 ; NIDOKING
-	db  60 ; CLEFAIRY
+	db  60 ; MELOFEE
 	db  85 ; MELODELFE
 	db  65 ; GOUPIX
 	db 100 ; FEUNARD

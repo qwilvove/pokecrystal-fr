@@ -34,7 +34,7 @@ AnimationPointers:
 	dw NidoranMAnimation
 	dw NidorinoAnimation
 	dw NidokingAnimation
-	dw ClefairyAnimation
+	dw MelofeeAnimation
 	dw MelodelfeAnimation
 	dw GoupixAnimation
 	dw FeunardAnimation

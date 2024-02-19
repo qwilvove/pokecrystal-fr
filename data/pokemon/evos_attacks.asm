@@ -462,7 +462,7 @@ NidokingEvosAttacks:
 	db 23, THRASH
 	db 0 ; no more level-up moves
 
-ClefairyEvosAttacks:
+MelofeeEvosAttacks:
 	db EVOLVE_ITEM, MOON_STONE, MELODELFE
 	db 0 ; no more evolutions
 	db 1, POUND
@@ -2355,7 +2355,7 @@ PichuEvosAttacks:
 	db 0 ; no more level-up moves
 
 MeloEvosAttacks:
-	db EVOLVE_HAPPINESS, TR_ANYTIME, CLEFAIRY
+	db EVOLVE_HAPPINESS, TR_ANYTIME, MELOFEE
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 1, CHARM

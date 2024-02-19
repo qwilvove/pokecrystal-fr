@@ -3,7 +3,7 @@ Pokered_MonIndices:
 	db RHYDON
 	db KANGOUREX
 	db NIDORAN_M
-	db CLEFAIRY
+	db MELOFEE
 	db SPEAROW
 	db VOLTORB
 	db NIDOKING

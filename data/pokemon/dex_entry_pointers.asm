@@ -35,7 +35,7 @@ PokedexDataPointerTable:
 	dw NidoranMPokedexEntry
 	dw NidorinoPokedexEntry
 	dw NidokingPokedexEntry
-	dw ClefairyPokedexEntry
+	dw MelofeePokedexEntry
 	dw MelodelfePokedexEntry
 	dw GoupixPokedexEntry
 	dw FeunardPokedexEntry
