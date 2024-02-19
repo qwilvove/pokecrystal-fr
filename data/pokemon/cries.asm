@@ -178,7 +178,7 @@ PokemonCries::
 	mon_cry CRY_HERICENDRE,   969,  320 ; LOUPIO
 	mon_cry CRY_HERICENDRE,   720,  272 ; LANTURN
 	mon_cry CRY_PICHU,         0,  320 ; PICHU
-	mon_cry CRY_CLEFFA,       97,  145 ; CLEFFA
+	mon_cry CRY_MELO,       97,  145 ; MELO
 	mon_cry CRY_GERMIGNON,   232,  232 ; IGGLYBUFF
 	mon_cry CRY_TOGEPI,       16,  256 ; TOGEPI
 	mon_cry CRY_TOGETIC,      59,   56 ; TOGETIC
@@ -187,14 +187,14 @@ PokemonCries::
 	mon_cry CRY_MAREEP,       34,  216 ; MAREEP
 	mon_cry CRY_MAREEP,       -7,  384 ; LAINERGIE
 	mon_cry CRY_AMPHAROS,   -124,  232 ; AMPHAROS
-	mon_cry CRY_CLEFFA,      132,  336 ; JOLIFLOR
+	mon_cry CRY_MELO,      132,  336 ; JOLIFLOR
 	mon_cry CRY_MARILL,      283,  288 ; MARILL
 	mon_cry CRY_MARILL,      182,  384 ; AZUMARILL
-	mon_cry CRY_CLEFFA,     3904,  384 ; SUDOWOODO
-	mon_cry CRY_CLEFFA,     -675,  456 ; POLITOED
-	mon_cry CRY_CLEFFA,       59,  200 ; GRANIVOL
-	mon_cry CRY_CLEFFA,       39,  312 ; FLORAVOL
-	mon_cry CRY_CLEFFA,        0,  384 ; COTOVOL
+	mon_cry CRY_MELO,     3904,  384 ; SUDOWOODO
+	mon_cry CRY_MELO,     -675,  456 ; POLITOED
+	mon_cry CRY_MELO,       59,  200 ; GRANIVOL
+	mon_cry CRY_MELO,       39,  312 ; FLORAVOL
+	mon_cry CRY_MELO,        0,  384 ; COTOVOL
 	mon_cry CRY_CAPUMAIN,       -81,  232 ; CAPUMAIN
 	mon_cry CRY_MARILL,      299,  184 ; SUNKERN
 	mon_cry CRY_HELIATRONC,    -32,  384 ; HELIATRONC

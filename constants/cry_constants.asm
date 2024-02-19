@@ -56,7 +56,7 @@
 	const CRY_GERMIGNON
 	const CRY_KAIMINUS
 	const CRY_GLIGAR
-	const CRY_CLEFFA
+	const CRY_MELO
 	const CRY_LIMAGMA
 	const CRY_COXY
 	const CRY_ENTEI

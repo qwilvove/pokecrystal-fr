@@ -512,7 +512,7 @@ PichuEggMoves:
 	db DOUBLESLAP
 	db -1 ; end
 
-CleffaEggMoves:
+MeloEggMoves:
 	db PRESENT
 	db METRONOME
 	db AMNESIA

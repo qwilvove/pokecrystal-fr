@@ -130,11 +130,11 @@ Cry_Kaiminus:
 	channel 6, Cry_Kaiminus_Ch6
 	channel 8, Cry_Kaiminus_Ch8
 
-Cry_Cleffa:
+Cry_Melo:
 	channel_count 3
-	channel 5, Cry_Cleffa_Ch5
-	channel 6, Cry_Cleffa_Ch6
-	channel 8, Cry_Cleffa_Ch8
+	channel 5, Cry_Melo_Ch5
+	channel 6, Cry_Melo_Ch6
+	channel 8, Cry_Melo_Ch8
 
 Cry_Pichu:
 	channel_count 3
@@ -785,7 +785,7 @@ Cry_Kaiminus_Ch8:
 	noise_note 40, 13, 3, 110
 	sound_ret
 
-Cry_Cleffa_Ch5:
+Cry_Melo_Ch5:
 	duty_cycle_pattern 0, 3, 2, 1
 	pitch_sweep 15, -7
 	square_note 2, 15, 8, 1824
@@ -800,7 +800,7 @@ Cry_Cleffa_Ch5:
 	pitch_sweep 8, 8
 	sound_ret
 
-Cry_Cleffa_Ch6:
+Cry_Melo_Ch6:
 	duty_cycle_pattern 0, 2, 0, 2
 	square_note 6, 11, 2, 1822
 	square_note 5, 9, 2, 1913
@@ -808,7 +808,7 @@ Cry_Cleffa_Ch6:
 	square_note 8, 10, 1, 1845
 	sound_ret
 
-Cry_Cleffa_Ch8:
+Cry_Melo_Ch8:
 	noise_note 2, 6, 4, 127
 	noise_note 2, 8, 4, 125
 	noise_note 2, 10, 4, 111

@@ -12,7 +12,7 @@ DEF prob_total = 0
 ; Pichu
 	prob 8
 	prob 1
-; Cleffa
+; Melo
 	prob 16
 	prob 3
 ; Igglybuff
@@ -88,7 +88,7 @@ OddEggs:
 	bigdw 9 ; SDef
 	db "OEUF@@@@@@@"
 
-	db CLEFFA
+	db MELO
 	db NO_ITEM
 	db POUND, CHARM, DIZZY_PUNCH, 0
 	dw 04096 ; OT ID
@@ -114,7 +114,7 @@ OddEggs:
 	bigdw 10 ; SDef
 	db "OEUF@@@@@@@"
 
-	db CLEFFA
+	db MELO
 	db NO_ITEM
 	db POUND, CHARM, DIZZY_PUNCH, 0
 	dw 00768 ; OT ID

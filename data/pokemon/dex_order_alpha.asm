@@ -135,7 +135,7 @@ AlphabeticalPokedexOrder:
 	db MARCACRIN
 	db MARILL
 	db MEGANIUM
-	db CLEFFA
+	db MELO
 	db CLEFABLE
 	db CLEFAIRY
 	db ESPEON
