@@ -109,7 +109,7 @@ INCBIN "gfx/footprints/gloom.1bpp",      footprint_top
 INCBIN "gfx/footprints/vileplume.1bpp",  footprint_top
 INCBIN "gfx/footprints/paras.1bpp",      footprint_top
 INCBIN "gfx/footprints/parasect.1bpp",   footprint_top
-INCBIN "gfx/footprints/venonat.1bpp",    footprint_top
+INCBIN "gfx/footprints/mimitoss.1bpp",    footprint_top
 ; 041-048 bottom halves
 INCBIN "gfx/footprints/zubat.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/golbat.1bpp",     footprint_bottom
@@ -118,7 +118,7 @@ INCBIN "gfx/footprints/gloom.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/vileplume.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/paras.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/parasect.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/venonat.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/mimitoss.1bpp",    footprint_bottom
 ; 049-056 top halves
 INCBIN "gfx/footprints/aeromite.1bpp",   footprint_top
 INCBIN "gfx/footprints/diglett.1bpp",    footprint_top

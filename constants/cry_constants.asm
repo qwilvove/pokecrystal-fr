@@ -28,7 +28,7 @@
 	const CRY_ABO
 	const CRY_FEAROW
 	const CRY_MELOFEE
-	const CRY_VENONAT
+	const CRY_MIMITOSS
 	const CRY_LOKHLASS
 	const CRY_CHRYSACIER
 	const CRY_CARAPUCE

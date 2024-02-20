@@ -66,7 +66,7 @@
 	const VILEPLUME  ; 2d
 	const PARAS      ; 2e
 	const PARASECT   ; 2f
-	const VENONAT    ; 30
+	const MIMITOSS    ; 30
 	const AEROMITE   ; 31
 	const DIGLETT    ; 32
 	const DUGTRIO    ; 33

@@ -49,7 +49,7 @@ EvosAttacksPointers::
 	dw VileplumeEvosAttacks
 	dw ParasEvosAttacks
 	dw ParasectEvosAttacks
-	dw VenonatEvosAttacks
+	dw MimitossEvosAttacks
 	dw AeromiteEvosAttacks
 	dw DiglettEvosAttacks
 	dw DugtrioEvosAttacks

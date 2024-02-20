@@ -619,7 +619,7 @@ ParasectEvosAttacks:
 	db 55, GIGA_DRAIN
 	db 0 ; no more level-up moves
 
-VenonatEvosAttacks:
+MimitossEvosAttacks:
 	db EVOLVE_LEVEL, 31, AEROMITE
 	db 0 ; no more evolutions
 	db 1, TACKLE

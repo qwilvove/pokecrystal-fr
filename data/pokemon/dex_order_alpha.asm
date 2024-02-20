@@ -145,7 +145,7 @@ AlphabeticalPokedexOrder:
 	db MIAOUSS
 	db MIGALOS
 	db MIMIGAL
-	db VENONAT
+	db MIMITOSS
 	db DRATINI
 	db ODDISH
 	db NATU

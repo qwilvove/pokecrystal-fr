@@ -53,8 +53,8 @@ PokemonCries::
 	mon_cry CRY_VILEPLUME,    34,  383 ; VILEPLUME
 	mon_cry CRY_PARAS,        32,  352 ; PARAS
 	mon_cry CRY_PARAS,        66,  383 ; PARASECT
-	mon_cry CRY_VENONAT,      68,  192 ; VENONAT
-	mon_cry CRY_VENONAT,      41,  256 ; AEROMITE
+	mon_cry CRY_MIMITOSS,      68,  192 ; MIMITOSS
+	mon_cry CRY_MIMITOSS,      41,  256 ; AEROMITE
 	mon_cry CRY_DIGLETT,     170,  129 ; DIGLETT
 	mon_cry CRY_DIGLETT,      42,  144 ; DUGTRIO
 	mon_cry CRY_MELOFEE,    119,  144 ; MIAOUSS
@@ -77,8 +77,8 @@ PokemonCries::
 	mon_cry CRY_PSYDUCK,      85,  129 ; CHETIFLOR
 	mon_cry CRY_BOUSTIFLOR,   68,  160 ; BOUSTIFLOR
 	mon_cry CRY_BOUSTIFLOR,  102,  332 ; EMPIFLOR
-	mon_cry CRY_VENONAT,       0,  256 ; TENTACOOL
-	mon_cry CRY_VENONAT,     238,  383 ; TENTACRUEL
+	mon_cry CRY_MIMITOSS,       0,  256 ; TENTACOOL
+	mon_cry CRY_MIMITOSS,     238,  383 ; TENTACRUEL
 	mon_cry CRY_GOUPIX,      240,  144 ; GEODUDE
 	mon_cry CRY_GOUPIX,        0,  256 ; GRAVALANCH
 	mon_cry CRY_GROLEM,       224,  192 ; GROLEM
@@ -138,10 +138,10 @@ PokemonCries::
 	mon_cry CRY_ABO,         0,  256 ; LEVIATOR
 	mon_cry CRY_LOKHLASS,        0,  256 ; LOKHLASS
 	mon_cry CRY_PIDGEY,      255,  383 ; METAMORPH
-	mon_cry CRY_VENONAT,     136,  224 ; EVOLI
-	mon_cry CRY_VENONAT,     170,  383 ; AQUALI
-	mon_cry CRY_VENONAT,      61,  256 ; JOLTEON
-	mon_cry CRY_VENONAT,      16,  160 ; FLAREON
+	mon_cry CRY_MIMITOSS,     136,  224 ; EVOLI
+	mon_cry CRY_MIMITOSS,     170,  383 ; AQUALI
+	mon_cry CRY_MIMITOSS,      61,  256 ; JOLTEON
+	mon_cry CRY_MIMITOSS,      16,  160 ; FLAREON
 	mon_cry CRY_BOUSTIFLOR,  170,  383 ; PORYGON
 	mon_cry CRY_CANINOS,   240,  129 ; AMONITA
 	mon_cry CRY_CANINOS,   255,  192 ; AMONISTAR
@@ -202,7 +202,7 @@ PokemonCries::
 	mon_cry CRY_AXOLOTO,      147,  175 ; AXOLOTO
 	mon_cry CRY_AXOLOTO,     -198,  320 ; MARAISTE
 	mon_cry CRY_CAPUMAIN,       162,  320 ; MENTALI
-	mon_cry CRY_VENONAT,    -233,  240 ; UMBREON
+	mon_cry CRY_MIMITOSS,    -233,  240 ; UMBREON
 	mon_cry CRY_MARILL,      -31,  384 ; CORNEBRE
 	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
 	mon_cry CRY_HOOTHOOT,    304,  232 ; FEUFOREVE

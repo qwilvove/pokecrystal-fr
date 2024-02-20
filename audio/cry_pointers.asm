@@ -27,7 +27,7 @@ Cries:
 	dba Cry_Abo
 	dba Cry_Fearow
 	dba Cry_Melofee
-	dba Cry_Venonat
+	dba Cry_Mimitoss
 	dba Cry_Lokhlass
 	dba Cry_Chrysacier
 	dba Cry_Carapuce

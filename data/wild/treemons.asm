@@ -92,7 +92,7 @@ TreeMonSet_Kanto:
 TreeMonSet_Lake:
 ; common
 	db 50, HOOTHOOT,   10
-	db 15, VENONAT,    10
+	db 15, MIMITOSS,    10
 	db 15, HOOTHOOT,   10
 	db 10, EXEGGCUTE,  10
 	db  5, EXEGGCUTE,  10

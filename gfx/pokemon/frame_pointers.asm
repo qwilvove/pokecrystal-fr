@@ -47,7 +47,7 @@ FramesPointers:
 	dw VileplumeFrames
 	dw ParasFrames
 	dw ParasectFrames
-	dw VenonatFrames
+	dw MimitossFrames
 	dw AeromiteFrames
 	dw DiglettFrames
 	dw DugtrioFrames

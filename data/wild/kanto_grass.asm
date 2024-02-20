@@ -414,7 +414,7 @@ KantoGrassWildMons:
 	db 18, MAROWAK
 	; nite
 	db 15, RATTATA
-	db 15, VENONAT
+	db 15, MIMITOSS
 	db 15, RATICATE
 	db 15, AEROMITE
 	db 15, ZUBAT
@@ -441,7 +441,7 @@ KantoGrassWildMons:
 	db 18, ELEKTEK
 	db 18, ELEKTEK
 	; nite
-	db 15, VENONAT
+	db 15, MIMITOSS
 	db 17, VOLTORB
 	db 15, RATICATE
 	db 15, AEROMITE
@@ -497,7 +497,7 @@ KantoGrassWildMons:
 	db 27, GRANIVOL
 	db 25, LEVEINARD
 	; nite
-	db 23, VENONAT
+	db 23, MIMITOSS
 	db 23, MARAISTE
 	db 25, NOCTOWL
 	db 25, AEROMITE
@@ -525,7 +525,7 @@ KantoGrassWildMons:
 	db 30, FLORAVOL
 	db 28, LEVEINARD
 	; nite
-	db 26, VENONAT
+	db 26, MIMITOSS
 	db 26, MARAISTE
 	db 28, NOCTOWL
 	db 28, AEROMITE
@@ -553,7 +553,7 @@ KantoGrassWildMons:
 	db 27, GRANIVOL
 	db 25, LEVEINARD
 	; nite
-	db 23, VENONAT
+	db 23, MIMITOSS
 	db 23, MARAISTE
 	db 25, NOCTOWL
 	db 25, AEROMITE
@@ -721,7 +721,7 @@ KantoGrassWildMons:
 	db 14, BUTTERFREE
 	db 14, BUTTERFREE
 	; nite
-	db 10, VENONAT
+	db 10, MIMITOSS
 	db 10, ODDISH
 	db 12, ODDISH
 	db 12, ABRA
@@ -751,7 +751,7 @@ KantoGrassWildMons:
 	; nite
 	db 10, ODDISH
 	db 10, HOOTHOOT
-	db 10, VENONAT
+	db 10, MIMITOSS
 	db 12, NOCTOWL
 	db 10, CHETIFLOR
 	db 14, NOCTOWL

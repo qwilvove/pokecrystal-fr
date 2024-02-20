@@ -47,7 +47,7 @@ AnimationPointers:
 	dw VileplumeAnimation
 	dw ParasAnimation
 	dw ParasectAnimation
-	dw VenonatAnimation
+	dw MimitossAnimation
 	dw AeromiteAnimation
 	dw DiglettAnimation
 	dw DugtrioAnimation

@@ -49,7 +49,7 @@ KantoMonSpecials:
 	db 100 ; VILEPLUME
 	db  55 ; PARAS
 	db  80 ; PARASECT
-	db  40 ; VENONAT
+	db  40 ; MIMITOSS
 	db  90 ; AEROMITE
 	db  45 ; DIGLETT
 	db  70 ; DUGTRIO

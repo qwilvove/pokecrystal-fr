@@ -48,7 +48,7 @@ PokedexDataPointerTable:
 	dw VileplumePokedexEntry
 	dw ParasPokedexEntry
 	dw ParasectPokedexEntry
-	dw VenonatPokedexEntry
+	dw MimitossPokedexEntry
 	dw AeromitePokedexEntry
 	dw DiglettPokedexEntry
 	dw DugtrioPokedexEntry
