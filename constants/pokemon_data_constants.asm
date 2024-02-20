@@ -65,7 +65,7 @@ DEF NUM_GROWTH_RATES EQU const_value
 	const EGG_MINERAL       ; a
 	const EGG_INDETERMINATE ; b (Amorphous)
 	const EGG_WATER_2       ; c (Fish)
-	const EGG_DITTO         ; d
+	const EGG_METAMORPH         ; d
 	const EGG_DRAGON        ; e
 	const EGG_NONE          ; f (Undiscovered)
 

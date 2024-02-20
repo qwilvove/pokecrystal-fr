@@ -131,7 +131,7 @@ FramesPointers:
 	dw MagicarpeFrames
 	dw LeviatorFrames
 	dw LokhlassFrames
-	dw DittoFrames
+	dw MetamorphFrames
 	dw EvoliFrames
 	dw AqualiFrames
 	dw JolteonFrames

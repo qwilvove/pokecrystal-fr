@@ -34,11 +34,11 @@ Sfx_IntroUnown3_Ch7:
 	square_note 6, 3, 2, 1986
 	sound_ret
 
-Sfx_DittoPopUp:
+Sfx_MetamorphPopUp:
 	channel_count 1
-	channel 5, Sfx_DittoPopUp_Ch5
+	channel 5, Sfx_MetamorphPopUp_Ch5
 
-Sfx_DittoPopUp_Ch5:
+Sfx_MetamorphPopUp_Ch5:
 	duty_cycle 2
 	pitch_sweep 1, -6
 	square_note 3, 8, 2, 1792
@@ -48,11 +48,11 @@ Sfx_DittoPopUp_Ch5:
 	square_note 16, 3, 1, 1601
 	sound_ret
 
-Sfx_DittoTransform:
+Sfx_MetamorphTransform:
 	channel_count 1
-	channel 5, Sfx_DittoTransform_Ch5
+	channel 5, Sfx_MetamorphTransform_Ch5
 
-Sfx_DittoTransform_Ch5:
+Sfx_MetamorphTransform_Ch5:
 	duty_cycle 1
 	pitch_sweep 2, 6
 	square_note 20, 3, -3, 1088
@@ -118,11 +118,11 @@ Sfx_IntroSuicune3_Ch8:
 	noise_note 4, 2, 4, 16
 	sound_ret
 
-Sfx_DittoBounce:
+Sfx_MetamorphBounce:
 	channel_count 1
-	channel 5, Sfx_DittoBounce_Ch5
+	channel 5, Sfx_MetamorphBounce_Ch5
 
-Sfx_DittoBounce_Ch5:
+Sfx_MetamorphBounce_Ch5:
 	duty_cycle 2
 	pitch_sweep 2, -4
 	square_note 2, 8, 2, 1200

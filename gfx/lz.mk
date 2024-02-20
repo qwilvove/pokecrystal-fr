@@ -50,7 +50,7 @@ gfx/slots/slots_1.2bpp.lz: LZFLAGS = --compressor null --align 1
 gfx/slots/slots_2.2bpp.lz: LZFLAGS += --align 4
 gfx/slots/slots_3.2bpp.lz: LZFLAGS += --align 4
 
-gfx/splash/ditto.2bpp.lz: LZFLAGS += --method 2 --align 4
+gfx/splash/metamorph.2bpp.lz: LZFLAGS += --method 2 --align 4
 
 gfx/tilesets/%.lz: LZFLAGS += --align 4
 gfx/tilesets/aerodactyl_word_room.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1

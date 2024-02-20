@@ -139,7 +139,7 @@ SECTION "Pokedex Entries 129-192", ROMX
 MagicarpePokedexEntry::   INCLUDE "data/pokemon/dex_entries/magicarpe.asm"
 LeviatorPokedexEntry::   INCLUDE "data/pokemon/dex_entries/leviator.asm"
 LokhlassPokedexEntry::     INCLUDE "data/pokemon/dex_entries/lokhlass.asm"
-DittoPokedexEntry::      INCLUDE "data/pokemon/dex_entries/ditto.asm"
+MetamorphPokedexEntry::      INCLUDE "data/pokemon/dex_entries/metamorph.asm"
 EvoliPokedexEntry::      INCLUDE "data/pokemon/dex_entries/evoli.asm"
 AqualiPokedexEntry::   INCLUDE "data/pokemon/dex_entries/aquali.asm"
 JolteonPokedexEntry::    INCLUDE "data/pokemon/dex_entries/jolteon.asm"

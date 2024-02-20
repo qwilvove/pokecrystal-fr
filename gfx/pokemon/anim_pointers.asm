@@ -131,7 +131,7 @@ AnimationPointers:
 	dw MagicarpeAnimation
 	dw LeviatorAnimation
 	dw LokhlassAnimation
-	dw DittoAnimation
+	dw MetamorphAnimation
 	dw EvoliAnimation
 	dw AqualiAnimation
 	dw JolteonAnimation

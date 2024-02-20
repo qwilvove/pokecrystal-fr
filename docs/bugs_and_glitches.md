@@ -42,7 +42,7 @@ Fixes in the [multi-player battle engine](#multi-player-battle-engine) category 
   - [HP bar animation off-by-one error for low HP](#hp-bar-animation-off-by-one-error-for-low-hp)
 - [Single-player battle engine](#single-player-battle-engine)
   - [A Transformed Pokémon can use Sketch and learn otherwise unobtainable moves](#a-transformed-pok%C3%A9mon-can-use-sketch-and-learn-otherwise-unobtainable-moves)
-  - [Catching a Transformed Pokémon always catches a Ditto](#catching-a-transformed-pok%C3%A9mon-always-catches-a-ditto)
+  - [Catching a Transformed Pokémon always catches a Metamorph](#catching-a-transformed-pok%C3%A9mon-always-catches-a-metamorph)
   - [Experience underflow for level 1 Pokémon with Medium-Slow growth rate](#experience-underflow-for-level-1-pok%C3%A9mon-with-medium-slow-growth-rate)
   - [The Dude's catching tutorial may crash if his Poké Ball can't be used](#the-dudes-catching-tutorial-may-crash-if-his-pok%C3%A9-ball-cant-be-used)
   - [BRN/PSN/PAR do not affect catch rate](#brnpsnpar-do-not-affect-catch-rate)
@@ -195,7 +195,7 @@ Fixes in the [multi-player battle engine](#multi-player-battle-engine) category 
 **Fix:** Edit [engine/battle/effect_commands.asm](https://github.com/pret/pokecrystal/blob/master/engine/battle/effect_commands.asm):
 
 ```diff
- DittoMetalPowder:
+ MetamorphMetalPowder:
  	...
 
 -; BUG: Metal Powder can increase damage taken with boosted (Special) Defense (see docs/bugs_and_glitches.md)
@@ -240,14 +240,14 @@ Fixes in the [multi-player battle engine](#multi-player-battle-engine) category 
 
  .done
 +	push hl
-+	call DittoMetalPowder
++	call MetamorphMetalPowder
 +	pop hl
 
  	call TruncateHL_BC
 
  	ld a, [wBattleMonLevel]
  	ld e, a
--	call DittoMetalPowder
+-	call MetamorphMetalPowder
 
  	ld a, 1
  	and a
@@ -260,14 +260,14 @@ Fixes in the [multi-player battle engine](#multi-player-battle-engine) category 
 
  .done
 +	push hl
-+	call DittoMetalPowder
++	call MetamorphMetalPowder
 +	pop hl
 
  	call TruncateHL_BC
 
  	ld a, [wBattleMonLevel]
  	ld e, a
--	call DittoMetalPowder
+-	call MetamorphMetalPowder
 
  	ld a, 1
  	and a
@@ -1042,7 +1042,7 @@ This changes both calculations to *HP* × (100 / *N*) / (*max HP* / *N*) for the
 ```
 
 
-### Catching a Transformed Pokémon always catches a Ditto
+### Catching a Transformed Pokémon always catches a Metamorph
 
 **Fix:** Edit `PokeBallEffect` in [engine/items/item_effects.asm](https://github.com/pret/pokecrystal/blob/master/engine/items/item_effects.asm):
 
@@ -1052,18 +1052,18 @@ This changes both calculations to *HP* × (100 / *N*) / (*max HP* / *N*) for the
  	push af
  	set SUBSTATUS_TRANSFORMED, [hl]
 
--; BUG: Catching a Transformed Pokémon always catches a Ditto (see docs/bugs_and_glitches.md)
+-; BUG: Catching a Transformed Pokémon always catches a Metamorph (see docs/bugs_and_glitches.md)
  	bit SUBSTATUS_TRANSFORMED, a
--	jr nz, .ditto
--	jr .not_ditto
+-	jr nz, .metamorph
+-	jr .not_metamorph
 +	jr nz, .load_data
 
--.ditto
--	ld a, DITTO
+-.metamorph
+-	ld a, METAMORPH
 -	ld [wTempEnemyMonSpecies], a
 -	jr .load_data
 -
--.not_ditto
+-.not_metamorph
 -	set SUBSTATUS_TRANSFORMED, [hl]
  	ld hl, wEnemyBackupDVs
  	ld a, [wEnemyMonDVs]

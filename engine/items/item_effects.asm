@@ -440,17 +440,17 @@ PokeBallEffect:
 	push af
 	set SUBSTATUS_TRANSFORMED, [hl]
 
-; BUG: Catching a Transformed Pokémon always catches a Ditto (see docs/bugs_and_glitches.md)
+; BUG: Catching a Transformed Pokémon always catches a Metamorph (see docs/bugs_and_glitches.md)
 	bit SUBSTATUS_TRANSFORMED, a
-	jr nz, .ditto
-	jr .not_ditto
+	jr nz, .metamorph
+	jr .not_metamorph
 
-.ditto
-	ld a, DITTO
+.metamorph
+	ld a, METAMORPH
 	ld [wTempEnemyMonSpecies], a
 	jr .load_data
 
-.not_ditto
+.not_metamorph
 	set SUBSTATUS_TRANSFORMED, [hl]
 	ld hl, wEnemyBackupDVs
 	ld a, [wEnemyMonDVs]

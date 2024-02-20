@@ -137,7 +137,7 @@ PokemonCries::
 	mon_cry CRY_ABO,       128,  128 ; MAGICARPE
 	mon_cry CRY_ABO,         0,  256 ; LEVIATOR
 	mon_cry CRY_LOKHLASS,        0,  256 ; LOKHLASS
-	mon_cry CRY_PIDGEY,      255,  383 ; DITTO
+	mon_cry CRY_PIDGEY,      255,  383 ; METAMORPH
 	mon_cry CRY_VENONAT,     136,  224 ; EVOLI
 	mon_cry CRY_VENONAT,     170,  383 ; AQUALI
 	mon_cry CRY_VENONAT,      61,  256 ; JOLTEON

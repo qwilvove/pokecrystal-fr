@@ -565,11 +565,11 @@ DayCare_InitBreeding:
 	ld a, TEMPMON
 	ld [wMonType], a
 	ld a, [wBreedMon1Species]
-	cp DITTO
+	cp METAMORPH
 	ld a, $1
 	jr z, .LoadWhichBreedmonIsTheMother
 	ld a, [wBreedMon2Species]
-	cp DITTO
+	cp METAMORPH
 	ld a, $0
 	jr z, .LoadWhichBreedmonIsTheMother
 	farcall GetGender
@@ -578,7 +578,7 @@ DayCare_InitBreeding:
 	inc a
 
 .LoadWhichBreedmonIsTheMother:
-	ld [wBreedMotherOrNonDitto], a
+	ld [wBreedMotherOrNonMetamorph], a
 	and a
 	ld a, [wBreedMon1Species]
 	jr z, .GotMother
@@ -651,11 +651,11 @@ DayCare_InitBreeding:
 	ld [wTempMonDVs + 1], a
 	ld de, wBreedMon1DVs
 	ld a, [wBreedMon1Species]
-	cp DITTO
+	cp METAMORPH
 	jr z, .GotDVs
 	ld de, wBreedMon2DVs
 	ld a, [wBreedMon2Species]
-	cp DITTO
+	cp METAMORPH
 	jr z, .GotDVs
 	ld a, TEMPMON
 	ld [wMonType], a
@@ -666,7 +666,7 @@ DayCare_InitBreeding:
 	ld bc, wBreedMon2DVs
 	jr c, .SkipDVs
 	jr z, .ParentCheck2
-	ld a, [wBreedMotherOrNonDitto]
+	ld a, [wBreedMotherOrNonMetamorph]
 	and a
 	jr z, .GotDVs
 	ld d, b
@@ -674,7 +674,7 @@ DayCare_InitBreeding:
 	jr .GotDVs
 
 .ParentCheck2:
-	ld a, [wBreedMotherOrNonDitto]
+	ld a, [wBreedMotherOrNonMetamorph]
 	and a
 	jr nz, .GotDVs
 	ld d, b

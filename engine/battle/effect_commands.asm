@@ -2485,7 +2485,7 @@ EndMoveEffect:
 	ld [hl], a
 	ret
 
-DittoMetalPowder:
+MetamorphMetalPowder:
 	ld a, MON_SPECIES
 	call BattlePartyAttr
 	ldh a, [hBattleTurn]
@@ -2495,7 +2495,7 @@ DittoMetalPowder:
 	ld a, [wTempEnemyMonSpecies]
 
 .got_species
-	cp DITTO
+	cp METAMORPH
 	ret nz
 
 	push bc
@@ -2605,7 +2605,7 @@ PlayerAttackDamage:
 
 	ld a, [wBattleMonLevel]
 	ld e, a
-	call DittoMetalPowder
+	call MetamorphMetalPowder
 
 	ld a, 1
 	and a
@@ -2846,7 +2846,7 @@ EnemyAttackDamage:
 
 	ld a, [wEnemyMonLevel]
 	ld e, a
-	call DittoMetalPowder
+	call MetamorphMetalPowder
 
 	ld a, 1
 	and a

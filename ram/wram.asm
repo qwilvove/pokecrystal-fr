@@ -3344,7 +3344,7 @@ wDayCareLady::
 
 wStepsToEgg::
 	db
-wBreedMotherOrNonDitto::
+wBreedMotherOrNonMetamorph::
 ;  z: yes
 ; nz: no
 	db

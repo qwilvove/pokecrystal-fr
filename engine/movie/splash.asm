@@ -69,9 +69,9 @@ GameFreakPresentsInit:
 	ld a, BANK(wDecompressScratch)
 	ldh [rSVBK], a
 
-	ld hl, GameFreakDittoGFX
+	ld hl, GameFreakMetamorphGFX
 	ld de, wDecompressScratch
-	ld a, BANK(GameFreakDittoGFX)
+	ld a, BANK(GameFreakMetamorphGFX)
 	call FarDecompress
 
 	ld hl, vTiles0
@@ -214,7 +214,7 @@ GameFreakLogoSpriteAnim:
 .scenes:
 	dw GameFreakLogo_Init
 	dw GameFreakLogo_Bounce
-	dw GameFreakLogo_Ditto
+	dw GameFreakLogo_Metamorph
 	dw GameFreakLogo_Transform
 	dw GameFreakLogo_Done
 
@@ -261,13 +261,13 @@ GameFreakLogo_Bounce:
 	and $1f ; a%32 == 0
 	ret nz
 
-; If the ditto's reached the ground, decrement the jump height and play the sfx
+; If the metamorph's reached the ground, decrement the jump height and play the sfx
 	ld hl, SPRITEANIMSTRUCT_VAR1 ; jump height
 	add hl, bc
 	ld a, [hl]
 	sub 48
 	ld [hl], a
-	ld de, SFX_DITTO_BOUNCE
+	ld de, SFX_METAMORPH_BOUNCE
 	call PlaySFX
 	ret
 
@@ -278,11 +278,11 @@ GameFreakLogo_Bounce:
 	ld hl, SPRITEANIMSTRUCT_VAR2
 	add hl, bc
 	ld [hl], 0
-	ld de, SFX_DITTO_POP_UP
+	ld de, SFX_METAMORPH_POP_UP
 	call PlaySFX
 	ret
 
-GameFreakLogo_Ditto:
+GameFreakLogo_Metamorph:
 ; Wait a little, then start transforming
 	ld hl, SPRITEANIMSTRUCT_VAR2 ; frame count
 	add hl, bc
@@ -299,7 +299,7 @@ GameFreakLogo_Ditto:
 	ld hl, SPRITEANIMSTRUCT_VAR2
 	add hl, bc
 	ld [hl], 0
-	ld de, SFX_DITTO_TRANSFORM
+	ld de, SFX_METAMORPH_TRANSFORM
 	call PlaySFX
 	ret
 
@@ -311,12 +311,12 @@ GameFreakLogo_Transform:
 	jr z, .done
 	inc [hl]
 
-; Fade ditto's palettes while it's transforming
+; Fade metamorph's palettes while it's transforming
 	srl a
 	srl a
 	ld e, a
 	ld d, 0
-	ld hl, GameFreakDittoPaletteFade
+	ld hl, GameFreakMetamorphPaletteFade
 	add hl, de
 	add hl, de
 	ldh a, [rSVBK]
@@ -341,8 +341,8 @@ GameFreakLogo_Transform:
 GameFreakLogo_Done:
 	ret
 
-GameFreakDittoPaletteFade:
-INCLUDE "gfx/splash/ditto_fade.pal"
+GameFreakMetamorphPaletteFade:
+INCLUDE "gfx/splash/metamorph_fade.pal"
 
 GameFreakLogoGFX:
 INCBIN "gfx/splash/gamefreak_presents.1bpp"

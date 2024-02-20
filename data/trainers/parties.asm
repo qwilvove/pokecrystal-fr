@@ -304,7 +304,7 @@ ScientistGroup:
 
 	; SCIENTIST (2)
 	db "ALEX@", TRAINERTYPE_NORMAL
-	db 24, DITTO
+	db 24, METAMORPH
 	db -1 ; end
 
 	; SCIENTIST (3)
@@ -470,7 +470,7 @@ SchoolboyGroup:
 	db 27, PARAS
 	db 27, PARAS
 	db 27, POLIWHIRL
-	db 35, DITTO
+	db 35, METAMORPH
 	db -1 ; end
 
 	; SCHOOLBOY (10)
@@ -487,7 +487,7 @@ SchoolboyGroup:
 	; SCHOOLBOY (12)
 	db "BENJAMIN@", TRAINERTYPE_NORMAL
 	db 32, CAPUMAIN
-	db 32, DITTO
+	db 32, METAMORPH
 	db -1 ; end
 
 	; SCHOOLBOY (13)
@@ -2134,7 +2134,7 @@ SuperNerdGroup:
 
 	; SUPER_NERD (5)
 	db "VIRGILE@", TRAINERTYPE_NORMAL
-	db 24, DITTO
+	db 24, METAMORPH
 	db -1 ; end
 
 	; SUPER_NERD (6)

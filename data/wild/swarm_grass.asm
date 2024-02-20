@@ -39,23 +39,23 @@ SwarmGrassWildMons:
 	db 12, YANMA
 	db 14, YANMA
 	db 14, PIDGEY
-	db 10, DITTO
-	db 10, DITTO
+	db 10, METAMORPH
+	db 10, METAMORPH
 	; day
 	db 12, NIDORAN_M
 	db 12, NIDORAN_F
 	db 12, YANMA
 	db 14, YANMA
 	db 14, PIDGEY
-	db 10, DITTO
-	db 10, DITTO
+	db 10, METAMORPH
+	db 10, METAMORPH
 	; nite
 	db 12, NIDORAN_M
 	db 12, NIDORAN_F
 	db 12, YANMA
 	db 14, YANMA
 	db 14, HOOTHOOT
-	db 10, DITTO
-	db 10, DITTO
+	db 10, METAMORPH
+	db 10, METAMORPH
 
 	db -1 ; end

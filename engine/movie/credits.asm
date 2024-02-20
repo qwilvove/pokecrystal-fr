@@ -576,10 +576,10 @@ Credits_LoadBorderGFX:
 	dw CreditsLippoutiGFX  + 32 tiles
 	dw CreditsLippoutiGFX  + 48 tiles
 
-	dw CreditsDittoGFX
-	dw CreditsDittoGFX     + 16 tiles
-	dw CreditsDittoGFX     + 32 tiles
-	dw CreditsDittoGFX     + 48 tiles
+	dw CreditsMetamorphGFX
+	dw CreditsMetamorphGFX     + 16 tiles
+	dw CreditsMetamorphGFX     + 32 tiles
+	dw CreditsMetamorphGFX     + 48 tiles
 
 	dw CreditsIgglybuffGFX
 	dw CreditsIgglybuffGFX + 16 tiles
@@ -605,7 +605,7 @@ CreditsBorderGFX:    INCBIN "gfx/credits/border.2bpp"
 CreditsMonsGFX: ; used only for BANK(CreditsMonsGFX)
 CreditsPichuGFX:     INCBIN "gfx/credits/pichu.2bpp"
 CreditsLippoutiGFX:  INCBIN "gfx/credits/lippouti.2bpp"
-CreditsDittoGFX:     INCBIN "gfx/credits/ditto.2bpp"
+CreditsMetamorphGFX:     INCBIN "gfx/credits/metamorph.2bpp"
 CreditsIgglybuffGFX: INCBIN "gfx/credits/igglybuff.2bpp"
 
 INCLUDE "data/credits_script.asm"

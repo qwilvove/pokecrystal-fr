@@ -131,7 +131,7 @@ BitmasksPointers:
 	dw MagicarpeBitmasks
 	dw LeviatorBitmasks
 	dw LokhlassBitmasks
-	dw DittoBitmasks
+	dw MetamorphBitmasks
 	dw EvoliBitmasks
 	dw AqualiBitmasks
 	dw JolteonBitmasks

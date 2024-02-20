@@ -75,7 +75,7 @@ Pokered_MonIndices:
 	db MOLTRES
 	db ARTIKODIN
 	db ELECTHOR
-	db DITTO
+	db METAMORPH
 	db MEOWTH
 	db KRABBY
 	db CORAYON ; MISSINGNO.

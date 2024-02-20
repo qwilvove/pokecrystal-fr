@@ -133,7 +133,7 @@ KantoMonSpecials:
 	db  20 ; MAGICARPE
 	db 100 ; LEVIATOR
 	db  95 ; LOKHLASS
-	db  48 ; DITTO
+	db  48 ; METAMORPH
 	db  65 ; EVOLI
 	db 110 ; AQUALI
 	db 110 ; JOLTEON

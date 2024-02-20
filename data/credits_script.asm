@@ -144,7 +144,7 @@ CreditsScript:
 	db CREDITS_WAIT, 1
 
 ; Update the banner.
-	db CREDITS_SCENE, 2 ; Ditto
+	db CREDITS_SCENE, 2 ; Metamorph
 
 	db        SCRIPT_DESIGN, 1
 	db         TETSUJI_OOTA, 2

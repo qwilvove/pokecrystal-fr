@@ -132,7 +132,7 @@ PokedexDataPointerTable:
 	dw MagicarpePokedexEntry
 	dw LeviatorPokedexEntry
 	dw LokhlassPokedexEntry
-	dw DittoPokedexEntry
+	dw MetamorphPokedexEntry
 	dw EvoliPokedexEntry
 	dw AqualiPokedexEntry
 	dw JolteonPokedexEntry

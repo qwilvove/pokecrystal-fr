@@ -1382,24 +1382,24 @@ JohtoGrassWildMons:
 	db 12, PIDGEY
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
-	db 10, DITTO
+	db 10, METAMORPH
+	db 10, METAMORPH
 	; day
 	db 10, SNUBBULL
 	db 11, RATTATA
 	db 12, PIDGEY
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
-	db 10, DITTO
+	db 10, METAMORPH
+	db 10, METAMORPH
 	; nite
 	db 12, DROWZEE
 	db 11, RATTATA
 	db 12, HOOTHOOT
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
-	db 10, DITTO
+	db 10, METAMORPH
+	db 10, METAMORPH
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_35
@@ -1410,7 +1410,7 @@ JohtoGrassWildMons:
 	db 13, CANINOS
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
+	db 10, METAMORPH
 	db 12, YANMA
 	; day
 	db 12, SNUBBULL
@@ -1418,7 +1418,7 @@ JohtoGrassWildMons:
 	db 13, CANINOS
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
+	db 10, METAMORPH
 	db 12, YANMA
 	; nite
 	db 12, DROWZEE
@@ -1426,7 +1426,7 @@ JohtoGrassWildMons:
 	db 13, PSYDUCK
 	db 10, ABRA
 	db 12, JIGGLYPUFF
-	db 10, DITTO
+	db 10, METAMORPH
 	db 12, YANMA
 	end_grass_wildmons
 

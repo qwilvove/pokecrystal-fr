@@ -133,7 +133,7 @@ MonMenuIcons:
 	db ICON_FISH        ; MAGICARPE
 	db ICON_LEVIATOR    ; LEVIATOR
 	db ICON_LOKHLASS      ; LOKHLASS
-	db ICON_BLOB        ; DITTO
+	db ICON_BLOB        ; METAMORPH
 	db ICON_FOX         ; EVOLI
 	db ICON_FOX         ; AQUALI
 	db ICON_FOX         ; JOLTEON

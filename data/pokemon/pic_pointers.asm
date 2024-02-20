@@ -265,8 +265,8 @@ PokemonPicPointers::
 	dba_pic LeviatorBackpic
 	dba_pic LokhlassFrontpic
 	dba_pic LokhlassBackpic
-	dba_pic DittoFrontpic
-	dba_pic DittoBackpic
+	dba_pic MetamorphFrontpic
+	dba_pic MetamorphBackpic
 	dba_pic EvoliFrontpic
 	dba_pic EvoliBackpic
 	dba_pic AqualiFrontpic

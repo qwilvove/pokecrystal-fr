@@ -1786,7 +1786,7 @@ LokhlassEvosAttacks:
 	db 57, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-DittoEvosAttacks:
+MetamorphEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TRANSFORM
 	db 0 ; no more level-up moves

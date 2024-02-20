@@ -41,8 +41,8 @@ INCBIN "gfx/splash/copyright.2bpp"
 
 SECTION "Intro Logo", ROMX
 
-GameFreakDittoGFX::
-INCBIN "gfx/splash/ditto.2bpp.lz"
+GameFreakMetamorphGFX::
+INCBIN "gfx/splash/metamorph.2bpp.lz"
 
 
 SECTION "Unown Font", ROMX

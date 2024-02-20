@@ -131,7 +131,7 @@ AnimationIdlePointers:
 	dw MagicarpeAnimationIdle
 	dw LeviatorAnimationIdle
 	dw LokhlassAnimationIdle
-	dw DittoAnimationIdle
+	dw MetamorphAnimationIdle
 	dw EvoliAnimationIdle
 	dw AqualiAnimationIdle
 	dw JolteonAnimationIdle

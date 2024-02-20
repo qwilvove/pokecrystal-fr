@@ -150,7 +150,7 @@
 	const MAGICARPE   ; 81
 	const LEVIATOR   ; 82
 	const LOKHLASS     ; 83
-	const DITTO      ; 84
+	const METAMORPH      ; 84
 	const EVOLI      ; 85
 	const AQUALI   ; 86
 	const JOLTEON    ; 87

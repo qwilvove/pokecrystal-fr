@@ -6,7 +6,7 @@ SECTION "Egg Moves", ROMX
 ; Charm and Lovely Kiss were unobtainable.
 
 ; Staryu's egg moves were removed in Crystal, because Staryu is genderless
-; and can only breed with Ditto.
+; and can only breed with Metamorph.
 
 INCLUDE "data/pokemon/egg_move_pointers.asm"
 

@@ -341,7 +341,7 @@ DEF NUM_TMS EQU const_value - TM01 - 2 ; discount ITEM_C3 and ITEM_DC
 >
 > - $03 = 3: `BRIGHTPOWDER` is for Artikodin, Electhor, Moltres, and Mewtwo
 > - $1E = 30: `LUCKY_PUNCH` is for Leveinard
-> - $23 = 35: `METAL_POWDER` is for Ditto
+> - $23 = 35: `METAL_POWDER` is for Metamorph
 > - $3C = 60: `SILVER_LEAF` is for 10 Pokémon
 > - $4B = 75: `GOLD_LEAF` is for 13 Pokémon
 > - $96 = 150: `MYSTERYBERRY` is for Melofee

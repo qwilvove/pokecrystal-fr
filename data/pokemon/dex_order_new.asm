@@ -93,7 +93,7 @@ NewPokedexOrder:
 	db ABRA
 	db KADABRA
 	db ALAKAZAM
-	db DITTO
+	db METAMORPH
 	db PINECO
 	db FORETRESS
 	db NIDORAN_F

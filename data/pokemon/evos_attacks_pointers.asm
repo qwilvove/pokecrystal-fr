@@ -133,7 +133,7 @@ EvosAttacksPointers::
 	dw MagicarpeEvosAttacks
 	dw LeviatorEvosAttacks
 	dw LokhlassEvosAttacks
-	dw DittoEvosAttacks
+	dw MetamorphEvosAttacks
 	dw EvoliEvosAttacks
 	dw AqualiEvosAttacks
 	dw JolteonEvosAttacks

@@ -139,7 +139,7 @@ AlphabeticalPokedexOrder:
 	db MELODELFE
 	db MELOFEE
 	db MENTALI
-	db DITTO
+	db METAMORPH
 	db MEW
 	db MEWTWO
 	db MEOWTH

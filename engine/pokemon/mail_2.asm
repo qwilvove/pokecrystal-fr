@@ -361,7 +361,7 @@ LoadMorphMailGFX:
 	ld de, MorphMailDividerGFX
 	ld c, 1 * LEN_1BPP_TILE
 	call LoadMailGFX_Color2
-	ld de, MailDittoGFX
+	ld de, MailMetamorphGFX
 	ld c, 6 * LEN_1BPP_TILE
 	call LoadMailGFX_Color3
 	call DrawMailBorder2

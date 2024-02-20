@@ -877,10 +877,10 @@ _CGB_GamefreakLogo:
 	ld a, PREDEFPAL_GAMEFREAK_LOGO_BG
 	call GetPredefPal
 	call LoadHLPaletteIntoDE
-	ld hl, .GamefreakDittoPalette
+	ld hl, .GamefreakMetamorphPalette
 	ld de, wOBPals1
 	call LoadHLPaletteIntoDE
-	ld hl, .GamefreakDittoPalette
+	ld hl, .GamefreakMetamorphPalette
 	ld de, wOBPals1 palette 1
 	call LoadHLPaletteIntoDE
 	call WipeAttrmap
@@ -888,8 +888,8 @@ _CGB_GamefreakLogo:
 	call ApplyPals
 	ret
 
-.GamefreakDittoPalette:
-INCLUDE "gfx/splash/ditto.pal"
+.GamefreakMetamorphPalette:
+INCLUDE "gfx/splash/metamorph.pal"
 
 _CGB_PlayerOrMonFrontpicPals:
 	ld de, wBGPals1

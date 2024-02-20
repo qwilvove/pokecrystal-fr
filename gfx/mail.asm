@@ -49,8 +49,8 @@ INCBIN "gfx/mail/lokhlass.1bpp"
 MailEvoliGFX:
 INCBIN "gfx/mail/evoli.1bpp"
 
-MailDittoGFX:
-INCBIN "gfx/mail/ditto.1bpp"
+MailMetamorphGFX:
+INCBIN "gfx/mail/metamorph.1bpp"
 
 MailMewGFX:
 INCBIN "gfx/mail/mew.1bpp"
