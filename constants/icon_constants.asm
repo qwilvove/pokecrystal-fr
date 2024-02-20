@@ -10,7 +10,7 @@
 	const ICON_BIRD
 	const ICON_MONSTER
 	const ICON_MELOFEE
-	const ICON_ODDISH
+	const ICON_MYSTHERBE
 	const ICON_BUG
 	const ICON_GHOST
 	const ICON_LOKHLASS

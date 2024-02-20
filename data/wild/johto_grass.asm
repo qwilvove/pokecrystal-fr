@@ -581,9 +581,9 @@ JohtoGrassWildMons:
 	db 6, PARAS
 	db 6, PARAS
 	; nite
-	db 5, ODDISH
+	db 5, MYSTHERBE
 	db 5, MIMITOSS
-	db 7, ODDISH
+	db 7, MYSTHERBE
 	db 7, PSYDUCK
 	db 7, HOOTHOOT
 	db 6, PARAS

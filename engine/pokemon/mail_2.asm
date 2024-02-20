@@ -508,7 +508,7 @@ LoadFlowerMailGFX:
 	ld de, FlowerMailBorderGFX
 	ld c, 8 * LEN_1BPP_TILE
 	call LoadMailGFX_Color1
-	ld de, MailOddishGFX
+	ld de, MailMystherbeGFX
 	ld c, 4 * LEN_1BPP_TILE
 	call LoadMailGFX_Color3
 	ld de, FlowerMailBorderGFX + 6 * LEN_1BPP_TILE
@@ -524,7 +524,7 @@ LoadFlowerMailGFX:
 	hlcoord 2, 15
 	ld a, $3d ; underline
 	call Mail_Draw16TileRow
-	ld a, $39 ; oddish
+	ld a, $39 ; mystherbe
 	hlcoord 16, 13
 	call Mail_Draw2x2Graphic
 	hlcoord 2, 13

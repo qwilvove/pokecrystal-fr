@@ -9,7 +9,7 @@ Cries:
 	dba Cry_Grimer
 	dba Cry_Voltorb
 	dba Cry_Grotadmorv
-	dba Cry_Oddish
+	dba Cry_Mystherbe
 	dba Cry_Raichu
 	dba Cry_Nidoqueen
 	dba Cry_Diglett

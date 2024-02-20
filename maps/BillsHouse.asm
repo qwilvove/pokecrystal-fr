@@ -25,8 +25,8 @@ BillsGrandpa:
 	iftrue .ShowedCaninosGoupix
 	checkevent EVENT_SHOWED_STARYU_TO_BILLS_GRANDPA
 	iftrue .ShowedStaryu
-	checkevent EVENT_SHOWED_ODDISH_TO_BILLS_GRANDPA
-	iftrue .ShowedOddish
+	checkevent EVENT_SHOWED_MYSTHERBE_TO_BILLS_GRANDPA
+	iftrue .ShowedMystherbe
 	checkevent EVENT_SHOWED_EXCELANGUE_TO_BILLS_GRANDPA
 	iftrue .ShowedExcelangue
 	writetext BillsGrandpaExcelangueText
@@ -43,7 +43,7 @@ BillsGrandpa:
 	sjump .ShowedExcelangue
 
 .GotEverstone:
-	writetext BillsGrandpaOddishText
+	writetext BillsGrandpaMystherbeText
 	promptbutton
 	writetext BillsGrandpaAskToSeeMonText
 	yesorno
@@ -51,10 +51,10 @@ BillsGrandpa:
 	scall .ExcitedToSee
 	special BillsGrandfather
 	iffalse .SaidNo
-	ifnotequal ODDISH, .WrongPokemon
+	ifnotequal MYSTHERBE, .WrongPokemon
 	scall .CorrectPokemon
-	setevent EVENT_SHOWED_ODDISH_TO_BILLS_GRANDPA
-	sjump .ShowedOddish
+	setevent EVENT_SHOWED_MYSTHERBE_TO_BILLS_GRANDPA
+	sjump .ShowedMystherbe
 
 .GotLeafStone:
 	writetext BillsGrandpaStaryuText
@@ -125,7 +125,7 @@ BillsGrandpa:
 	closetext
 	end
 
-.ShowedOddish:
+.ShowedMystherbe:
 	checkevent EVENT_GOT_LEAF_STONE_FROM_BILLS_GRANDPA
 	iftrue .GotLeafStone
 	scall .ReceiveItem
@@ -287,7 +287,7 @@ BillsGrandpaExcelangueText:
 	line "longue langue."
 	done
 
-BillsGrandpaOddishText:
+BillsGrandpaMystherbeText:
 	text "Mon petit-fils m'a"
 	line "parlé d'un #-"
 

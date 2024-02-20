@@ -722,8 +722,8 @@ KantoGrassWildMons:
 	db 14, BUTTERFREE
 	; nite
 	db 10, MIMITOSS
-	db 10, ODDISH
-	db 12, ODDISH
+	db 10, MYSTHERBE
+	db 12, MYSTHERBE
 	db 12, ABRA
 	db 10, CHETIFLOR
 	db 14, GLOOM
@@ -749,7 +749,7 @@ KantoGrassWildMons:
 	db 14, BUTTERFREE
 	db 14, BUTTERFREE
 	; nite
-	db 10, ODDISH
+	db 10, MYSTHERBE
 	db 10, HOOTHOOT
 	db 10, MIMITOSS
 	db 12, NOCTOWL

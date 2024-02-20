@@ -61,7 +61,7 @@
 	const GRODOUDOU ; 28
 	const ZUBAT      ; 29
 	const GOLBAT     ; 2a
-	const ODDISH     ; 2b
+	const MYSTHERBE     ; 2b
 	const GLOOM      ; 2c
 	const VILEPLUME  ; 2d
 	const PARAS      ; 2e

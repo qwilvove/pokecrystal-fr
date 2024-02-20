@@ -44,7 +44,7 @@ EvosAttacksPointers::
 	dw GrodoudouEvosAttacks
 	dw ZubatEvosAttacks
 	dw GolbatEvosAttacks
-	dw OddishEvosAttacks
+	dw MystherbeEvosAttacks
 	dw GloomEvosAttacks
 	dw VileplumeEvosAttacks
 	dw ParasEvosAttacks

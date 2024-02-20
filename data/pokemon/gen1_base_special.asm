@@ -44,7 +44,7 @@ KantoMonSpecials:
 	db  50 ; GRODOUDOU
 	db  40 ; ZUBAT
 	db  75 ; GOLBAT
-	db  75 ; ODDISH
+	db  75 ; MYSTHERBE
 	db  85 ; GLOOM
 	db 100 ; VILEPLUME
 	db  55 ; PARAS

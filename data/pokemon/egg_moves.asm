@@ -111,7 +111,7 @@ ZubatEggMoves:
 	db WHIRLWIND
 	db -1 ; end
 
-OddishEggMoves:
+MystherbeEggMoves:
 	db SWORDS_DANCE
 	db RAZOR_LEAF
 	db FLAIL

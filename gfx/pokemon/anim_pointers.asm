@@ -42,7 +42,7 @@ AnimationPointers:
 	dw GrodoudouAnimation
 	dw ZubatAnimation
 	dw GolbatAnimation
-	dw OddishAnimation
+	dw MystherbeAnimation
 	dw GloomAnimation
 	dw VileplumeAnimation
 	dw ParasAnimation

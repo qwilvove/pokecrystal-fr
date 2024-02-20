@@ -42,7 +42,7 @@ BitmasksPointers:
 	dw GrodoudouBitmasks
 	dw ZubatBitmasks
 	dw GolbatBitmasks
-	dw OddishBitmasks
+	dw MystherbeBitmasks
 	dw GloomBitmasks
 	dw VileplumeBitmasks
 	dw ParasBitmasks

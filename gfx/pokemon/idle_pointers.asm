@@ -42,7 +42,7 @@ AnimationIdlePointers:
 	dw GrodoudouAnimationIdle
 	dw ZubatAnimationIdle
 	dw GolbatAnimationIdle
-	dw OddishAnimationIdle
+	dw MystherbeAnimationIdle
 	dw GloomAnimationIdle
 	dw VileplumeAnimationIdle
 	dw ParasAnimationIdle

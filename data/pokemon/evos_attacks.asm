@@ -555,7 +555,7 @@ GolbatEvosAttacks:
 	db 55, HAZE
 	db 0 ; no more level-up moves
 
-OddishEvosAttacks:
+MystherbeEvosAttacks:
 	db EVOLVE_LEVEL, 21, GLOOM
 	db 0 ; no more evolutions
 	db 1, ABSORB

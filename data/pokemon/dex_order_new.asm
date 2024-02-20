@@ -84,7 +84,7 @@ NewPokedexOrder:
 	db SLOWPOKE
 	db FLAGADOSS
 	db SLOWKING
-	db ODDISH
+	db MYSTHERBE
 	db GLOOM
 	db VILEPLUME
 	db JOLIFLOR

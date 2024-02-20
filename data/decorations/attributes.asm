@@ -49,7 +49,7 @@ DecorationAttributes:
 	decoration DECO_DOLL,    DIGLETT,         SET_UP_DOLL,       EVENT_DECO_DIGLETT_DOLL,            SPRITE_DIGLETT
 	decoration DECO_DOLL,    STARYU,          SET_UP_DOLL,       EVENT_DECO_STARYU_DOLL,             SPRITE_STARMIE
 	decoration DECO_DOLL,    MAGICARPE,        SET_UP_DOLL,       EVENT_DECO_MAGICARPE_DOLL,           SPRITE_MAGICARPE
-	decoration DECO_DOLL,    ODDISH,          SET_UP_DOLL,       EVENT_DECO_ODDISH_DOLL,             SPRITE_ODDISH
+	decoration DECO_DOLL,    MYSTHERBE,          SET_UP_DOLL,       EVENT_DECO_MYSTHERBE_DOLL,             SPRITE_MYSTHERBE
 	decoration DECO_DOLL,    ECTOPLASMA,          SET_UP_DOLL,       EVENT_DECO_ECTOPLASMA_DOLL,             SPRITE_ECTOPLASMA
 	decoration DECO_DOLL,    KOKIYAS,        SET_UP_DOLL,       EVENT_DECO_KOKIYAS_DOLL,           SPRITE_KOKIYAS
 	decoration DECO_DOLL,    GRIMER,          SET_UP_DOLL,       EVENT_DECO_GRIMER_DOLL,             SPRITE_GRIMER

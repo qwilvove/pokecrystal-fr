@@ -48,8 +48,8 @@ PokemonCries::
 	mon_cry CRY_PIDGEY,      104,  224 ; GRODOUDOU
 	mon_cry CRY_CARAPUCE,    224,  256 ; ZUBAT
 	mon_cry CRY_CARAPUCE,    250,  256 ; GOLBAT
-	mon_cry CRY_ODDISH,      221,  129 ; ODDISH
-	mon_cry CRY_ODDISH,      170,  192 ; GLOOM
+	mon_cry CRY_MYSTHERBE,      221,  129 ; MYSTHERBE
+	mon_cry CRY_MYSTHERBE,      170,  192 ; GLOOM
 	mon_cry CRY_VILEPLUME,    34,  383 ; VILEPLUME
 	mon_cry CRY_PARAS,        32,  352 ; PARAS
 	mon_cry CRY_PARAS,        66,  383 ; PARASECT
@@ -110,7 +110,7 @@ PokemonCries::
 	mon_cry CRY_DIGLETT,       0,  256 ; EXEGGCUTE
 	mon_cry CRY_DROWZEE,       0,  256 ; EXEGGUTOR
 	mon_cry CRY_MELOFEE,      0,  256 ; CUBONE
-	mon_cry CRY_ODDISH,       79,  224 ; MAROWAK
+	mon_cry CRY_MYSTHERBE,       79,  224 ; MAROWAK
 	mon_cry CRY_GROLEM,       128,  320 ; KICKLEE
 	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN
 	mon_cry CRY_SEEL,          0,  256 ; EXCELANGUE

@@ -87,8 +87,8 @@ PokemonPicPointers::
 	dba_pic ZubatBackpic
 	dba_pic GolbatFrontpic
 	dba_pic GolbatBackpic
-	dba_pic OddishFrontpic
-	dba_pic OddishBackpic
+	dba_pic MystherbeFrontpic
+	dba_pic MystherbeBackpic
 	dba_pic GloomFrontpic
 	dba_pic GloomBackpic
 	dba_pic VileplumeFrontpic

@@ -42,7 +42,7 @@ FramesPointers:
 	dw GrodoudouFrames
 	dw ZubatFrames
 	dw GolbatFrames
-	dw OddishFrames
+	dw MystherbeFrames
 	dw GloomFrames
 	dw VileplumeFrames
 	dw ParasFrames

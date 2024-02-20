@@ -147,7 +147,7 @@ AlphabeticalPokedexOrder:
 	db MIMIGAL
 	db MIMITOSS
 	db MINIDRACO
-	db ODDISH
+	db MYSTHERBE
 	db NATU
 	db NIDOKING
 	db NIDOQUEEN

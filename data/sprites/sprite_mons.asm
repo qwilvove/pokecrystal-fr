@@ -6,7 +6,7 @@ SpriteMons:
 	db CANINOS
 	db ASPICOT
 	db KOKIYAS
-	db ODDISH
+	db MYSTHERBE
 	db ECTOPLASMA
 	db ZUBAT
 	db MAGICARPE

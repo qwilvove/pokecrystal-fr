@@ -11,7 +11,7 @@ IconPointers:
 	dw BirdIcon
 	dw MonsterIcon
 	dw MelofeeIcon
-	dw OddishIcon
+	dw MystherbeIcon
 	dw BugIcon
 	dw GhostIcon
 	dw LokhlassIcon

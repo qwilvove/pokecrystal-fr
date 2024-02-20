@@ -43,7 +43,7 @@ PokedexDataPointerTable:
 	dw GrodoudouPokedexEntry
 	dw ZubatPokedexEntry
 	dw GolbatPokedexEntry
-	dw OddishPokedexEntry
+	dw MystherbePokedexEntry
 	dw GloomPokedexEntry
 	dw VileplumePokedexEntry
 	dw ParasPokedexEntry
