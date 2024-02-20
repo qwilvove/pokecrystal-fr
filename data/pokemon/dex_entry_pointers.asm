@@ -52,7 +52,7 @@ PokedexDataPointerTable:
 	dw AeromitePokedexEntry
 	dw DiglettPokedexEntry
 	dw DugtrioPokedexEntry
-	dw MeowthPokedexEntry
+	dw MiaoussPokedexEntry
 	dw PersianPokedexEntry
 	dw PsyduckPokedexEntry
 	dw AkwakwakPokedexEntry

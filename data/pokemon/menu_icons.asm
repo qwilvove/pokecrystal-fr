@@ -53,7 +53,7 @@ MonMenuIcons:
 	db ICON_MOTH        ; AEROMITE
 	db ICON_DIGLETT     ; DIGLETT
 	db ICON_DIGLETT     ; DUGTRIO
-	db ICON_FOX         ; MEOWTH
+	db ICON_FOX         ; MIAOUSS
 	db ICON_FOX         ; PERSIAN
 	db ICON_MONSTER     ; PSYDUCK
 	db ICON_MONSTER     ; AKWAKWAK

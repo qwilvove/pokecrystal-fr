@@ -53,7 +53,7 @@ KantoMonSpecials:
 	db  90 ; AEROMITE
 	db  45 ; DIGLETT
 	db  70 ; DUGTRIO
-	db  40 ; MEOWTH
+	db  40 ; MIAOUSS
 	db  65 ; PERSIAN
 	db  50 ; PSYDUCK
 	db  80 ; AKWAKWAK

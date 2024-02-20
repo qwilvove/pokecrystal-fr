@@ -53,7 +53,7 @@ EvosAttacksPointers::
 	dw AeromiteEvosAttacks
 	dw DiglettEvosAttacks
 	dw DugtrioEvosAttacks
-	dw MeowthEvosAttacks
+	dw MiaoussEvosAttacks
 	dw PersianEvosAttacks
 	dw PsyduckEvosAttacks
 	dw AkwakwakEvosAttacks

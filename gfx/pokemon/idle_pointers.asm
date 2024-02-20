@@ -51,7 +51,7 @@ AnimationIdlePointers:
 	dw AeromiteAnimationIdle
 	dw DiglettAnimationIdle
 	dw DugtrioAnimationIdle
-	dw MeowthAnimationIdle
+	dw MiaoussAnimationIdle
 	dw PersianAnimationIdle
 	dw PsyduckAnimationIdle
 	dw AkwakwakAnimationIdle

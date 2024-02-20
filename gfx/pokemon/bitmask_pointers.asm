@@ -51,7 +51,7 @@ BitmasksPointers:
 	dw AeromiteBitmasks
 	dw DiglettBitmasks
 	dw DugtrioBitmasks
-	dw MeowthBitmasks
+	dw MiaoussBitmasks
 	dw PersianBitmasks
 	dw PsyduckBitmasks
 	dw AkwakwakBitmasks

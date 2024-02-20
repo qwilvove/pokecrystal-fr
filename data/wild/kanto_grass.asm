@@ -302,7 +302,7 @@ KantoGrassWildMons:
 	db 14, ABRA
 	; nite
 	db 13, HOOTHOOT
-	db 13, MEOWTH
+	db 13, MIAOUSS
 	db 15, NOCTOWL
 	db 12, ABRA
 	db 14, JIGGLYPUFF
@@ -329,7 +329,7 @@ KantoGrassWildMons:
 	db 15, GRANBULL
 	db 15, GRANBULL
 	; nite
-	db 13, MEOWTH
+	db 13, MIAOUSS
 	db 13, DROWZEE
 	db 14, MAGNETI
 	db 15, PSYDUCK
@@ -357,7 +357,7 @@ KantoGrassWildMons:
 	db 16, ABRA
 	db 16, ABRA
 	; nite
-	db 17, MEOWTH
+	db 17, MIAOUSS
 	db 17, CORNEBRE
 	db 18, MALOSSE
 	db 18, PERSIAN
@@ -385,7 +385,7 @@ KantoGrassWildMons:
 	db 18, KADABRA
 	db 18, KADABRA
 	; nite
-	db 17, MEOWTH
+	db 17, MIAOUSS
 	db 20, NOCTOWL
 	db 16, ABRA
 	db 17, HAUNTER
@@ -470,7 +470,7 @@ KantoGrassWildMons:
 	db 16, GRANIVOL
 	; nite
 	db 14, DROWZEE
-	db 13, MEOWTH
+	db 13, MIAOUSS
 	db 15, MAGNETI
 	db 16, NOCTOWL
 	db 16, RATICATE

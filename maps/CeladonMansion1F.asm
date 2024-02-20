@@ -12,10 +12,10 @@ CeladonMansion1F_MapScripts:
 CeladonMansionManager:
 	jumptextfaceplayer CeladonMansionManagerText
 
-CeladonMansion1FMeowth:
+CeladonMansion1FMiaouss:
 	opentext
-	writetext CeladonMansion1FMeowthText
-	cry MEOWTH
+	writetext CeladonMansion1FMiaoussText
+	cry MIAOUSS
 	waitbutton
 	closetext
 	end
@@ -54,7 +54,7 @@ CeladonMansionManagerText:
 	cont "l'argent."
 	done
 
-CeladonMansion1FMeowthText:
+CeladonMansion1FMiaoussText:
 	text "MIAOUSS: Miaou!"
 	done
 
@@ -92,6 +92,6 @@ CeladonMansion1F_MapEvents:
 
 	def_object_events
 	object_event  1,  5, SPRITE_GRANNY, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, CeladonMansionManager, -1
-	object_event  2,  6, SPRITE_CANINOS, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, CeladonMansion1FMeowth, -1
+	object_event  2,  6, SPRITE_CANINOS, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, CeladonMansion1FMiaouss, -1
 	object_event  3,  4, SPRITE_MELOFEE, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, CeladonMansion1FMelofee, -1
 	object_event  4,  4, SPRITE_CANINOS, SPRITEMOVEDATA_POKEMON, 2, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, CeladonMansion1FNidoranF, -1

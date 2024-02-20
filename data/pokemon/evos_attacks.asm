@@ -680,7 +680,7 @@ DugtrioEvosAttacks:
 	db 61, FISSURE
 	db 0 ; no more level-up moves
 
-MeowthEvosAttacks:
+MiaoussEvosAttacks:
 	db EVOLVE_LEVEL, 28, PERSIAN
 	db 0 ; no more evolutions
 	db 1, SCRATCH

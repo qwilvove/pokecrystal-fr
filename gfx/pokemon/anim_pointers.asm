@@ -51,7 +51,7 @@ AnimationPointers:
 	dw AeromiteAnimation
 	dw DiglettAnimation
 	dw DugtrioAnimation
-	dw MeowthAnimation
+	dw MiaoussAnimation
 	dw PersianAnimation
 	dw PsyduckAnimation
 	dw AkwakwakAnimation

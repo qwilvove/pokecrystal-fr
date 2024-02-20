@@ -57,7 +57,7 @@ PokemonCries::
 	mon_cry CRY_VENONAT,      41,  256 ; AEROMITE
 	mon_cry CRY_DIGLETT,     170,  129 ; DIGLETT
 	mon_cry CRY_DIGLETT,      42,  144 ; DUGTRIO
-	mon_cry CRY_MELOFEE,    119,  144 ; MEOWTH
+	mon_cry CRY_MELOFEE,    119,  144 ; MIAOUSS
 	mon_cry CRY_MELOFEE,    153,  383 ; PERSIAN
 	mon_cry CRY_PSYDUCK,      32,  224 ; PSYDUCK
 	mon_cry CRY_PSYDUCK,     255,  192 ; AKWAKWAK

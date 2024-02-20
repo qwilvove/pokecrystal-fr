@@ -105,8 +105,8 @@ PokemonPicPointers::
 	dba_pic DiglettBackpic
 	dba_pic DugtrioFrontpic
 	dba_pic DugtrioBackpic
-	dba_pic MeowthFrontpic
-	dba_pic MeowthBackpic
+	dba_pic MiaoussFrontpic
+	dba_pic MiaoussBackpic
 	dba_pic PersianFrontpic
 	dba_pic PersianBackpic
 	dba_pic PsyduckFrontpic

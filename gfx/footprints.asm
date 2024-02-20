@@ -123,7 +123,7 @@ INCBIN "gfx/footprints/venonat.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/aeromite.1bpp",   footprint_top
 INCBIN "gfx/footprints/diglett.1bpp",    footprint_top
 INCBIN "gfx/footprints/dugtrio.1bpp",    footprint_top
-INCBIN "gfx/footprints/meowth.1bpp",     footprint_top
+INCBIN "gfx/footprints/miaouss.1bpp",     footprint_top
 INCBIN "gfx/footprints/persian.1bpp",    footprint_top
 INCBIN "gfx/footprints/psyduck.1bpp",    footprint_top
 INCBIN "gfx/footprints/akwakwak.1bpp",    footprint_top
@@ -132,7 +132,7 @@ INCBIN "gfx/footprints/ferosinge.1bpp",     footprint_top
 INCBIN "gfx/footprints/aeromite.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/diglett.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/dugtrio.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/meowth.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/miaouss.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/persian.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/psyduck.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/akwakwak.1bpp",    footprint_bottom

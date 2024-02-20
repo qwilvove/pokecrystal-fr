@@ -70,7 +70,7 @@
 	const AEROMITE   ; 31
 	const DIGLETT    ; 32
 	const DUGTRIO    ; 33
-	const MEOWTH     ; 34
+	const MIAOUSS     ; 34
 	const PERSIAN    ; 35
 	const PSYDUCK    ; 36
 	const AKWAKWAK    ; 37

@@ -1505,13 +1505,13 @@ JohtoGrassWildMons:
 	db 13, ECREMEUH
 	db 13, ECREMEUH
 	; nite
-	db 16, MEOWTH
+	db 16, MIAOUSS
 	db 16, RATICATE
 	db 16, MAGNETI
 	db 16, NOCTOWL
-	db 16, MEOWTH
-	db 16, MEOWTH
-	db 16, MEOWTH
+	db 16, MIAOUSS
+	db 16, MIAOUSS
+	db 16, MIAOUSS
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_39
@@ -1533,13 +1533,13 @@ JohtoGrassWildMons:
 	db 15, TAUROS
 	db 15, TAUROS
 	; nite
-	db 16, MEOWTH
+	db 16, MIAOUSS
 	db 16, RATICATE
 	db 16, MAGNETI
 	db 16, NOCTOWL
-	db 18, MEOWTH
-	db 18, MEOWTH
-	db 18, MEOWTH
+	db 18, MIAOUSS
+	db 18, MIAOUSS
+	db 18, MIAOUSS
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_42

@@ -137,7 +137,7 @@ NewPokedexOrder:
 	db DUGTRIO
 	db FEROSINGE
 	db COLOSSINGE
-	db MEOWTH
+	db MIAOUSS
 	db PERSIAN
 	db PSYDUCK
 	db AKWAKWAK

@@ -51,7 +51,7 @@ FramesPointers:
 	dw AeromiteFrames
 	dw DiglettFrames
 	dw DugtrioFrames
-	dw MeowthFrames
+	dw MiaoussFrames
 	dw PersianFrames
 	dw PsyduckFrames
 	dw AkwakwakFrames

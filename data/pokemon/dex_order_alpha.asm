@@ -142,7 +142,7 @@ AlphabeticalPokedexOrder:
 	db METAMORPH
 	db MEW
 	db MEWTWO
-	db MEOWTH
+	db MIAOUSS
 	db ARIADOS
 	db SPINARAK
 	db VENONAT
