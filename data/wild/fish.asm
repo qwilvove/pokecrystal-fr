@@ -13,11 +13,11 @@ FishGroups:
 	fishgroup 50 percent + 1, .Ocean_Old,            .Ocean_Good,            .Ocean_Super
 	fishgroup 50 percent + 1, .Lake_Old,             .Lake_Good,             .Lake_Super
 	fishgroup 50 percent + 1, .Pond_Old,             .Pond_Good,             .Pond_Super
-	fishgroup 50 percent + 1, .Dratini_Old,          .Dratini_Good,          .Dratini_Super
+	fishgroup 50 percent + 1, .Minidraco_Old,          .Minidraco_Good,          .Minidraco_Super
 	fishgroup 50 percent + 1, .Qwilfish_Swarm_Old,   .Qwilfish_Swarm_Good,   .Qwilfish_Swarm_Super
 	fishgroup 50 percent + 1, .Remoraid_Swarm_Old,   .Remoraid_Swarm_Good,   .Remoraid_Swarm_Super
 	fishgroup 50 percent + 1, .Leviator_Old,         .Leviator_Good,         .Leviator_Super
-	fishgroup 50 percent + 1, .Dratini_2_Old,        .Dratini_2_Good,        .Dratini_2_Super
+	fishgroup 50 percent + 1, .Minidraco_2_Old,        .Minidraco_2_Good,        .Minidraco_2_Super
 	fishgroup 50 percent + 1, .WhirlIslands_Old,     .WhirlIslands_Good,     .WhirlIslands_Super
 	fishgroup 50 percent + 1, .Qwilfish_Old,         .Qwilfish_Good,         .Qwilfish_Super
 	fishgroup 50 percent + 1, .Remoraid_Old,         .Remoraid_Good,         .Remoraid_Super
@@ -84,16 +84,16 @@ FishGroups:
 	db  90 percent + 1, MAGICARPE,   40
 	db 100 percent,     POLIWAG,    40
 
-.Dratini_Old:
+.Minidraco_Old:
 	db  70 percent + 1, MAGICARPE,   10
 	db  85 percent + 1, MAGICARPE,   10
 	db 100 percent,     MAGICARPE,   10
-.Dratini_Good:
+.Minidraco_Good:
 	db  35 percent,     MAGICARPE,   20
 	db  70 percent,     MAGICARPE,   20
 	db  90 percent + 1, MAGICARPE,   20
 	db 100 percent,     time_group 8
-.Dratini_Super:
+.Minidraco_Super:
 	db  40 percent,     MAGICARPE,   40
 	db  70 percent,     time_group 9
 	db  90 percent + 1, MAGICARPE,   40
@@ -144,16 +144,16 @@ FishGroups:
 	db  90 percent + 1, MAGICARPE,   40
 	db 100 percent,     MAGICARPE,   40
 
-.Dratini_2_Old:
+.Minidraco_2_Old:
 	db  70 percent + 1, MAGICARPE,   10
 	db  85 percent + 1, MAGICARPE,   10
 	db 100 percent,     MAGICARPE,   10
-.Dratini_2_Good:
+.Minidraco_2_Good:
 	db  35 percent,     MAGICARPE,   10
 	db  70 percent,     MAGICARPE,   10
 	db  90 percent + 1, MAGICARPE,   10
 	db 100 percent,     time_group 16
-.Dratini_2_Super:
+.Minidraco_2_Super:
 	db  40 percent,     MAGICARPE,   10
 	db  70 percent,     time_group 17
 	db  90 percent + 1, MAGICARPE,   10
@@ -217,16 +217,16 @@ TimeFishGroups:
 	db GOLDEEN,    40,  GOLDEEN,    40 ; 5
 	db POLIWAG,    20,  POLIWAG,    20 ; 6
 	db POLIWAG,    40,  POLIWAG,    40 ; 7
-	db DRATINI,    20,  DRATINI,    20 ; 8
-	db DRATINI,    40,  DRATINI,    40 ; 9
+	db MINIDRACO,    20,  MINIDRACO,    20 ; 8
+	db MINIDRACO,    40,  MINIDRACO,    40 ; 9
 	db QWILFISH,   20,  QWILFISH,   20 ; 10
 	db QWILFISH,   40,  QWILFISH,   40 ; 11
 	db REMORAID,   20,  REMORAID,   20 ; 12
 	db REMORAID,   40,  REMORAID,   40 ; 13
 	db LEVIATOR,   20,  LEVIATOR,   20 ; 14
 	db LEVIATOR,   40,  LEVIATOR,   40 ; 15
-	db DRATINI,    10,  DRATINI,    10 ; 16
-	db DRATINI,    10,  DRATINI,    10 ; 17
+	db MINIDRACO,    10,  MINIDRACO,    10 ; 16
+	db MINIDRACO,    10,  MINIDRACO,    10 ; 17
 	db HYPOTREMPE,     20,  HYPOTREMPE,     20 ; 18
 	db HYPOTREMPE,     40,  HYPOTREMPE,     40 ; 19
 	db TENTACOOL,  20,  TENTACOOL,  20 ; 20

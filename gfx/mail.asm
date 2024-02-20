@@ -37,8 +37,8 @@ INCBIN "gfx/mail/eon_mail_border_2.1bpp"
 MailNatuGFX:
 INCBIN "gfx/mail/natu.1bpp"
 
-MailDratiniGFX:
-INCBIN "gfx/mail/dratini.1bpp"
+MailMinidracoGFX:
+INCBIN "gfx/mail/minidraco.1bpp"
 
 MailPoliwagGFX:
 INCBIN "gfx/mail/poliwag.1bpp"

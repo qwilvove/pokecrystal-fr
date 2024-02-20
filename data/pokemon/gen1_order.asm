@@ -87,7 +87,7 @@ Pokered_MonIndices:
 	db RAICHU
 	db CADOIZO ; MISSINGNO.
 	db DEMANTA ; MISSINGNO.
-	db DRATINI
+	db MINIDRACO
 	db DRACO
 	db KABUTO
 	db KABUTOPS

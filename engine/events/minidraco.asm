@@ -1,7 +1,7 @@
-GiveDratini:
-; if wScriptVar is 0 or 1, change the moveset of the last Dratini in the party.
+GiveMinidraco:
+; if wScriptVar is 0 or 1, change the moveset of the last Minidraco in the party.
 ;  0: give it a special moveset with Extremespeed.
-;  1: give it the normal moveset of a level 15 Dratini.
+;  1: give it the normal moveset of a level 15 Minidraco.
 
 	ld a, [wScriptVar]
 	cp $2
@@ -13,10 +13,10 @@ GiveDratini:
 	ld a, [bc]
 	ld c, a
 	ld de, PARTYMON_STRUCT_LENGTH
-.CheckForDratini:
-; start at the end of the party and search backwards for a Dratini
+.CheckForMinidraco:
+; start at the end of the party and search backwards for a Minidraco
 	ld a, [hl]
-	cp DRATINI
+	cp MINIDRACO
 	jr z, .GiveMoveset
 	ld a, l
 	sub e
@@ -25,7 +25,7 @@ GiveDratini:
 	sbc d
 	ld h, a
 	dec c
-	jr nz, .CheckForDratini
+	jr nz, .CheckForMinidraco
 	ret
 
 .GiveMoveset:
@@ -70,14 +70,14 @@ GiveDratini:
 
 .Movesets:
 .Moveset0:
-; Dratini does not normally learn Extremespeed. This is a special gift.
+; Minidraco does not normally learn Extremespeed. This is a special gift.
 	db WRAP
 	db THUNDER_WAVE
 	db TWISTER
 	db EXTREMESPEED
 	db 0
 .Moveset1:
-; This is the normal moveset of a level 15 Dratini
+; This is the normal moveset of a level 15 Minidraco
 	db WRAP
 	db LEER
 	db THUNDER_WAVE

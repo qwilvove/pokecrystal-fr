@@ -147,7 +147,7 @@ PokedexDataPointerTable:
 	dw ArtikodinPokedexEntry
 	dw ElecthorPokedexEntry
 	dw MoltresPokedexEntry
-	dw DratiniPokedexEntry
+	dw MinidracoPokedexEntry
 	dw DracoPokedexEntry
 	dw DracolossePokedexEntry
 	dw MewtwoPokedexEntry

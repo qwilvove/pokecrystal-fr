@@ -146,7 +146,7 @@ FramesPointers:
 	dw ArtikodinFrames
 	dw ElecthorFrames
 	dw MoltresFrames
-	dw DratiniFrames
+	dw MinidracoFrames
 	dw DracoFrames
 	dw DracolosseFrames
 	dw MewtwoFrames

@@ -242,7 +242,7 @@ NewPokedexOrder:
 	db RAIKOU
 	db ENTEI
 	db SUICUNE
-	db DRATINI
+	db MINIDRACO
 	db DRACO
 	db DRACOLOSSE
 	db EMBRYLEX

@@ -146,7 +146,7 @@ AnimationIdlePointers:
 	dw ArtikodinAnimationIdle
 	dw ElecthorAnimationIdle
 	dw MoltresAnimationIdle
-	dw DratiniAnimationIdle
+	dw MinidracoAnimationIdle
 	dw DracoAnimationIdle
 	dw DracolosseAnimationIdle
 	dw MewtwoAnimationIdle

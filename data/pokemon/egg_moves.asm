@@ -433,7 +433,7 @@ SnorlaxEggMoves:
 	db LICK
 	db -1 ; end
 
-DratiniEggMoves:
+MinidracoEggMoves:
 	db LIGHT_SCREEN
 	db MIST
 	db HAZE

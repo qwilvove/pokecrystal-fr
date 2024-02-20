@@ -148,7 +148,7 @@ EvosAttacksPointers::
 	dw ArtikodinEvosAttacks
 	dw ElecthorEvosAttacks
 	dw MoltresEvosAttacks
-	dw DratiniEvosAttacks
+	dw MinidracoEvosAttacks
 	dw DracoEvosAttacks
 	dw DracolosseEvosAttacks
 	dw MewtwoEvosAttacks

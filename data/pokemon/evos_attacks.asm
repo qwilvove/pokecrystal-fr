@@ -1981,7 +1981,7 @@ MoltresEvosAttacks:
 	db 73, SKY_ATTACK
 	db 0 ; no more level-up moves
 
-DratiniEvosAttacks:
+MinidracoEvosAttacks:
 	db EVOLVE_LEVEL, 30, DRACO
 	db 0 ; no more evolutions
 	db 1, WRAP

@@ -146,7 +146,7 @@ BitmasksPointers:
 	dw ArtikodinBitmasks
 	dw ElecthorBitmasks
 	dw MoltresBitmasks
-	dw DratiniBitmasks
+	dw MinidracoBitmasks
 	dw DracoBitmasks
 	dw DracolosseBitmasks
 	dw MewtwoBitmasks

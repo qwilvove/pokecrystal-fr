@@ -148,7 +148,7 @@ KantoMonSpecials:
 	db 125 ; ARTIKODIN
 	db 125 ; ELECTHOR
 	db 125 ; MOLTRES
-	db  50 ; DRATINI
+	db  50 ; MINIDRACO
 	db  70 ; DRACO
 	db 100 ; DRACOLOSSE
 	db 154 ; MEWTWO

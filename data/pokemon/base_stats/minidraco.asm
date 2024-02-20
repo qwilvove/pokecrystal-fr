@@ -1,4 +1,4 @@
-	db DRATINI ; 147
+	db MINIDRACO ; 147
 
 	db  41,  64,  45,  50,  50,  50
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 40 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/dratini/front.dimensions"
+	INCBIN "gfx/pokemon/minidraco/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_SLOW ; growth rate
 	dn EGG_WATER_1, EGG_DRAGON ; egg groups

@@ -193,11 +193,11 @@ DragonShrineElder1Script:
 	faceplayer
 	opentext
 	checkevent EVENT_TEMPORARY_UNTIL_MAP_RELOAD_1
-	iftrue .DontGiveDratiniYet
+	iftrue .DontGiveMinidracoYet
 	checkevent EVENT_TEMPORARY_UNTIL_MAP_RELOAD_7
-	iftrue .ReceivedDratini
-	checkevent EVENT_GOT_DRATINI
-	iffalse .GiveDratini
+	iftrue .ReceivedMinidraco
+	checkevent EVENT_GOT_MINIDRACO
+	iffalse .GiveMinidraco
 	checkevent EVENT_BEAT_RIVAL_IN_MT_MOON
 	iftrue .BeatRivalInMtMoon
 	writetext DragonShrineClairsGrandfatherText
@@ -205,18 +205,18 @@ DragonShrineElder1Script:
 	closetext
 	end
 
-.GiveDratini:
-	writetext DragonShrineTakeThisDratiniText
+.GiveMinidraco:
+	writetext DragonShrineTakeThisMinidracoText
 	waitbutton
 	readvar VAR_PARTYCOUNT
 	ifequal PARTY_LENGTH, .PartyFull
-	writetext DragonShrinePlayerReceivedDratiniText
+	writetext DragonShrinePlayerReceivedMinidracoText
 	playsound SFX_CAUGHT_MON
 	waitsfx
-	givepoke DRATINI, 15
+	givepoke MINIDRACO, 15
 	checkevent EVENT_ANSWERED_DRAGON_MASTER_QUIZ_WRONG
-	special GiveDratini
-	setevent EVENT_GOT_DRATINI
+	special GiveMinidraco
+	setevent EVENT_GOT_MINIDRACO
 	setevent EVENT_TEMPORARY_UNTIL_MAP_RELOAD_7
 	writetext DragonShrineSymbolicDragonText
 	waitbutton
@@ -235,13 +235,13 @@ DragonShrineElder1Script:
 	closetext
 	end
 
-.DontGiveDratiniYet:
+.DontGiveMinidracoYet:
 	writetext DragonShrineComeAgainText
 	waitbutton
 	closetext
 	end
 
-.ReceivedDratini:
+.ReceivedMinidraco:
 	writetext DragonShrineSymbolicDragonText
 	waitbutton
 	closetext
@@ -496,7 +496,7 @@ DragonShrineComeAgainText:
 	cont "saint lieu."
 	done
 
-DragonShrineTakeThisDratiniText:
+DragonShrineTakeThisMinidracoText:
 	text "Hmm..."
 	line "Bienvenue."
 
@@ -511,7 +511,7 @@ DragonShrineTakeThisDratiniText:
 	cont "valeur..."
 	done
 
-DragonShrinePlayerReceivedDratiniText:
+DragonShrinePlayerReceivedMinidracoText:
 	text "<PLAYER> reçoit"
 	line "MINIDRACO!"
 	done

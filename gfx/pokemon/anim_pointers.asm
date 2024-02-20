@@ -146,7 +146,7 @@ AnimationPointers:
 	dw ArtikodinAnimation
 	dw ElecthorAnimation
 	dw MoltresAnimation
-	dw DratiniAnimation
+	dw MinidracoAnimation
 	dw DracoAnimation
 	dw DracolosseAnimation
 	dw MewtwoAnimation

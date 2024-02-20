@@ -10,10 +10,10 @@ BlackthornDragonSpeechHouse_MapScripts:
 BlackthornDragonSpeechHouseGrannyScript:
 	jumptextfaceplayer BlackthornDragonSpeechHouseGrannyText
 
-BlackthornDragonSpeechHouseDratiniScript:
+BlackthornDragonSpeechHouseMinidracoScript:
 	opentext
-	writetext BlackthornDragonSpeechHouseDratiniText
-	cry DRATINI
+	writetext BlackthornDragonSpeechHouseMinidracoText
+	cry MINIDRACO
 	waitbutton
 	closetext
 	end
@@ -39,7 +39,7 @@ BlackthornDragonSpeechHouseGrannyText:
 	cont "cette ville."
 	done
 
-BlackthornDragonSpeechHouseDratiniText:
+BlackthornDragonSpeechHouseMinidracoText:
 	text "MINIDRACO: Draa!"
 	done
 
@@ -56,4 +56,4 @@ BlackthornDragonSpeechHouse_MapEvents:
 
 	def_object_events
 	object_event  2,  3, SPRITE_GRANNY, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, BlackthornDragonSpeechHouseGrannyScript, -1
-	object_event  5,  5, SPRITE_ABO, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, BlackthornDragonSpeechHouseDratiniScript, -1
+	object_event  5,  5, SPRITE_ABO, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, BlackthornDragonSpeechHouseMinidracoScript, -1

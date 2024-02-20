@@ -165,7 +165,7 @@
 	const ARTIKODIN   ; 90
 	const ELECTHOR     ; 91
 	const MOLTRES    ; 92
-	const DRATINI    ; 93
+	const MINIDRACO    ; 93
 	const DRACO  ; 94
 	const DRACOLOSSE  ; 95
 	const MEWTWO     ; 96

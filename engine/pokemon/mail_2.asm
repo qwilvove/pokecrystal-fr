@@ -167,7 +167,7 @@ LoadLiteBlueMailGFX:
 	ld de, LiteBlueMailBorderGFX
 	ld c, 8 * LEN_1BPP_TILE
 	call LoadMailGFX_Color2
-	ld de, MailDratiniGFX
+	ld de, MailMinidracoGFX
 	ld c, 6 * LEN_1BPP_TILE
 	call LoadMailGFX_Color3
 	ld de, PortraitMailUnderlineGFX

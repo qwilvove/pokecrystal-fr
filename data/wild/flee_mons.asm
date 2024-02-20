@@ -8,7 +8,7 @@ SometimesFleeMons:
 	db M__MIME
 	db EVOLI
 	db PORYGON
-	db DRATINI
+	db MINIDRACO
 	db DRACO
 	db TOGETIC
 	db UMBREON
