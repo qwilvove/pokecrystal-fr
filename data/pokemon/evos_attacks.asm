@@ -2272,7 +2272,7 @@ CoxyclaqueEvosAttacks:
 	db 60, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
-SpinarakEvosAttacks:
+MimigalEvosAttacks:
 	db EVOLVE_LEVEL, 22, MIGALOS
 	db 0 ; no more evolutions
 	db 1, POISON_STING

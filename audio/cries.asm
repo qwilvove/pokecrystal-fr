@@ -14,11 +14,11 @@ Cry_Togetic:
 	channel 5, Cry_Togetic_Ch5
 	channel 6, Cry_Togetic_Ch6
 
-Cry_Spinarak:
+Cry_Mimigal:
 	channel_count 3
-	channel 5, Cry_Spinarak_Ch5
-	channel 6, Cry_Spinarak_Ch6
-	channel 8, Cry_Spinarak_Ch8
+	channel 5, Cry_Mimigal_Ch5
+	channel 6, Cry_Mimigal_Ch6
+	channel 8, Cry_Mimigal_Ch8
 
 Cry_Raikou:
 	channel_count 3
@@ -364,7 +364,7 @@ Cry_Togetic_Ch6:
 	square_note 8, 15, 2, 1986
 	sound_ret
 
-Cry_Spinarak_Ch5:
+Cry_Mimigal_Ch5:
 	duty_cycle 1
 	square_note 3, 2, -4, 1988
 	square_note 1, 0, 0, 1
@@ -372,7 +372,7 @@ Cry_Spinarak_Ch5:
 	square_note 6, 11, 4, 1979
 	sound_ret
 
-Cry_Spinarak_Ch6:
+Cry_Mimigal_Ch6:
 	duty_cycle_pattern 0, 2, 2, 2
 	square_note 3, 2, -4, 1991
 	square_note 1, 0, 0, 0
@@ -380,7 +380,7 @@ Cry_Spinarak_Ch6:
 	square_note 6, 11, 4, 1981
 	sound_ret
 
-Cry_Spinarak_Ch8:
+Cry_Mimigal_Ch8:
 	noise_note 3, 9, 2, 16
 	noise_note 1, 3, -1, 0
 	noise_note 5, 6, -1, 16

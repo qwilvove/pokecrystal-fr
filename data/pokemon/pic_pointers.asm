@@ -335,8 +335,8 @@ PokemonPicPointers::
 	dba_pic CoxyBackpic
 	dba_pic CoxyclaqueFrontpic
 	dba_pic CoxyclaqueBackpic
-	dba_pic SpinarakFrontpic
-	dba_pic SpinarakBackpic
+	dba_pic MimigalFrontpic
+	dba_pic MimigalBackpic
 	dba_pic MigalosFrontpic
 	dba_pic MigalosBackpic
 	dba_pic CrobatFrontpic

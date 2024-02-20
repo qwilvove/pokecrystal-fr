@@ -19,7 +19,7 @@ BuenasPasswordTable:
 .HealingItems:  db BUENA_ITEM,    9, POTION, ANTIDOTE, PARLYZ_HEAL
 .Balls:         db BUENA_ITEM,   10, POKE_BALL, GREAT_BALL, ULTRA_BALL
 .Pokemon1:      db BUENA_MON,     9, PIKACHU, RATTATA, GEODUDE
-.Pokemon2:      db BUENA_MON,     9, HOOTHOOT, SPINARAK, DROWZEE
+.Pokemon2:      db BUENA_MON,     9, HOOTHOOT, MIMIGAL, DROWZEE
 .JohtoTowns:    db BUENA_STRING, 13, "BOURG GEON@", "VILLE GRIOTTE@", "ECORCIA@"
 .Types:         db BUENA_STRING,  7, "VOL@", "INSECTE@", "PLANTE@"
 .Moves:         db BUENA_MOVE,   11, TACKLE, GROWL, MUD_SLAP

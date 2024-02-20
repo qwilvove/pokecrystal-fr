@@ -40,7 +40,7 @@ Cries:
 	dba Cry_Goupix
 	dba Cry_Boustiflor
 	dba Cry_Marill
-	dba Cry_Spinarak
+	dba Cry_Mimigal
 	dba Cry_Togepi
 	dba Cry_Girafarig
 	dba Cry_Raikou

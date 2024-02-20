@@ -359,7 +359,7 @@ JohtoGrassWildMons:
 	; nite
 	db 12, PSYDUCK
 	db 13, HOOTHOOT
-	db 14, SPINARAK
+	db 14, MIMIGAL
 	db 15, HOOTHOOT
 	db 10, VENONAT
 	db 12, VENONAT
@@ -1281,7 +1281,7 @@ JohtoGrassWildMons:
 	db 4, GRANIVOL
 	db 4, GRANIVOL
 	; nite
-	db 3, SPINARAK
+	db 3, MIMIGAL
 	db 3, HOOTHOOT
 	db 4, POLIWAG
 	db 4, HOOTHOOT
@@ -1309,7 +1309,7 @@ JohtoGrassWildMons:
 	db 5, GRANIVOL
 	db 5, GRANIVOL
 	; nite
-	db 4, SPINARAK
+	db 4, MIMIGAL
 	db 4, POLIWAG
 	db 5, CHETIFLOR
 	db 5, HOOTHOOT
@@ -1449,7 +1449,7 @@ JohtoGrassWildMons:
 	db 6, PIDGEY
 	db 6, PIDGEY
 	; nite
-	db 4, SPINARAK
+	db 4, MIMIGAL
 	db 4, HOOTHOOT
 	db 5, CHETIFLOR
 	db 5, HOOTHOOT
@@ -1477,7 +1477,7 @@ JohtoGrassWildMons:
 	db 15, PIDGEY
 	db 15, PIDGEY
 	; nite
-	db 13, SPINARAK
+	db 13, MIMIGAL
 	db 14, CERFROUSSE
 	db 15, HOOTHOOT
 	db 16, CERFROUSSE

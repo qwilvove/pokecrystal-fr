@@ -206,7 +206,7 @@ Pokered_MonIndices:
 	db NOCTOWL
 	db COXY
 	db COXYCLAQUE
-	db SPINARAK
+	db MIMIGAL
 	db MIGALOS
 	db CROBAT
 	db LOUPIO

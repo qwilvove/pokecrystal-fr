@@ -168,7 +168,7 @@ EvosAttacksPointers::
 	dw NoctowlEvosAttacks
 	dw CoxyEvosAttacks
 	dw CoxyclaqueEvosAttacks
-	dw SpinarakEvosAttacks
+	dw MimigalEvosAttacks
 	dw MigalosEvosAttacks
 	dw CrobatEvosAttacks
 	dw LoupioEvosAttacks

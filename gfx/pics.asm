@@ -565,7 +565,7 @@ CorayonBackpic:      INCBIN "gfx/pokemon/corayon/back.2bpp.lz"
 LoupioBackpic:     INCBIN "gfx/pokemon/loupio/back.2bpp.lz"
 LeveinardBackpic:      INCBIN "gfx/pokemon/leveinard/back.2bpp.lz"
 FloravolBackpic:     INCBIN "gfx/pokemon/floravol/back.2bpp.lz"
-SpinarakFrontpic:    INCBIN "gfx/pokemon/spinarak/front.animated.2bpp.lz"
+MimigalFrontpic:    INCBIN "gfx/pokemon/mimigal/front.animated.2bpp.lz"
 Rival2Pic:           INCBIN "gfx/trainers/rival2.2bpp.lz"
 UnownWFrontpic:      INCBIN "gfx/pokemon/unown_w/front.animated.2bpp.lz"
 CharmanderBackpic:   INCBIN "gfx/pokemon/charmander/back.2bpp.lz"
@@ -647,7 +647,7 @@ UnownDBackpic:       INCBIN "gfx/pokemon/unown_d/back.2bpp.lz"
 
 SECTION "Pics 18", ROMX
 
-SpinarakBackpic:     INCBIN "gfx/pokemon/spinarak/back.2bpp.lz"
+MimigalBackpic:     INCBIN "gfx/pokemon/mimigal/back.2bpp.lz"
 RaikouBackpic:       INCBIN "gfx/pokemon/raikou/back.2bpp.lz"
 UnownKFrontpic:      INCBIN "gfx/pokemon/unown_k/front.animated.2bpp.lz"
 MalosseBackpic:     INCBIN "gfx/pokemon/malosse/back.2bpp.lz"
@@ -713,7 +713,7 @@ SECTION "Pics 19", ROMX
 
 ; Seems to be an accidental copy of the previous bank
 
-INCBIN "gfx/pokemon/spinarak/back.2bpp.lz"
+INCBIN "gfx/pokemon/mimigal/back.2bpp.lz"
 INCBIN "gfx/pokemon/raikou/back.2bpp.lz"
 INCBIN "gfx/pokemon/unown_k/front.animated.2bpp.lz"
 INCBIN "gfx/pokemon/malosse/back.2bpp.lz"

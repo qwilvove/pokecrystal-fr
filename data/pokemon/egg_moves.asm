@@ -490,7 +490,7 @@ CoxyEggMoves:
 	db LIGHT_SCREEN
 	db -1 ; end
 
-SpinarakEggMoves:
+MimigalEggMoves:
 	db PSYBEAM
 	db DISABLE
 	db SONICBOOM

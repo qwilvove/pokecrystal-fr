@@ -218,7 +218,7 @@ KantoGrassWildMons:
 	db 4, PIKACHU
 	; nite
 	db 3, HOOTHOOT
-	db 3, SPINARAK
+	db 3, MIMIGAL
 	db 5, HOOTHOOT
 	db 7, NOCTOWL
 	db 7, MIGALOS

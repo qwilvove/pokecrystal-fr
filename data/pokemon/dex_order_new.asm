@@ -33,7 +33,7 @@ NewPokedexOrder:
 	db DARDARGNAN
 	db COXY
 	db COXYCLAQUE
-	db SPINARAK
+	db MIMIGAL
 	db MIGALOS
 	db GEODUDE
 	db GRAVALANCH

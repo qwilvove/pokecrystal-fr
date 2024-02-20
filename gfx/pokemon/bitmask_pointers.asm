@@ -166,7 +166,7 @@ BitmasksPointers:
 	dw NoctowlBitmasks
 	dw CoxyBitmasks
 	dw CoxyclaqueBitmasks
-	dw SpinarakBitmasks
+	dw MimigalBitmasks
 	dw MigalosBitmasks
 	dw CrobatBitmasks
 	dw LoupioBitmasks

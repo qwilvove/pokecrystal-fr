@@ -186,7 +186,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const NOCTOWL    ; a4
 	const COXY     ; a5
 	const COXYCLAQUE     ; a6
-	const SPINARAK   ; a7
+	const MIMIGAL   ; a7
 	const MIGALOS    ; a8
 	const CROBAT     ; a9
 	const LOUPIO   ; aa

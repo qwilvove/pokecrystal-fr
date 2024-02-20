@@ -144,7 +144,7 @@ AlphabeticalPokedexOrder:
 	db MEWTWO
 	db MIAOUSS
 	db MIGALOS
-	db SPINARAK
+	db MIMIGAL
 	db VENONAT
 	db DRATINI
 	db ODDISH

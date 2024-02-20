@@ -3329,7 +3329,7 @@ KimonoGirlGroup:
 TwinsGroup:
 	; TWINS (1)
 	db "PIM&PAM@", TRAINERTYPE_NORMAL
-	db 10, SPINARAK
+	db 10, MIMIGAL
 	db 10, COXY
 	db -1 ; end
 
@@ -3348,7 +3348,7 @@ TwinsGroup:
 	; TWINS (4)
 	db "PIM&PAM@", TRAINERTYPE_NORMAL
 	db 10, COXY
-	db 10, SPINARAK
+	db 10, MIMIGAL
 	db -1 ; end
 
 	; TWINS (5)

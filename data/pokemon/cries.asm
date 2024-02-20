@@ -172,8 +172,8 @@ PokemonCries::
 	mon_cry CRY_HOOTHOOT,      0,  416 ; NOCTOWL
 	mon_cry CRY_COXY,        0,  222 ; COXY
 	mon_cry CRY_COXY,     -150,  312 ; COXYCLAQUE
-	mon_cry CRY_SPINARAK,     17,  512 ; SPINARAK
-	mon_cry CRY_SPINARAK,   -174,  482 ; MIGALOS
+	mon_cry CRY_MIMIGAL,     17,  512 ; MIMIGAL
+	mon_cry CRY_MIMIGAL,   -174,  482 ; MIGALOS
 	mon_cry CRY_CARAPUCE,    -16,  320 ; CROBAT
 	mon_cry CRY_HERICENDRE,   969,  320 ; LOUPIO
 	mon_cry CRY_HERICENDRE,   720,  272 ; LANTURN
@@ -252,7 +252,7 @@ PokemonCries::
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
 	mon_cry CRY_MAGCARGO,      0,  384 ; SUICUNE
 	mon_cry CRY_RAIKOU,       95,  208 ; EMBRYLEX
-	mon_cry CRY_SPINARAK,   -475,  336 ; PUPITAR
+	mon_cry CRY_MIMIGAL,   -475,  336 ; PUPITAR
 	mon_cry CRY_RAIKOU,     -256,  384 ; TYRANITAR
 	mon_cry CRY_TYPHLOSION,    0,  256 ; LUGIA
 	mon_cry CRY_CAPUMAIN,         0,  384 ; HO_OH

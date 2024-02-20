@@ -168,7 +168,7 @@ MonMenuIcons:
 	db ICON_BIRD        ; NOCTOWL
 	db ICON_BUG         ; COXY
 	db ICON_BUG         ; COXYCLAQUE
-	db ICON_BUG         ; SPINARAK
+	db ICON_BUG         ; MIMIGAL
 	db ICON_BUG         ; MIGALOS
 	db ICON_BAT         ; CROBAT
 	db ICON_FISH        ; LOUPIO

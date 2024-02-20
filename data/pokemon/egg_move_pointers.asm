@@ -166,7 +166,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw CoxyEggMoves
 	dw NoEggMoves
-	dw SpinarakEggMoves
+	dw MimigalEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw LoupioEggMoves

@@ -167,7 +167,7 @@ PokedexDataPointerTable:
 	dw NoctowlPokedexEntry
 	dw CoxyPokedexEntry
 	dw CoxyclaquePokedexEntry
-	dw SpinarakPokedexEntry
+	dw MimigalPokedexEntry
 	dw MigalosPokedexEntry
 	dw CrobatPokedexEntry
 	dw LoupioPokedexEntry

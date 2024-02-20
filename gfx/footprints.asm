@@ -378,7 +378,7 @@ INCBIN "gfx/footprints/hoothoot.1bpp",   footprint_top
 INCBIN "gfx/footprints/noctowl.1bpp",    footprint_top
 INCBIN "gfx/footprints/coxy.1bpp",     footprint_top
 INCBIN "gfx/footprints/coxyclaque.1bpp",     footprint_top
-INCBIN "gfx/footprints/spinarak.1bpp",   footprint_top
+INCBIN "gfx/footprints/mimigal.1bpp",   footprint_top
 INCBIN "gfx/footprints/migalos.1bpp",    footprint_top
 ; 161-168 bottom halves
 INCBIN "gfx/footprints/fouinette.1bpp",    footprint_bottom
@@ -387,7 +387,7 @@ INCBIN "gfx/footprints/hoothoot.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/noctowl.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/coxy.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/coxyclaque.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/spinarak.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/mimigal.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/migalos.1bpp",    footprint_bottom
 ; 169-176 top halves
 INCBIN "gfx/footprints/crobat.1bpp",     footprint_top

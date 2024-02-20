@@ -166,7 +166,7 @@ FramesPointers:
 	dw NoctowlFrames
 	dw CoxyFrames
 	dw CoxyclaqueFrames
-	dw SpinarakFrames
+	dw MimigalFrames
 	dw MigalosFrames
 	dw CrobatFrames
 	dw LoupioFrames

@@ -166,7 +166,7 @@ AnimationPointers:
 	dw NoctowlAnimation
 	dw CoxyAnimation
 	dw CoxyclaqueAnimation
-	dw SpinarakAnimation
+	dw MimigalAnimation
 	dw MigalosAnimation
 	dw CrobatAnimation
 	dw LoupioAnimation
