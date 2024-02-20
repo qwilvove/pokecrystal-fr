@@ -221,7 +221,7 @@ KantoGrassWildMons:
 	db 3, SPINARAK
 	db 5, HOOTHOOT
 	db 7, NOCTOWL
-	db 7, ARIADOS
+	db 7, MIGALOS
 	db 4, NOCTOWL
 	db 4, NOCTOWL
 	end_grass_wildmons

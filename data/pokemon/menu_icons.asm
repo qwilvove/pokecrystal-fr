@@ -169,7 +169,7 @@ MonMenuIcons:
 	db ICON_BUG         ; COXY
 	db ICON_BUG         ; COXYCLAQUE
 	db ICON_BUG         ; SPINARAK
-	db ICON_BUG         ; ARIADOS
+	db ICON_BUG         ; MIGALOS
 	db ICON_BAT         ; CROBAT
 	db ICON_FISH        ; LOUPIO
 	db ICON_FISH        ; LANTURN

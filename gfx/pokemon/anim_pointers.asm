@@ -167,7 +167,7 @@ AnimationPointers:
 	dw CoxyAnimation
 	dw CoxyclaqueAnimation
 	dw SpinarakAnimation
-	dw AriadosAnimation
+	dw MigalosAnimation
 	dw CrobatAnimation
 	dw LoupioAnimation
 	dw LanturnAnimation

@@ -127,7 +127,7 @@ HeracrossFrontpic:   INCBIN "gfx/pokemon/heracross/front.animated.2bpp.lz"
 
 SECTION "Pics 6", ROMX
 
-AriadosFrontpic:     INCBIN "gfx/pokemon/ariados/front.animated.2bpp.lz"
+MigalosFrontpic:     INCBIN "gfx/pokemon/migalos/front.animated.2bpp.lz"
 NoctowlFrontpic:     INCBIN "gfx/pokemon/noctowl/front.animated.2bpp.lz"
 CarabaffeFrontpic:   INCBIN "gfx/pokemon/carabaffe/front.animated.2bpp.lz"
 LokhlassFrontpic:      INCBIN "gfx/pokemon/lokhlass/front.animated.2bpp.lz"
@@ -482,7 +482,7 @@ GrotadmorvBackpic:          INCBIN "gfx/pokemon/grotadmorv/back.2bpp.lz"
 CadoizoBackpic:     INCBIN "gfx/pokemon/cadoizo/back.2bpp.lz"
 SabrinaPic:          INCBIN "gfx/trainers/sabrina.2bpp.lz"
 MagicarpeBackpic:     INCBIN "gfx/pokemon/magicarpe/back.2bpp.lz"
-AriadosBackpic:      INCBIN "gfx/pokemon/ariados/back.2bpp.lz"
+MigalosBackpic:      INCBIN "gfx/pokemon/migalos/back.2bpp.lz"
 FarfuretBackpic:      INCBIN "gfx/pokemon/farfuret/back.2bpp.lz"
 UmbreonBackpic:      INCBIN "gfx/pokemon/umbreon/back.2bpp.lz"
 CornebreBackpic:      INCBIN "gfx/pokemon/cornebre/back.2bpp.lz"

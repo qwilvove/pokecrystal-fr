@@ -173,7 +173,7 @@ PokemonCries::
 	mon_cry CRY_COXY,        0,  222 ; COXY
 	mon_cry CRY_COXY,     -150,  312 ; COXYCLAQUE
 	mon_cry CRY_SPINARAK,     17,  512 ; SPINARAK
-	mon_cry CRY_SPINARAK,   -174,  482 ; ARIADOS
+	mon_cry CRY_SPINARAK,   -174,  482 ; MIGALOS
 	mon_cry CRY_CARAPUCE,    -16,  320 ; CROBAT
 	mon_cry CRY_HERICENDRE,   969,  320 ; LOUPIO
 	mon_cry CRY_HERICENDRE,   720,  272 ; LANTURN

@@ -207,7 +207,7 @@ Pokered_MonIndices:
 	db COXY
 	db COXYCLAQUE
 	db SPINARAK
-	db ARIADOS
+	db MIGALOS
 	db CROBAT
 	db LOUPIO
 	db LANTURN

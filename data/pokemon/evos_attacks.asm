@@ -2273,7 +2273,7 @@ CoxyclaqueEvosAttacks:
 	db 0 ; no more level-up moves
 
 SpinarakEvosAttacks:
-	db EVOLVE_LEVEL, 22, ARIADOS
+	db EVOLVE_LEVEL, 22, MIGALOS
 	db 0 ; no more evolutions
 	db 1, POISON_STING
 	db 1, STRING_SHOT
@@ -2287,7 +2287,7 @@ SpinarakEvosAttacks:
 	db 53, PSYCHIC_M
 	db 0 ; no more level-up moves
 
-AriadosEvosAttacks:
+MigalosEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, POISON_STING
 	db 1, STRING_SHOT

@@ -34,7 +34,7 @@ NewPokedexOrder:
 	db COXY
 	db COXYCLAQUE
 	db SPINARAK
-	db ARIADOS
+	db MIGALOS
 	db GEODUDE
 	db GRAVALANCH
 	db GROLEM

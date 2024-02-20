@@ -143,7 +143,7 @@ AlphabeticalPokedexOrder:
 	db MEW
 	db MEWTWO
 	db MIAOUSS
-	db ARIADOS
+	db MIGALOS
 	db SPINARAK
 	db VENONAT
 	db DRATINI

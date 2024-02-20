@@ -169,7 +169,7 @@ EvosAttacksPointers::
 	dw CoxyEvosAttacks
 	dw CoxyclaqueEvosAttacks
 	dw SpinarakEvosAttacks
-	dw AriadosEvosAttacks
+	dw MigalosEvosAttacks
 	dw CrobatEvosAttacks
 	dw LoupioEvosAttacks
 	dw LanturnEvosAttacks

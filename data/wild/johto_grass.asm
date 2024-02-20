@@ -1482,8 +1482,8 @@ JohtoGrassWildMons:
 	db 15, HOOTHOOT
 	db 16, CERFROUSSE
 	db 15, NOCTOWL
-	db 15, ARIADOS
-	db 15, ARIADOS
+	db 15, MIGALOS
+	db 15, MIGALOS
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_38

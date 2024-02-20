@@ -167,7 +167,7 @@ FramesPointers:
 	dw CoxyFrames
 	dw CoxyclaqueFrames
 	dw SpinarakFrames
-	dw AriadosFrames
+	dw MigalosFrames
 	dw CrobatFrames
 	dw LoupioFrames
 	dw LanturnFrames
