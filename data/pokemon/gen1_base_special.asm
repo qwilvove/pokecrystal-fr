@@ -104,7 +104,7 @@ KantoMonSpecials:
 	db  55 ; VOLTORB
 	db  80 ; ELECTRODE
 	db  60 ; EXEGGCUTE
-	db 125 ; EXEGGUTOR
+	db 125 ; NOADKOKO
 	db  40 ; CUBONE
 	db  50 ; MAROWAK
 	db  35 ; KICKLEE

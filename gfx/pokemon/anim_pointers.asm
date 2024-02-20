@@ -102,7 +102,7 @@ AnimationPointers:
 	dw VoltorbAnimation
 	dw ElectrodeAnimation
 	dw ExeggcuteAnimation
-	dw ExeggutorAnimation
+	dw NoadkokoAnimation
 	dw CuboneAnimation
 	dw MarowakAnimation
 	dw KickleeAnimation

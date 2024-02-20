@@ -420,7 +420,7 @@ BattleTowerMons:
 	bigdw 32 ; SDef
 	db "KABIGON@@@@"
 
-	db EXEGGUTOR
+	db NOADKOKO
 	db KINGS_ROCK
 	db TOXIC, GIGA_DRAIN, THIEF, CONFUSION
 	dw 0 ; OT ID
@@ -735,7 +735,7 @@ BattleTowerMons:
 	bigdw 59 ; SDef
 	db "HERAKUROSU@"
 
-	db EXEGGUTOR
+	db NOADKOKO
 	db LEFTOVERS
 	db HYPER_BEAM, PSYCHIC_M, TOXIC, DREAM_EATER
 	dw 0 ; OT ID
@@ -2093,7 +2093,7 @@ BattleTowerMons:
 	bigdw 106 ; SDef
 	db "RIZA-DON@@@"
 
-	db EXEGGUTOR
+	db NOADKOKO
 	db BRIGHTPOWDER
 	db EGG_BOMB, STOMP, PSYCH_UP, CONFUSION
 	dw 0 ; OT ID
@@ -3506,7 +3506,7 @@ BattleTowerMons:
 	bigdw 189 ; SDef
 	db "SANDA-@@@@@"
 
-	db EXEGGUTOR
+	db NOADKOKO
 	db MIRACLEBERRY
 	db REST, EXPLOSION, PSYCHIC_M, GIGA_DRAIN
 	dw 0 ; OT ID
@@ -5361,7 +5361,7 @@ BattleTowerMons:
 	bigdw 194 ; SDef
 	db "INOMU-@@@@@"
 
-	db EXEGGUTOR
+	db NOADKOKO
 	db QUICK_CLAW
 	db PSYCHIC_M, TOXIC, EXPLOSION, GIGA_DRAIN
 	dw 0 ; OT ID

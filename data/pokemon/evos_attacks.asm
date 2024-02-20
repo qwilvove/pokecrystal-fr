@@ -1376,7 +1376,7 @@ ElectrodeEvosAttacks:
 	db 0 ; no more level-up moves
 
 ExeggcuteEvosAttacks:
-	db EVOLVE_ITEM, LEAF_STONE, EXEGGUTOR
+	db EVOLVE_ITEM, LEAF_STONE, NOADKOKO
 	db 0 ; no more evolutions
 	db 1, BARRAGE
 	db 1, HYPNOSIS
@@ -1389,7 +1389,7 @@ ExeggcuteEvosAttacks:
 	db 43, SOLARBEAM
 	db 0 ; no more level-up moves
 
-ExeggutorEvosAttacks:
+NoadkokoEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, BARRAGE
 	db 1, HYPNOSIS

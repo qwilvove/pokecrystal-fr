@@ -9,7 +9,7 @@ Pokered_MonIndices:
 	db NIDOKING
 	db FLAGADOSS
 	db HERBIZARRE
-	db EXEGGUTOR
+	db NOADKOKO
 	db EXCELANGUE
 	db EXEGGCUTE
 	db GRIMER

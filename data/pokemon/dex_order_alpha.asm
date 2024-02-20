@@ -155,7 +155,7 @@ AlphabeticalPokedexOrder:
 	db NIDORAN_M
 	db NIDORINA
 	db NIDORINO
-	db EXEGGUTOR
+	db NOADKOKO
 	db NOCTOWL
 	db UMBREON
 	db EXEGGCUTE

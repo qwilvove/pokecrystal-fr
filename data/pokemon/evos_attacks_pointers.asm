@@ -104,7 +104,7 @@ EvosAttacksPointers::
 	dw VoltorbEvosAttacks
 	dw ElectrodeEvosAttacks
 	dw ExeggcuteEvosAttacks
-	dw ExeggutorEvosAttacks
+	dw NoadkokoEvosAttacks
 	dw CuboneEvosAttacks
 	dw MarowakEvosAttacks
 	dw KickleeEvosAttacks

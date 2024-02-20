@@ -121,7 +121,7 @@
 	const VOLTORB    ; 64
 	const ELECTRODE  ; 65
 	const EXEGGCUTE  ; 66
-	const EXEGGUTOR  ; 67
+	const NOADKOKO  ; 67
 	const CUBONE     ; 68
 	const MAROWAK    ; 69
 	const KICKLEE  ; 6a
