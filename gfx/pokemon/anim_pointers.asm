@@ -168,7 +168,7 @@ AnimationPointers:
 	dw CoxyclaqueAnimation
 	dw MimigalAnimation
 	dw MigalosAnimation
-	dw CrobatAnimation
+	dw NostenferAnimation
 	dw LoupioAnimation
 	dw LanturnAnimation
 	dw PichuAnimation

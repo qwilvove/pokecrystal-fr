@@ -161,7 +161,7 @@ AlphabeticalPokedexOrder:
 	db NOEUNOEUF
 	db NOSFERALTO
 	db NOSFERAPTI
-	db CROBAT
+	db NOSTENFER
 	db OCTILLERY
 	db ONIX
 	db GLOOM

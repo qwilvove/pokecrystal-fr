@@ -208,7 +208,7 @@ Pokered_MonIndices:
 	db COXYCLAQUE
 	db MIMIGAL
 	db MIGALOS
-	db CROBAT
+	db NOSTENFER
 	db LOUPIO
 	db LANTURN
 	db PICHU

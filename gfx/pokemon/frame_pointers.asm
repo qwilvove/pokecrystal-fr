@@ -168,7 +168,7 @@ FramesPointers:
 	dw CoxyclaqueFrames
 	dw MimigalFrames
 	dw MigalosFrames
-	dw CrobatFrames
+	dw NostenferFrames
 	dw LoupioFrames
 	dw LanturnFrames
 	dw PichuFrames

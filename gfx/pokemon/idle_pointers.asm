@@ -168,7 +168,7 @@ AnimationIdlePointers:
 	dw CoxyclaqueAnimationIdle
 	dw MimigalAnimationIdle
 	dw MigalosAnimationIdle
-	dw CrobatAnimationIdle
+	dw NostenferAnimationIdle
 	dw LoupioAnimationIdle
 	dw LanturnAnimationIdle
 	dw PichuAnimationIdle

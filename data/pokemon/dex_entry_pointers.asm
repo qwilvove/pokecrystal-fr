@@ -169,7 +169,7 @@ PokedexDataPointerTable:
 	dw CoxyclaquePokedexEntry
 	dw MimigalPokedexEntry
 	dw MigalosPokedexEntry
-	dw CrobatPokedexEntry
+	dw NostenferPokedexEntry
 	dw LoupioPokedexEntry
 	dw LanturnPokedexEntry
 	dw PichuPokedexEntry

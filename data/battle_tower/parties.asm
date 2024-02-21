@@ -1336,7 +1336,7 @@ BattleTowerMons:
 	bigdw 80 ; SDef
 	db "KAIRIKI-@@@"
 
-	db CROBAT
+	db NOSTENFER
 	db GOLD_BERRY
 	db ATTRACT, CONFUSE_RAY, TOXIC, WING_ATTACK
 	dw 0 ; OT ID
@@ -2538,7 +2538,7 @@ BattleTowerMons:
 	bigdw 119 ; SDef
 	db "PUTERA@@@@@"
 
-	db CROBAT
+	db NOSTENFER
 	db LEFTOVERS
 	db CONFUSE_RAY, ATTRACT, HYPER_BEAM, TOXIC
 	dw 0 ; OT ID
@@ -4500,7 +4500,7 @@ BattleTowerMons:
 	bigdw 162 ; SDef
 	db "PARUSIeN@@@"
 
-	db CROBAT
+	db NOSTENFER
 	db GOLD_BERRY
 	db WING_ATTACK, HAZE, HYPER_BEAM, GIGA_DRAIN
 	dw 0 ; OT ID

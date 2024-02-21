@@ -40,7 +40,7 @@ NewPokedexOrder:
 	db GROLEM
 	db NOSFERAPTI
 	db NOSFERALTO
-	db CROBAT
+	db NOSTENFER
 	db MELO
 	db MELOFEE
 	db MELODELFE

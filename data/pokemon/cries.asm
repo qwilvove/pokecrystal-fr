@@ -174,7 +174,7 @@ PokemonCries::
 	mon_cry CRY_COXY,     -150,  312 ; COXYCLAQUE
 	mon_cry CRY_MIMIGAL,     17,  512 ; MIMIGAL
 	mon_cry CRY_MIMIGAL,   -174,  482 ; MIGALOS
-	mon_cry CRY_CARAPUCE,    -16,  320 ; CROBAT
+	mon_cry CRY_CARAPUCE,    -16,  320 ; NOSTENFER
 	mon_cry CRY_HERICENDRE,   969,  320 ; LOUPIO
 	mon_cry CRY_HERICENDRE,   720,  272 ; LANTURN
 	mon_cry CRY_PICHU,         0,  320 ; PICHU

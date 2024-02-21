@@ -542,7 +542,7 @@ NosferaptiEvosAttacks:
 	db 0 ; no more level-up moves
 
 NosferaltoEvosAttacks:
-	db EVOLVE_HAPPINESS, TR_ANYTIME, CROBAT
+	db EVOLVE_HAPPINESS, TR_ANYTIME, NOSTENFER
 	db 0 ; no more evolutions
 	db 1, SCREECH
 	db 1, LEECH_LIFE
@@ -2303,7 +2303,7 @@ MigalosEvosAttacks:
 	db 63, PSYCHIC_M
 	db 0 ; no more level-up moves
 
-CrobatEvosAttacks:
+NostenferEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, SCREECH
 	db 1, LEECH_LIFE

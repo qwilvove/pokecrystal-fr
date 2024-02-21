@@ -339,8 +339,8 @@ PokemonPicPointers::
 	dba_pic MimigalBackpic
 	dba_pic MigalosFrontpic
 	dba_pic MigalosBackpic
-	dba_pic CrobatFrontpic
-	dba_pic CrobatBackpic
+	dba_pic NostenferFrontpic
+	dba_pic NostenferBackpic
 	dba_pic LoupioFrontpic
 	dba_pic LoupioBackpic
 	dba_pic LanturnFrontpic

@@ -170,7 +170,7 @@ MonMenuIcons:
 	db ICON_BUG         ; COXYCLAQUE
 	db ICON_BUG         ; MIMIGAL
 	db ICON_BUG         ; MIGALOS
-	db ICON_BAT         ; CROBAT
+	db ICON_BAT         ; NOSTENFER
 	db ICON_FISH        ; LOUPIO
 	db ICON_FISH        ; LANTURN
 	db ICON_PIKACHU     ; PICHU
