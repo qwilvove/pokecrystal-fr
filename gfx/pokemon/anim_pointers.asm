@@ -103,7 +103,7 @@ AnimationPointers:
 	dw ElectrodeAnimation
 	dw NoeunoeufAnimation
 	dw NoadkokoAnimation
-	dw CuboneAnimation
+	dw OsselaitAnimation
 	dw OssatueurAnimation
 	dw KickleeAnimation
 	dw HitmonchanAnimation

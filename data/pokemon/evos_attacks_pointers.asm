@@ -105,7 +105,7 @@ EvosAttacksPointers::
 	dw ElectrodeEvosAttacks
 	dw NoeunoeufEvosAttacks
 	dw NoadkokoEvosAttacks
-	dw CuboneEvosAttacks
+	dw OsselaitEvosAttacks
 	dw OssatueurEvosAttacks
 	dw KickleeEvosAttacks
 	dw HitmonchanEvosAttacks

@@ -204,7 +204,7 @@ NewPokedexOrder:
 	db DODRIO
 	db PONYTA
 	db GALOPA
-	db CUBONE
+	db OSSELAIT
 	db OSSATUEUR
 	db KANGOUREX
 	db RHYHORN

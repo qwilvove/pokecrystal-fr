@@ -103,7 +103,7 @@ FramesPointers:
 	dw ElectrodeFrames
 	dw NoeunoeufFrames
 	dw NoadkokoFrames
-	dw CuboneFrames
+	dw OsselaitFrames
 	dw OssatueurFrames
 	dw KickleeFrames
 	dw HitmonchanFrames

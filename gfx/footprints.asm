@@ -235,7 +235,7 @@ INCBIN "gfx/footprints/voltorb.1bpp",    footprint_top
 INCBIN "gfx/footprints/electrode.1bpp",  footprint_top
 INCBIN "gfx/footprints/noeunoeuf.1bpp",  footprint_top
 INCBIN "gfx/footprints/noadkoko.1bpp",  footprint_top
-INCBIN "gfx/footprints/cubone.1bpp",     footprint_top
+INCBIN "gfx/footprints/osselait.1bpp",     footprint_top
 ; 097-104 bottom halves
 INCBIN "gfx/footprints/hypnomade.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/krabby.1bpp",     footprint_bottom
@@ -244,7 +244,7 @@ INCBIN "gfx/footprints/voltorb.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/electrode.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/noeunoeuf.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/noadkoko.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/cubone.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/osselait.1bpp",     footprint_bottom
 ; 105-112 top halves
 INCBIN "gfx/footprints/ossatueur.1bpp",    footprint_top
 INCBIN "gfx/footprints/kicklee.1bpp",  footprint_top

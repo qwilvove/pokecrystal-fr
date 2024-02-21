@@ -105,7 +105,7 @@ KantoMonSpecials:
 	db  80 ; ELECTRODE
 	db  60 ; NOEUNOEUF
 	db 125 ; NOADKOKO
-	db  40 ; CUBONE
+	db  40 ; OSSELAIT
 	db  50 ; OSSATUEUR
 	db  35 ; KICKLEE
 	db  35 ; HITMONCHAN

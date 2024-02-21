@@ -103,7 +103,7 @@ AnimationIdlePointers:
 	dw ElectrodeAnimationIdle
 	dw NoeunoeufAnimationIdle
 	dw NoadkokoAnimationIdle
-	dw CuboneAnimationIdle
+	dw OsselaitAnimationIdle
 	dw OssatueurAnimationIdle
 	dw KickleeAnimationIdle
 	dw HitmonchanAnimationIdle

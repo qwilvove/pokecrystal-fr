@@ -166,7 +166,7 @@ AlphabeticalPokedexOrder:
 	db ONIX
 	db ORTIDE
 	db OSSATUEUR
-	db CUBONE
+	db OSSELAIT
 	db SEEL
 	db BUTTERFREE
 	db PARAS

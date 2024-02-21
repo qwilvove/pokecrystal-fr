@@ -709,7 +709,7 @@ LassGroup:
 	; LASS (4)
 	db "AMANDINE@", TRAINERTYPE_NORMAL
 	db 12, MYSTHERBE
-	db 15, CUBONE
+	db 15, OSSELAIT
 	db -1 ; end
 
 	; LASS (5)
@@ -1477,7 +1477,7 @@ TeacherGroup:
 	; TEACHER (2)
 	db "JOSIANNE@", TRAINERTYPE_NORMAL
 	db 32, CAPUMAIN
-	db 36, CUBONE
+	db 36, OSSELAIT
 	db -1 ; end
 
 	; TEACHER (3)

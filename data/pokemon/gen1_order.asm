@@ -16,7 +16,7 @@ Pokered_MonIndices:
 	db ECTOPLASMA
 	db NIDORAN_F
 	db NIDOQUEEN
-	db CUBONE
+	db OSSELAIT
 	db RHYHORN
 	db LOKHLASS
 	db ARCANIN

@@ -103,7 +103,7 @@ BitmasksPointers:
 	dw ElectrodeBitmasks
 	dw NoeunoeufBitmasks
 	dw NoadkokoBitmasks
-	dw CuboneBitmasks
+	dw OsselaitBitmasks
 	dw OssatueurBitmasks
 	dw KickleeBitmasks
 	dw HitmonchanBitmasks

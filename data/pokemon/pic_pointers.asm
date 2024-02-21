@@ -209,8 +209,8 @@ PokemonPicPointers::
 	dba_pic NoeunoeufBackpic
 	dba_pic NoadkokoFrontpic
 	dba_pic NoadkokoBackpic
-	dba_pic CuboneFrontpic
-	dba_pic CuboneBackpic
+	dba_pic OsselaitFrontpic
+	dba_pic OsselaitBackpic
 	dba_pic OssatueurFrontpic
 	dba_pic OssatueurBackpic
 	dba_pic KickleeFrontpic

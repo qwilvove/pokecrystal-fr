@@ -61,7 +61,7 @@ KantoGrassWildMons:
 	def_grass_wildmons ROCK_TUNNEL_1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 10, CUBONE
+	db 10, OSSELAIT
 	db 11, GEODUDE
 	db 12, MACHOC
 	db 12, NOSFERAPTI
@@ -69,7 +69,7 @@ KantoGrassWildMons:
 	db 12, OSSATUEUR
 	db 12, OSSATUEUR
 	; day
-	db 10, CUBONE
+	db 10, OSSELAIT
 	db 11, GEODUDE
 	db 12, MACHOC
 	db 12, NOSFERAPTI
@@ -89,7 +89,7 @@ KantoGrassWildMons:
 	def_grass_wildmons ROCK_TUNNEL_B1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 12, CUBONE
+	db 12, OSSELAIT
 	db 14, GEODUDE
 	db 16, ONIX
 	db 12, NOSFERAPTI
@@ -97,7 +97,7 @@ KantoGrassWildMons:
 	db 15, KANGOUREX
 	db 15, KANGOUREX
 	; day
-	db 12, CUBONE
+	db 12, OSSELAIT
 	db 14, GEODUDE
 	db 16, ONIX
 	db 12, NOSFERAPTI

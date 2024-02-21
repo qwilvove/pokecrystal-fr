@@ -122,7 +122,7 @@
 	const ELECTRODE  ; 65
 	const NOEUNOEUF  ; 66
 	const NOADKOKO  ; 67
-	const CUBONE     ; 68
+	const OSSELAIT     ; 68
 	const OSSATUEUR    ; 69
 	const KICKLEE  ; 6a
 	const HITMONCHAN ; 6b

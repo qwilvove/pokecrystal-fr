@@ -18,7 +18,7 @@ SometimesFleeMons:
 	db -1
 
 OftenFleeMons:
-	db CUBONE
+	db OSSELAIT
 	db ARTIKODIN
 	db ELECTHOR
 	db MOLTRES

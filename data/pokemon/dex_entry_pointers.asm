@@ -104,7 +104,7 @@ PokedexDataPointerTable:
 	dw ElectrodePokedexEntry
 	dw NoeunoeufPokedexEntry
 	dw NoadkokoPokedexEntry
-	dw CubonePokedexEntry
+	dw OsselaitPokedexEntry
 	dw OssatueurPokedexEntry
 	dw KickleePokedexEntry
 	dw HitmonchanPokedexEntry

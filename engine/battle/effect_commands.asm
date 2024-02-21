@@ -2706,11 +2706,11 @@ CheckDamageStatsCritical:
 ThickClubBoost:
 ; Return in hl the stat value at hl.
 
-; If the attacking monster is Cubone or Ossatueur and
+; If the attacking monster is Osselait or Ossatueur and
 ; it's holding a Thick Club, double it.
 	push bc
 	push de
-	ld b, CUBONE
+	ld b, OSSELAIT
 	ld c, OSSATUEUR
 	ld d, THICK_CLUB
 	call SpeciesItemBoost
