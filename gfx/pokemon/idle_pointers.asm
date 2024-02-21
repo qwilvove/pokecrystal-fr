@@ -41,7 +41,7 @@ AnimationIdlePointers:
 	dw JigglypuffAnimationIdle
 	dw GrodoudouAnimationIdle
 	dw ZubatAnimationIdle
-	dw GolbatAnimationIdle
+	dw NosferaltoAnimationIdle
 	dw MystherbeAnimationIdle
 	dw GloomAnimationIdle
 	dw VileplumeAnimationIdle

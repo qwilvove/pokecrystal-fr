@@ -60,7 +60,7 @@
 	const JIGGLYPUFF ; 27
 	const GRODOUDOU ; 28
 	const ZUBAT      ; 29
-	const GOLBAT     ; 2a
+	const NOSFERALTO     ; 2a
 	const MYSTHERBE     ; 2b
 	const GLOOM      ; 2c
 	const VILEPLUME  ; 2d

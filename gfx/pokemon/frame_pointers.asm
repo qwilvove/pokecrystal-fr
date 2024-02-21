@@ -41,7 +41,7 @@ FramesPointers:
 	dw JigglypuffFrames
 	dw GrodoudouFrames
 	dw ZubatFrames
-	dw GolbatFrames
+	dw NosferaltoFrames
 	dw MystherbeFrames
 	dw GloomFrames
 	dw VileplumeFrames

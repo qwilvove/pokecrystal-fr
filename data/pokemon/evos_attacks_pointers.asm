@@ -43,7 +43,7 @@ EvosAttacksPointers::
 	dw JigglypuffEvosAttacks
 	dw GrodoudouEvosAttacks
 	dw ZubatEvosAttacks
-	dw GolbatEvosAttacks
+	dw NosferaltoEvosAttacks
 	dw MystherbeEvosAttacks
 	dw GloomEvosAttacks
 	dw VileplumeEvosAttacks

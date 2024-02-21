@@ -159,7 +159,7 @@ AlphabeticalPokedexOrder:
 	db NOARFANG
 	db NOCTALI
 	db NOEUNOEUF
-	db GOLBAT
+	db NOSFERALTO
 	db ZUBAT
 	db CROBAT
 	db OCTILLERY

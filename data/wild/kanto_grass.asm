@@ -110,8 +110,8 @@ KantoGrassWildMons:
 	db 16, ONIX
 	db 15, ZUBAT
 	db 15, HAUNTER
-	db 15, GOLBAT
-	db 15, GOLBAT
+	db 15, NOSFERALTO
+	db 15, NOSFERALTO
 	end_grass_wildmons
 
 	def_grass_wildmons VICTORY_ROAD
@@ -120,7 +120,7 @@ KantoGrassWildMons:
 	db 34, GRAVALANCH
 	db 32, RHYHORN
 	db 33, ONIX
-	db 34, GOLBAT
+	db 34, NOSFERALTO
 	db 35, SANDSLASH
 	db 35, RHYDON
 	db 35, RHYDON
@@ -128,12 +128,12 @@ KantoGrassWildMons:
 	db 34, GRAVALANCH
 	db 32, RHYHORN
 	db 33, ONIX
-	db 34, GOLBAT
+	db 34, NOSFERALTO
 	db 35, SANDSLASH
 	db 35, RHYDON
 	db 35, RHYDON
 	; nite
-	db 34, GOLBAT
+	db 34, NOSFERALTO
 	db 34, GRAVALANCH
 	db 32, ONIX
 	db 36, GRAVALANCH
@@ -147,7 +147,7 @@ KantoGrassWildMons:
 	; morn
 	db 22, ZUBAT
 	db 22, RATICATE
-	db 24, GOLBAT
+	db 24, NOSFERALTO
 	db 21, SLOWPOKE
 	db 20, RATTATA
 	db 23, SLOWPOKE
@@ -155,7 +155,7 @@ KantoGrassWildMons:
 	; day
 	db 22, ZUBAT
 	db 22, RATICATE
-	db 24, GOLBAT
+	db 24, NOSFERALTO
 	db 21, SLOWPOKE
 	db 20, RATTATA
 	db 23, SLOWPOKE
@@ -163,7 +163,7 @@ KantoGrassWildMons:
 	; nite
 	db 22, ZUBAT
 	db 22, RATICATE
-	db 24, GOLBAT
+	db 24, NOSFERALTO
 	db 21, SLOWPOKE
 	db 20, RATTATA
 	db 23, SLOWPOKE
@@ -835,11 +835,11 @@ KantoGrassWildMons:
 	; nite
 	db 39, TANGELA
 	db 40, POLIWHIRL
-	db 40, GOLBAT
+	db 40, NOSFERALTO
 	db 40, POLIWHIRL
-	db 42, GOLBAT
-	db 42, GOLBAT
-	db 42, GOLBAT
+	db 42, NOSFERALTO
+	db 42, NOSFERALTO
+	db 42, NOSFERALTO
 	end_grass_wildmons
 
 	db -1 ; end

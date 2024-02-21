@@ -42,7 +42,7 @@ PokedexDataPointerTable:
 	dw JigglypuffPokedexEntry
 	dw GrodoudouPokedexEntry
 	dw ZubatPokedexEntry
-	dw GolbatPokedexEntry
+	dw NosferaltoPokedexEntry
 	dw MystherbePokedexEntry
 	dw GloomPokedexEntry
 	dw VileplumePokedexEntry

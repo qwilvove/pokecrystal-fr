@@ -47,7 +47,7 @@ PokemonCries::
 	mon_cry CRY_PIDGEY,      255,  181 ; JIGGLYPUFF
 	mon_cry CRY_PIDGEY,      104,  224 ; GRODOUDOU
 	mon_cry CRY_CARAPUCE,    224,  256 ; ZUBAT
-	mon_cry CRY_CARAPUCE,    250,  256 ; GOLBAT
+	mon_cry CRY_CARAPUCE,    250,  256 ; NOSFERALTO
 	mon_cry CRY_MYSTHERBE,      221,  129 ; MYSTHERBE
 	mon_cry CRY_MYSTHERBE,      170,  192 ; GLOOM
 	mon_cry CRY_VILEPLUME,    34,  383 ; VILEPLUME

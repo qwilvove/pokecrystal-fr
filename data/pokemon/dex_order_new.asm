@@ -39,7 +39,7 @@ NewPokedexOrder:
 	db GRAVALANCH
 	db GROLEM
 	db ZUBAT
-	db GOLBAT
+	db NOSFERALTO
 	db CROBAT
 	db MELO
 	db MELOFEE

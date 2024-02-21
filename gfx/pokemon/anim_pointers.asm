@@ -41,7 +41,7 @@ AnimationPointers:
 	dw JigglypuffAnimation
 	dw GrodoudouAnimation
 	dw ZubatAnimation
-	dw GolbatAnimation
+	dw NosferaltoAnimation
 	dw MystherbeAnimation
 	dw GloomAnimation
 	dw VileplumeAnimation

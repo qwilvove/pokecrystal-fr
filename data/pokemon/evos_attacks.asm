@@ -530,7 +530,7 @@ GrodoudouEvosAttacks:
 	db 0 ; no more level-up moves
 
 ZubatEvosAttacks:
-	db EVOLVE_LEVEL, 22, GOLBAT
+	db EVOLVE_LEVEL, 22, NOSFERALTO
 	db 0 ; no more evolutions
 	db 1, LEECH_LIFE
 	db 6, SUPERSONIC
@@ -541,7 +541,7 @@ ZubatEvosAttacks:
 	db 46, HAZE
 	db 0 ; no more level-up moves
 
-GolbatEvosAttacks:
+NosferaltoEvosAttacks:
 	db EVOLVE_HAPPINESS, TR_ANYTIME, CROBAT
 	db 0 ; no more evolutions
 	db 1, SCREECH
