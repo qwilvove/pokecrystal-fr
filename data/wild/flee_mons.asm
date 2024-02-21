@@ -11,7 +11,7 @@ SometimesFleeMons:
 	db MINIDRACO
 	db DRACO
 	db TOGETIC
-	db UMBREON
+	db NOCTALI
 	db UNOWN
 	db SNUBBULL
 	db HERACROSS

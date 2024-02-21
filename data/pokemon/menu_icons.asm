@@ -198,7 +198,7 @@ MonMenuIcons:
 	db ICON_MONSTER     ; AXOLOTO
 	db ICON_MONSTER     ; MARAISTE
 	db ICON_FOX         ; MENTALI
-	db ICON_FOX         ; UMBREON
+	db ICON_FOX         ; NOCTALI
 	db ICON_BIRD        ; CORNEBRE
 	db ICON_SLOWPOKE    ; SLOWKING
 	db ICON_GHOST       ; FEUFOREVE

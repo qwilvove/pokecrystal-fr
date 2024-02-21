@@ -395,8 +395,8 @@ PokemonPicPointers::
 	dba_pic MaraisteBackpic
 	dba_pic MentaliFrontpic
 	dba_pic MentaliBackpic
-	dba_pic UmbreonFrontpic
-	dba_pic UmbreonBackpic
+	dba_pic NoctaliFrontpic
+	dba_pic NoctaliBackpic
 	dba_pic CornebreFrontpic
 	dba_pic CornebreBackpic
 	dba_pic SlowkingFrontpic

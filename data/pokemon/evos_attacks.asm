@@ -1796,7 +1796,7 @@ EvoliEvosAttacks:
 	db EVOLVE_ITEM, WATER_STONE, AQUALI
 	db EVOLVE_ITEM, FIRE_STONE, FLAREON
 	db EVOLVE_HAPPINESS, TR_MORNDAY, MENTALI
-	db EVOLVE_HAPPINESS, TR_NITE, UMBREON
+	db EVOLVE_HAPPINESS, TR_NITE, NOCTALI
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
@@ -2654,7 +2654,7 @@ MentaliEvosAttacks:
 	db 52, MORNING_SUN
 	db 0 ; no more level-up moves
 
-UmbreonEvosAttacks:
+NoctaliEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP

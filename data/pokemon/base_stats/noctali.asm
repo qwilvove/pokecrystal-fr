@@ -1,4 +1,4 @@
-	db UMBREON ; 197
+	db NOCTALI ; 197
 
 	db  95,  65, 110,  65,  60, 130
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 35 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/umbreon/front.dimensions"
+	INCBIN "gfx/pokemon/noctali/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_GROUND, EGG_GROUND ; egg groups

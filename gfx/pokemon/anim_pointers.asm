@@ -196,7 +196,7 @@ AnimationPointers:
 	dw AxolotoAnimation
 	dw MaraisteAnimation
 	dw MentaliAnimation
-	dw UmbreonAnimation
+	dw NoctaliAnimation
 	dw CornebreAnimation
 	dw SlowkingAnimation
 	dw FeuforeveAnimation

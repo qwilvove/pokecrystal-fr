@@ -56,7 +56,7 @@ BattleTowerMons:
 	bigdw 31 ; SDef
 	db "E-HUi@@@@@@"
 
-	db UMBREON
+	db NOCTALI
 	db GOLD_BERRY
 	db SHADOW_BALL, IRON_TAIL, PSYCH_UP, TOXIC
 	dw 0 ; OT ID
@@ -553,7 +553,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 2
 
-	db UMBREON
+	db NOCTALI
 	db LEFTOVERS
 	db PROTECT, TOXIC, MUD_SLAP, ATTRACT
 	dw 0 ; OT ID
@@ -2983,7 +2983,7 @@ BattleTowerMons:
 	bigdw 172 ; SDef
 	db "KAIRIyu-@@@"
 
-	db UMBREON
+	db NOCTALI
 	db GOLD_BERRY
 	db MUD_SLAP, MOONLIGHT, PSYCHIC_M, FAINT_ATTACK
 	dw 0 ; OT ID
@@ -3350,7 +3350,7 @@ BattleTowerMons:
 	bigdw 197 ; SDef
 	db "SIyaWA-ZU@@"
 
-	db UMBREON
+	db NOCTALI
 	db GOLD_BERRY
 	db FAINT_ATTACK, MOONLIGHT, PSYCH_UP, TOXIC
 	dw 0 ; OT ID
@@ -3532,7 +3532,7 @@ BattleTowerMons:
 	bigdw 151 ; SDef
 	db "NAtuSI-@@@@"
 
-	db UMBREON
+	db NOCTALI
 	db GOLD_BERRY
 	db MOONLIGHT, FAINT_ATTACK, PSYCHIC_M, SHADOW_BALL
 	dw 0 ; OT ID
@@ -4396,7 +4396,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 9
 
-	db UMBREON
+	db NOCTALI
 	db KINGS_ROCK
 	db FAINT_ATTACK, MUD_SLAP, MOONLIGHT, CONFUSE_RAY
 	dw 0 ; OT ID

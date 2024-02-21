@@ -196,7 +196,7 @@ BitmasksPointers:
 	dw AxolotoBitmasks
 	dw MaraisteBitmasks
 	dw MentaliBitmasks
-	dw UmbreonBitmasks
+	dw NoctaliBitmasks
 	dw CornebreBitmasks
 	dw SlowkingBitmasks
 	dw FeuforeveBitmasks

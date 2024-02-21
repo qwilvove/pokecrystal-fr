@@ -448,7 +448,7 @@ INCBIN "gfx/footprints/yanma.1bpp",      footprint_top
 INCBIN "gfx/footprints/axoloto.1bpp",     footprint_top
 INCBIN "gfx/footprints/maraiste.1bpp",   footprint_top
 INCBIN "gfx/footprints/mentali.1bpp",     footprint_top
-INCBIN "gfx/footprints/umbreon.1bpp",    footprint_top
+INCBIN "gfx/footprints/noctali.1bpp",    footprint_top
 INCBIN "gfx/footprints/cornebre.1bpp",    footprint_top
 INCBIN "gfx/footprints/slowking.1bpp",   footprint_top
 INCBIN "gfx/footprints/feuforeve.1bpp", footprint_top
@@ -457,7 +457,7 @@ INCBIN "gfx/footprints/yanma.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/axoloto.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/maraiste.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/mentali.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/umbreon.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/noctali.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/cornebre.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/slowking.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/feuforeve.1bpp", footprint_bottom

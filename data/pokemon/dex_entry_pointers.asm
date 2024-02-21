@@ -197,7 +197,7 @@ PokedexDataPointerTable:
 	dw AxolotoPokedexEntry
 	dw MaraistePokedexEntry
 	dw MentaliPokedexEntry
-	dw UmbreonPokedexEntry
+	dw NoctaliPokedexEntry
 	dw CornebrePokedexEntry
 	dw SlowkingPokedexEntry
 	dw FeuforevePokedexEntry

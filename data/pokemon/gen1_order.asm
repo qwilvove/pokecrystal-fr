@@ -236,7 +236,7 @@ Pokered_MonIndices:
 	db AXOLOTO
 	db MARAISTE
 	db MENTALI
-	db UMBREON
+	db NOCTALI
 	db CORNEBRE
 	db SLOWKING
 	db FEUFOREVE

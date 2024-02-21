@@ -216,7 +216,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const AXOLOTO     ; c2
 	const MARAISTE   ; c3
 	const MENTALI     ; c4
-	const UMBREON    ; c5
+	const NOCTALI    ; c5
 	const CORNEBRE    ; c6
 	const SLOWKING   ; c7
 	const FEUFOREVE ; c8

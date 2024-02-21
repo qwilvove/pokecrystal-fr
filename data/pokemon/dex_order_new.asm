@@ -186,7 +186,7 @@ NewPokedexOrder:
 	db JOLTEON
 	db FLAREON
 	db MENTALI
-	db UMBREON
+	db NOCTALI
 	db HYPOTREMPE
 	db HYPOCEAN
 	db HYPOROI

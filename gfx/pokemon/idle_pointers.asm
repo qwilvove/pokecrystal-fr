@@ -196,7 +196,7 @@ AnimationIdlePointers:
 	dw AxolotoAnimationIdle
 	dw MaraisteAnimationIdle
 	dw MentaliAnimationIdle
-	dw UmbreonAnimationIdle
+	dw NoctaliAnimationIdle
 	dw CornebreAnimationIdle
 	dw SlowkingAnimationIdle
 	dw FeuforeveAnimationIdle
