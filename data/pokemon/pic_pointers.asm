@@ -211,8 +211,8 @@ PokemonPicPointers::
 	dba_pic NoadkokoBackpic
 	dba_pic CuboneFrontpic
 	dba_pic CuboneBackpic
-	dba_pic MarowakFrontpic
-	dba_pic MarowakBackpic
+	dba_pic OssatueurFrontpic
+	dba_pic OssatueurBackpic
 	dba_pic KickleeFrontpic
 	dba_pic KickleeBackpic
 	dba_pic HitmonchanFrontpic

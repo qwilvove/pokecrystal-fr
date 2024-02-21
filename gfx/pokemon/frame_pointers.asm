@@ -104,7 +104,7 @@ FramesPointers:
 	dw NoeunoeufFrames
 	dw NoadkokoFrames
 	dw CuboneFrames
-	dw MarowakFrames
+	dw OssatueurFrames
 	dw KickleeFrames
 	dw HitmonchanFrames
 	dw ExcelangueFrames

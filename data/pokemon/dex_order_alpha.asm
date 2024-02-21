@@ -165,7 +165,7 @@ AlphabeticalPokedexOrder:
 	db OCTILLERY
 	db ONIX
 	db ORTIDE
-	db MAROWAK
+	db OSSATUEUR
 	db CUBONE
 	db SEEL
 	db BUTTERFREE

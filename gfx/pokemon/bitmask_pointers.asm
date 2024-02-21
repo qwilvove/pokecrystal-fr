@@ -104,7 +104,7 @@ BitmasksPointers:
 	dw NoeunoeufBitmasks
 	dw NoadkokoBitmasks
 	dw CuboneBitmasks
-	dw MarowakBitmasks
+	dw OssatueurBitmasks
 	dw KickleeBitmasks
 	dw HitmonchanBitmasks
 	dw ExcelangueBitmasks

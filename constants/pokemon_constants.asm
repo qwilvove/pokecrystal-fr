@@ -123,7 +123,7 @@
 	const NOEUNOEUF  ; 66
 	const NOADKOKO  ; 67
 	const CUBONE     ; 68
-	const MAROWAK    ; 69
+	const OSSATUEUR    ; 69
 	const KICKLEE  ; 6a
 	const HITMONCHAN ; 6b
 	const EXCELANGUE  ; 6c

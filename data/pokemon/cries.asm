@@ -110,7 +110,7 @@ PokemonCries::
 	mon_cry CRY_DIGLETT,       0,  256 ; NOEUNOEUF
 	mon_cry CRY_DROWZEE,       0,  256 ; NOADKOKO
 	mon_cry CRY_MELOFEE,      0,  256 ; CUBONE
-	mon_cry CRY_MYSTHERBE,       79,  224 ; MAROWAK
+	mon_cry CRY_MYSTHERBE,       79,  224 ; OSSATUEUR
 	mon_cry CRY_GROLEM,       128,  320 ; KICKLEE
 	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN
 	mon_cry CRY_SEEL,          0,  256 ; EXCELANGUE

@@ -1165,8 +1165,8 @@ PokemaniacGroup:
 
 	; POKEMANIAC (2)
 	db "PIERRE@", TRAINERTYPE_NORMAL
-	db 24, MAROWAK
-	db 24, MAROWAK
+	db 24, OSSATUEUR
+	db 24, OSSATUEUR
 	db -1 ; end
 
 	; POKEMANIAC (3)

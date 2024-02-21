@@ -104,7 +104,7 @@ AnimationIdlePointers:
 	dw NoeunoeufAnimationIdle
 	dw NoadkokoAnimationIdle
 	dw CuboneAnimationIdle
-	dw MarowakAnimationIdle
+	dw OssatueurAnimationIdle
 	dw KickleeAnimationIdle
 	dw HitmonchanAnimationIdle
 	dw ExcelangueAnimationIdle

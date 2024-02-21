@@ -66,16 +66,16 @@ KantoGrassWildMons:
 	db 12, MACHOC
 	db 12, NOSFERAPTI
 	db 15, MACHOPEUR
-	db 12, MAROWAK
-	db 12, MAROWAK
+	db 12, OSSATUEUR
+	db 12, OSSATUEUR
 	; day
 	db 10, CUBONE
 	db 11, GEODUDE
 	db 12, MACHOC
 	db 12, NOSFERAPTI
 	db 15, MACHOPEUR
-	db 12, MAROWAK
-	db 12, MAROWAK
+	db 12, OSSATUEUR
+	db 12, OSSATUEUR
 	; nite
 	db 12, NOSFERAPTI
 	db 11, GEODUDE
@@ -93,7 +93,7 @@ KantoGrassWildMons:
 	db 14, GEODUDE
 	db 16, ONIX
 	db 12, NOSFERAPTI
-	db 15, MAROWAK
+	db 15, OSSATUEUR
 	db 15, KANGOUREX
 	db 15, KANGOUREX
 	; day
@@ -101,7 +101,7 @@ KantoGrassWildMons:
 	db 14, GEODUDE
 	db 16, ONIX
 	db 12, NOSFERAPTI
-	db 15, MAROWAK
+	db 15, OSSATUEUR
 	db 15, KANGOUREX
 	db 15, KANGOUREX
 	; nite
@@ -402,16 +402,16 @@ KantoGrassWildMons:
 	db 15, RATICATE
 	db 15, FEAROW
 	db 15, FEAROW
-	db 18, MAROWAK
-	db 18, MAROWAK
+	db 18, OSSATUEUR
+	db 18, OSSATUEUR
 	; day
 	db 15, RATTATA
 	db 15, SPEAROW
 	db 15, RATICATE
 	db 15, FEAROW
 	db 15, FEAROW
-	db 18, MAROWAK
-	db 18, MAROWAK
+	db 18, OSSATUEUR
+	db 18, OSSATUEUR
 	; nite
 	db 15, RATTATA
 	db 15, MIMITOSS
@@ -429,7 +429,7 @@ KantoGrassWildMons:
 	db 17, VOLTORB
 	db 15, RATICATE
 	db 15, FEAROW
-	db 15, MAROWAK
+	db 15, OSSATUEUR
 	db 16, ELEKTEK
 	db 16, ELEKTEK
 	; day
@@ -437,7 +437,7 @@ KantoGrassWildMons:
 	db 17, VOLTORB
 	db 15, RATICATE
 	db 15, FEAROW
-	db 15, MAROWAK
+	db 15, OSSATUEUR
 	db 18, ELEKTEK
 	db 18, ELEKTEK
 	; nite

@@ -144,7 +144,7 @@ Pokered_MonIndices:
 	db MELODELFE
 	db WEEZING
 	db PERSIAN
-	db MAROWAK
+	db OSSATUEUR
 	db KAPOERA ; MISSINGNO.
 	db HAUNTER
 	db ABRA

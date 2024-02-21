@@ -205,7 +205,7 @@ NewPokedexOrder:
 	db PONYTA
 	db GALOPA
 	db CUBONE
-	db MAROWAK
+	db OSSATUEUR
 	db KANGOUREX
 	db RHYHORN
 	db RHYDON

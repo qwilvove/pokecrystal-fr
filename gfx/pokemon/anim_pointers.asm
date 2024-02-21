@@ -104,7 +104,7 @@ AnimationPointers:
 	dw NoeunoeufAnimation
 	dw NoadkokoAnimation
 	dw CuboneAnimation
-	dw MarowakAnimation
+	dw OssatueurAnimation
 	dw KickleeAnimation
 	dw HitmonchanAnimation
 	dw ExcelangueAnimation
