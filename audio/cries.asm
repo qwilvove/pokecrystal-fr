@@ -926,11 +926,11 @@ Cry_Diglett:
 	channel 6, Cry_Diglett_Ch6
 	channel 8, Cry_Diglett_Ch8
 
-Cry_Seel:
+Cry_Otaria:
 	channel_count 3
-	channel 5, Cry_Seel_Ch5
-	channel 6, Cry_Seel_Ch6
-	channel 8, Cry_Seel_Ch8
+	channel 5, Cry_Otaria_Ch5
+	channel 6, Cry_Otaria_Ch6
+	channel 8, Cry_Otaria_Ch8
 
 Cry_Drowzee:
 	channel_count 3
@@ -1482,7 +1482,7 @@ Cry_Diglett_Ch8:
 	noise_note 8, 10, 1, 76
 	sound_ret
 
-Cry_Seel_Ch5:
+Cry_Otaria_Ch5:
 	duty_cycle_pattern 3, 0, 3, 0
 	square_note 8, 15, 5, 1536
 	square_note 2, 13, 2, 1592
@@ -1495,7 +1495,7 @@ Cry_Seel_Ch5:
 	square_note 8, 12, 1, 1568
 	sound_ret
 
-Cry_Seel_Ch6:
+Cry_Otaria_Ch6:
 	duty_cycle_pattern 1, 0, 1, 0
 	square_note 12, 12, 3, 1472
 	square_note 3, 11, 1, 1529
@@ -1506,7 +1506,7 @@ Cry_Seel_Ch6:
 	square_note 2, 8, 1, 1489
 	square_note 2, 9, 1, 1497
 	square_note 8, 9, 1, 1505
-Cry_Seel_Ch8:
+Cry_Otaria_Ch8:
 	sound_ret
 
 Cry_Slowpoke_Ch5:

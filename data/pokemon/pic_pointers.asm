@@ -173,8 +173,8 @@ PokemonPicPointers::
 	dba_pic DoduoBackpic
 	dba_pic DodrioFrontpic
 	dba_pic DodrioBackpic
-	dba_pic SeelFrontpic
-	dba_pic SeelBackpic
+	dba_pic OtariaFrontpic
+	dba_pic OtariaBackpic
 	dba_pic LamantineFrontpic
 	dba_pic LamantineBackpic
 	dba_pic GrimerFrontpic

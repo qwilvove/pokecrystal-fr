@@ -167,7 +167,7 @@ AlphabeticalPokedexOrder:
 	db ORTIDE
 	db OSSATUEUR
 	db OSSELAIT
-	db SEEL
+	db OTARIA
 	db BUTTERFREE
 	db PARAS
 	db PARASECT

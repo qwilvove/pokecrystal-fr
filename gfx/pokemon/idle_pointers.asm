@@ -85,7 +85,7 @@ AnimationIdlePointers:
 	dw CanartichoAnimationIdle
 	dw DoduoAnimationIdle
 	dw DodrioAnimationIdle
-	dw SeelAnimationIdle
+	dw OtariaAnimationIdle
 	dw LamantineAnimationIdle
 	dw GrimerAnimationIdle
 	dw GrotadmorvAnimationIdle

@@ -1,4 +1,4 @@
-	db SEEL ; 086
+	db OTARIA ; 086
 
 	db  65,  45,  55,  45,  45,  70
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/seel/front.dimensions"
+	INCBIN "gfx/pokemon/otaria/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_WATER_1, EGG_GROUND ; egg groups

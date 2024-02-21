@@ -91,8 +91,8 @@ PokemonCries::
 	mon_cry CRY_SPEAROW,     221,  129 ; CANARTICHO
 	mon_cry CRY_DIGLETT,     187,  129 ; DODUO
 	mon_cry CRY_DIGLETT,     153,  160 ; DODRIO
-	mon_cry CRY_SEEL,        136,  320 ; SEEL
-	mon_cry CRY_SEEL,         35,  383 ; LAMANTINE
+	mon_cry CRY_OTARIA,        136,  320 ; OTARIA
+	mon_cry CRY_OTARIA,         35,  383 ; LAMANTINE
 	mon_cry CRY_GRIMER,        0,  256 ; GRIMER
 	mon_cry CRY_GROTADMORV,         239,  383 ; GROTADMORV
 	mon_cry CRY_FEAROW,        0,  256 ; KOKIYAS
@@ -112,8 +112,8 @@ PokemonCries::
 	mon_cry CRY_MELOFEE,      0,  256 ; OSSELAIT
 	mon_cry CRY_MYSTHERBE,       79,  224 ; OSSATUEUR
 	mon_cry CRY_GROLEM,       128,  320 ; KICKLEE
-	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN
-	mon_cry CRY_SEEL,          0,  256 ; EXCELANGUE
+	mon_cry CRY_OTARIA,        238,  320 ; HITMONCHAN
+	mon_cry CRY_OTARIA,          0,  256 ; EXCELANGUE
 	mon_cry CRY_GROLEM,       230,  349 ; KOFFING
 	mon_cry CRY_GROLEM,       255,  383 ; WEEZING
 	mon_cry CRY_CHARMANDER,    0,  256 ; RHYHORN

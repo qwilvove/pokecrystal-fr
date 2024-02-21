@@ -86,7 +86,7 @@ PokedexDataPointerTable:
 	dw CanartichoPokedexEntry
 	dw DoduoPokedexEntry
 	dw DodrioPokedexEntry
-	dw SeelPokedexEntry
+	dw OtariaPokedexEntry
 	dw LamantinePokedexEntry
 	dw GrimerPokedexEntry
 	dw GrotadmorvPokedexEntry

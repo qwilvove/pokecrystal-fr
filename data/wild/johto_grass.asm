@@ -847,19 +847,19 @@ JohtoGrassWildMons:
 	; morn
 	db 22, KRABBY
 	db 23, NOSFERAPTI
-	db 22, SEEL
+	db 22, OTARIA
 	db 24, KRABBY
 	db 25, NOSFERALTO
-	db 24, SEEL
-	db 24, SEEL
+	db 24, OTARIA
+	db 24, OTARIA
 	; day
 	db 22, KRABBY
 	db 23, NOSFERAPTI
-	db 22, SEEL
+	db 22, OTARIA
 	db 24, KRABBY
 	db 25, NOSFERALTO
-	db 24, SEEL
-	db 24, SEEL
+	db 24, OTARIA
+	db 24, OTARIA
 	; nite
 	db 22, KRABBY
 	db 23, NOSFERAPTI
@@ -875,19 +875,19 @@ JohtoGrassWildMons:
 	; morn
 	db 22, KRABBY
 	db 23, NOSFERAPTI
-	db 22, SEEL
+	db 22, OTARIA
 	db 24, KRABBY
 	db 25, NOSFERALTO
-	db 24, SEEL
-	db 24, SEEL
+	db 24, OTARIA
+	db 24, OTARIA
 	; day
 	db 22, KRABBY
 	db 23, NOSFERAPTI
-	db 22, SEEL
+	db 22, OTARIA
 	db 24, KRABBY
 	db 25, NOSFERALTO
-	db 24, SEEL
-	db 24, SEEL
+	db 24, OTARIA
+	db 24, OTARIA
 	; nite
 	db 22, KRABBY
 	db 23, NOSFERAPTI
@@ -903,19 +903,19 @@ JohtoGrassWildMons:
 	; morn
 	db 22, KRABBY
 	db 23, NOSFERAPTI
-	db 22, SEEL
+	db 22, OTARIA
 	db 24, KRABBY
 	db 25, NOSFERALTO
-	db 24, SEEL
-	db 24, SEEL
+	db 24, OTARIA
+	db 24, OTARIA
 	; day
 	db 22, KRABBY
 	db 23, NOSFERAPTI
-	db 22, SEEL
+	db 22, OTARIA
 	db 24, KRABBY
 	db 25, NOSFERALTO
-	db 24, SEEL
-	db 24, SEEL
+	db 24, OTARIA
+	db 24, OTARIA
 	; nite
 	db 22, KRABBY
 	db 23, NOSFERAPTI
@@ -931,19 +931,19 @@ JohtoGrassWildMons:
 	; morn
 	db 22, KRABBY
 	db 23, NOSFERAPTI
-	db 22, SEEL
+	db 22, OTARIA
 	db 24, KRABBY
 	db 25, NOSFERALTO
-	db 24, SEEL
-	db 24, SEEL
+	db 24, OTARIA
+	db 24, OTARIA
 	; day
 	db 22, KRABBY
 	db 23, NOSFERAPTI
-	db 22, SEEL
+	db 22, OTARIA
 	db 24, KRABBY
 	db 25, NOSFERALTO
-	db 24, SEEL
-	db 24, SEEL
+	db 24, OTARIA
+	db 24, OTARIA
 	; nite
 	db 22, KRABBY
 	db 23, NOSFERAPTI
@@ -959,19 +959,19 @@ JohtoGrassWildMons:
 	; morn
 	db 22, KRABBY
 	db 23, NOSFERAPTI
-	db 22, SEEL
+	db 22, OTARIA
 	db 24, KRABBY
 	db 25, NOSFERALTO
-	db 24, SEEL
-	db 24, SEEL
+	db 24, OTARIA
+	db 24, OTARIA
 	; day
 	db 22, KRABBY
 	db 23, NOSFERAPTI
-	db 22, SEEL
+	db 22, OTARIA
 	db 24, KRABBY
 	db 25, NOSFERALTO
-	db 24, SEEL
-	db 24, SEEL
+	db 24, OTARIA
+	db 24, OTARIA
 	; nite
 	db 22, KRABBY
 	db 23, NOSFERAPTI
@@ -987,19 +987,19 @@ JohtoGrassWildMons:
 	; morn
 	db 23, KRABBY
 	db 24, NOSFERAPTI
-	db 23, SEEL
+	db 23, OTARIA
 	db 25, KRABBY
 	db 26, NOSFERALTO
-	db 25, SEEL
-	db 25, SEEL
+	db 25, OTARIA
+	db 25, OTARIA
 	; day
 	db 23, KRABBY
 	db 24, NOSFERAPTI
-	db 23, SEEL
+	db 23, OTARIA
 	db 25, KRABBY
 	db 26, NOSFERALTO
-	db 25, SEEL
-	db 25, SEEL
+	db 25, OTARIA
+	db 25, OTARIA
 	; nite
 	db 23, KRABBY
 	db 24, NOSFERAPTI
@@ -1015,19 +1015,19 @@ JohtoGrassWildMons:
 	; morn
 	db 24, KRABBY
 	db 25, NOSFERAPTI
-	db 24, SEEL
+	db 24, OTARIA
 	db 26, KRABBY
 	db 27, NOSFERALTO
-	db 26, SEEL
-	db 26, SEEL
+	db 26, OTARIA
+	db 26, OTARIA
 	; day
 	db 24, KRABBY
 	db 25, NOSFERAPTI
-	db 24, SEEL
+	db 24, OTARIA
 	db 26, KRABBY
 	db 27, NOSFERALTO
-	db 26, SEEL
-	db 26, SEEL
+	db 26, OTARIA
+	db 26, OTARIA
 	; nite
 	db 24, KRABBY
 	db 25, NOSFERAPTI
@@ -1043,19 +1043,19 @@ JohtoGrassWildMons:
 	; morn
 	db 25, KRABBY
 	db 26, NOSFERAPTI
-	db 25, SEEL
+	db 25, OTARIA
 	db 27, KRABBY
 	db 28, NOSFERALTO
-	db 27, SEEL
-	db 27, SEEL
+	db 27, OTARIA
+	db 27, OTARIA
 	; day
 	db 25, KRABBY
 	db 26, NOSFERAPTI
-	db 25, SEEL
+	db 25, OTARIA
 	db 27, KRABBY
 	db 28, NOSFERALTO
-	db 27, SEEL
-	db 27, SEEL
+	db 27, OTARIA
+	db 27, OTARIA
 	; nite
 	db 25, KRABBY
 	db 26, NOSFERAPTI

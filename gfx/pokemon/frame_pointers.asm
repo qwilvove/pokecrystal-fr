@@ -85,7 +85,7 @@ FramesPointers:
 	dw CanartichoFrames
 	dw DoduoFrames
 	dw DodrioFrames
-	dw SeelFrames
+	dw OtariaFrames
 	dw LamantineFrames
 	dw GrimerFrames
 	dw GrotadmorvFrames

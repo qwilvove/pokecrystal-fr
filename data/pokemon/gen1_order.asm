@@ -57,7 +57,7 @@ Pokered_MonIndices:
 	db KOFFING
 	db FARFURET ; MISSINGNO.
 	db FEROSINGE
-	db SEEL
+	db OTARIA
 	db DIGLETT
 	db TAUROS
 	db TEDDIURSA ; MISSINGNO.

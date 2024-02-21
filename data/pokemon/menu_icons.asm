@@ -87,7 +87,7 @@ MonMenuIcons:
 	db ICON_BIRD        ; CANARTICHO
 	db ICON_BIRD        ; DODUO
 	db ICON_BIRD        ; DODRIO
-	db ICON_LOKHLASS      ; SEEL
+	db ICON_LOKHLASS      ; OTARIA
 	db ICON_LOKHLASS      ; LAMANTINE
 	db ICON_BLOB        ; GRIMER
 	db ICON_BLOB        ; GROTADMORV

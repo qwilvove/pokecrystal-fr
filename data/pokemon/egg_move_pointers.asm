@@ -85,7 +85,7 @@ EggMovePointers::
 	dw CanartichoEggMoves
 	dw DoduoEggMoves
 	dw NoEggMoves
-	dw SeelEggMoves
+	dw OtariaEggMoves
 	dw NoEggMoves
 	dw GrimerEggMoves
 	dw NoEggMoves

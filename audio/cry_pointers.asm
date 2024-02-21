@@ -13,7 +13,7 @@ Cries:
 	dba Cry_Raichu
 	dba Cry_Nidoqueen
 	dba Cry_Diglett
-	dba Cry_Seel
+	dba Cry_Otaria
 	dba Cry_Drowzee
 	dba Cry_Pidgey
 	dba Cry_Bulbizarre

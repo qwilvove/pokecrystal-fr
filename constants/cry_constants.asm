@@ -14,7 +14,7 @@
 	const CRY_RAICHU
 	const CRY_NIDOQUEEN
 	const CRY_DIGLETT
-	const CRY_SEEL
+	const CRY_OTARIA
 	const CRY_DROWZEE
 	const CRY_PIDGEY
 	const CRY_BULBIZARRE

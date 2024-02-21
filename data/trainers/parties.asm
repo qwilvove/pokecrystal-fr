@@ -44,7 +44,7 @@ MortyGroup:
 PryceGroup:
 	; PRYCE (1)
 	db "FREDO@", TRAINERTYPE_MOVES
-	db 27, SEEL,       HEADBUTT, ICY_WIND, AURORA_BEAM, REST
+	db 27, OTARIA,       HEADBUTT, ICY_WIND, AURORA_BEAM, REST
 	db 29, LAMANTINE,    HEADBUTT, ICY_WIND, AURORA_BEAM, REST
 	db 31, COCHIGNON,  ICY_WIND, FURY_ATTACK, MIST, BLIZZARD
 	db -1 ; end
@@ -1100,7 +1100,7 @@ BeautyGroup:
 	; BEAUTY (7)
 	db "CAROLINE@", TRAINERTYPE_NORMAL
 	db 30, MARILL
-	db 32, SEEL
+	db 32, OTARIA
 	db 30, MARILL
 	db -1 ; end
 
@@ -1831,9 +1831,9 @@ SwimmerMGroup:
 
 	; SWIMMERM (9)
 	db "CLAUDIUS@", TRAINERTYPE_NORMAL
-	db 24, SEEL
+	db 24, OTARIA
 	db 25, LAMANTINE
-	db 24, SEEL
+	db 24, OTARIA
 	db -1 ; end
 
 	; SWIMMERM (10)
@@ -1944,7 +1944,7 @@ SwimmerFGroup:
 
 	; SWIMMERF (5)
 	db "UTE@", TRAINERTYPE_NORMAL
-	db 22, SEEL
+	db 22, OTARIA
 	db -1 ; end
 
 	; SWIMMERF (6)
@@ -2009,9 +2009,9 @@ SwimmerFGroup:
 
 	; SWIMMERF (17)
 	db "NIKKI@", TRAINERTYPE_NORMAL
-	db 28, SEEL
-	db 28, SEEL
-	db 28, SEEL
+	db 28, OTARIA
+	db 28, OTARIA
+	db 28, OTARIA
 	db 28, LAMANTINE
 	db -1 ; end
 
@@ -3193,9 +3193,9 @@ MediumGroup:
 BoarderGroup:
 	; BOARDER (1)
 	db "SCOTTY@", TRAINERTYPE_NORMAL
-	db 24, SEEL
+	db 24, OTARIA
 	db 25, LAMANTINE
-	db 24, SEEL
+	db 24, OTARIA
 	db -1 ; end
 
 	; BOARDER (2)

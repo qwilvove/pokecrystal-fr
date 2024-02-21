@@ -85,7 +85,7 @@ BitmasksPointers:
 	dw CanartichoBitmasks
 	dw DoduoBitmasks
 	dw DodrioBitmasks
-	dw SeelBitmasks
+	dw OtariaBitmasks
 	dw LamantineBitmasks
 	dw GrimerBitmasks
 	dw GrotadmorvBitmasks

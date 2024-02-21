@@ -183,7 +183,7 @@ KangourexBackpic:   INCBIN "gfx/pokemon/kangourex/back.2bpp.lz"
 
 SECTION "Pics 8", ROMX
 
-SeelFrontpic:        INCBIN "gfx/pokemon/seel/front.animated.2bpp.lz"
+OtariaFrontpic:        INCBIN "gfx/pokemon/otaria/front.animated.2bpp.lz"
 NostenferFrontpic:      INCBIN "gfx/pokemon/nostenfer/front.animated.2bpp.lz"
 LeveinardFrontpic:     INCBIN "gfx/pokemon/leveinard/front.animated.2bpp.lz"
 TangelaFrontpic:     INCBIN "gfx/pokemon/tangela/front.animated.2bpp.lz"
@@ -544,7 +544,7 @@ Porygon2Backpic:     INCBIN "gfx/pokemon/porygon2/back.2bpp.lz"
 JasminePic:          INCBIN "gfx/trainers/jasmine.2bpp.lz"
 PinecoBackpic:       INCBIN "gfx/pokemon/pineco/back.2bpp.lz"
 ChrysacierFrontpic:     INCBIN "gfx/pokemon/chrysacier/front.animated.2bpp.lz"
-SeelBackpic:         INCBIN "gfx/pokemon/seel/back.2bpp.lz"
+OtariaBackpic:         INCBIN "gfx/pokemon/otaria/back.2bpp.lz"
 MaraisteBackpic:     INCBIN "gfx/pokemon/maraiste/back.2bpp.lz"
 WhitneyPic:          INCBIN "gfx/trainers/whitney.2bpp.lz"
 JolteonBackpic:      INCBIN "gfx/pokemon/jolteon/back.2bpp.lz"

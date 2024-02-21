@@ -85,7 +85,7 @@ AnimationPointers:
 	dw CanartichoAnimation
 	dw DoduoAnimation
 	dw DodrioAnimation
-	dw SeelAnimation
+	dw OtariaAnimation
 	dw LamantineAnimation
 	dw GrimerAnimation
 	dw GrotadmorvAnimation

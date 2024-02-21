@@ -177,7 +177,7 @@ NewPokedexOrder:
 	db OCTILLERY
 	db LOUPIO
 	db LANTURN
-	db SEEL
+	db OTARIA
 	db LAMANTINE
 	db EXCELANGUE
 	db TANGELA

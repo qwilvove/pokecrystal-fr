@@ -104,7 +104,7 @@
 	const CANARTICHO ; 53
 	const DODUO      ; 54
 	const DODRIO     ; 55
-	const SEEL       ; 56
+	const OTARIA       ; 56
 	const LAMANTINE    ; 57
 	const GRIMER     ; 58
 	const GROTADMORV        ; 59

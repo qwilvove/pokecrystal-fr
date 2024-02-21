@@ -87,7 +87,7 @@ KantoMonSpecials:
 	db  58 ; CANARTICHO
 	db  35 ; DODUO
 	db  60 ; DODRIO
-	db  70 ; SEEL
+	db  70 ; OTARIA
 	db  95 ; LAMANTINE
 	db  40 ; GRIMER
 	db  65 ; GROTADMORV
