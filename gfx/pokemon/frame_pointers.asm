@@ -43,7 +43,7 @@ FramesPointers:
 	dw NosferaptiFrames
 	dw NosferaltoFrames
 	dw MystherbeFrames
-	dw GloomFrames
+	dw OrtideFrames
 	dw VileplumeFrames
 	dw ParasFrames
 	dw ParasectFrames

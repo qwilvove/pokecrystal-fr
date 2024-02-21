@@ -45,7 +45,7 @@ MonMenuIcons:
 	db ICON_BAT         ; NOSFERAPTI
 	db ICON_BAT         ; NOSFERALTO
 	db ICON_MYSTHERBE      ; MYSTHERBE
-	db ICON_MYSTHERBE      ; GLOOM
+	db ICON_MYSTHERBE      ; ORTIDE
 	db ICON_MYSTHERBE      ; VILEPLUME
 	db ICON_BUG         ; PARAS
 	db ICON_BUG         ; PARASECT

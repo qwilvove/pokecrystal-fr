@@ -45,7 +45,7 @@ EvosAttacksPointers::
 	dw NosferaptiEvosAttacks
 	dw NosferaltoEvosAttacks
 	dw MystherbeEvosAttacks
-	dw GloomEvosAttacks
+	dw OrtideEvosAttacks
 	dw VileplumeEvosAttacks
 	dw ParasEvosAttacks
 	dw ParasectEvosAttacks

@@ -726,8 +726,8 @@ KantoGrassWildMons:
 	db 12, MYSTHERBE
 	db 12, ABRA
 	db 10, CHETIFLOR
-	db 14, GLOOM
-	db 14, GLOOM
+	db 14, ORTIDE
+	db 14, ORTIDE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_25

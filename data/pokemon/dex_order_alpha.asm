@@ -164,7 +164,7 @@ AlphabeticalPokedexOrder:
 	db NOSTENFER
 	db OCTILLERY
 	db ONIX
-	db GLOOM
+	db ORTIDE
 	db MAROWAK
 	db CUBONE
 	db SEEL

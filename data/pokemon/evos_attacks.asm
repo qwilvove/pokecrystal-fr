@@ -556,7 +556,7 @@ NosferaltoEvosAttacks:
 	db 0 ; no more level-up moves
 
 MystherbeEvosAttacks:
-	db EVOLVE_LEVEL, 21, GLOOM
+	db EVOLVE_LEVEL, 21, ORTIDE
 	db 0 ; no more evolutions
 	db 1, ABSORB
 	db 7, SWEET_SCENT
@@ -568,7 +568,7 @@ MystherbeEvosAttacks:
 	db 39, PETAL_DANCE
 	db 0 ; no more level-up moves
 
-GloomEvosAttacks:
+OrtideEvosAttacks:
 	db EVOLVE_ITEM, LEAF_STONE, VILEPLUME
 	db EVOLVE_ITEM, SUN_STONE, JOLIFLOR
 	db 0 ; no more evolutions

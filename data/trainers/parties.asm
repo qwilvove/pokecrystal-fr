@@ -498,7 +498,7 @@ SchoolboyGroup:
 
 	; SCHOOLBOY (14)
 	db "JULES@", TRAINERTYPE_NORMAL
-	db 28, GLOOM
+	db 28, ORTIDE
 	db 31, ELECTRODE
 	db -1 ; end
 
@@ -530,7 +530,7 @@ SchoolboyGroup:
 
 	; SCHOOLBOY (19)
 	db "JULES@", TRAINERTYPE_NORMAL
-	db 30, GLOOM
+	db 30, ORTIDE
 	db 33, CANINOS
 	db 33, ELECTRODE
 	db -1 ; end
@@ -701,9 +701,9 @@ LassGroup:
 
 	; LASS (3)
 	db "ALICE@", TRAINERTYPE_NORMAL
-	db 30, GLOOM
+	db 30, ORTIDE
 	db 34, ARBOK
-	db 30, GLOOM
+	db 30, ORTIDE
 	db -1 ; end
 
 	; LASS (4)
@@ -726,7 +726,7 @@ LassGroup:
 
 	; LASS (7)
 	db "LAURA@", TRAINERTYPE_NORMAL
-	db 28, GLOOM
+	db 28, ORTIDE
 	db 31, PIDGEOTTO
 	db 31, JOLIFLOR
 	db -1 ; end
@@ -3068,7 +3068,7 @@ ExecutiveFGroup:
 	; EXECUTIVEF (2)
 	db "CAID@", TRAINERTYPE_MOVES
 	db 23, ARBOK,      WRAP, LEER, POISON_STING, BITE
-	db 23, GLOOM,      ABSORB, SWEET_SCENT, SLEEP_POWDER, ACID
+	db 23, ORTIDE,      ABSORB, SWEET_SCENT, SLEEP_POWDER, ACID
 	db 25, CORNEBRE,    PECK, PURSUIT, HAZE, NO_MOVE
 	db -1 ; end
 
@@ -3470,8 +3470,8 @@ GruntFGroup:
 
 	; GRUNTF (3)
 	db "SBIRE@", TRAINERTYPE_NORMAL
-	db 25, GLOOM
-	db 25, GLOOM
+	db 25, ORTIDE
+	db 25, ORTIDE
 	db -1 ; end
 
 	; GRUNTF (4)
@@ -3479,13 +3479,13 @@ GruntFGroup:
 	db 21, ABO
 	db 23, MYSTHERBE
 	db 21, ABO
-	db 24, GLOOM
+	db 24, ORTIDE
 	db -1 ; end
 
 	; GRUNTF (5)
 	db "SBIRE@", TRAINERTYPE_MOVES
 	db 18, ABO,      WRAP, LEER, POISON_STING, BITE
-	db 18, GLOOM,      ABSORB, SWEET_SCENT, STUN_SPORE, SLEEP_POWDER
+	db 18, ORTIDE,      ABSORB, SWEET_SCENT, STUN_SPORE, SLEEP_POWDER
 	db -1 ; end
 
 MysticalmanGroup:

@@ -49,7 +49,7 @@ PokemonCries::
 	mon_cry CRY_CARAPUCE,    224,  256 ; NOSFERAPTI
 	mon_cry CRY_CARAPUCE,    250,  256 ; NOSFERALTO
 	mon_cry CRY_MYSTHERBE,      221,  129 ; MYSTHERBE
-	mon_cry CRY_MYSTHERBE,      170,  192 ; GLOOM
+	mon_cry CRY_MYSTHERBE,      170,  192 ; ORTIDE
 	mon_cry CRY_VILEPLUME,    34,  383 ; VILEPLUME
 	mon_cry CRY_PARAS,        32,  352 ; PARAS
 	mon_cry CRY_PARAS,        66,  383 ; PARASECT

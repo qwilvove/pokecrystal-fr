@@ -43,7 +43,7 @@ BitmasksPointers:
 	dw NosferaptiBitmasks
 	dw NosferaltoBitmasks
 	dw MystherbeBitmasks
-	dw GloomBitmasks
+	dw OrtideBitmasks
 	dw VileplumeBitmasks
 	dw ParasBitmasks
 	dw ParasectBitmasks

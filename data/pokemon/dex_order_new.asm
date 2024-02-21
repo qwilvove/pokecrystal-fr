@@ -85,7 +85,7 @@ NewPokedexOrder:
 	db FLAGADOSS
 	db SLOWKING
 	db MYSTHERBE
-	db GLOOM
+	db ORTIDE
 	db VILEPLUME
 	db JOLIFLOR
 	db DROWZEE

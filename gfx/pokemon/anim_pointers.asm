@@ -43,7 +43,7 @@ AnimationPointers:
 	dw NosferaptiAnimation
 	dw NosferaltoAnimation
 	dw MystherbeAnimation
-	dw GloomAnimation
+	dw OrtideAnimation
 	dw VileplumeAnimation
 	dw ParasAnimation
 	dw ParasectAnimation

@@ -44,7 +44,7 @@ PokedexDataPointerTable:
 	dw NosferaptiPokedexEntry
 	dw NosferaltoPokedexEntry
 	dw MystherbePokedexEntry
-	dw GloomPokedexEntry
+	dw OrtidePokedexEntry
 	dw VileplumePokedexEntry
 	dw ParasPokedexEntry
 	dw ParasectPokedexEntry

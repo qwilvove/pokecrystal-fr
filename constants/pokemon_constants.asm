@@ -62,7 +62,7 @@
 	const NOSFERAPTI      ; 29
 	const NOSFERALTO     ; 2a
 	const MYSTHERBE     ; 2b
-	const GLOOM      ; 2c
+	const ORTIDE      ; 2c
 	const VILEPLUME  ; 2d
 	const PARAS      ; 2e
 	const PARASECT   ; 2f

@@ -105,7 +105,7 @@ INCBIN "gfx/footprints/grodoudou.1bpp", footprint_bottom
 INCBIN "gfx/footprints/nosferapti.1bpp",      footprint_top
 INCBIN "gfx/footprints/nosferalto.1bpp",     footprint_top
 INCBIN "gfx/footprints/mystherbe.1bpp",     footprint_top
-INCBIN "gfx/footprints/gloom.1bpp",      footprint_top
+INCBIN "gfx/footprints/ortide.1bpp",      footprint_top
 INCBIN "gfx/footprints/vileplume.1bpp",  footprint_top
 INCBIN "gfx/footprints/paras.1bpp",      footprint_top
 INCBIN "gfx/footprints/parasect.1bpp",   footprint_top
@@ -114,7 +114,7 @@ INCBIN "gfx/footprints/mimitoss.1bpp",    footprint_top
 INCBIN "gfx/footprints/nosferapti.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/nosferalto.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/mystherbe.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/gloom.1bpp",      footprint_bottom
+INCBIN "gfx/footprints/ortide.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/vileplume.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/paras.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/parasect.1bpp",   footprint_bottom
