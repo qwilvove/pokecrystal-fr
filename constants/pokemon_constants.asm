@@ -120,7 +120,7 @@
 	const KRABBOSS    ; 63
 	const VOLTORB    ; 64
 	const ELECTRODE  ; 65
-	const EXEGGCUTE  ; 66
+	const NOEUNOEUF  ; 66
 	const NOADKOKO  ; 67
 	const CUBONE     ; 68
 	const MAROWAK    ; 69

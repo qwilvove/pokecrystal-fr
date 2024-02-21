@@ -158,7 +158,7 @@ AlphabeticalPokedexOrder:
 	db NOADKOKO
 	db NOARFANG
 	db NOCTALI
-	db EXEGGCUTE
+	db NOEUNOEUF
 	db GOLBAT
 	db ZUBAT
 	db CROBAT

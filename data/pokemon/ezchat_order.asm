@@ -63,7 +63,7 @@ EZChat_SortedPokemon:
 .su_zu:    db SUICUNE, STARMIE, INSECATEUR, ZUBAT, DARDARGNAN, HYPNOMADE, DROWZEE, -1
 .se_ze:    db CARAPUCE, CELEBI, -1
 .so_zo:    db WOBBUFFET, -1
-.ta_da:    db DUGTRIO, HYPOTREMPE, EXEGGCUTE, -1
+.ta_da:    db DUGTRIO, HYPOTREMPE, NOEUNOEUF, -1
 .chi_dhi:  db GERMIGNON, LOUPIO, -1
 .tsu_du:   db CARATROC, -1
 .te_de:    db DIGLETT, REMORAID, CADOIZO, MALOSSE, AMPHAROS, -1

@@ -101,7 +101,7 @@ AnimationPointers:
 	dw KrabbossAnimation
 	dw VoltorbAnimation
 	dw ElectrodeAnimation
-	dw ExeggcuteAnimation
+	dw NoeunoeufAnimation
 	dw NoadkokoAnimation
 	dw CuboneAnimation
 	dw MarowakAnimation

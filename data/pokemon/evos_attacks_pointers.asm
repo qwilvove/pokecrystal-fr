@@ -103,7 +103,7 @@ EvosAttacksPointers::
 	dw KrabbossEvosAttacks
 	dw VoltorbEvosAttacks
 	dw ElectrodeEvosAttacks
-	dw ExeggcuteEvosAttacks
+	dw NoeunoeufEvosAttacks
 	dw NoadkokoEvosAttacks
 	dw CuboneEvosAttacks
 	dw MarowakEvosAttacks

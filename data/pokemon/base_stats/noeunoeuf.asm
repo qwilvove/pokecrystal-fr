@@ -1,4 +1,4 @@
-	db EXEGGCUTE ; 102
+	db NOEUNOEUF ; 102
 
 	db  60,  40,  80,  40,  60,  45
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/exeggcute/front.dimensions"
+	INCBIN "gfx/pokemon/noeunoeuf/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_SLOW ; growth rate
 	dn EGG_PLANT, EGG_PLANT ; egg groups

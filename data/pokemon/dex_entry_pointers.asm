@@ -102,7 +102,7 @@ PokedexDataPointerTable:
 	dw KrabbossPokedexEntry
 	dw VoltorbPokedexEntry
 	dw ElectrodePokedexEntry
-	dw ExeggcutePokedexEntry
+	dw NoeunoeufPokedexEntry
 	dw NoadkokoPokedexEntry
 	dw CubonePokedexEntry
 	dw MarowakPokedexEntry

@@ -9,7 +9,7 @@ AsleepTreeMonsNite:
 	db DARDARGNAN
 	db SPEAROW
 	db ABO
-	db EXEGGCUTE
+	db NOEUNOEUF
 	db COXY
 	db CAPUMAIN
 	db -1 ; end

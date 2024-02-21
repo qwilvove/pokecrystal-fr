@@ -101,7 +101,7 @@ FramesPointers:
 	dw KrabbossFrames
 	dw VoltorbFrames
 	dw ElectrodeFrames
-	dw ExeggcuteFrames
+	dw NoeunoeufFrames
 	dw NoadkokoFrames
 	dw CuboneFrames
 	dw MarowakFrames

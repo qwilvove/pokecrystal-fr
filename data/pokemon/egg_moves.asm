@@ -298,7 +298,7 @@ KrabbyEggMoves:
 	db SLAM
 	db -1 ; end
 
-ExeggcuteEggMoves:
+NoeunoeufEggMoves:
 	db SYNTHESIS
 	db MOONLIGHT
 	db REFLECT

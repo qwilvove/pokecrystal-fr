@@ -103,7 +103,7 @@ KantoMonSpecials:
 	db  50 ; KRABBOSS
 	db  55 ; VOLTORB
 	db  80 ; ELECTRODE
-	db  60 ; EXEGGCUTE
+	db  60 ; NOEUNOEUF
 	db 125 ; NOADKOKO
 	db  40 ; CUBONE
 	db  50 ; MAROWAK
