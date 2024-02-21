@@ -17,7 +17,7 @@ AsleepTreeMonsNite:
 AsleepTreeMonsDay:
 	db MIMITOSS
 	db HOOTHOOT
-	db NOCTOWL
+	db NOARFANG
 	db MIMIGAL
 	db HERACROSS
 	db -1 ; end
@@ -25,7 +25,7 @@ AsleepTreeMonsDay:
 AsleepTreeMonsMorn:
 	db MIMITOSS
 	db HOOTHOOT
-	db NOCTOWL
+	db NOARFANG
 	db MIMIGAL
 	db HERACROSS
 	db -1 ; end

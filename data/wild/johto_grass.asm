@@ -1481,7 +1481,7 @@ JohtoGrassWildMons:
 	db 14, CERFROUSSE
 	db 15, HOOTHOOT
 	db 16, CERFROUSSE
-	db 15, NOCTOWL
+	db 15, NOARFANG
 	db 15, MIGALOS
 	db 15, MIGALOS
 	end_grass_wildmons
@@ -1508,7 +1508,7 @@ JohtoGrassWildMons:
 	db 16, MIAOUSS
 	db 16, RATICATE
 	db 16, MAGNETI
-	db 16, NOCTOWL
+	db 16, NOARFANG
 	db 16, MIAOUSS
 	db 16, MIAOUSS
 	db 16, MIAOUSS
@@ -1536,7 +1536,7 @@ JohtoGrassWildMons:
 	db 16, MIAOUSS
 	db 16, RATICATE
 	db 16, MAGNETI
-	db 16, NOCTOWL
+	db 16, NOARFANG
 	db 18, MIAOUSS
 	db 18, MIAOUSS
 	db 18, MIAOUSS
@@ -1590,7 +1590,7 @@ JohtoGrassWildMons:
 	db 17, FOUINAR
 	; nite
 	db 15, MIMITOSS
-	db 16, NOCTOWL
+	db 16, NOARFANG
 	db 16, RATICATE
 	db 17, MIMITOSS
 	db 17, RATICATE

@@ -2214,7 +2214,7 @@ FouinarEvosAttacks:
 	db 0 ; no more level-up moves
 
 HoothootEvosAttacks:
-	db EVOLVE_LEVEL, 20, NOCTOWL
+	db EVOLVE_LEVEL, 20, NOARFANG
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
@@ -2227,7 +2227,7 @@ HoothootEvosAttacks:
 	db 48, DREAM_EATER
 	db 0 ; no more level-up moves
 
-NoctowlEvosAttacks:
+NoarfangEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL

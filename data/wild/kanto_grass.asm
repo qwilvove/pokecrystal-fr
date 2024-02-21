@@ -220,10 +220,10 @@ KantoGrassWildMons:
 	db 3, HOOTHOOT
 	db 3, MIMIGAL
 	db 5, HOOTHOOT
-	db 7, NOCTOWL
+	db 7, NOARFANG
 	db 7, MIGALOS
-	db 4, NOCTOWL
-	db 4, NOCTOWL
+	db 4, NOARFANG
+	db 4, NOARFANG
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_3
@@ -303,7 +303,7 @@ KantoGrassWildMons:
 	; nite
 	db 13, HOOTHOOT
 	db 13, MIAOUSS
-	db 15, NOCTOWL
+	db 15, NOARFANG
 	db 12, ABRA
 	db 14, JIGGLYPUFF
 	db 14, ABRA
@@ -386,7 +386,7 @@ KantoGrassWildMons:
 	db 18, KADABRA
 	; nite
 	db 17, MIAOUSS
-	db 20, NOCTOWL
+	db 20, NOARFANG
 	db 16, ABRA
 	db 17, HAUNTER
 	db 16, JIGGLYPUFF
@@ -472,7 +472,7 @@ KantoGrassWildMons:
 	db 14, DROWZEE
 	db 13, MIAOUSS
 	db 15, MAGNETI
-	db 16, NOCTOWL
+	db 16, NOARFANG
 	db 16, RATICATE
 	db 16, HYPNOMADE
 	db 16, HYPNOMADE
@@ -499,7 +499,7 @@ KantoGrassWildMons:
 	; nite
 	db 23, MIMITOSS
 	db 23, MARAISTE
-	db 25, NOCTOWL
+	db 25, NOARFANG
 	db 25, AEROMITE
 	db 25, MARAISTE
 	db 25, MARAISTE
@@ -527,7 +527,7 @@ KantoGrassWildMons:
 	; nite
 	db 26, MIMITOSS
 	db 26, MARAISTE
-	db 28, NOCTOWL
+	db 28, NOARFANG
 	db 28, AEROMITE
 	db 28, MARAISTE
 	db 28, MARAISTE
@@ -555,7 +555,7 @@ KantoGrassWildMons:
 	; nite
 	db 23, MIMITOSS
 	db 23, MARAISTE
-	db 25, NOCTOWL
+	db 25, NOARFANG
 	db 25, AEROMITE
 	db 25, MARAISTE
 	db 25, MARAISTE
@@ -752,10 +752,10 @@ KantoGrassWildMons:
 	db 10, MYSTHERBE
 	db 10, HOOTHOOT
 	db 10, MIMITOSS
-	db 12, NOCTOWL
+	db 12, NOARFANG
 	db 10, CHETIFLOR
-	db 14, NOCTOWL
-	db 14, NOCTOWL
+	db 14, NOARFANG
+	db 14, NOARFANG
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_26
@@ -777,9 +777,9 @@ KantoGrassWildMons:
 	db 30, ARBOK
 	db 30, ARBOK
 	; nite
-	db 28, NOCTOWL
+	db 28, NOARFANG
 	db 28, RATICATE
-	db 32, NOCTOWL
+	db 32, NOARFANG
 	db 30, RATICATE
 	db 30, MARAISTE
 	db 30, MARAISTE
@@ -806,12 +806,12 @@ KantoGrassWildMons:
 	db 30, DODRIO
 	; nite
 	db 28, MARAISTE
-	db 28, NOCTOWL
+	db 28, NOARFANG
 	db 30, RATICATE
 	db 30, MARAISTE
-	db 32, NOCTOWL
-	db 32, NOCTOWL
-	db 32, NOCTOWL
+	db 32, NOARFANG
+	db 32, NOARFANG
+	db 32, NOARFANG
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_28

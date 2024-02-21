@@ -128,7 +128,7 @@ HeracrossFrontpic:   INCBIN "gfx/pokemon/heracross/front.animated.2bpp.lz"
 SECTION "Pics 6", ROMX
 
 MigalosFrontpic:     INCBIN "gfx/pokemon/migalos/front.animated.2bpp.lz"
-NoctowlFrontpic:     INCBIN "gfx/pokemon/noctowl/front.animated.2bpp.lz"
+NoarfangFrontpic:     INCBIN "gfx/pokemon/noarfang/front.animated.2bpp.lz"
 CarabaffeFrontpic:   INCBIN "gfx/pokemon/carabaffe/front.animated.2bpp.lz"
 LokhlassFrontpic:      INCBIN "gfx/pokemon/lokhlass/front.animated.2bpp.lz"
 GrolemFrontpic:       INCBIN "gfx/pokemon/grolem/front.animated.2bpp.lz"
@@ -526,7 +526,7 @@ MagnetiBackpic:    INCBIN "gfx/pokemon/magneti/back.2bpp.lz"
 SECTION "Pics 16", ROMX
 
 HoothootBackpic:     INCBIN "gfx/pokemon/hoothoot/back.2bpp.lz"
-NoctowlBackpic:      INCBIN "gfx/pokemon/noctowl/back.2bpp.lz"
+NoarfangBackpic:      INCBIN "gfx/pokemon/noarfang/back.2bpp.lz"
 MortyPic:            INCBIN "gfx/trainers/morty.2bpp.lz"
 LimagmaBackpic:       INCBIN "gfx/pokemon/limagma/back.2bpp.lz"
 KabutoBackpic:       INCBIN "gfx/pokemon/kabuto/back.2bpp.lz"

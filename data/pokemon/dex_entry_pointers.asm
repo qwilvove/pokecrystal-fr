@@ -164,7 +164,7 @@ PokedexDataPointerTable:
 	dw FouinettePokedexEntry
 	dw FouinarPokedexEntry
 	dw HoothootPokedexEntry
-	dw NoctowlPokedexEntry
+	dw NoarfangPokedexEntry
 	dw CoxyPokedexEntry
 	dw CoxyclaquePokedexEntry
 	dw MimigalPokedexEntry

@@ -169,7 +169,7 @@ PokemonCries::
 	mon_cry CRY_FOUINETTE,     138,  184 ; FOUINETTE
 	mon_cry CRY_FOUINETTE,     107,  258 ; FOUINAR
 	mon_cry CRY_HOOTHOOT,    145,  216 ; HOOTHOOT
-	mon_cry CRY_HOOTHOOT,      0,  416 ; NOCTOWL
+	mon_cry CRY_HOOTHOOT,      0,  416 ; NOARFANG
 	mon_cry CRY_COXY,        0,  222 ; COXY
 	mon_cry CRY_COXY,     -150,  312 ; COXYCLAQUE
 	mon_cry CRY_MIMIGAL,     17,  512 ; MIMIGAL

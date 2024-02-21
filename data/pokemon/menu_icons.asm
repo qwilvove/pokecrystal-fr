@@ -165,7 +165,7 @@ MonMenuIcons:
 	db ICON_FOX         ; FOUINETTE
 	db ICON_FOX         ; FOUINAR
 	db ICON_BIRD        ; HOOTHOOT
-	db ICON_BIRD        ; NOCTOWL
+	db ICON_BIRD        ; NOARFANG
 	db ICON_BUG         ; COXY
 	db ICON_BUG         ; COXYCLAQUE
 	db ICON_BUG         ; MIMIGAL

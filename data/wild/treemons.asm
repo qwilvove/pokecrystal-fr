@@ -112,7 +112,7 @@ TreeMonSet_Forest:
 	db 50, HOOTHOOT,   10
 	db 15, PINECO,     10
 	db 15, PINECO,     10
-	db 10, NOCTOWL,    10
+	db 10, NOARFANG,    10
 	db  5, BUTTERFREE, 10
 	db  5, DARDARGNAN,   10
 	db -1

@@ -638,7 +638,7 @@ BirdKeeperGroup:
 
 	; BIRD_KEEPER (11)
 	db "BOB@", TRAINERTYPE_NORMAL
-	db 34, NOCTOWL
+	db 34, NOARFANG
 	db -1 ; end
 
 	; BIRD_KEEPER (12)
@@ -1454,7 +1454,7 @@ GentlemanGroup:
 
 	; GENTLEMAN (5)
 	db "LOUIS@", TRAINERTYPE_NORMAL
-	db 20, NOCTOWL
+	db 20, NOARFANG
 	db -1 ; end
 
 SkierGroup:
@@ -3133,19 +3133,19 @@ SageGroup:
 
 	; SAGE (10)
 	db "KEN@", TRAINERTYPE_NORMAL
-	db 32, NOCTOWL
+	db 32, NOARFANG
 	db 32, FLAREON
 	db -1 ; end
 
 	; SAGE (11)
 	db "RAOH@", TRAINERTYPE_NORMAL
-	db 32, NOCTOWL
+	db 32, NOARFANG
 	db 32, JOLTEON
 	db -1 ; end
 
 	; SAGE (12)
 	db "SHU@", TRAINERTYPE_NORMAL
-	db 32, NOCTOWL
+	db 32, NOARFANG
 	db 32, AQUALI
 	db -1 ; end
 

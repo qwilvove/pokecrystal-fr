@@ -163,7 +163,7 @@ AnimationIdlePointers:
 	dw FouinetteAnimationIdle
 	dw FouinarAnimationIdle
 	dw HoothootAnimationIdle
-	dw NoctowlAnimationIdle
+	dw NoarfangAnimationIdle
 	dw CoxyAnimationIdle
 	dw CoxyclaqueAnimationIdle
 	dw MimigalAnimationIdle

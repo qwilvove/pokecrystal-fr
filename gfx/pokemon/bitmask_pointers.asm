@@ -163,7 +163,7 @@ BitmasksPointers:
 	dw FouinetteBitmasks
 	dw FouinarBitmasks
 	dw HoothootBitmasks
-	dw NoctowlBitmasks
+	dw NoarfangBitmasks
 	dw CoxyBitmasks
 	dw CoxyclaqueBitmasks
 	dw MimigalBitmasks

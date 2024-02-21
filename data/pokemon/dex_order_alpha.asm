@@ -156,7 +156,7 @@ AlphabeticalPokedexOrder:
 	db NIDORINA
 	db NIDORINO
 	db NOADKOKO
-	db NOCTOWL
+	db NOARFANG
 	db UMBREON
 	db EXEGGCUTE
 	db GOLBAT

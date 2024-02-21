@@ -163,7 +163,7 @@ AnimationPointers:
 	dw FouinetteAnimation
 	dw FouinarAnimation
 	dw HoothootAnimation
-	dw NoctowlAnimation
+	dw NoarfangAnimation
 	dw CoxyAnimation
 	dw CoxyclaqueAnimation
 	dw MimigalAnimation

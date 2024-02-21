@@ -203,7 +203,7 @@ Pokered_MonIndices:
 	db FOUINETTE
 	db FOUINAR
 	db HOOTHOOT
-	db NOCTOWL
+	db NOARFANG
 	db COXY
 	db COXYCLAQUE
 	db MIMIGAL

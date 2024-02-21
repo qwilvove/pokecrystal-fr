@@ -165,7 +165,7 @@ EvosAttacksPointers::
 	dw FouinetteEvosAttacks
 	dw FouinarEvosAttacks
 	dw HoothootEvosAttacks
-	dw NoctowlEvosAttacks
+	dw NoarfangEvosAttacks
 	dw CoxyEvosAttacks
 	dw CoxyclaqueEvosAttacks
 	dw MimigalEvosAttacks

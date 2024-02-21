@@ -183,7 +183,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const FOUINETTE    ; a1
 	const FOUINAR     ; a2
 	const HOOTHOOT   ; a3
-	const NOCTOWL    ; a4
+	const NOARFANG    ; a4
 	const COXY     ; a5
 	const COXYCLAQUE     ; a6
 	const MIMIGAL   ; a7

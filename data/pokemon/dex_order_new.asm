@@ -17,7 +17,7 @@ NewPokedexOrder:
 	db SPEAROW
 	db FEAROW
 	db HOOTHOOT
-	db NOCTOWL
+	db NOARFANG
 	db RATTATA
 	db RATICATE
 	db FOUINETTE

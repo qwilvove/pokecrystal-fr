@@ -163,7 +163,7 @@ FramesPointers:
 	dw FouinetteFrames
 	dw FouinarFrames
 	dw HoothootFrames
-	dw NoctowlFrames
+	dw NoarfangFrames
 	dw CoxyFrames
 	dw CoxyclaqueFrames
 	dw MimigalFrames
