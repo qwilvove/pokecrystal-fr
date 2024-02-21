@@ -40,7 +40,7 @@ AnimationPointers:
 	dw FeunardAnimation
 	dw JigglypuffAnimation
 	dw GrodoudouAnimation
-	dw ZubatAnimation
+	dw NosferaptiAnimation
 	dw NosferaltoAnimation
 	dw MystherbeAnimation
 	dw GloomAnimation

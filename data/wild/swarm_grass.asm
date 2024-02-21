@@ -8,7 +8,7 @@ SwarmGrassWildMons:
 	; morn
 	db 3, GEODUDE
 	db 3, INSOLOURDO
-	db 2, ZUBAT
+	db 2, NOSFERAPTI
 	db 2, GEODUDE
 	db 2, INSOLOURDO
 	db 4, INSOLOURDO
@@ -16,7 +16,7 @@ SwarmGrassWildMons:
 	; day
 	db 3, GEODUDE
 	db 3, INSOLOURDO
-	db 2, ZUBAT
+	db 2, NOSFERAPTI
 	db 2, GEODUDE
 	db 2, INSOLOURDO
 	db 4, INSOLOURDO
@@ -24,7 +24,7 @@ SwarmGrassWildMons:
 	; nite
 	db 3, GEODUDE
 	db 3, INSOLOURDO
-	db 2, ZUBAT
+	db 2, NOSFERAPTI
 	db 2, GEODUDE
 	db 2, INSOLOURDO
 	db 4, INSOLOURDO

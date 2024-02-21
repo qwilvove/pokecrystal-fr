@@ -288,7 +288,7 @@ JohtoGrassWildMons:
 	db 13, RATTATA
 	db 14, KOFFING
 	db 15, RATTATA
-	db 14, ZUBAT
+	db 14, NOSFERAPTI
 	db 15, RATTATA
 	db 15, RATICATE
 	db 15, RATICATE
@@ -296,7 +296,7 @@ JohtoGrassWildMons:
 	db 13, RATTATA
 	db 14, KOFFING
 	db 15, RATTATA
-	db 14, ZUBAT
+	db 14, NOSFERAPTI
 	db 15, RATTATA
 	db 15, RATICATE
 	db 15, RATICATE
@@ -304,7 +304,7 @@ JohtoGrassWildMons:
 	db 13, RATTATA
 	db 14, KOFFING
 	db 15, RATTATA
-	db 14, ZUBAT
+	db 14, NOSFERAPTI
 	db 15, RATTATA
 	db 15, RATICATE
 	db 15, RATICATE
@@ -316,7 +316,7 @@ JohtoGrassWildMons:
 	db 14, RATTATA
 	db 14, KOFFING
 	db 16, KOFFING
-	db 15, ZUBAT
+	db 15, NOSFERAPTI
 	db 12, KOFFING
 	db 16, KOFFING
 	db 16, WEEZING
@@ -324,7 +324,7 @@ JohtoGrassWildMons:
 	db 14, RATTATA
 	db 14, KOFFING
 	db 16, KOFFING
-	db 15, ZUBAT
+	db 15, NOSFERAPTI
 	db 12, KOFFING
 	db 16, KOFFING
 	db 16, WEEZING
@@ -332,7 +332,7 @@ JohtoGrassWildMons:
 	db 14, RATTATA
 	db 14, KOFFING
 	db 16, KOFFING
-	db 15, ZUBAT
+	db 15, NOSFERAPTI
 	db 12, KOFFING
 	db 16, KOFFING
 	db 16, WEEZING
@@ -427,17 +427,17 @@ JohtoGrassWildMons:
 	; morn
 	db 6, GEODUDE
 	db 6, SANDSHREW
-	db 5, ZUBAT
+	db 5, NOSFERAPTI
 	db 4, RATTATA
-	db 7, ZUBAT
+	db 7, NOSFERAPTI
 	db 6, ONIX
 	db 6, ONIX
 	; day
 	db 6, GEODUDE
 	db 6, SANDSHREW
-	db 5, ZUBAT
+	db 5, NOSFERAPTI
 	db 4, RATTATA
-	db 7, ZUBAT
+	db 7, NOSFERAPTI
 	db 6, ONIX
 	db 6, ONIX
 	; nite
@@ -445,7 +445,7 @@ JohtoGrassWildMons:
 	db 6, RATTATA
 	db 5, AXOLOTO
 	db 4, RATTATA
-	db 7, ZUBAT
+	db 7, NOSFERAPTI
 	db 6, ONIX
 	db 6, ONIX
 	end_grass_wildmons
@@ -454,23 +454,23 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 8, GEODUDE
-	db 6, ZUBAT
-	db 8, ZUBAT
+	db 6, NOSFERAPTI
+	db 8, NOSFERAPTI
 	db 8, ONIX
 	db 6, RATTATA
 	db 8, RATTATA
 	db 8, RATTATA
 	; day
 	db 8, GEODUDE
-	db 6, ZUBAT
-	db 8, ZUBAT
+	db 6, NOSFERAPTI
+	db 8, NOSFERAPTI
 	db 8, ONIX
 	db 6, RATTATA
 	db 8, RATTATA
 	db 8, RATTATA
 	; nite
 	db 8, GEODUDE
-	db 6, ZUBAT
+	db 6, NOSFERAPTI
 	db 8, AXOLOTO
 	db 8, ONIX
 	db 6, RATTATA
@@ -481,23 +481,23 @@ JohtoGrassWildMons:
 	def_grass_wildmons UNION_CAVE_B2F
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
-	db 22, ZUBAT
+	db 22, NOSFERAPTI
 	db 22, NOSFERALTO
-	db 22, ZUBAT
+	db 22, NOSFERAPTI
 	db 21, RATICATE
 	db 20, GEODUDE
 	db 23, ONIX
 	db 23, ONIX
 	; day
-	db 22, ZUBAT
+	db 22, NOSFERAPTI
 	db 22, NOSFERALTO
-	db 22, ZUBAT
+	db 22, NOSFERAPTI
 	db 21, RATICATE
 	db 20, GEODUDE
 	db 23, ONIX
 	db 23, ONIX
 	; nite
-	db 22, ZUBAT
+	db 22, NOSFERAPTI
 	db 22, NOSFERALTO
 	db 22, MARAISTE
 	db 21, RATICATE
@@ -509,27 +509,27 @@ JohtoGrassWildMons:
 	def_grass_wildmons SLOWPOKE_WELL_B1F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 5, ZUBAT
-	db 6, ZUBAT
-	db 7, ZUBAT
+	db 5, NOSFERAPTI
+	db 6, NOSFERAPTI
+	db 7, NOSFERAPTI
 	db 6, SLOWPOKE
-	db 8, ZUBAT
+	db 8, NOSFERAPTI
 	db 8, SLOWPOKE
 	db 8, SLOWPOKE
 	; day
-	db 5, ZUBAT
-	db 6, ZUBAT
-	db 7, ZUBAT
+	db 5, NOSFERAPTI
+	db 6, NOSFERAPTI
+	db 7, NOSFERAPTI
 	db 6, SLOWPOKE
-	db 8, ZUBAT
+	db 8, NOSFERAPTI
 	db 8, SLOWPOKE
 	db 8, SLOWPOKE
 	; nite
-	db 5, ZUBAT
-	db 6, ZUBAT
-	db 7, ZUBAT
+	db 5, NOSFERAPTI
+	db 6, NOSFERAPTI
+	db 7, NOSFERAPTI
 	db 6, SLOWPOKE
-	db 8, ZUBAT
+	db 8, NOSFERAPTI
 	db 8, SLOWPOKE
 	db 8, SLOWPOKE
 	end_grass_wildmons
@@ -537,25 +537,25 @@ JohtoGrassWildMons:
 	def_grass_wildmons SLOWPOKE_WELL_B2F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 21, ZUBAT
-	db 23, ZUBAT
-	db 19, ZUBAT
+	db 21, NOSFERAPTI
+	db 23, NOSFERAPTI
+	db 19, NOSFERAPTI
 	db 21, SLOWPOKE
 	db 23, NOSFERALTO
 	db 23, SLOWPOKE
 	db 23, SLOWPOKE
 	; day
-	db 21, ZUBAT
-	db 23, ZUBAT
-	db 19, ZUBAT
+	db 21, NOSFERAPTI
+	db 23, NOSFERAPTI
+	db 19, NOSFERAPTI
 	db 21, SLOWPOKE
 	db 23, NOSFERALTO
 	db 23, SLOWPOKE
 	db 23, SLOWPOKE
 	; nite
-	db 21, ZUBAT
-	db 23, ZUBAT
-	db 19, ZUBAT
+	db 21, NOSFERAPTI
+	db 23, NOSFERAPTI
+	db 19, NOSFERAPTI
 	db 21, SLOWPOKE
 	db 23, NOSFERALTO
 	db 23, SLOWPOKE
@@ -594,7 +594,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 14, RATTATA
-	db 13, ZUBAT
+	db 13, NOSFERAPTI
 	db 14, MACHOC
 	db 13, NOSFERALTO
 	db 14, GEODUDE
@@ -602,7 +602,7 @@ JohtoGrassWildMons:
 	db 16, RATICATE
 	; day
 	db 14, RATTATA
-	db 13, ZUBAT
+	db 13, NOSFERAPTI
 	db 14, MACHOC
 	db 13, NOSFERALTO
 	db 14, GEODUDE
@@ -610,7 +610,7 @@ JohtoGrassWildMons:
 	db 16, RATICATE
 	; nite
 	db 14, RATTATA
-	db 13, ZUBAT
+	db 13, NOSFERAPTI
 	db 14, MARILL
 	db 13, NOSFERALTO
 	db 14, GEODUDE
@@ -625,7 +625,7 @@ JohtoGrassWildMons:
 	db 14, RATTATA
 	db 15, MACHOC
 	db 14, RATICATE
-	db 15, ZUBAT
+	db 15, NOSFERAPTI
 	db 15, NOSFERALTO
 	db 15, NOSFERALTO
 	; day
@@ -633,14 +633,14 @@ JohtoGrassWildMons:
 	db 14, RATTATA
 	db 15, MACHOC
 	db 14, RATICATE
-	db 15, ZUBAT
+	db 15, NOSFERAPTI
 	db 15, NOSFERALTO
 	db 15, NOSFERALTO
 	; nite
 	db 13, GEODUDE
 	db 14, RATTATA
 	db 15, RATICATE
-	db 14, ZUBAT
+	db 14, NOSFERAPTI
 	db 15, MARILL
 	db 15, NOSFERALTO
 	db 15, NOSFERALTO
@@ -677,24 +677,24 @@ JohtoGrassWildMons:
 	def_grass_wildmons MOUNT_MORTAR_B1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 15, ZUBAT
-	db 17, ZUBAT
+	db 15, NOSFERAPTI
+	db 17, NOSFERAPTI
 	db 17, NOSFERALTO
 	db 16, MACHOC
 	db 16, GEODUDE
 	db 18, RATICATE
 	db 18, RATICATE
 	; day
-	db 15, ZUBAT
-	db 17, ZUBAT
+	db 15, NOSFERAPTI
+	db 17, NOSFERAPTI
 	db 17, NOSFERALTO
 	db 16, MACHOC
 	db 16, GEODUDE
 	db 18, RATICATE
 	db 18, RATICATE
 	; nite
-	db 15, ZUBAT
-	db 17, ZUBAT
+	db 15, NOSFERAPTI
+	db 17, NOSFERAPTI
 	db 17, NOSFERALTO
 	db 16, MARILL
 	db 16, GEODUDE
@@ -706,7 +706,7 @@ JohtoGrassWildMons:
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	db 21, MARCACRIN
-	db 22, ZUBAT
+	db 22, NOSFERAPTI
 	db 22, NOSFERALTO
 	db 23, MARCACRIN
 	db 24, NOSFERALTO
@@ -714,7 +714,7 @@ JohtoGrassWildMons:
 	db 22, NOSFERALTO
 	; day
 	db 21, MARCACRIN
-	db 22, ZUBAT
+	db 22, NOSFERAPTI
 	db 22, NOSFERALTO
 	db 23, MARCACRIN
 	db 24, NOSFERALTO
@@ -722,7 +722,7 @@ JohtoGrassWildMons:
 	db 22, NOSFERALTO
 	; nite
 	db 21, CADOIZO
-	db 22, ZUBAT
+	db 22, NOSFERAPTI
 	db 22, NOSFERALTO
 	db 23, CADOIZO
 	db 24, NOSFERALTO
@@ -734,7 +734,7 @@ JohtoGrassWildMons:
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	db 22, MARCACRIN
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 23, NOSFERALTO
 	db 24, MARCACRIN
 	db 25, NOSFERALTO
@@ -742,7 +742,7 @@ JohtoGrassWildMons:
 	db 22, LIPPOUTOU
 	; day
 	db 22, MARCACRIN
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 23, NOSFERALTO
 	db 24, MARCACRIN
 	db 25, NOSFERALTO
@@ -750,7 +750,7 @@ JohtoGrassWildMons:
 	db 22, LIPPOUTOU
 	; nite
 	db 22, CADOIZO
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 23, NOSFERALTO
 	db 24, CADOIZO
 	db 25, NOSFERALTO
@@ -762,7 +762,7 @@ JohtoGrassWildMons:
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	db 23, MARCACRIN
-	db 24, ZUBAT
+	db 24, NOSFERAPTI
 	db 24, NOSFERALTO
 	db 25, MARCACRIN
 	db 26, NOSFERALTO
@@ -770,7 +770,7 @@ JohtoGrassWildMons:
 	db 24, LIPPOUTOU
 	; day
 	db 23, MARCACRIN
-	db 24, ZUBAT
+	db 24, NOSFERAPTI
 	db 24, NOSFERALTO
 	db 25, MARCACRIN
 	db 26, NOSFERALTO
@@ -778,7 +778,7 @@ JohtoGrassWildMons:
 	db 24, LIPPOUTOU
 	; nite
 	db 23, CADOIZO
-	db 24, ZUBAT
+	db 24, NOSFERAPTI
 	db 24, NOSFERALTO
 	db 25, CADOIZO
 	db 26, NOSFERALTO
@@ -790,7 +790,7 @@ JohtoGrassWildMons:
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	db 23, MARCACRIN
-	db 24, ZUBAT
+	db 24, NOSFERAPTI
 	db 24, NOSFERALTO
 	db 25, MARCACRIN
 	db 26, NOSFERALTO
@@ -798,7 +798,7 @@ JohtoGrassWildMons:
 	db 24, LIPPOUTOU
 	; day
 	db 23, MARCACRIN
-	db 24, ZUBAT
+	db 24, NOSFERAPTI
 	db 24, NOSFERALTO
 	db 25, MARCACRIN
 	db 26, NOSFERALTO
@@ -806,7 +806,7 @@ JohtoGrassWildMons:
 	db 24, LIPPOUTOU
 	; nite
 	db 23, CADOIZO
-	db 24, ZUBAT
+	db 24, NOSFERAPTI
 	db 24, NOSFERALTO
 	db 25, CADOIZO
 	db 26, NOSFERALTO
@@ -818,7 +818,7 @@ JohtoGrassWildMons:
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	db 24, MARCACRIN
-	db 25, ZUBAT
+	db 25, NOSFERAPTI
 	db 25, NOSFERALTO
 	db 26, MARCACRIN
 	db 22, LIPPOUTOU
@@ -826,7 +826,7 @@ JohtoGrassWildMons:
 	db 26, LIPPOUTOU
 	; day
 	db 24, MARCACRIN
-	db 25, ZUBAT
+	db 25, NOSFERAPTI
 	db 25, NOSFERALTO
 	db 26, MARCACRIN
 	db 22, LIPPOUTOU
@@ -834,7 +834,7 @@ JohtoGrassWildMons:
 	db 26, LIPPOUTOU
 	; nite
 	db 24, CADOIZO
-	db 25, ZUBAT
+	db 25, NOSFERAPTI
 	db 25, NOSFERALTO
 	db 26, CADOIZO
 	db 22, FARFURET
@@ -846,7 +846,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, SEEL
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -854,7 +854,7 @@ JohtoGrassWildMons:
 	db 24, SEEL
 	; day
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, SEEL
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -862,7 +862,7 @@ JohtoGrassWildMons:
 	db 24, SEEL
 	; nite
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, KRABBY
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -874,7 +874,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, SEEL
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -882,7 +882,7 @@ JohtoGrassWildMons:
 	db 24, SEEL
 	; day
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, SEEL
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -890,7 +890,7 @@ JohtoGrassWildMons:
 	db 24, SEEL
 	; nite
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, KRABBY
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -902,7 +902,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, SEEL
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -910,7 +910,7 @@ JohtoGrassWildMons:
 	db 24, SEEL
 	; day
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, SEEL
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -918,7 +918,7 @@ JohtoGrassWildMons:
 	db 24, SEEL
 	; nite
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, KRABBY
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -930,7 +930,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, SEEL
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -938,7 +938,7 @@ JohtoGrassWildMons:
 	db 24, SEEL
 	; day
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, SEEL
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -946,7 +946,7 @@ JohtoGrassWildMons:
 	db 24, SEEL
 	; nite
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, KRABBY
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -958,7 +958,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, SEEL
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -966,7 +966,7 @@ JohtoGrassWildMons:
 	db 24, SEEL
 	; day
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, SEEL
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -974,7 +974,7 @@ JohtoGrassWildMons:
 	db 24, SEEL
 	; nite
 	db 22, KRABBY
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 22, KRABBY
 	db 24, KRABBY
 	db 25, NOSFERALTO
@@ -986,7 +986,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 23, KRABBY
-	db 24, ZUBAT
+	db 24, NOSFERAPTI
 	db 23, SEEL
 	db 25, KRABBY
 	db 26, NOSFERALTO
@@ -994,7 +994,7 @@ JohtoGrassWildMons:
 	db 25, SEEL
 	; day
 	db 23, KRABBY
-	db 24, ZUBAT
+	db 24, NOSFERAPTI
 	db 23, SEEL
 	db 25, KRABBY
 	db 26, NOSFERALTO
@@ -1002,7 +1002,7 @@ JohtoGrassWildMons:
 	db 25, SEEL
 	; nite
 	db 23, KRABBY
-	db 24, ZUBAT
+	db 24, NOSFERAPTI
 	db 23, KRABBY
 	db 25, KRABBY
 	db 26, NOSFERALTO
@@ -1014,7 +1014,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 24, KRABBY
-	db 25, ZUBAT
+	db 25, NOSFERAPTI
 	db 24, SEEL
 	db 26, KRABBY
 	db 27, NOSFERALTO
@@ -1022,7 +1022,7 @@ JohtoGrassWildMons:
 	db 26, SEEL
 	; day
 	db 24, KRABBY
-	db 25, ZUBAT
+	db 25, NOSFERAPTI
 	db 24, SEEL
 	db 26, KRABBY
 	db 27, NOSFERALTO
@@ -1030,7 +1030,7 @@ JohtoGrassWildMons:
 	db 26, SEEL
 	; nite
 	db 24, KRABBY
-	db 25, ZUBAT
+	db 25, NOSFERAPTI
 	db 24, KRABBY
 	db 26, KRABBY
 	db 27, NOSFERALTO
@@ -1042,7 +1042,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 25, KRABBY
-	db 26, ZUBAT
+	db 26, NOSFERAPTI
 	db 25, SEEL
 	db 27, KRABBY
 	db 28, NOSFERALTO
@@ -1050,7 +1050,7 @@ JohtoGrassWildMons:
 	db 27, SEEL
 	; day
 	db 25, KRABBY
-	db 26, ZUBAT
+	db 26, NOSFERAPTI
 	db 25, SEEL
 	db 27, KRABBY
 	db 28, NOSFERALTO
@@ -1058,7 +1058,7 @@ JohtoGrassWildMons:
 	db 27, SEEL
 	; nite
 	db 25, KRABBY
-	db 26, ZUBAT
+	db 26, NOSFERAPTI
 	db 25, KRABBY
 	db 27, KRABBY
 	db 28, NOSFERALTO
@@ -1182,27 +1182,27 @@ JohtoGrassWildMons:
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
 	db 3, GEODUDE
-	db 2, ZUBAT
+	db 2, NOSFERAPTI
 	db 2, GEODUDE
 	db 4, GEODUDE
 	db 2, TEDDIURSA
-	db 4, ZUBAT
+	db 4, NOSFERAPTI
 	db 4, INSOLOURDO
 	; day
 	db 3, GEODUDE
-	db 2, ZUBAT
+	db 2, NOSFERAPTI
 	db 2, GEODUDE
 	db 4, GEODUDE
-	db 2, ZUBAT
-	db 4, ZUBAT
+	db 2, NOSFERAPTI
+	db 4, NOSFERAPTI
 	db 4, INSOLOURDO
 	; nite
 	db 3, GEODUDE
-	db 2, ZUBAT
+	db 2, NOSFERAPTI
 	db 2, GEODUDE
 	db 4, GEODUDE
-	db 2, ZUBAT
-	db 4, ZUBAT
+	db 2, NOSFERAPTI
+	db 4, NOSFERAPTI
 	db 4, INSOLOURDO
 	end_grass_wildmons
 
@@ -1210,7 +1210,7 @@ JohtoGrassWildMons:
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
 	db 23, GEODUDE
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 25, GRAVALANCH
 	db 25, URSARING
 	db 20, TEDDIURSA
@@ -1218,7 +1218,7 @@ JohtoGrassWildMons:
 	db 23, NOSFERALTO
 	; day
 	db 23, GEODUDE
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 25, GRAVALANCH
 	db 25, URSARING
 	db 30, URSARING
@@ -1226,7 +1226,7 @@ JohtoGrassWildMons:
 	db 23, NOSFERALTO
 	; nite
 	db 23, GEODUDE
-	db 23, ZUBAT
+	db 23, NOSFERAPTI
 	db 25, GRAVALANCH
 	db 20, WOBBUFFET
 	db 25, WOBBUFFET
@@ -1285,7 +1285,7 @@ JohtoGrassWildMons:
 	db 3, HOOTHOOT
 	db 4, POLIWAG
 	db 4, HOOTHOOT
-	db 3, ZUBAT
+	db 3, NOSFERAPTI
 	db 4, HOOTHOOT
 	db 4, HOOTHOOT
 	end_grass_wildmons
@@ -1313,7 +1313,7 @@ JohtoGrassWildMons:
 	db 4, POLIWAG
 	db 5, CHETIFLOR
 	db 5, HOOTHOOT
-	db 4, ZUBAT
+	db 4, NOSFERAPTI
 	db 5, FANTOMINUS
 	db 5, FANTOMINUS
 	end_grass_wildmons
@@ -1340,7 +1340,7 @@ JohtoGrassWildMons:
 	db 4, AXOLOTO
 	db 5, RATTATA
 	db 7, CHETIFLOR
-	db 6, ZUBAT
+	db 6, NOSFERAPTI
 	db 7, HOOTHOOT
 	db 7, FANTOMINUS
 	db 7, FANTOMINUS
@@ -1366,9 +1366,9 @@ JohtoGrassWildMons:
 	db 7, GRANIVOL
 	; nite
 	db 6, RATTATA
-	db 6, ZUBAT
+	db 6, NOSFERAPTI
 	db 6, GEODUDE
-	db 6, ZUBAT
+	db 6, NOSFERAPTI
 	db 7, RATTATA
 	db 7, RATTATA
 	db 7, RATTATA
@@ -1562,7 +1562,7 @@ JohtoGrassWildMons:
 	db 16, FEAROW
 	; nite
 	db 13, RATTATA
-	db 14, ZUBAT
+	db 14, NOSFERAPTI
 	db 15, RATICATE
 	db 16, NOSFERALTO
 	db 15, MARILL

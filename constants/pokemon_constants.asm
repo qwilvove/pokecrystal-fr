@@ -59,7 +59,7 @@
 	const FEUNARD  ; 26
 	const JIGGLYPUFF ; 27
 	const GRODOUDOU ; 28
-	const ZUBAT      ; 29
+	const NOSFERAPTI      ; 29
 	const NOSFERALTO     ; 2a
 	const MYSTHERBE     ; 2b
 	const GLOOM      ; 2c

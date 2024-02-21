@@ -8,7 +8,7 @@ SpriteMons:
 	db KOKIYAS
 	db MYSTHERBE
 	db ECTOPLASMA
-	db ZUBAT
+	db NOSFERAPTI
 	db MAGICARPE
 	db CARAPUCE
 	db TOGEPI

@@ -83,8 +83,8 @@ PokemonPicPointers::
 	dba_pic JigglypuffBackpic
 	dba_pic GrodoudouFrontpic
 	dba_pic GrodoudouBackpic
-	dba_pic ZubatFrontpic
-	dba_pic ZubatBackpic
+	dba_pic NosferaptiFrontpic
+	dba_pic NosferaptiBackpic
 	dba_pic NosferaltoFrontpic
 	dba_pic NosferaltoBackpic
 	dba_pic MystherbeFrontpic

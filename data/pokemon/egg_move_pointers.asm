@@ -40,7 +40,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw ZubatEggMoves
+	dw NosferaptiEggMoves
 	dw NoEggMoves
 	dw MystherbeEggMoves
 	dw NoEggMoves

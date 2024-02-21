@@ -38,7 +38,7 @@ NewPokedexOrder:
 	db GEODUDE
 	db GRAVALANCH
 	db GROLEM
-	db ZUBAT
+	db NOSFERAPTI
 	db NOSFERALTO
 	db CROBAT
 	db MELO

@@ -40,7 +40,7 @@ FramesPointers:
 	dw FeunardFrames
 	dw JigglypuffFrames
 	dw GrodoudouFrames
-	dw ZubatFrames
+	dw NosferaptiFrames
 	dw NosferaltoFrames
 	dw MystherbeFrames
 	dw GloomFrames

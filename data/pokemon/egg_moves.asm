@@ -103,7 +103,7 @@ GoupixEggMoves:
 	db DISABLE
 	db -1 ; end
 
-ZubatEggMoves:
+NosferaptiEggMoves:
 	db QUICK_ATTACK
 	db PURSUIT
 	db FAINT_ATTACK

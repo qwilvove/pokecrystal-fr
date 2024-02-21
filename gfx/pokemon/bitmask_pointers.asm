@@ -40,7 +40,7 @@ BitmasksPointers:
 	dw FeunardBitmasks
 	dw JigglypuffBitmasks
 	dw GrodoudouBitmasks
-	dw ZubatBitmasks
+	dw NosferaptiBitmasks
 	dw NosferaltoBitmasks
 	dw MystherbeBitmasks
 	dw GloomBitmasks

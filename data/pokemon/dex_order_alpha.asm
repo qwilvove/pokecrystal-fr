@@ -160,7 +160,7 @@ AlphabeticalPokedexOrder:
 	db NOCTALI
 	db NOEUNOEUF
 	db NOSFERALTO
-	db ZUBAT
+	db NOSFERAPTI
 	db CROBAT
 	db OCTILLERY
 	db ONIX

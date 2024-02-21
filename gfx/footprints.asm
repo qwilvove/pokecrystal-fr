@@ -102,7 +102,7 @@ INCBIN "gfx/footprints/feunard.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/jigglypuff.1bpp", footprint_bottom
 INCBIN "gfx/footprints/grodoudou.1bpp", footprint_bottom
 ; 041-048 top halves
-INCBIN "gfx/footprints/zubat.1bpp",      footprint_top
+INCBIN "gfx/footprints/nosferapti.1bpp",      footprint_top
 INCBIN "gfx/footprints/nosferalto.1bpp",     footprint_top
 INCBIN "gfx/footprints/mystherbe.1bpp",     footprint_top
 INCBIN "gfx/footprints/gloom.1bpp",      footprint_top
@@ -111,7 +111,7 @@ INCBIN "gfx/footprints/paras.1bpp",      footprint_top
 INCBIN "gfx/footprints/parasect.1bpp",   footprint_top
 INCBIN "gfx/footprints/mimitoss.1bpp",    footprint_top
 ; 041-048 bottom halves
-INCBIN "gfx/footprints/zubat.1bpp",      footprint_bottom
+INCBIN "gfx/footprints/nosferapti.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/nosferalto.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/mystherbe.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/gloom.1bpp",      footprint_bottom

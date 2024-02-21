@@ -42,7 +42,7 @@ KantoMonSpecials:
 	db 100 ; FEUNARD
 	db  25 ; JIGGLYPUFF
 	db  50 ; GRODOUDOU
-	db  40 ; ZUBAT
+	db  40 ; NOSFERAPTI
 	db  75 ; NOSFERALTO
 	db  75 ; MYSTHERBE
 	db  85 ; GLOOM

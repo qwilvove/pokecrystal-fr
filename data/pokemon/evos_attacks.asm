@@ -529,7 +529,7 @@ GrodoudouEvosAttacks:
 	db 1, DOUBLESLAP
 	db 0 ; no more level-up moves
 
-ZubatEvosAttacks:
+NosferaptiEvosAttacks:
 	db EVOLVE_LEVEL, 22, NOSFERALTO
 	db 0 ; no more evolutions
 	db 1, LEECH_LIFE

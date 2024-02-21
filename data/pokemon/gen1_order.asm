@@ -106,7 +106,7 @@ Pokered_MonIndices:
 	db JOLTEON
 	db AQUALI
 	db MACHOC
-	db ZUBAT
+	db NOSFERAPTI
 	db ABO
 	db PARAS
 	db POLIWHIRL

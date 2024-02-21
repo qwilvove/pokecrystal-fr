@@ -33,7 +33,7 @@ KantoGrassWildMons:
 	def_grass_wildmons MOUNT_MOON
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 6, ZUBAT
+	db 6, NOSFERAPTI
 	db 8, GEODUDE
 	db 8, SANDSHREW
 	db 12, PARAS
@@ -41,7 +41,7 @@ KantoGrassWildMons:
 	db 8, MELOFEE
 	db 8, MELOFEE
 	; day
-	db 6, ZUBAT
+	db 6, NOSFERAPTI
 	db 8, GEODUDE
 	db 8, SANDSHREW
 	db 12, PARAS
@@ -49,7 +49,7 @@ KantoGrassWildMons:
 	db 8, MELOFEE
 	db 8, MELOFEE
 	; nite
-	db 6, ZUBAT
+	db 6, NOSFERAPTI
 	db 8, GEODUDE
 	db 8, MELOFEE
 	db 12, PARAS
@@ -64,7 +64,7 @@ KantoGrassWildMons:
 	db 10, CUBONE
 	db 11, GEODUDE
 	db 12, MACHOC
-	db 12, ZUBAT
+	db 12, NOSFERAPTI
 	db 15, MACHOPEUR
 	db 12, MAROWAK
 	db 12, MAROWAK
@@ -72,18 +72,18 @@ KantoGrassWildMons:
 	db 10, CUBONE
 	db 11, GEODUDE
 	db 12, MACHOC
-	db 12, ZUBAT
+	db 12, NOSFERAPTI
 	db 15, MACHOPEUR
 	db 12, MAROWAK
 	db 12, MAROWAK
 	; nite
-	db 12, ZUBAT
+	db 12, NOSFERAPTI
 	db 11, GEODUDE
 	db 12, GEODUDE
 	db 17, HAUNTER
-	db 15, ZUBAT
-	db 15, ZUBAT
-	db 15, ZUBAT
+	db 15, NOSFERAPTI
+	db 15, NOSFERAPTI
+	db 15, NOSFERAPTI
 	end_grass_wildmons
 
 	def_grass_wildmons ROCK_TUNNEL_B1F
@@ -92,7 +92,7 @@ KantoGrassWildMons:
 	db 12, CUBONE
 	db 14, GEODUDE
 	db 16, ONIX
-	db 12, ZUBAT
+	db 12, NOSFERAPTI
 	db 15, MAROWAK
 	db 15, KANGOUREX
 	db 15, KANGOUREX
@@ -100,15 +100,15 @@ KantoGrassWildMons:
 	db 12, CUBONE
 	db 14, GEODUDE
 	db 16, ONIX
-	db 12, ZUBAT
+	db 12, NOSFERAPTI
 	db 15, MAROWAK
 	db 15, KANGOUREX
 	db 15, KANGOUREX
 	; nite
-	db 12, ZUBAT
+	db 12, NOSFERAPTI
 	db 14, GEODUDE
 	db 16, ONIX
-	db 15, ZUBAT
+	db 15, NOSFERAPTI
 	db 15, HAUNTER
 	db 15, NOSFERALTO
 	db 15, NOSFERALTO
@@ -145,7 +145,7 @@ KantoGrassWildMons:
 	def_grass_wildmons TOHJO_FALLS
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 22, ZUBAT
+	db 22, NOSFERAPTI
 	db 22, RATICATE
 	db 24, NOSFERALTO
 	db 21, SLOWPOKE
@@ -153,7 +153,7 @@ KantoGrassWildMons:
 	db 23, SLOWPOKE
 	db 23, SLOWPOKE
 	; day
-	db 22, ZUBAT
+	db 22, NOSFERAPTI
 	db 22, RATICATE
 	db 24, NOSFERALTO
 	db 21, SLOWPOKE
@@ -161,7 +161,7 @@ KantoGrassWildMons:
 	db 23, SLOWPOKE
 	db 23, SLOWPOKE
 	; nite
-	db 22, ZUBAT
+	db 22, NOSFERAPTI
 	db 22, RATICATE
 	db 24, NOSFERALTO
 	db 21, SLOWPOKE
@@ -248,7 +248,7 @@ KantoGrassWildMons:
 	db 5, RATTATA
 	db 10, RATTATA
 	db 10, RATICATE
-	db 6, ZUBAT
+	db 6, NOSFERAPTI
 	db 5, RATTATA
 	db 6, MELOFEE
 	db 6, MELOFEE
@@ -276,7 +276,7 @@ KantoGrassWildMons:
 	db 5, RATTATA
 	db 10, RATTATA
 	db 10, RATICATE
-	db 6, ZUBAT
+	db 6, NOSFERAPTI
 	db 5, RATTATA
 	db 6, MELOFEE
 	db 6, MELOFEE
@@ -417,7 +417,7 @@ KantoGrassWildMons:
 	db 15, MIMITOSS
 	db 15, RATICATE
 	db 15, AEROMITE
-	db 15, ZUBAT
+	db 15, NOSFERAPTI
 	db 18, RATICATE
 	db 18, RATICATE
 	end_grass_wildmons
@@ -445,7 +445,7 @@ KantoGrassWildMons:
 	db 17, VOLTORB
 	db 15, RATICATE
 	db 15, AEROMITE
-	db 15, ZUBAT
+	db 15, NOSFERAPTI
 	db 16, ELEKTEK
 	db 16, ELEKTEK
 	end_grass_wildmons

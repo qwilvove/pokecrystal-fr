@@ -42,7 +42,7 @@ EvosAttacksPointers::
 	dw FeunardEvosAttacks
 	dw JigglypuffEvosAttacks
 	dw GrodoudouEvosAttacks
-	dw ZubatEvosAttacks
+	dw NosferaptiEvosAttacks
 	dw NosferaltoEvosAttacks
 	dw MystherbeEvosAttacks
 	dw GloomEvosAttacks
