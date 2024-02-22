@@ -4,7 +4,7 @@ Pokered_MonIndices:
 	db KANGOUREX
 	db NIDORAN_M
 	db MELOFEE
-	db SPEAROW
+	db PIAFABEC
 	db VOLTORB
 	db NIDOKING
 	db FLAGADOSS

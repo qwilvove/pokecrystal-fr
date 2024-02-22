@@ -7,7 +7,7 @@ AsleepTreeMonsNite:
 	db ASPICOT
 	db COCONFORT
 	db DARDARGNAN
-	db SPEAROW
+	db PIAFABEC
 	db ABO
 	db NOEUNOEUF
 	db COXY

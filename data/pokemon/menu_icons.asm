@@ -22,7 +22,7 @@ MonMenuIcons:
 	db ICON_BIRD        ; PIDGEOT
 	db ICON_FOX         ; RATTATA
 	db ICON_FOX         ; RATICATE
-	db ICON_BIRD        ; SPEAROW
+	db ICON_BIRD        ; PIAFABEC
 	db ICON_BIRD        ; FEAROW
 	db ICON_SERPENT     ; ABO
 	db ICON_SERPENT     ; ARBOK

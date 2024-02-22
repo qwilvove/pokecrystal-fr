@@ -174,7 +174,7 @@ AlphabeticalPokedexOrder:
 	db PERSIAN
 	db PHANPY
 	db PHARAMP
-	db SPEAROW
+	db PIAFABEC
 	db PICHU
 	db PIKACHU
 	db GOLDEEN

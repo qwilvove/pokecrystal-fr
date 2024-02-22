@@ -229,7 +229,7 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_3
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 5, SPEAROW
+	db 5, PIAFABEC
 	db 5, RATTATA
 	db 8, ABO
 	db 10, RATICATE
@@ -237,7 +237,7 @@ KantoGrassWildMons:
 	db 10, SANDSHREW
 	db 10, SANDSHREW
 	; day
-	db 5, SPEAROW
+	db 5, PIAFABEC
 	db 5, RATTATA
 	db 8, ABO
 	db 10, RATICATE
@@ -257,7 +257,7 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_4
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 5, SPEAROW
+	db 5, PIAFABEC
 	db 5, RATTATA
 	db 8, ABO
 	db 10, RATICATE
@@ -265,7 +265,7 @@ KantoGrassWildMons:
 	db 10, SANDSHREW
 	db 10, SANDSHREW
 	; day
-	db 5, SPEAROW
+	db 5, PIAFABEC
 	db 5, RATTATA
 	db 8, ABO
 	db 10, RATICATE
@@ -342,7 +342,7 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 17, RATTATA
-	db 17, SPEAROW
+	db 17, PIAFABEC
 	db 18, SNUBBULL
 	db 18, RATICATE
 	db 18, JIGGLYPUFF
@@ -350,7 +350,7 @@ KantoGrassWildMons:
 	db 16, ABRA
 	; day
 	db 17, RATTATA
-	db 17, SPEAROW
+	db 17, PIAFABEC
 	db 18, SNUBBULL
 	db 18, RATICATE
 	db 18, JIGGLYPUFF
@@ -398,7 +398,7 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 15, RATTATA
-	db 15, SPEAROW
+	db 15, PIAFABEC
 	db 15, RATICATE
 	db 15, FEAROW
 	db 15, FEAROW
@@ -406,7 +406,7 @@ KantoGrassWildMons:
 	db 18, OSSATUEUR
 	; day
 	db 15, RATTATA
-	db 15, SPEAROW
+	db 15, PIAFABEC
 	db 15, RATICATE
 	db 15, FEAROW
 	db 15, FEAROW
@@ -425,7 +425,7 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_10_NORTH
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 15, SPEAROW
+	db 15, PIAFABEC
 	db 17, VOLTORB
 	db 15, RATICATE
 	db 15, FEAROW
@@ -433,7 +433,7 @@ KantoGrassWildMons:
 	db 16, ELEKTEK
 	db 16, ELEKTEK
 	; day
-	db 15, SPEAROW
+	db 15, PIAFABEC
 	db 17, VOLTORB
 	db 15, RATICATE
 	db 15, FEAROW
@@ -678,16 +678,16 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 3, RATTATA
-	db 3, SPEAROW
-	db 5, SPEAROW
+	db 3, PIAFABEC
+	db 5, PIAFABEC
 	db 4, DODUO
 	db 6, PONYTA
 	db 7, FEAROW
 	db 7, FEAROW
 	; day
 	db 3, RATTATA
-	db 3, SPEAROW
-	db 5, SPEAROW
+	db 3, PIAFABEC
+	db 5, PIAFABEC
 	db 4, DODUO
 	db 6, PONYTA
 	db 7, FEAROW

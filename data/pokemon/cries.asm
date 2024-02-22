@@ -26,7 +26,7 @@ PokemonCries::
 	mon_cry CRY_PIDGEOTTO,    17,  383 ; PIDGEOT
 	mon_cry CRY_RATTATA,       0,  256 ; RATTATA
 	mon_cry CRY_RATTATA,      32,  383 ; RATICATE
-	mon_cry CRY_SPEAROW,       0,  256 ; SPEAROW
+	mon_cry CRY_PIAFABEC,       0,  256 ; PIAFABEC
 	mon_cry CRY_FEAROW,       64,  288 ; FEAROW
 	mon_cry CRY_ABO,        18,  192 ; ABO
 	mon_cry CRY_ABO,       224,  144 ; ARBOK
@@ -88,7 +88,7 @@ PokemonCries::
 	mon_cry CRY_CANINOS,     0,  256 ; FLAGADOSS
 	mon_cry CRY_CHRYSACIER,     128,  224 ; MAGNETI
 	mon_cry CRY_CHRYSACIER,      32,  320 ; MAGNETON
-	mon_cry CRY_SPEAROW,     221,  129 ; CANARTICHO
+	mon_cry CRY_PIAFABEC,     221,  129 ; CANARTICHO
 	mon_cry CRY_DIGLETT,     187,  129 ; DODUO
 	mon_cry CRY_DIGLETT,     153,  160 ; DODRIO
 	mon_cry CRY_OTARIA,        136,  320 ; OTARIA

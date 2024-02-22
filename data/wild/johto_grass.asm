@@ -1350,7 +1350,7 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 6, RATTATA
-	db 6, SPEAROW
+	db 6, PIAFABEC
 	db 6, GEODUDE
 	db 6, GRANIVOL
 	db 7, ABO
@@ -1358,7 +1358,7 @@ JohtoGrassWildMons:
 	db 7, GRANIVOL
 	; day
 	db 6, RATTATA
-	db 6, SPEAROW
+	db 6, PIAFABEC
 	db 6, GEODUDE
 	db 6, GRANIVOL
 	db 7, ABO
@@ -1546,7 +1546,7 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 13, ABO
-	db 14, SPEAROW
+	db 14, PIAFABEC
 	db 15, RATTATA
 	db 16, RATICATE
 	db 15, ARBOK
@@ -1554,7 +1554,7 @@ JohtoGrassWildMons:
 	db 16, FEAROW
 	; day
 	db 13, ABO
-	db 14, SPEAROW
+	db 14, PIAFABEC
 	db 15, RATTATA
 	db 16, RATICATE
 	db 15, ARBOK
@@ -1658,7 +1658,7 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 2, GEODUDE
-	db 2, SPEAROW
+	db 2, PIAFABEC
 	db 3, GEODUDE
 	db 3, RATTATA
 	db 2, PHANPY
@@ -1666,7 +1666,7 @@ JohtoGrassWildMons:
 	db 2, RATTATA
 	; day
 	db 2, GEODUDE
-	db 2, SPEAROW
+	db 2, PIAFABEC
 	db 3, GEODUDE
 	db 3, RATTATA
 	db 2, RATTATA

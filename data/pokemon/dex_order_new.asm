@@ -14,7 +14,7 @@ NewPokedexOrder:
 	db PIDGEY
 	db PIDGEOTTO
 	db PIDGEOT
-	db SPEAROW
+	db PIAFABEC
 	db FEAROW
 	db HOOTHOOT
 	db NOARFANG

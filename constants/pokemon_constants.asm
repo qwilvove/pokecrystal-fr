@@ -39,7 +39,7 @@
 	const PIDGEOT    ; 12
 	const RATTATA    ; 13
 	const RATICATE   ; 14
-	const SPEAROW    ; 15
+	const PIAFABEC    ; 15
 	const FEAROW     ; 16
 	const ABO      ; 17
 	const ARBOK      ; 18

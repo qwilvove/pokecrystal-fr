@@ -17,7 +17,7 @@ Cries:
 	dba Cry_Drowzee
 	dba Cry_Pidgey
 	dba Cry_Bulbizarre
-	dba Cry_Spearow
+	dba Cry_Piafabec
 	dba Cry_Rhydon
 	dba Cry_Grolem
 	dba Cry_Blastoise

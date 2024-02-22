@@ -950,11 +950,11 @@ Cry_Bulbizarre:
 	channel 6, Cry_Bulbizarre_Ch6
 	channel 8, Cry_Bulbizarre_Ch8
 
-Cry_Spearow:
+Cry_Piafabec:
 	channel_count 3
-	channel 5, Cry_Spearow_Ch5
-	channel 6, Cry_Spearow_Ch6
-	channel 8, Cry_Spearow_Ch8
+	channel 5, Cry_Piafabec_Ch5
+	channel 6, Cry_Piafabec_Ch6
+	channel 8, Cry_Piafabec_Ch8
 
 Cry_Rhydon:
 	channel_count 3
@@ -1317,7 +1317,7 @@ Cry_Bulbizarre_Ch8:
 	noise_note 15, 12, 2, 93
 	sound_ret
 
-Cry_Spearow_Ch5:
+Cry_Piafabec_Ch5:
 	duty_cycle_pattern 3, 0, 2, 1
 	square_note 8, 15, 7, 1664
 	square_note 2, 15, 7, 1632
@@ -1329,7 +1329,7 @@ Cry_Spearow_Ch5:
 	square_note 15, 9, 1, 1824
 	sound_ret
 
-Cry_Spearow_Ch6:
+Cry_Piafabec_Ch6:
 	duty_cycle_pattern 1, 3, 2, 1
 	square_note 10, 14, 7, 1666
 	square_note 2, 14, 7, 1634
@@ -1341,7 +1341,7 @@ Cry_Spearow_Ch6:
 	square_note 15, 8, 1, 1826
 	sound_ret
 
-Cry_Spearow_Ch8:
+Cry_Piafabec_Ch8:
 	noise_note 4, 7, 4, 33
 	noise_note 4, 7, 4, 16
 	noise_note 4, 7, 1, 32

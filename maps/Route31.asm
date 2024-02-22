@@ -195,7 +195,7 @@ Route31MailRecipientScript:
 .TryGiveKenya:
 	writetext Text_Route31SleepyManGotMail
 	promptbutton
-	checkpokemail ReceivedSpearowMailText
+	checkpokemail ReceivedPiafabecMailText
 	ifequal POKEMAIL_WRONG_MAIL, .WrongMail
 	ifequal POKEMAIL_REFUSED, .Refused
 	ifequal POKEMAIL_NO_MAIL, .NoMail
@@ -240,7 +240,7 @@ Route31MailRecipientScript:
 	closetext
 	end
 
-ReceivedSpearowMailText:
+ReceivedPiafabecMailText:
 	db   "ANTRE NOIRE    "
 	next "mène autre part@"
 

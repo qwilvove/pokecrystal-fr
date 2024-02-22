@@ -20,7 +20,7 @@ AnimationIdlePointers:
 	dw PidgeotAnimationIdle
 	dw RattataAnimationIdle
 	dw RaticateAnimationIdle
-	dw SpearowAnimationIdle
+	dw PiafabecAnimationIdle
 	dw FearowAnimationIdle
 	dw AboAnimationIdle
 	dw ArbokAnimationIdle

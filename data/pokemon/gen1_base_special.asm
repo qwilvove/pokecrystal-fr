@@ -22,7 +22,7 @@ KantoMonSpecials:
 	db  70 ; PIDGEOT
 	db  25 ; RATTATA
 	db  50 ; RATICATE
-	db  31 ; SPEAROW
+	db  31 ; PIAFABEC
 	db  61 ; FEAROW
 	db  40 ; ABO
 	db  65 ; ARBOK
