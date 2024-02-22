@@ -13,7 +13,7 @@ EvosAttacksPointers::
 	dw BlastoiseEvosAttacks
 	dw ChenipanEvosAttacks
 	dw ChrysacierEvosAttacks
-	dw ButterfreeEvosAttacks
+	dw PapilusionEvosAttacks
 	dw AspicotEvosAttacks
 	dw CoconfortEvosAttacks
 	dw DardargnanEvosAttacks

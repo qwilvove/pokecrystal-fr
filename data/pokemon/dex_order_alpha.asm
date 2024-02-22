@@ -168,7 +168,7 @@ AlphabeticalPokedexOrder:
 	db OSSATUEUR
 	db OSSELAIT
 	db OTARIA
-	db BUTTERFREE
+	db PAPILUSION
 	db PARAS
 	db PARASECT
 	db PERSIAN

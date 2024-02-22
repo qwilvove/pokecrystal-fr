@@ -11,7 +11,7 @@ AnimationPointers:
 	dw BlastoiseAnimation
 	dw ChenipanAnimation
 	dw ChrysacierAnimation
-	dw ButterfreeAnimation
+	dw PapilusionAnimation
 	dw AspicotAnimation
 	dw CoconfortAnimation
 	dw DardargnanAnimation

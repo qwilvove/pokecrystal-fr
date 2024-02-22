@@ -27,25 +27,25 @@ BugContestant_BugCatcherDon:
 
 BugContestant_BugCatcherEd:
 	db BUG_CATCHER, ED
-	dbw BUTTERFREE, 286
-	dbw BUTTERFREE, 251
+	dbw PAPILUSION, 286
+	dbw PAPILUSION, 251
 	dbw CHENIPAN,   237
 
 BugContestant_CooltrainerMNick:
 	db COOLTRAINERM, NICK
 	dbw INSECATEUR,    357
-	dbw BUTTERFREE, 349
+	dbw PAPILUSION, 349
 	dbw PINSIR,     368
 
 BugContestant_PokefanMWilliam:
 	db POKEFANM, WILLIAM
 	dbw PINSIR,     332
-	dbw BUTTERFREE, 324
+	dbw PAPILUSION, 324
 	dbw MIMITOSS,    321
 
 BugContestant_BugCatcherBenny:
 	db BUG_CATCHER, BUG_CATCHER_BENNY
-	dbw BUTTERFREE, 318
+	dbw PAPILUSION, 318
 	dbw ASPICOT,     295
 	dbw CHENIPAN,   285
 
@@ -57,14 +57,14 @@ BugContestant_CamperBarry:
 
 BugContestant_PicnickerCindy:
 	db PICNICKER, CINDY
-	dbw BUTTERFREE, 341
+	dbw PAPILUSION, 341
 	dbw CHRYSACIER,    301
 	dbw CHENIPAN,   264
 
 BugContestant_BugCatcherJosh:
 	db BUG_CATCHER, JOSH
 	dbw INSECATEUR,    326
-	dbw BUTTERFREE, 292
+	dbw PAPILUSION, 292
 	dbw CHRYSACIER,    282
 
 BugContestant_YoungsterSamuel:

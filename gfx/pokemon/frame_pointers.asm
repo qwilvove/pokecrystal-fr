@@ -11,7 +11,7 @@ FramesPointers:
 	dw BlastoiseFrames
 	dw ChenipanFrames
 	dw ChrysacierFrames
-	dw ButterfreeFrames
+	dw PapilusionFrames
 	dw AspicotFrames
 	dw CoconfortFrames
 	dw DardargnanFrames

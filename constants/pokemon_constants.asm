@@ -30,7 +30,7 @@
 	const BLASTOISE  ; 09
 	const CHENIPAN   ; 0a
 	const CHRYSACIER    ; 0b
-	const BUTTERFREE ; 0c
+	const PAPILUSION ; 0c
 	const ASPICOT     ; 0d
 	const COCONFORT     ; 0e
 	const DARDARGNAN   ; 0f

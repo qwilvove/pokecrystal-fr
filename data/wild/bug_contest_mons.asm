@@ -4,7 +4,7 @@ ContestMons:
 	db 20, ASPICOT,      7, 18
 	db 10, CHRYSACIER,     9, 18
 	db 10, COCONFORT,      9, 18
-	db  5, BUTTERFREE, 12, 15
+	db  5, PAPILUSION, 12, 15
 	db  5, DARDARGNAN,   12, 15
 	db 10, MIMITOSS,    10, 16
 	db 10, PARAS,      10, 17

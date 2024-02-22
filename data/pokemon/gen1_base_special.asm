@@ -13,7 +13,7 @@ KantoMonSpecials:
 	db  85 ; BLASTOISE
 	db  20 ; CHENIPAN
 	db  25 ; CHRYSACIER
-	db  80 ; BUTTERFREE
+	db  80 ; PAPILUSION
 	db  20 ; ASPICOT
 	db  25 ; COCONFORT
 	db  45 ; DARDARGNAN

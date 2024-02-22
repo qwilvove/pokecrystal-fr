@@ -11,7 +11,7 @@ BitmasksPointers:
 	dw BlastoiseBitmasks
 	dw ChenipanBitmasks
 	dw ChrysacierBitmasks
-	dw ButterfreeBitmasks
+	dw PapilusionBitmasks
 	dw AspicotBitmasks
 	dw CoconfortBitmasks
 	dw DardargnanBitmasks

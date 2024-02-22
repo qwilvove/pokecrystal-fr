@@ -11,7 +11,7 @@ AnimationIdlePointers:
 	dw BlastoiseAnimationIdle
 	dw ChenipanAnimationIdle
 	dw ChrysacierAnimationIdle
-	dw ButterfreeAnimationIdle
+	dw PapilusionAnimationIdle
 	dw AspicotAnimationIdle
 	dw CoconfortAnimationIdle
 	dw DardargnanAnimationIdle

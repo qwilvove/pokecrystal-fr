@@ -174,13 +174,13 @@ ChenipanEvosAttacks:
 	db 0 ; no more level-up moves
 
 ChrysacierEvosAttacks:
-	db EVOLVE_LEVEL, 10, BUTTERFREE
+	db EVOLVE_LEVEL, 10, PAPILUSION
 	db 0 ; no more evolutions
 	db 1, HARDEN
 	db 7, HARDEN
 	db 0 ; no more level-up moves
 
-ButterfreeEvosAttacks:
+PapilusionEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, CONFUSION
 	db 10, CONFUSION

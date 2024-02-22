@@ -12,7 +12,7 @@ PokedexDataPointerTable:
 	dw BlastoisePokedexEntry
 	dw ChenipanPokedexEntry
 	dw ChrysacierPokedexEntry
-	dw ButterfreePokedexEntry
+	dw PapilusionPokedexEntry
 	dw AspicotPokedexEntry
 	dw CoconfortPokedexEntry
 	dw DardargnanPokedexEntry
