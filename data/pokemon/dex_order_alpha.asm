@@ -179,7 +179,7 @@ AlphabeticalPokedexOrder:
 	db PIKACHU
 	db POISSIRENE
 	db POISSOROY
-	db PINECO
+	db POMDEPIK
 	db PONYTA
 	db PORYGON
 	db PORYGON2

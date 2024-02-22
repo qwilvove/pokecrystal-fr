@@ -205,7 +205,7 @@ MonMenuIcons:
 	db ICON_UNOWN       ; UNOWN
 	db ICON_GHOST       ; WOBBUFFET
 	db ICON_EQUINE      ; GIRAFARIG
-	db ICON_BUG         ; PINECO
+	db ICON_BUG         ; POMDEPIK
 	db ICON_BUG         ; FORETRESS
 	db ICON_SERPENT     ; INSOLOURDO
 	db ICON_BUG         ; GLIGAR

@@ -243,7 +243,7 @@ Pokered_MonIndices:
 	db UNOWN
 	db WOBBUFFET
 	db GIRAFARIG
-	db PINECO
+	db POMDEPIK
 	db FORETRESS
 	db INSOLOURDO
 	db GLIGAR

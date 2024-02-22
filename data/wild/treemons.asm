@@ -64,8 +64,8 @@ TreeMonSet_Route:
 	db -1
 ; rare
 	db 50, HOOTHOOT,   10
-	db 15, PINECO,     10
-	db 15, PINECO,     10
+	db 15, POMDEPIK,     10
+	db 15, POMDEPIK,     10
 	db 10, NOEUNOEUF,  10
 	db  5, NOEUNOEUF,  10
 	db  5, NOEUNOEUF,  10
@@ -82,8 +82,8 @@ TreeMonSet_Kanto:
 	db -1
 ; rare
 	db 50, HOOTHOOT,   10
-	db 15, PINECO,     10
-	db 15, PINECO,     10
+	db 15, POMDEPIK,     10
+	db 15, POMDEPIK,     10
 	db 10, NOEUNOEUF,  10
 	db  5, NOEUNOEUF,  10
 	db  5, NOEUNOEUF,  10
@@ -100,8 +100,8 @@ TreeMonSet_Lake:
 	db -1
 ; rare
 	db 50, HOOTHOOT,   10
-	db 15, PINECO,     10
-	db 15, PINECO,     10
+	db 15, POMDEPIK,     10
+	db 15, POMDEPIK,     10
 	db 10, NOEUNOEUF,  10
 	db  5, NOEUNOEUF,  10
 	db  5, NOEUNOEUF,  10
@@ -110,8 +110,8 @@ TreeMonSet_Lake:
 TreeMonSet_Forest:
 ; common
 	db 50, HOOTHOOT,   10
-	db 15, PINECO,     10
-	db 15, PINECO,     10
+	db 15, POMDEPIK,     10
+	db 15, POMDEPIK,     10
 	db 10, NOARFANG,    10
 	db  5, PAPILUSION, 10
 	db  5, DARDARGNAN,   10

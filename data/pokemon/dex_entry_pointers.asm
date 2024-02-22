@@ -204,7 +204,7 @@ PokedexDataPointerTable:
 	dw UnownPokedexEntry
 	dw WobbuffetPokedexEntry
 	dw GirafarigPokedexEntry
-	dw PinecoPokedexEntry
+	dw PomdepikPokedexEntry
 	dw ForetressPokedexEntry
 	dw InsolourdoPokedexEntry
 	dw GligarPokedexEntry

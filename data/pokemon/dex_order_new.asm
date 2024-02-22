@@ -94,7 +94,7 @@ NewPokedexOrder:
 	db KADABRA
 	db ALAKAZAM
 	db METAMORPH
-	db PINECO
+	db POMDEPIK
 	db FORETRESS
 	db NIDORAN_F
 	db NIDORINA

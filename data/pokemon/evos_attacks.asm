@@ -2730,7 +2730,7 @@ GirafarigEvosAttacks:
 	db 54, CRUNCH
 	db 0 ; no more level-up moves
 
-PinecoEvosAttacks:
+PomdepikEvosAttacks:
 	db EVOLVE_LEVEL, 31, FORETRESS
 	db 0 ; no more evolutions
 	db 1, TACKLE

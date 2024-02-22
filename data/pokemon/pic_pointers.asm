@@ -412,8 +412,8 @@ PokemonPicPointers::
 	dba_pic WobbuffetBackpic
 	dba_pic GirafarigFrontpic
 	dba_pic GirafarigBackpic
-	dba_pic PinecoFrontpic
-	dba_pic PinecoBackpic
+	dba_pic PomdepikFrontpic
+	dba_pic PomdepikBackpic
 	dba_pic ForetressFrontpic
 	dba_pic ForetressBackpic
 	dba_pic InsolourdoFrontpic
