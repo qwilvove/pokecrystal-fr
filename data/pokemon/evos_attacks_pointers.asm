@@ -119,7 +119,7 @@ EvosAttacksPointers::
 	dw KangourexEvosAttacks
 	dw HypotrempeEvosAttacks
 	dw HypoceanEvosAttacks
-	dw GoldeenEvosAttacks
+	dw PoissireneEvosAttacks
 	dw SeakingEvosAttacks
 	dw StaryuEvosAttacks
 	dw StarmieEvosAttacks

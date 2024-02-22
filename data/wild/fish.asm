@@ -57,14 +57,14 @@ FishGroups:
 .Lake_Old:
 	db  70 percent + 1, MAGICARPE,   10
 	db  85 percent + 1, MAGICARPE,   10
-	db 100 percent,     GOLDEEN,    10
+	db 100 percent,     POISSIRENE,    10
 .Lake_Good:
 	db  35 percent,     MAGICARPE,   20
-	db  70 percent,     GOLDEEN,    20
-	db  90 percent + 1, GOLDEEN,    20
+	db  70 percent,     POISSIRENE,    20
+	db  90 percent + 1, POISSIRENE,    20
 	db 100 percent,     time_group 4
 .Lake_Super:
-	db  40 percent,     GOLDEEN,    40
+	db  40 percent,     POISSIRENE,    40
 	db  70 percent,     time_group 5
 	db  90 percent + 1, MAGICARPE,   40
 	db 100 percent,     SEAKING,    40
@@ -213,8 +213,8 @@ TimeFishGroups:
 	db CORAYON,    40,  STARYU,     40 ; 1
 	db KOKIYAS,   20,  KOKIYAS,   20 ; 2
 	db KOKIYAS,   40,  KOKIYAS,   40 ; 3
-	db GOLDEEN,    20,  GOLDEEN,    20 ; 4
-	db GOLDEEN,    40,  GOLDEEN,    40 ; 5
+	db POISSIRENE,    20,  POISSIRENE,    20 ; 4
+	db POISSIRENE,    40,  POISSIRENE,    40 ; 5
 	db POLIWAG,    20,  POLIWAG,    20 ; 6
 	db POLIWAG,    40,  POLIWAG,    40 ; 7
 	db MINIDRACO,    20,  MINIDRACO,    20 ; 8

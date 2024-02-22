@@ -117,7 +117,7 @@ AnimationPointers:
 	dw KangourexAnimation
 	dw HypotrempeAnimation
 	dw HypoceanAnimation
-	dw GoldeenAnimation
+	dw PoissireneAnimation
 	dw SeakingAnimation
 	dw StaryuAnimation
 	dw StarmieAnimation

@@ -117,7 +117,7 @@ FramesPointers:
 	dw KangourexFrames
 	dw HypotrempeFrames
 	dw HypoceanFrames
-	dw GoldeenFrames
+	dw PoissireneFrames
 	dw SeakingFrames
 	dw StaryuFrames
 	dw StarmieFrames

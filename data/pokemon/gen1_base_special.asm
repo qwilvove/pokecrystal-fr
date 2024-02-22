@@ -119,7 +119,7 @@ KantoMonSpecials:
 	db  40 ; KANGOUREX
 	db  70 ; HYPOTREMPE
 	db  95 ; HYPOCEAN
-	db  50 ; GOLDEEN
+	db  50 ; POISSIRENE
 	db  80 ; SEAKING
 	db  70 ; STARYU
 	db 100 ; STARMIE

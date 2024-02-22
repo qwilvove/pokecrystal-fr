@@ -117,7 +117,7 @@ BitmasksPointers:
 	dw KangourexBitmasks
 	dw HypotrempeBitmasks
 	dw HypoceanBitmasks
-	dw GoldeenBitmasks
+	dw PoissireneBitmasks
 	dw SeakingBitmasks
 	dw StaryuBitmasks
 	dw StarmieBitmasks

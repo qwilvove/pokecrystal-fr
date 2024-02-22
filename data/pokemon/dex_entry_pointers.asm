@@ -118,7 +118,7 @@ PokedexDataPointerTable:
 	dw KangourexPokedexEntry
 	dw HypotrempePokedexEntry
 	dw HypoceanPokedexEntry
-	dw GoldeenPokedexEntry
+	dw PoissirenePokedexEntry
 	dw SeakingPokedexEntry
 	dw StaryuPokedexEntry
 	dw StarmiePokedexEntry

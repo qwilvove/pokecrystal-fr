@@ -1,4 +1,4 @@
-	db GOLDEEN ; 118
+	db POISSIRENE ; 118
 
 	db  45,  67,  60,  63,  35,  50
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/goldeen/front.dimensions"
+	INCBIN "gfx/pokemon/poissirene/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_WATER_2, EGG_WATER_2 ; egg groups

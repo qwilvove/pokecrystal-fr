@@ -117,7 +117,7 @@ AnimationIdlePointers:
 	dw KangourexAnimationIdle
 	dw HypotrempeAnimationIdle
 	dw HypoceanAnimationIdle
-	dw GoldeenAnimationIdle
+	dw PoissireneAnimationIdle
 	dw SeakingAnimationIdle
 	dw StaryuAnimationIdle
 	dw StarmieAnimationIdle

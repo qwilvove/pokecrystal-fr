@@ -4,7 +4,7 @@ KantoWaterWildMons:
 
 	def_water_wildmons TOHJO_FALLS
 	db 4 percent ; encounter rate
-	db 20, GOLDEEN
+	db 20, POISSIRENE
 	db 20, SLOWPOKE
 	db 20, SEAKING
 	end_water_wildmons
@@ -18,8 +18,8 @@ KantoWaterWildMons:
 
 	def_water_wildmons ROUTE_4
 	db 4 percent ; encounter rate
-	db 10, GOLDEEN
-	db 5, GOLDEEN
+	db 10, POISSIRENE
+	db 5, POISSIRENE
 	db 10, SEAKING
 	end_water_wildmons
 
@@ -32,15 +32,15 @@ KantoWaterWildMons:
 
 	def_water_wildmons ROUTE_9
 	db 4 percent ; encounter rate
-	db 15, GOLDEEN
-	db 10, GOLDEEN
+	db 15, POISSIRENE
+	db 10, POISSIRENE
 	db 15, SEAKING
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_10_NORTH
 	db 4 percent ; encounter rate
-	db 15, GOLDEEN
-	db 10, GOLDEEN
+	db 15, POISSIRENE
+	db 10, POISSIRENE
 	db 15, SEAKING
 	end_water_wildmons
 
@@ -88,15 +88,15 @@ KantoWaterWildMons:
 
 	def_water_wildmons ROUTE_24
 	db 4 percent ; encounter rate
-	db 10, GOLDEEN
-	db 5, GOLDEEN
+	db 10, POISSIRENE
+	db 5, POISSIRENE
 	db 10, SEAKING
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_25
 	db 4 percent ; encounter rate
-	db 10, GOLDEEN
-	db 5, GOLDEEN
+	db 10, POISSIRENE
+	db 5, POISSIRENE
 	db 10, SEAKING
 	end_water_wildmons
 
@@ -137,8 +137,8 @@ KantoWaterWildMons:
 
 	def_water_wildmons CERULEAN_CITY
 	db 4 percent ; encounter rate
-	db 10, GOLDEEN
-	db 5, GOLDEEN
+	db 10, POISSIRENE
+	db 5, POISSIRENE
 	db 10, SEAKING
 	end_water_wildmons
 

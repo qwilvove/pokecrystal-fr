@@ -53,21 +53,21 @@ JohtoWaterWildMons:
 
 	def_water_wildmons MOUNT_MORTAR_1F_OUTSIDE
 	db 4 percent ; encounter rate
-	db 15, GOLDEEN
+	db 15, POISSIRENE
 	db 20, MARILL
 	db 20, SEAKING
 	end_water_wildmons
 
 	def_water_wildmons MOUNT_MORTAR_2F_INSIDE
 	db 2 percent ; encounter rate
-	db 20, GOLDEEN
+	db 20, POISSIRENE
 	db 25, MARILL
 	db 25, SEAKING
 	end_water_wildmons
 
 	def_water_wildmons MOUNT_MORTAR_B1F
 	db 2 percent ; encounter rate
-	db 15, GOLDEEN
+	db 15, POISSIRENE
 	db 20, MARILL
 	db 20, SEAKING
 	end_water_wildmons
@@ -97,7 +97,7 @@ JohtoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 35, SEAKING
 	db 35, AKWAKWAK
-	db 35, GOLDEEN
+	db 35, POISSIRENE
 	end_water_wildmons
 
 	def_water_wildmons DARK_CAVE_VIOLET_ENTRANCE
@@ -179,8 +179,8 @@ JohtoWaterWildMons:
 
 	def_water_wildmons ROUTE_42
 	db 4 percent ; encounter rate
-	db 20, GOLDEEN
-	db 15, GOLDEEN
+	db 20, POISSIRENE
+	db 15, POISSIRENE
 	db 20, SEAKING
 	end_water_wildmons
 

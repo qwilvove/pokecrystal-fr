@@ -177,7 +177,7 @@ AlphabeticalPokedexOrder:
 	db PIAFABEC
 	db PICHU
 	db PIKACHU
-	db GOLDEEN
+	db POISSIRENE
 	db SEAKING
 	db PINECO
 	db PONYTA

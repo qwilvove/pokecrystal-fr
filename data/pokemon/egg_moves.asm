@@ -371,7 +371,7 @@ HypotrempeEggMoves:
 	db DRAGON_RAGE
 	db -1 ; end
 
-GoldeenEggMoves:
+PoissireneEggMoves:
 	db PSYBEAM
 	db HAZE
 	db HYDRO_PUMP

@@ -117,7 +117,7 @@ EggMovePointers::
 	dw KangourexEggMoves
 	dw HypotrempeEggMoves
 	dw NoEggMoves
-	dw GoldeenEggMoves
+	dw PoissireneEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
