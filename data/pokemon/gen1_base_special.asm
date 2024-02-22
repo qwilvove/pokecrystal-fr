@@ -120,7 +120,7 @@ KantoMonSpecials:
 	db  70 ; HYPOTREMPE
 	db  95 ; HYPOCEAN
 	db  50 ; POISSIRENE
-	db  80 ; SEAKING
+	db  80 ; POISSOROY
 	db  70 ; STARYU
 	db 100 ; STARMIE
 	db 100 ; M__MIME

@@ -118,7 +118,7 @@ AnimationIdlePointers:
 	dw HypotrempeAnimationIdle
 	dw HypoceanAnimationIdle
 	dw PoissireneAnimationIdle
-	dw SeakingAnimationIdle
+	dw PoissoroyAnimationIdle
 	dw StaryuAnimationIdle
 	dw StarmieAnimationIdle
 	dw MMimeAnimationIdle

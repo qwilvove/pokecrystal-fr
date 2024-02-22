@@ -118,7 +118,7 @@ AnimationPointers:
 	dw HypotrempeAnimation
 	dw HypoceanAnimation
 	dw PoissireneAnimation
-	dw SeakingAnimation
+	dw PoissoroyAnimation
 	dw StaryuAnimation
 	dw StarmieAnimation
 	dw MMimeAnimation

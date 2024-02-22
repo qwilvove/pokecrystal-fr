@@ -118,7 +118,7 @@ FramesPointers:
 	dw HypotrempeFrames
 	dw HypoceanFrames
 	dw PoissireneFrames
-	dw SeakingFrames
+	dw PoissoroyFrames
 	dw StaryuFrames
 	dw StarmieFrames
 	dw MMimeFrames

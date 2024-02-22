@@ -118,7 +118,7 @@ BitmasksPointers:
 	dw HypotrempeBitmasks
 	dw HypoceanBitmasks
 	dw PoissireneBitmasks
-	dw SeakingBitmasks
+	dw PoissoroyBitmasks
 	dw StaryuBitmasks
 	dw StarmieBitmasks
 	dw MMimeBitmasks

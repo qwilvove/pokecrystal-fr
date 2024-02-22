@@ -239,8 +239,8 @@ PokemonPicPointers::
 	dba_pic HypoceanBackpic
 	dba_pic PoissireneFrontpic
 	dba_pic PoissireneBackpic
-	dba_pic SeakingFrontpic
-	dba_pic SeakingBackpic
+	dba_pic PoissoroyFrontpic
+	dba_pic PoissoroyBackpic
 	dba_pic StaryuFrontpic
 	dba_pic StaryuBackpic
 	dba_pic StarmieFrontpic

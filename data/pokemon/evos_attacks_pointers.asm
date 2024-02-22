@@ -120,7 +120,7 @@ EvosAttacksPointers::
 	dw HypotrempeEvosAttacks
 	dw HypoceanEvosAttacks
 	dw PoissireneEvosAttacks
-	dw SeakingEvosAttacks
+	dw PoissoroyEvosAttacks
 	dw StaryuEvosAttacks
 	dw StarmieEvosAttacks
 	dw MMimeEvosAttacks

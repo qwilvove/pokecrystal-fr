@@ -137,7 +137,7 @@
 	const HYPOTREMPE     ; 74
 	const HYPOCEAN     ; 75
 	const POISSIRENE    ; 76
-	const SEAKING    ; 77
+	const POISSOROY    ; 77
 	const STARYU     ; 78
 	const STARMIE    ; 79
 	const M__MIME   ; 7a

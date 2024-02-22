@@ -120,7 +120,7 @@ MonMenuIcons:
 	db ICON_FISH        ; HYPOTREMPE
 	db ICON_FISH        ; HYPOCEAN
 	db ICON_FISH        ; POISSIRENE
-	db ICON_FISH        ; SEAKING
+	db ICON_FISH        ; POISSOROY
 	db ICON_STARYU      ; STARYU
 	db ICON_STARYU      ; STARMIE
 	db ICON_HUMANSHAPE  ; M__MIME

@@ -1,4 +1,4 @@
-	db SEAKING ; 119
+	db POISSOROY ; 119
 
 	db  80,  92,  65,  68,  65,  80
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/seaking/front.dimensions"
+	INCBIN "gfx/pokemon/poissoroy/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_WATER_2, EGG_WATER_2 ; egg groups

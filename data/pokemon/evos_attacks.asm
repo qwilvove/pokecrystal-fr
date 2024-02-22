@@ -1600,7 +1600,7 @@ HypoceanEvosAttacks:
 	db 0 ; no more level-up moves
 
 PoissireneEvosAttacks:
-	db EVOLVE_LEVEL, 33, SEAKING
+	db EVOLVE_LEVEL, 33, POISSOROY
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 1, TAIL_WHIP
@@ -1613,7 +1613,7 @@ PoissireneEvosAttacks:
 	db 52, AGILITY
 	db 0 ; no more level-up moves
 
-SeakingEvosAttacks:
+PoissoroyEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 1, TAIL_WHIP

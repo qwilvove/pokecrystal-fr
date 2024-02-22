@@ -55,21 +55,21 @@ JohtoWaterWildMons:
 	db 4 percent ; encounter rate
 	db 15, POISSIRENE
 	db 20, MARILL
-	db 20, SEAKING
+	db 20, POISSOROY
 	end_water_wildmons
 
 	def_water_wildmons MOUNT_MORTAR_2F_INSIDE
 	db 2 percent ; encounter rate
 	db 20, POISSIRENE
 	db 25, MARILL
-	db 25, SEAKING
+	db 25, POISSOROY
 	end_water_wildmons
 
 	def_water_wildmons MOUNT_MORTAR_B1F
 	db 2 percent ; encounter rate
 	db 15, POISSIRENE
 	db 20, MARILL
-	db 20, SEAKING
+	db 20, POISSOROY
 	end_water_wildmons
 
 	def_water_wildmons WHIRL_ISLAND_SW
@@ -95,7 +95,7 @@ JohtoWaterWildMons:
 
 	def_water_wildmons SILVER_CAVE_ROOM_2
 	db 2 percent ; encounter rate
-	db 35, SEAKING
+	db 35, POISSOROY
 	db 35, AKWAKWAK
 	db 35, POISSIRENE
 	end_water_wildmons
@@ -181,7 +181,7 @@ JohtoWaterWildMons:
 	db 4 percent ; encounter rate
 	db 20, POISSIRENE
 	db 15, POISSIRENE
-	db 20, SEAKING
+	db 20, POISSOROY
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_43

@@ -6,7 +6,7 @@ KantoWaterWildMons:
 	db 4 percent ; encounter rate
 	db 20, POISSIRENE
 	db 20, SLOWPOKE
-	db 20, SEAKING
+	db 20, POISSOROY
 	end_water_wildmons
 
 	def_water_wildmons VERMILION_PORT
@@ -20,7 +20,7 @@ KantoWaterWildMons:
 	db 4 percent ; encounter rate
 	db 10, POISSIRENE
 	db 5, POISSIRENE
-	db 10, SEAKING
+	db 10, POISSOROY
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_6
@@ -34,14 +34,14 @@ KantoWaterWildMons:
 	db 4 percent ; encounter rate
 	db 15, POISSIRENE
 	db 10, POISSIRENE
-	db 15, SEAKING
+	db 15, POISSOROY
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_10_NORTH
 	db 4 percent ; encounter rate
 	db 15, POISSIRENE
 	db 10, POISSIRENE
-	db 15, SEAKING
+	db 15, POISSOROY
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_12
@@ -90,14 +90,14 @@ KantoWaterWildMons:
 	db 4 percent ; encounter rate
 	db 10, POISSIRENE
 	db 5, POISSIRENE
-	db 10, SEAKING
+	db 10, POISSOROY
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_25
 	db 4 percent ; encounter rate
 	db 10, POISSIRENE
 	db 5, POISSIRENE
-	db 10, SEAKING
+	db 10, POISSOROY
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_26
@@ -139,7 +139,7 @@ KantoWaterWildMons:
 	db 4 percent ; encounter rate
 	db 10, POISSIRENE
 	db 5, POISSIRENE
-	db 10, SEAKING
+	db 10, POISSOROY
 	end_water_wildmons
 
 	def_water_wildmons VERMILION_CITY
