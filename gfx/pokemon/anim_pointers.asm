@@ -180,7 +180,7 @@ AnimationPointers:
 	dw XatuAnimation
 	dw MareepAnimation
 	dw LainergieAnimation
-	dw AmpharosAnimation
+	dw PharampAnimation
 	dw JoliflorAnimation
 	dw MarillAnimation
 	dw AzumarillAnimation

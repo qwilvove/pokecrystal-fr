@@ -2434,7 +2434,7 @@ MareepEvosAttacks:
 	db 0 ; no more level-up moves
 
 LainergieEvosAttacks:
-	db EVOLVE_LEVEL, 30, AMPHAROS
+	db EVOLVE_LEVEL, 30, PHARAMP
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL
@@ -2446,7 +2446,7 @@ LainergieEvosAttacks:
 	db 45, THUNDER
 	db 0 ; no more level-up moves
 
-AmpharosEvosAttacks:
+PharampEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, GROWL

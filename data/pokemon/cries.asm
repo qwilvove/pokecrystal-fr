@@ -186,7 +186,7 @@ PokemonCries::
 	mon_cry CRY_NATU,       -167,  360 ; XATU
 	mon_cry CRY_MAREEP,       34,  216 ; MAREEP
 	mon_cry CRY_MAREEP,       -7,  384 ; LAINERGIE
-	mon_cry CRY_AMPHAROS,   -124,  232 ; AMPHAROS
+	mon_cry CRY_PHARAMP,   -124,  232 ; PHARAMP
 	mon_cry CRY_MELO,      132,  336 ; JOLIFLOR
 	mon_cry CRY_MARILL,      283,  288 ; MARILL
 	mon_cry CRY_MARILL,      182,  384 ; AZUMARILL
@@ -207,7 +207,7 @@ PokemonCries::
 	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
 	mon_cry CRY_HOOTHOOT,    304,  232 ; FEUFOREVE
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
-	mon_cry CRY_AMPHAROS,    635,  324 ; WOBBUFFET
+	mon_cry CRY_PHARAMP,    635,  324 ; WOBBUFFET
 	mon_cry CRY_GIRAFARIG,    65,  512 ; GIRAFARIG
 	mon_cry CRY_SLOWKING,    128,  256 ; PINECO
 	mon_cry CRY_SLOWKING,      0,  384 ; FORETRESS
@@ -217,9 +217,9 @@ PokemonCries::
 	mon_cry CRY_INSOLOURDO,   274,  232 ; SNUBBULL
 	mon_cry CRY_INSOLOURDO,     0,  384 ; GRANBULL
 	mon_cry CRY_SLOWKING,    352,  224 ; QWILFISH
-	mon_cry CRY_AMPHAROS,      0,  352 ; CIZAYOX
+	mon_cry CRY_PHARAMP,      0,  352 ; CIZAYOX
 	mon_cry CRY_INSOLOURDO,   656,  168 ; CARATROC
-	mon_cry CRY_AMPHAROS,     53,  224 ; HERACROSS
+	mon_cry CRY_PHARAMP,     53,  224 ; HERACROSS
 	mon_cry CRY_AXOLOTO,       83,  175 ; FARFURET
 	mon_cry CRY_TEDDIURSA,  1954,  110 ; TEDDIURSA
 	mon_cry CRY_TEDDIURSA,  1600,  216 ; URSARING
@@ -232,7 +232,7 @@ PokemonCries::
 	mon_cry CRY_KAIMINUS,      0,  384 ; OCTILLERY
 	mon_cry CRY_TEDDIURSA,     2,  106 ; CADOIZO
 	mon_cry CRY_DEMANTA,    -190,  240 ; DEMANTA
-	mon_cry CRY_AMPHAROS,   2217,  384 ; AIRMURE
+	mon_cry CRY_PHARAMP,   2217,  384 ; AIRMURE
 	mon_cry CRY_HERICENDRE,    57,  320 ; MALOSSE
 	mon_cry CRY_KAIMINUS,   -266,  256 ; DEMOLOSSE
 	mon_cry CRY_LIMAGMA,      763,  256 ; HYPOROI

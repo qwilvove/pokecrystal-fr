@@ -220,7 +220,7 @@ Pokered_MonIndices:
 	db XATU
 	db MAREEP
 	db LAINERGIE
-	db AMPHAROS
+	db PHARAMP
 	db JOLIFLOR
 	db MARILL
 	db AZUMARILL

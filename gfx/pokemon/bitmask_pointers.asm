@@ -180,7 +180,7 @@ BitmasksPointers:
 	dw XatuBitmasks
 	dw MareepBitmasks
 	dw LainergieBitmasks
-	dw AmpharosBitmasks
+	dw PharampBitmasks
 	dw JoliflorBitmasks
 	dw MarillBitmasks
 	dw AzumarillBitmasks

@@ -181,7 +181,7 @@ PokedexDataPointerTable:
 	dw XatuPokedexEntry
 	dw MareepPokedexEntry
 	dw LainergiePokedexEntry
-	dw AmpharosPokedexEntry
+	dw PharampPokedexEntry
 	dw JoliflorPokedexEntry
 	dw MarillPokedexEntry
 	dw AzumarillPokedexEntry

@@ -180,7 +180,7 @@ FramesPointers:
 	dw XatuFrames
 	dw MareepFrames
 	dw LainergieFrames
-	dw AmpharosFrames
+	dw PharampFrames
 	dw JoliflorFrames
 	dw MarillFrames
 	dw AzumarillFrames

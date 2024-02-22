@@ -182,7 +182,7 @@ EvosAttacksPointers::
 	dw XatuEvosAttacks
 	dw MareepEvosAttacks
 	dw LainergieEvosAttacks
-	dw AmpharosEvosAttacks
+	dw PharampEvosAttacks
 	dw JoliflorEvosAttacks
 	dw MarillEvosAttacks
 	dw AzumarillEvosAttacks

@@ -44,7 +44,7 @@ OlivineLighthouseJasmine:
 	promptbutton
 	closetext
 	special RestartMapMusic
-	cry AMPHAROS
+	cry PHARAMP
 	special FadeOutToWhite
 	pause 10
 	special FadeInFromWhite
@@ -106,7 +106,7 @@ OlivineLighthouseAmphy:
 	checkevent EVENT_JASMINE_RETURNED_TO_GYM
 	iftrue .HealthyNow
 	writetext AmphyPalPalooText
-	setval AMPHAROS
+	setval PHARAMP
 	special PlaySlowCry
 	promptbutton
 	writetext AmphyBreathingLaboredText
@@ -116,7 +116,7 @@ OlivineLighthouseAmphy:
 
 .HealthyNow:
 	writetext AmphyPaluPaluluText
-	cry AMPHAROS
+	cry PHARAMP
 	waitbutton
 	closetext
 	special FadeOutToWhite

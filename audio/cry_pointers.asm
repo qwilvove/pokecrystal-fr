@@ -63,7 +63,7 @@ Cries:
 	dba Cry_Natu
 	dba Cry_Teddiursa
 	dba Cry_Heliatronc
-	dba Cry_Ampharos
+	dba Cry_Pharamp
 	dba Cry_Magcargo
 	dba Cry_Pichu
 	dba Cry_Capumain

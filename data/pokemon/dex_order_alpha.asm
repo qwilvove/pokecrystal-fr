@@ -173,7 +173,7 @@ AlphabeticalPokedexOrder:
 	db PARASECT
 	db PERSIAN
 	db PHANPY
-	db AMPHAROS
+	db PHARAMP
 	db SPEAROW
 	db PICHU
 	db PIKACHU

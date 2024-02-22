@@ -118,11 +118,11 @@ Cry_Heliatronc:
 	channel 6, Cry_Heliatronc_Ch6
 	channel 8, Cry_Heliatronc_Ch8
 
-Cry_Ampharos:
+Cry_Pharamp:
 	channel_count 3
-	channel 5, Cry_Ampharos_Ch5
-	channel 6, Cry_Ampharos_Ch6
-	channel 8, Cry_Ampharos_Ch8
+	channel 5, Cry_Pharamp_Ch5
+	channel 6, Cry_Pharamp_Ch6
+	channel 8, Cry_Pharamp_Ch8
 
 Cry_Kaiminus:
 	channel_count 3
@@ -730,7 +730,7 @@ Cry_Demanta_Ch8:
 	sound_call Cry_Heliatronc_Ch8.body2
 	sound_ret
 
-Cry_Ampharos_Ch5:
+Cry_Pharamp_Ch5:
 	duty_cycle_pattern 3, 1, 3, 2
 .loop:
 	square_note 1, 12, 1, 1312
@@ -742,7 +742,7 @@ Cry_Ampharos_Ch5:
 	square_note 24, 12, 2, 1056
 	sound_ret
 
-Cry_Ampharos_Ch6:
+Cry_Pharamp_Ch6:
 	duty_cycle_pattern 0, 3, 0, 2
 	square_note 8, 15, 8, 1792
 	square_note 7, 15, 8, 1824
@@ -751,7 +751,7 @@ Cry_Ampharos_Ch6:
 	square_note 24, 15, 2, 1840
 	sound_ret
 
-Cry_Ampharos_Ch8:
+Cry_Pharamp_Ch8:
 	noise_note 4, 8, 8, 109
 	noise_note 4, 13, 8, 104
 	noise_note 7, 12, 8, 105

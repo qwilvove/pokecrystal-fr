@@ -180,7 +180,7 @@ AnimationIdlePointers:
 	dw XatuAnimationIdle
 	dw MareepAnimationIdle
 	dw LainergieAnimationIdle
-	dw AmpharosAnimationIdle
+	dw PharampAnimationIdle
 	dw JoliflorAnimationIdle
 	dw MarillAnimationIdle
 	dw AzumarillAnimationIdle

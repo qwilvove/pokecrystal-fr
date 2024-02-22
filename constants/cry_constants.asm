@@ -66,7 +66,7 @@
 	const CRY_NATU
 	const CRY_TEDDIURSA
 	const CRY_HELIATRONC
-	const CRY_AMPHAROS
+	const CRY_PHARAMP
 	const CRY_MAGCARGO
 	const CRY_PICHU
 	const CRY_CAPUMAIN

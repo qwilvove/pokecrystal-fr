@@ -363,8 +363,8 @@ PokemonPicPointers::
 	dba_pic MareepBackpic
 	dba_pic LainergieFrontpic
 	dba_pic LainergieBackpic
-	dba_pic AmpharosFrontpic
-	dba_pic AmpharosBackpic
+	dba_pic PharampFrontpic
+	dba_pic PharampBackpic
 	dba_pic JoliflorFrontpic
 	dba_pic JoliflorBackpic
 	dba_pic MarillFrontpic

@@ -412,7 +412,7 @@ INCBIN "gfx/footprints/natu.1bpp",       footprint_top
 INCBIN "gfx/footprints/xatu.1bpp",       footprint_top
 INCBIN "gfx/footprints/mareep.1bpp",     footprint_top
 INCBIN "gfx/footprints/lainergie.1bpp",    footprint_top
-INCBIN "gfx/footprints/ampharos.1bpp",   footprint_top
+INCBIN "gfx/footprints/pharamp.1bpp",   footprint_top
 INCBIN "gfx/footprints/joliflor.1bpp",  footprint_top
 INCBIN "gfx/footprints/marill.1bpp",     footprint_top
 INCBIN "gfx/footprints/azumarill.1bpp",  footprint_top
@@ -421,7 +421,7 @@ INCBIN "gfx/footprints/natu.1bpp",       footprint_bottom
 INCBIN "gfx/footprints/xatu.1bpp",       footprint_bottom
 INCBIN "gfx/footprints/mareep.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/lainergie.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/ampharos.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/pharamp.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/joliflor.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/marill.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/azumarill.1bpp",  footprint_bottom

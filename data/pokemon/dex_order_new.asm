@@ -56,7 +56,7 @@ NewPokedexOrder:
 	db INSOLOURDO
 	db MAREEP
 	db LAINERGIE
-	db AMPHAROS
+	db PHARAMP
 	db AXOLOTO
 	db MARAISTE
 	db FANTOMINUS

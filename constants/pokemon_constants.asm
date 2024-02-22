@@ -200,7 +200,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const XATU       ; b2
 	const MAREEP     ; b3
 	const LAINERGIE    ; b4
-	const AMPHAROS   ; b5
+	const PHARAMP   ; b5
 	const JOLIFLOR  ; b6
 	const MARILL     ; b7
 	const AZUMARILL  ; b8
