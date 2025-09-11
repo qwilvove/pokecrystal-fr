@@ -332,7 +332,7 @@ KantoGrassWildMons:
 	db 13, MIAOUSS
 	db 13, DROWZEE
 	db 14, MAGNETI
-	db 15, PSYDUCK
+	db 15, PSYKOKWAK
 	db 12, JIGGLYPUFF
 	db 15, RATICATE
 	db 15, RATICATE

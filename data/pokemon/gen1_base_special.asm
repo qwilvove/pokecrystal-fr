@@ -55,7 +55,7 @@ KantoMonSpecials:
 	db  70 ; DUGTRIO
 	db  40 ; MIAOUSS
 	db  65 ; PERSIAN
-	db  50 ; PSYDUCK
+	db  50 ; PSYKOKWAK
 	db  80 ; AKWAKWAK
 	db  35 ; FEROSINGE
 	db  60 ; COLOSSINGE

@@ -35,7 +35,7 @@
 	const CRY_PARAS
 	const CRY_CANINOS
 	const CRY_KRABBY
-	const CRY_PSYDUCK
+	const CRY_PSYKOKWAK
 	const CRY_RATTATA
 	const CRY_VILEPLUME
 	const CRY_GOUPIX

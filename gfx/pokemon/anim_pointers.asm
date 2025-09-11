@@ -53,7 +53,7 @@ AnimationPointers:
 	dw DugtrioAnimation
 	dw MiaoussAnimation
 	dw PersianAnimation
-	dw PsyduckAnimation
+	dw PsykokwakAnimation
 	dw AkwakwakAnimation
 	dw FerosingeAnimation
 	dw ColossingeAnimation

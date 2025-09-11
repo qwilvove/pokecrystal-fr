@@ -53,7 +53,7 @@ FramesPointers:
 	dw DugtrioFrames
 	dw MiaoussFrames
 	dw PersianFrames
-	dw PsyduckFrames
+	dw PsykokwakFrames
 	dw AkwakwakFrames
 	dw FerosingeFrames
 	dw ColossingeFrames

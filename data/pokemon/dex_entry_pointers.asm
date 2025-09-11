@@ -54,7 +54,7 @@ PokedexDataPointerTable:
 	dw DugtrioPokedexEntry
 	dw MiaoussPokedexEntry
 	dw PersianPokedexEntry
-	dw PsyduckPokedexEntry
+	dw PsykokwakPokedexEntry
 	dw AkwakwakPokedexEntry
 	dw FerosingePokedexEntry
 	dw ColossingePokedexEntry

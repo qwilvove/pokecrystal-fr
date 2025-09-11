@@ -55,7 +55,7 @@ EvosAttacksPointers::
 	dw DugtrioEvosAttacks
 	dw MiaoussEvosAttacks
 	dw PersianEvosAttacks
-	dw PsyduckEvosAttacks
+	dw PsykokwakEvosAttacks
 	dw AkwakwakEvosAttacks
 	dw FerosingeEvosAttacks
 	dw ColossingeEvosAttacks

@@ -125,7 +125,7 @@ INCBIN "gfx/footprints/diglett.1bpp",    footprint_top
 INCBIN "gfx/footprints/dugtrio.1bpp",    footprint_top
 INCBIN "gfx/footprints/miaouss.1bpp",     footprint_top
 INCBIN "gfx/footprints/persian.1bpp",    footprint_top
-INCBIN "gfx/footprints/psyduck.1bpp",    footprint_top
+INCBIN "gfx/footprints/psykokwak.1bpp",    footprint_top
 INCBIN "gfx/footprints/akwakwak.1bpp",    footprint_top
 INCBIN "gfx/footprints/ferosinge.1bpp",     footprint_top
 ; 049-056 bottom halves
@@ -134,7 +134,7 @@ INCBIN "gfx/footprints/diglett.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/dugtrio.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/miaouss.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/persian.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/psyduck.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/psykokwak.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/akwakwak.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/ferosinge.1bpp",     footprint_bottom
 ; 057-064 top halves

@@ -46,8 +46,8 @@ JohtoWaterWildMons:
 
 	def_water_wildmons ILEX_FOREST
 	db 2 percent ; encounter rate
-	db 15, PSYDUCK
-	db 10, PSYDUCK
+	db 15, PSYKOKWAK
+	db 10, PSYKOKWAK
 	db 15, AKWAKWAK
 	end_water_wildmons
 
@@ -158,8 +158,8 @@ JohtoWaterWildMons:
 
 	def_water_wildmons ROUTE_35
 	db 4 percent ; encounter rate
-	db 20, PSYDUCK
-	db 15, PSYDUCK
+	db 20, PSYKOKWAK
+	db 15, PSYKOKWAK
 	db 20, AKWAKWAK
 	end_water_wildmons
 

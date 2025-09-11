@@ -25,8 +25,8 @@ KantoWaterWildMons:
 
 	def_water_wildmons ROUTE_6
 	db 2 percent ; encounter rate
-	db 10, PSYDUCK
-	db 5, PSYDUCK
+	db 10, PSYKOKWAK
+	db 5, PSYKOKWAK
 	db 10, AKWAKWAK
 	end_water_wildmons
 

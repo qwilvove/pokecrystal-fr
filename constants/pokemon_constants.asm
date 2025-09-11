@@ -72,7 +72,7 @@
 	const DUGTRIO    ; 33
 	const MIAOUSS     ; 34
 	const PERSIAN    ; 35
-	const PSYDUCK    ; 36
+	const PSYKOKWAK    ; 36
 	const AKWAKWAK    ; 37
 	const FEROSINGE     ; 38
 	const COLOSSINGE   ; 39

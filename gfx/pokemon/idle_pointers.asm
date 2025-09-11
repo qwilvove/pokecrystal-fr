@@ -53,7 +53,7 @@ AnimationIdlePointers:
 	dw DugtrioAnimationIdle
 	dw MiaoussAnimationIdle
 	dw PersianAnimationIdle
-	dw PsyduckAnimationIdle
+	dw PsykokwakAnimationIdle
 	dw AkwakwakAnimationIdle
 	dw FerosingeAnimationIdle
 	dw ColossingeAnimationIdle

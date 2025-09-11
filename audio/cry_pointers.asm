@@ -34,7 +34,7 @@ Cries:
 	dba Cry_Paras
 	dba Cry_Caninos
 	dba Cry_Krabby
-	dba Cry_Psyduck
+	dba Cry_Psykokwak
 	dba Cry_Rattata
 	dba Cry_Vileplume
 	dba Cry_Goupix

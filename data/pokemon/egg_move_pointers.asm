@@ -53,7 +53,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw MiaoussEggMoves
 	dw NoEggMoves
-	dw PsyduckEggMoves
+	dw PsykokwakEggMoves
 	dw NoEggMoves
 	dw FerosingeEggMoves
 	dw NoEggMoves

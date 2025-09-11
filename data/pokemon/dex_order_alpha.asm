@@ -183,7 +183,7 @@ AlphabeticalPokedexOrder:
 	db PONYTA
 	db PORYGON
 	db PORYGON2
-	db PSYDUCK
+	db PSYKOKWAK
 	db AERODACTYL
 	db POLIWAG
 	db FLAREON

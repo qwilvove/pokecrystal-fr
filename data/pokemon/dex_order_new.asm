@@ -139,7 +139,7 @@ NewPokedexOrder:
 	db COLOSSINGE
 	db MIAOUSS
 	db PERSIAN
-	db PSYDUCK
+	db PSYKOKWAK
 	db AKWAKWAK
 	db MACHOC
 	db MACHOPEUR

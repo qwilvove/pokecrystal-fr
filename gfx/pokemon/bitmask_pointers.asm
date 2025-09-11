@@ -53,7 +53,7 @@ BitmasksPointers:
 	dw DugtrioBitmasks
 	dw MiaoussBitmasks
 	dw PersianBitmasks
-	dw PsyduckBitmasks
+	dw PsykokwakBitmasks
 	dw AkwakwakBitmasks
 	dw FerosingeBitmasks
 	dw ColossingeBitmasks

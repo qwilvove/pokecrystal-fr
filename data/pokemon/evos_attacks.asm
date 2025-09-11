@@ -706,7 +706,7 @@ PersianEvosAttacks:
 	db 53, SLASH
 	db 0 ; no more level-up moves
 
-PsyduckEvosAttacks:
+PsykokwakEvosAttacks:
 	db EVOLVE_LEVEL, 33, AKWAKWAK
 	db 0 ; no more evolutions
 	db 1, SCRATCH

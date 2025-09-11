@@ -1052,11 +1052,11 @@ Cry_Krabby:
 	channel 6, Cry_Krabby_Ch6
 	channel 8, Cry_Krabby_Ch8
 
-Cry_Psyduck:
+Cry_Psykokwak:
 	channel_count 3
-	channel 5, Cry_Psyduck_Ch5
-	channel 6, Cry_Psyduck_Ch6
-	channel 8, Cry_Psyduck_Ch8
+	channel 5, Cry_Psykokwak_Ch5
+	channel 6, Cry_Psykokwak_Ch6
+	channel 8, Cry_Psykokwak_Ch8
 
 Cry_Rattata:
 	channel_count 3
@@ -2061,7 +2061,7 @@ Cry_Krabby_Ch8:
 	noise_note 8, 13, 1, 102
 	sound_ret
 
-Cry_Psyduck_Ch5:
+Cry_Psykokwak_Ch5:
 	duty_cycle_pattern 0, 1, 2, 3
 	square_note 3, 15, 3, 1380
 	square_note 2, 14, 2, 1348
@@ -2073,7 +2073,7 @@ Cry_Psyduck_Ch5:
 	square_note 8, 13, 1, 1282
 	sound_ret
 
-Cry_Psyduck_Ch6:
+Cry_Psykokwak_Ch6:
 	duty_cycle_pattern 3, 0, 3, 0
 	square_note 3, 13, 3, 1376
 	square_note 2, 12, 2, 1344
@@ -2083,7 +2083,7 @@ Cry_Psyduck_Ch6:
 	square_note 3, 13, 3, 1312
 	square_note 3, 12, 4, 1248
 	square_note 8, 12, 1, 1280
-Cry_Psyduck_Ch8:
+Cry_Psykokwak_Ch8:
 	sound_ret
 
 Cry_Rattata_Ch5:

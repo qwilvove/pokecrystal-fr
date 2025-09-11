@@ -46,7 +46,7 @@ Pokered_MonIndices:
 	db HITMONCHAN
 	db ARBOK
 	db PARASECT
-	db PSYDUCK
+	db PSYKOKWAK
 	db DROWZEE
 	db GROLEM
 	db HERACROSS ; MISSINGNO.

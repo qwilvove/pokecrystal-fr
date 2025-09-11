@@ -59,8 +59,8 @@ PokemonCries::
 	mon_cry CRY_DIGLETT,      42,  144 ; DUGTRIO
 	mon_cry CRY_MELOFEE,    119,  144 ; MIAOUSS
 	mon_cry CRY_MELOFEE,    153,  383 ; PERSIAN
-	mon_cry CRY_PSYDUCK,      32,  224 ; PSYDUCK
-	mon_cry CRY_PSYDUCK,     255,  192 ; AKWAKWAK
+	mon_cry CRY_PSYKOKWAK,      32,  224 ; PSYKOKWAK
+	mon_cry CRY_PSYKOKWAK,     255,  192 ; AKWAKWAK
 	mon_cry CRY_NIDOQUEEN,   221,  224 ; FEROSINGE
 	mon_cry CRY_NIDOQUEEN,   175,  192 ; COLOSSINGE
 	mon_cry CRY_CANINOS,    32,  192 ; CANINOS
@@ -74,7 +74,7 @@ PokemonCries::
 	mon_cry CRY_CANINOS,   238,  129 ; MACHOC
 	mon_cry CRY_CANINOS,    72,  224 ; MACHOPEUR
 	mon_cry CRY_CANINOS,     8,  320 ; MACKOGNEUR
-	mon_cry CRY_PSYDUCK,      85,  129 ; CHETIFLOR
+	mon_cry CRY_PSYKOKWAK,      85,  129 ; CHETIFLOR
 	mon_cry CRY_BOUSTIFLOR,   68,  160 ; BOUSTIFLOR
 	mon_cry CRY_BOUSTIFLOR,  102,  332 ; EMPIFLOR
 	mon_cry CRY_MIMITOSS,       0,  256 ; TENTACOOL

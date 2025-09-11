@@ -357,7 +357,7 @@ JohtoGrassWildMons:
 	db 10, ASPICOT
 	db 10, ASPICOT
 	; nite
-	db 12, PSYDUCK
+	db 12, PSYKOKWAK
 	db 13, HOOTHOOT
 	db 14, MIMIGAL
 	db 15, HOOTHOOT
@@ -584,7 +584,7 @@ JohtoGrassWildMons:
 	db 5, MYSTHERBE
 	db 5, MIMITOSS
 	db 7, MYSTHERBE
-	db 7, PSYDUCK
+	db 7, PSYKOKWAK
 	db 7, HOOTHOOT
 	db 6, PARAS
 	db 6, PARAS
@@ -1423,7 +1423,7 @@ JohtoGrassWildMons:
 	; nite
 	db 12, DROWZEE
 	db 14, HOOTHOOT
-	db 13, PSYDUCK
+	db 13, PSYKOKWAK
 	db 10, ABRA
 	db 12, JIGGLYPUFF
 	db 10, METAMORPH
