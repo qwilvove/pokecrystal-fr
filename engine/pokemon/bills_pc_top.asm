@@ -235,7 +235,7 @@ ClearPCItemScreen:
 	call ClearBGPalettes
 	call ClearSprites
 	hlcoord 0, 0
-	ld bc, SCREEN_HEIGHT * SCREEN_WIDTH
+	ld bc, SCREEN_AREA
 	ld a, " "
 	call ByteFill
 	hlcoord 0, 0
@@ -365,7 +365,7 @@ LoadBoxMonListing: ; unreferenced
 	ret
 
 .BoxAddresses:
-	table_width 3, LoadBoxMonListing.BoxAddresses
+	table_width 3
 for n, 1, NUM_BOXES + 1
 	dba sBox{d:n}
 endr

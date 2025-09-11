@@ -13,7 +13,7 @@ DoBattleAnimFrame:
 
 .Jumptable:
 ; entries correspond to BATTLE_ANIM_FUNC_* constants
-	table_width 2, DoBattleAnimFrame.Jumptable
+	table_width 2
 	dw BattleAnimFunc_Null
 	dw BattleAnimFunc_MoveFromUserToTarget
 	dw BattleAnimFunc_MoveFromUserToTargetAndDisappear
@@ -432,14 +432,14 @@ BattleAnimFunc_PokeBallBlocked:
 
 GetBallAnimPal:
 	ld hl, BallColors
-	ldh a, [rSVBK]
+	ldh a, [rWBK]
 	push af
 	ld a, BANK(wCurItem)
-	ldh [rSVBK], a
+	ldh [rWBK], a
 	ld a, [wCurItem]
 	ld e, a
 	pop af
-	ldh [rSVBK], a
+	ldh [rWBK], a
 .IsInArray:
 	ld a, [hli]
 	cp -1
@@ -813,6 +813,9 @@ BattleAnimFunc_FireBlast:
 	ret
 
 BattleAnimFunc_RazorLeaf:
+; Object moves at an arc
+; Obj Param: Bit 6 defines offset from base frameset BATTLE_ANIM_FRAMESET_RAZOR_LEAF_2
+;            Rest defines arc radius
 	call BattleAnim_AnonJumptable
 .anon_dw
 	dw .zero
@@ -941,7 +944,7 @@ BattleAnimFunc_RazorLeaf:
 	call ReinitBattleAnimFrameset
 	ld hl, BATTLEANIMSTRUCT_OAMFLAGS
 	add hl, bc
-	res 5, [hl]
+	res B_OAM_XFLIP, [hl]
 .four
 .five
 .six
@@ -1314,7 +1317,7 @@ BattleAnimFunc_WaterGun:
 	ld hl, BATTLEANIMSTRUCT_OAMFLAGS
 	add hl, bc
 	ld a, [hl]
-	and $1
+	and 1 << BATTLEANIMSTRUCT_OAMFLAGS_FIX_COORDS_F
 	ld [hl], a
 .two
 	ld hl, BATTLEANIMSTRUCT_YOFFSET
@@ -2032,7 +2035,7 @@ BattleAnimFunc_Kick:
 	inc [hl]
 	ld hl, BATTLEANIMSTRUCT_OAMFLAGS
 	add hl, bc
-	set 0, [hl]
+	set BATTLEANIMSTRUCT_OAMFLAGS_FIX_COORDS_F, [hl]
 	ld hl, BATTLEANIMSTRUCT_FIX_Y
 	add hl, bc
 	ld [hl], $90
@@ -2652,7 +2655,7 @@ BattleAnimFunc_String:
 	; Obj Param 0 flips when used by enemy
 	ld hl, BATTLEANIMSTRUCT_OAMFLAGS
 	add hl, bc
-	set OAM_Y_FLIP, [hl]
+	set B_OAM_YFLIP, [hl]
 .not_param_zero
 	assert BATTLE_ANIM_FRAMESET_STRING_SHOT_1 + 1 == BATTLE_ANIM_FRAMESET_STRING_SHOT_2 \
 		&& BATTLE_ANIM_FRAMESET_STRING_SHOT_2 + 1 == BATTLE_ANIM_FRAMESET_STRING_SHOT_3

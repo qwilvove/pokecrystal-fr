@@ -187,7 +187,7 @@ ENDM
 
 	const loadvar_command ; $1e
 MACRO loadvar
-	if STRIN("\1", "VAR_") != 1
+	if STRFIND("\1", "VAR_") != 0
 	; LEGACY: Support for the old name of "loadmem"
 		loadmem \1, \2
 	else
@@ -229,21 +229,21 @@ ENDM
 MACRO givemoney
 	db givemoney_command
 	db \1 ; account
-	dt \2 ; money
+	bigdt \2 ; money
 ENDM
 
 	const takemoney_command ; $23
 MACRO takemoney
 	db takemoney_command
 	db \1 ; account
-	dt \2 ; money
+	bigdt \2 ; money
 ENDM
 
 	const checkmoney_command ; $24
 MACRO checkmoney
 	db checkmoney_command
 	db \1 ; account
-	dt \2 ; money
+	bigdt \2 ; money
 ENDM
 
 	const givecoins_command ; $25

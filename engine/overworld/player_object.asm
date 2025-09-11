@@ -159,7 +159,7 @@ CopyObjectStruct::
 
 	ld hl, OBJECT_FLAGS2
 	add hl, de
-	set 5, [hl]
+	set FROZEN_F, [hl]
 	ret
 
 CopyMapObjectToObjectStruct:
@@ -194,7 +194,7 @@ CopyMapObjectToObjectStruct:
 	and MAPOBJECT_PALETTE_MASK
 	jr z, .skip_color_override
 	swap a
-	and PALETTE_MASK
+	and OAM_PALETTE
 	ld [wTempObjectCopyPalette], a
 
 .skip_color_override
