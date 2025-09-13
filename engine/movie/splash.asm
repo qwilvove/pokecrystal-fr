@@ -38,10 +38,10 @@ SplashScreen:
 .joy_loop
 	call JoyTextDelay
 	ldh a, [hJoyLast]
-	and BUTTONS
+	and PAD_BUTTONS
 	jr nz, .pressed_button
 	ld a, [wJumptableIndex]
-	bit 7, a
+	bit JUMPTABLE_EXIT_F, a
 	jr nz, .finish
 	call GameFreakPresentsScene
 	farcall PlaySpriteAnimations
@@ -64,10 +64,10 @@ GameFreakPresentsInit:
 	lb bc, BANK(GameFreakLogoGFX), 28
 	call Get1bpp
 
-	ldh a, [rSVBK]
+	ldh a, [rWBK]
 	push af
 	ld a, BANK(wDecompressScratch)
-	ldh [rSVBK], a
+	ldh [rWBK], a
 
 	ld hl, GameFreakMetamorphGFX
 	ld de, wDecompressScratch
@@ -85,7 +85,7 @@ GameFreakPresentsInit:
 	call Request2bpp
 
 	pop af
-	ldh [rSVBK], a
+	ldh [rWBK], a
 
 	farcall ClearSpriteAnims
 	depixel 10, 11, 4, 0
@@ -93,7 +93,7 @@ GameFreakPresentsInit:
 	call InitSpriteAnimStruct
 	ld hl, SPRITEANIMSTRUCT_YOFFSET
 	add hl, bc
-	ld [hl], 160
+	ld [hl], OAM_YCOORD_HIDDEN
 	ld hl, SPRITEANIMSTRUCT_VAR1
 	add hl, bc
 	ld [hl], 96
@@ -195,7 +195,7 @@ GameFreakPresents_WaitForTimer:
 
 .finish
 	ld hl, wJumptableIndex
-	set 7, [hl]
+	set JUMPTABLE_EXIT_F, [hl]
 	ret
 
 GameFreakLogoSpriteAnim:
@@ -319,16 +319,16 @@ GameFreakLogo_Transform:
 	ld hl, GameFreakMetamorphPaletteFade
 	add hl, de
 	add hl, de
-	ldh a, [rSVBK]
+	ldh a, [rWBK]
 	push af
 	ld a, BANK(wOBPals2)
-	ldh [rSVBK], a
+	ldh [rWBK], a
 	ld a, [hli]
 	ld [wOBPals2 + 12], a
 	ld a, [hli]
 	ld [wOBPals2 + 13], a
 	pop af
-	ldh [rSVBK], a
+	ldh [rWBK], a
 	ld a, TRUE
 	ldh [hCGBPalUpdate], a
 	ret

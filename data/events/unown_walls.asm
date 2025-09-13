@@ -1,45 +1,23 @@
-MACRO unownwall
-	for n, CHARLEN(\1)
-		DEF x = CHARSUB(\1, n + 1)
-		if x == "-"
-			db $64
-		elif x >= "Y"
-			db 2 * (x - "Y") + $60
-		elif x >= "Q"
-			db 2 * (x - "Q") + $40
-		elif x >= "I"
-			db 2 * (x - "I") + $20
-		else
-			db 2 * (x - "A")
-		endc
-	endr
-	db -1 ; end
-ENDM
+; strings correspond to UNOWNWORDS_* constants (see constants/script_constants.asm)
+DEF UNOWNWORD_{d:UNOWNWORDS_ESCAPE} EQUS "SORTIE"
+DEF UNOWNWORD_{d:UNOWNWORDS_LIGHT}  EQUS "LUMIERE"
+DEF UNOWNWORD_{d:UNOWNWORDS_WATER}  EQUS "-EAU-"
+DEF UNOWNWORD_{d:UNOWNWORDS_HO_OH}  EQUS "HO-OH"
 
 UnownWalls:
-; UNOWNWORDS_ESCAPE
-	; db $44, $2c, $42, $46, $20, $08, -1
-	unownwall "SORTIE"
-; UNOWNWORDS_LIGHT
-	; db $26, $48, $28, $20, $08, $42, $08, -1
-	unownwall "LUMIERE"
-; UNOWNWORDS_WATER
-	; db $64, $08, $00, $48, $64, -1
-	unownwall "-EAU-"
-; UNOWNWORDS_HO_OH
-	; db $0e, $2c, $64, $2c, $0e, -1
-	unownwall "HO-OH"
+; entries correspond to UNOWNWORDS_* constants
+	list_start
+	for x, NUM_UNOWN_WALLS
+		li "{UNOWNWORD_{d:x}}"
+	endr
+	assert_list_length NUM_UNOWN_WALLS
 
 MenuHeaders_UnownWalls:
-; UNOWNWORDS_ESCAPE
-	db MENU_BACKUP_TILES ; flags
-	menu_coords 3, 4, 16, 9
-; UNOWNWORDS_LIGHT
-	db MENU_BACKUP_TILES ; flags
-	menu_coords 2, 4, 17, 9
-; UNOWNWORDS_WATER
-	db MENU_BACKUP_TILES ; flags
-	menu_coords 4, 4, 15, 9
-; UNOWNWORDS_HO_OH
-	db MENU_BACKUP_TILES ; flags
-	menu_coords 4, 4, 15, 9
+; entries correspond to UNOWNWORDS_* constants
+	table_width UNOWN_WALL_MENU_HEADER_SIZE
+	for x, NUM_UNOWN_WALLS
+		DEF n = CHARLEN("{UNOWNWORD_{d:x}}")
+		db MENU_BACKUP_TILES ; flags
+		menu_coords 9 - n, 4, 10 + n, 9
+	endr
+	assert_table_length NUM_UNOWN_WALLS

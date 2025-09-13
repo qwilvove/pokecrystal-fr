@@ -1,7 +1,7 @@
 ; The original base Special stat for each Pokémon from Red/Blue
 
 KantoMonSpecials:
-	table_width 1, KantoMonSpecials
+	table_width 1
 	db  65 ; BULBIZARRE
 	db  80 ; HERBIZARRE
 	db 100 ; FLORIZARRE

@@ -111,7 +111,7 @@ _CopyTilemapAtOnce:
 	ld l, 0
 	ld a, SCREEN_HEIGHT
 	ldh [hTilesPerCycle], a
-	ld b, 1 << 1 ; not in v/hblank
+	ld b, STAT_BUSY
 	ld c, LOW(rSTAT)
 
 .loop
@@ -129,7 +129,7 @@ rept SCREEN_WIDTH / 2
 	inc l
 endr
 
-	ld de, BG_MAP_WIDTH - SCREEN_WIDTH
+	ld de, TILEMAP_WIDTH - SCREEN_WIDTH
 	add hl, de
 	ldh a, [hTilesPerCycle]
 	dec a
@@ -181,11 +181,11 @@ ClearPalettes::
 	ret
 
 .cgb
-	ldh a, [rSVBK]
+	ldh a, [rWBK]
 	push af
 
 	ld a, BANK(wBGPals2)
-	ldh [rSVBK], a
+	ldh [rWBK], a
 
 ; Fill wBGPals2 and wOBPals2 with $ffff (white)
 	ld hl, wBGPals2
@@ -194,7 +194,7 @@ ClearPalettes::
 	call ByteFill
 
 	pop af
-	ldh [rSVBK], a
+	ldh [rWBK], a
 
 ; Request palette update
 	ld a, TRUE
@@ -229,8 +229,10 @@ GetHPPal::
 	ld a, e
 	cp (HP_BAR_LENGTH_PX * 50 / 100) ; 24
 	ret nc
-	inc d ; HP_YELLOW
+	assert HP_GREEN + 1 == HP_YELLOW
+	inc d
 	cp (HP_BAR_LENGTH_PX * 21 / 100) ; 10
 	ret nc
-	inc d ; HP_RED
+	assert HP_YELLOW + 1 == HP_RED
+	inc d
 	ret

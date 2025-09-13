@@ -149,7 +149,7 @@ Function17a751:
 	ld hl, $d08f
 	inc [hl]
 	ld a, [$d087]
-	bit 7, a
+	bit JUMPTABLE_EXIT_F, a
 	jr z, .asm_17a755
 	ret
 
@@ -239,7 +239,7 @@ Function17a7f4:
 	dec [hl]
 	ret nz
 	ld hl, $d087
-	set 7, [hl]
+	set JUMPTABLE_EXIT_F, [hl]
 	ret
 
 Function17a7ff:
@@ -253,7 +253,7 @@ Function17a7ff:
 	ld hl, $d088
 	set 5, [hl]
 	ld hl, $d087
-	set 7, [hl]
+	set JUMPTABLE_EXIT_F, [hl]
 	ret
 
 Function17a81a:
@@ -765,10 +765,10 @@ Function17aba0:
 	ret
 
 Function17abcf:
-	ldh a, [rSVBK]
+	ldh a, [rWBK]
 	push af
 	ld a, BANK(wBGPals1)
-	ldh [rSVBK], a
+	ldh [rWBK], a
 
 	ld hl, Palette_17ac55
 	ld de, wBGPals1
@@ -792,7 +792,7 @@ Function17abcf:
 	call FarCopyBytes
 
 	pop af
-	ldh [rSVBK], a
+	ldh [rWBK], a
 	ret
 
 Function17ac0c:

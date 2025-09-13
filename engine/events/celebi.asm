@@ -31,13 +31,13 @@ CelebiShrineEvent:
 	ld d, $0
 .loop
 	ld a, [wJumptableIndex]
-	bit 7, a
+	bit JUMPTABLE_EXIT_F, a
 	jr nz, .done
 	push bc
 	call GetCelebiSpriteTile
 	inc d
 	push de
-	ld a, 36 * SPRITEOAMSTRUCT_LENGTH
+	ld a, 36 * OBJ_SIZE
 	ld [wCurSpriteOAMAddr], a
 	farcall DoNextFrameForAllSprites
 	call CelebiEvent_CountDown
@@ -60,7 +60,7 @@ CelebiShrineEvent:
 	ld c, 4
 .OAMloop:
 	ld [hli], a ; tile id
-rept SPRITEOAMSTRUCT_LENGTH - 1
+rept OBJ_SIZE - 1
 	inc hl
 endr
 	inc a
@@ -96,7 +96,7 @@ CelebiEvent_CountDown:
 
 .done
 	ld hl, wJumptableIndex
-	set 7, [hl]
+	set JUMPTABLE_EXIT_F, [hl]
 	ret
 
 CelebiEvent_SpawnLeaf: ; unreferenced

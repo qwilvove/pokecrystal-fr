@@ -157,7 +157,7 @@ _PrintNum::
 	ld a, "0"
 	add b
 	ld [hli], a
-	bit 5, d
+	bit PRINTNUM_MONEY_F, d
 	jr z, .stop
 	ld a, "¥"
 	ld [hli], a
@@ -246,7 +246,7 @@ _PrintNum::
 
 .PrintLeadingZero:
 ; prints a leading zero unless they are turned off in the flags
-	bit 7, d ; print leading zeroes?
+	bit PRINTNUM_LEADINGZEROS_F, d
 	ret z
 	ld [hl], "0"
 	ret
@@ -254,9 +254,9 @@ _PrintNum::
 .AdvancePointer:
 ; increments the pointer unless leading zeroes are not being printed,
 ; the number is left-aligned, and no nonzero digits have been printed yet
-	bit 7, d ; print leading zeroes?
+	bit PRINTNUM_LEADINGZEROS_F, d
 	jr nz, .inc
-	bit 6, d ; left alignment or right alignment?
+	bit PRINTNUM_LEFTALIGN_F, d
 	jr z, .inc
 	ldh a, [hPrintNumBuffer + 0]
 	and a

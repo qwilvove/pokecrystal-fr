@@ -1,7 +1,7 @@
 ; party menu icons
 
 MonMenuIcons:
-	table_width 1, MonMenuIcons
+	table_width 1
 	db ICON_BULBIZARRE   ; BULBIZARRE
 	db ICON_BULBIZARRE   ; HERBIZARRE
 	db ICON_BULBIZARRE   ; FLORIZARRE

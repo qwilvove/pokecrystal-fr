@@ -1,5 +1,5 @@
 AnimationPointers:
-	table_width 2, AnimationPointers
+	table_width 2
 	dw BulbizarreAnimation
 	dw HerbizarreAnimation
 	dw FlorizarreAnimation

@@ -31,8 +31,8 @@ DEF DEBUGROOMMENU_NUM_PAGES EQU const_value
 
 _DebugRoom:
 	ldh a, [hJoyDown]
-	and SELECT | START
-	cp SELECT | START
+	and PAD_SELECT | PAD_START
+	cp PAD_SELECT | PAD_START
 	ret nz
 	ldh a, [hDebugRoomMenuPage]
 	push af
@@ -58,10 +58,10 @@ _DebugRoom:
 .wait
 	call GetScrollingMenuJoypad
 	ld a, [wMenuJoypad]
-	and A_BUTTON | B_BUTTON
+	and PAD_A | PAD_B
 	jr z, .wait
 	call CloseWindow
-	cp B_BUTTON
+	cp PAD_B
 	jr z, .done
 	ld a, [wMenuSelection]
 	ld hl, .Jumptable
@@ -372,7 +372,7 @@ DebugRoomMenu_TimerReset:
 	ld a, BANK(sRTCStatusFlags)
 	call OpenSRAM
 	ld hl, sRTCStatusFlags
-	set 7, [hl]
+	set RTC_RESET_F, [hl]
 	call CloseSRAM
 	ret
 
@@ -607,24 +607,24 @@ DebugRoom_EditPagedValues:
 	call DelayFrame
 	call JoyTextDelay
 	ldh a, [hJoyLast]
-	bit 1, a
+	bit B_PAD_B, a
 	jr nz, .done
 	ld hl, .continue
 	push hl
-	rra ; A_BUTTON_F?
+	rra ; B_PAD_A?
 	jr c, DebugRoom_PagedValuePressedA
-	rra ; skip B_BUTTON_F
-	rra ; SELECT_F?
+	rra ; skip B_PAD_B
+	rra ; B_PAD_SELECT?
 	jr c, DebugRoom_PagedValuePressedSelect
-	rra ; START_F?
+	rra ; B_PAD_START?
 	jr c, DebugRoom_PagedValuePressedStart
-	rra ; D_RIGHT_F?
+	rra ; B_PAD_RIGHT?
 	jp c, DebugRoom_IncrementPagedValue
-	rra ; D_LEFT_F?
+	rra ; B_PAD_LEFT?
 	jp c, DebugRoom_DecrementPagedValue
-	rra ; D_UP_F?
+	rra ; B_PAD_UP?
 	jp c, DebugRoom_PrevPagedValue
-	rra ; D_DOWN_F?
+	rra ; B_PAD_DOWN?
 	jp c, DebugRoom_NextPagedValue
 	pop hl
 .continue
@@ -999,7 +999,7 @@ DebugRoom_JoyWaitABSelect:
 .loop
 	call GetJoypad
 	ldh a, [hJoyPressed]
-	and A_BUTTON | B_BUTTON | SELECT
+	and PAD_A | PAD_B | PAD_SELECT
 	jr z, .loop
 	ret
 
@@ -1355,7 +1355,7 @@ DebugRoom_BoxStructStrings:
 .SendBox:   db "SEND BOX@"
 
 DebugRoom_BoxAddresses:
-	table_width 3, DebugRoom_BoxAddresses
+	table_width 3
 for n, 1, NUM_BOXES + 1
 	dba sBox{d:n}
 endr
@@ -1419,18 +1419,18 @@ DebugRoom_DayHTimeString:
 	db "DAY     H<LF>TIME@"
 
 DebugRoom_GetClock:
-	ld a, SRAM_ENABLE
-	ld [MBC3SRamEnable], a
+	ld a, RAMG_SRAM_ENABLE
+	ld [rRAMG], a
 	xor a
-	ld [MBC3LatchClock], a
+	ld [rRTCLATCH], a
 	inc a
-	ld [MBC3LatchClock], a
-	ld b, RTC_DH - RTC_S + 1
-	ld c, RTC_S
+	ld [rRTCLATCH], a
+	ld b, RAMB_RTC_DH - RAMB_RTC_S + 1
+	ld c, RAMB_RTC_S
 .loop
 	ld a, c
-	ld [MBC3SRamBank], a
-	ld a, [MBC3RTC]
+	ld [rRAMB], a
+	ld a, [rRTCREG]
 	ld [hli], a
 	inc c
 	dec b
@@ -1439,15 +1439,15 @@ DebugRoom_GetClock:
 	ret
 
 DebugRoom_SetClock:
-	ld a, SRAM_ENABLE
-	ld [MBC3SRamEnable], a
-	ld b, RTC_DH - RTC_S + 1
-	ld c, RTC_S
+	ld a, RAMG_SRAM_ENABLE
+	ld [rRAMG], a
+	ld b, RAMB_RTC_DH - RAMB_RTC_S + 1
+	ld c, RAMB_RTC_S
 .loop
 	ld a, c
-	ld [MBC3SRamBank], a
+	ld [rRAMB], a
 	ld a, [hli]
-	ld [MBC3RTC], a
+	ld [rRTCREG], a
 	inc c
 	dec b
 	jr nz, .loop

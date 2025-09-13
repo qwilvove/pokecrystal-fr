@@ -1,5 +1,5 @@
 AnimationIdlePointers:
-	table_width 2, AnimationIdlePointers
+	table_width 2
 	dw BulbizarreAnimationIdle
 	dw HerbizarreAnimationIdle
 	dw FlorizarreAnimationIdle

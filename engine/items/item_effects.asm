@@ -13,7 +13,7 @@ _DoItemEffect::
 
 ItemEffects:
 ; entries correspond to item ids (see constants/item_constants.asm)
-	table_width 2, ItemEffects
+	table_width 2
 	dw PokeBallEffect      ; MASTER_BALL
 	dw PokeBallEffect      ; ULTRA_BALL
 	dw NoEffect            ; BRIGHTPOWDER
@@ -401,7 +401,7 @@ PokeBallEffect:
 	xor a
 	ldh [hBattleTurn], a
 	ld [wThrownBallWobbleCount], a
-	ld [wNumHits], a
+	ld [wBattleAfterAnim], a
 	predef PlayBattleAnim
 
 	ld a, [wWildMon]
@@ -879,11 +879,11 @@ MoonBallMultiplier:
 	pop bc
 	ret nz
 
+; BUG: Moon Ball does not boost catch rate (see docs/bugs_and_glitches.md)
 	inc hl
 	inc hl
 	inc hl
 
-; BUG: Moon Ball does not boost catch rate (see docs/bugs_and_glitches.md)
 	push bc
 	ld a, BANK("Evolutions and Attacks")
 	call GetFarByte
@@ -2567,7 +2567,7 @@ UseBallInTrainerBattle:
 	xor a
 	ld [wBattleAnimParam], a
 	ldh [hBattleTurn], a
-	ld [wNumHits], a
+	ld [wBattleAfterAnim], a
 	predef PlayBattleAnim
 	ld hl, BallBlockedText
 	call PrintText
