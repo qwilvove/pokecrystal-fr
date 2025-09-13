@@ -80,7 +80,7 @@ EvosAttacksPointers::
 	dw GrolemEvosAttacks
 	dw PonytaEvosAttacks
 	dw GalopaEvosAttacks
-	dw SlowpokeEvosAttacks
+	dw RamolossEvosAttacks
 	dw FlagadossEvosAttacks
 	dw MagnetiEvosAttacks
 	dw MagnetonEvosAttacks

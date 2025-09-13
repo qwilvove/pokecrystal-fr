@@ -1054,7 +1054,7 @@ GalopaEvosAttacks:
 	db 61, FIRE_BLAST
 	db 0 ; no more level-up moves
 
-SlowpokeEvosAttacks:
+RamolossEvosAttacks:
 	db EVOLVE_LEVEL, 37, FLAGADOSS
 	db EVOLVE_TRADE, KINGS_ROCK, SLOWKING
 	db 0 ; no more evolutions

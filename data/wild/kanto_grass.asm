@@ -148,26 +148,26 @@ KantoGrassWildMons:
 	db 22, NOSFERAPTI
 	db 22, RATICATE
 	db 24, NOSFERALTO
-	db 21, SLOWPOKE
+	db 21, RAMOLOSS
 	db 20, RATTATA
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, RAMOLOSS
+	db 23, RAMOLOSS
 	; day
 	db 22, NOSFERAPTI
 	db 22, RATICATE
 	db 24, NOSFERALTO
-	db 21, SLOWPOKE
+	db 21, RAMOLOSS
 	db 20, RATTATA
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, RAMOLOSS
+	db 23, RAMOLOSS
 	; nite
 	db 22, NOSFERAPTI
 	db 22, RATICATE
 	db 24, NOSFERALTO
-	db 21, SLOWPOKE
+	db 21, RAMOLOSS
 	db 20, RATTATA
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, RAMOLOSS
+	db 23, RAMOLOSS
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_1

@@ -3,7 +3,7 @@ Cries:
 	table_width 3
 	dba Cry_Nidoran_M
 	dba Cry_Nidoran_F
-	dba Cry_Slowpoke
+	dba Cry_Ramoloss
 	dba Cry_Kangourex
 	dba Cry_Charmander
 	dba Cry_Grimer

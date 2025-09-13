@@ -866,11 +866,11 @@ Cry_Nidoran_F:
 	channel 6, Cry_Nidoran_F_Ch6
 	channel 8, Cry_Nidoran_F_Ch8
 
-Cry_Slowpoke:
+Cry_Ramoloss:
 	channel_count 3
-	channel 5, Cry_Slowpoke_Ch5
-	channel 6, Cry_Slowpoke_Ch6
-	channel 8, Cry_Slowpoke_Ch8
+	channel 5, Cry_Ramoloss_Ch5
+	channel 6, Cry_Ramoloss_Ch6
+	channel 8, Cry_Ramoloss_Ch8
 
 Cry_Kangourex:
 	channel_count 3
@@ -1509,19 +1509,19 @@ Cry_Otaria_Ch6:
 Cry_Otaria_Ch8:
 	sound_ret
 
-Cry_Slowpoke_Ch5:
+Cry_Ramoloss_Ch5:
 	duty_cycle_pattern 0, 0, 0, 0
 	square_note 8, 15, 5, 1152
 	square_note 2, 14, 1, 1504
 	square_note 8, 13, 1, 1500
 	sound_ret
 
-Cry_Slowpoke_Ch6:
+Cry_Ramoloss_Ch6:
 	duty_cycle_pattern 2, 2, 1, 1
 	square_note 7, 9, 5, 1089
 	square_note 2, 8, 1, 1313
 	square_note 8, 6, 1, 1306
-Cry_Slowpoke_Ch8:
+Cry_Ramoloss_Ch8:
 	sound_ret
 
 Cry_Drowzee_Ch5:

@@ -81,7 +81,7 @@ PokemonPicPointers::
 	dba_pics GrolemFrontpic, GrolemBackpic
 	dba_pics PonytaFrontpic, PonytaBackpic
 	dba_pics GalopaFrontpic, GalopaBackpic
-	dba_pics SlowpokeFrontpic, SlowpokeBackpic
+	dba_pics RamolossFrontpic, RamolossBackpic
 	dba_pics FlagadossFrontpic, FlagadossBackpic
 	dba_pics MagnetiFrontpic, MagnetiBackpic
 	dba_pics MagnetonFrontpic, MagnetonBackpic

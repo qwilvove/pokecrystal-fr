@@ -1,7 +1,7 @@
 	object_const_def
 	const KURTSHOUSE_KURT1
 	const KURTSHOUSE_TWIN1
-	const KURTSHOUSE_SLOWPOKE
+	const KURTSHOUSE_RAMOLOSS
 	const KURTSHOUSE_KURT2
 	const KURTSHOUSE_TWIN2
 
@@ -12,7 +12,7 @@ KurtsHouse_MapScripts:
 	callback MAPCALLBACK_OBJECTS, KurtsHouseKurtCallback
 
 KurtsHouseKurtCallback:
-	checkevent EVENT_CLEARED_SLOWPOKE_WELL
+	checkevent EVENT_CLEARED_RAMOLOSS_WELL
 	iffalse .Done
 	checkevent EVENT_FOREST_IS_RESTLESS
 	iftrue .Done
@@ -37,13 +37,13 @@ Kurt1:
 	opentext
 	checkevent EVENT_KURT_GAVE_YOU_LURE_BALL
 	iftrue .GotLureBall
-	checkevent EVENT_CLEARED_SLOWPOKE_WELL
-	iftrue .ClearedSlowpokeWell
+	checkevent EVENT_CLEARED_RAMOLOSS_WELL
+	iftrue .ClearedRamolossWell
 	writetext KurtsHouseKurtMakingBallsMustWaitText
 	waitbutton
 	closetext
 	special FadeOutMusic
-	setevent EVENT_AZALEA_TOWN_SLOWPOKETAIL_ROCKET
+	setevent EVENT_AZALEA_TOWN_RAMOLOSSTAIL_ROCKET
 	readvar VAR_FACING
 	ifequal UP, .RunAround
 	turnobject PLAYER, DOWN
@@ -65,7 +65,7 @@ Kurt1:
 	special RestartMapMusic
 	end
 
-.ClearedSlowpokeWell:
+.ClearedRamolossWell:
 	writetext KurtsHouseKurtHonoredToMakeBallsText
 	promptbutton
 	verbosegiveitem LURE_BALL
@@ -353,19 +353,19 @@ KurtsGranddaughter1:
 	iftrue .Lonely
 	checkevent EVENT_FAST_SHIP_FIRST_TIME
 	iftrue .Dad
-	checkevent EVENT_CLEARED_SLOWPOKE_WELL
-	iftrue .SlowpokeBack
-	checkevent EVENT_AZALEA_TOWN_SLOWPOKETAIL_ROCKET
+	checkevent EVENT_CLEARED_RAMOLOSS_WELL
+	iftrue .RamolossBack
+	checkevent EVENT_AZALEA_TOWN_RAMOLOSSTAIL_ROCKET
 	iftrue .Lonely
 	opentext
-	writetext KurtsGranddaughterSlowpokeGoneText
+	writetext KurtsGranddaughterRamolossGoneText
 	waitbutton
 	closetext
 	end
 
-.SlowpokeBack:
+.RamolossBack:
 	opentext
-	writetext KurtsGranddaughterSlowpokeBackText
+	writetext KurtsGranddaughterRamolossBackText
 	waitbutton
 	closetext
 	end
@@ -410,11 +410,11 @@ KurtsGranddaughterFunScript:
 	closetext
 	end
 
-KurtsHouseSlowpoke:
+KurtsHouseRamoloss:
 	faceplayer
 	opentext
-	writetext KurtsHouseSlowpokeText
-	cry SLOWPOKE
+	writetext KurtsHouseRamolossText
+	cry RAMOLOSS
 	waitbutton
 	closetext
 	end
@@ -619,7 +619,7 @@ KurtsHouseKurtThisBallStartedToShakeText:
 	line "dans l'air!"
 	done
 
-KurtsGranddaughterSlowpokeGoneText:
+KurtsGranddaughterRamolossGoneText:
 	text "Les RAMOLOSS sont"
 	line "partis... Ont-ils"
 
@@ -632,7 +632,7 @@ KurtsGranddaughterLonelyText:
 	line "Je suis si seule!"
 	done
 
-KurtsGranddaughterSlowpokeBackText:
+KurtsGranddaughterRamolossBackText:
 	text "Le RAMOLOSS que"
 	line "mon pôpa m'a"
 
@@ -675,7 +675,7 @@ KurtsGranddaughterGSBallText:
 	line "J'attends."
 	done
 
-KurtsHouseSlowpokeText:
+KurtsHouseRamolossText:
 	text "RAMOLOSS: ...."
 	line "...(baille)..."
 	done
@@ -712,6 +712,6 @@ KurtsHouse_MapEvents:
 	def_object_events
 	object_event  3,  2, SPRITE_KURT, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Kurt1, EVENT_KURTS_HOUSE_KURT_1
 	object_event  5,  3, SPRITE_TWIN, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, KurtsGranddaughter1, EVENT_KURTS_HOUSE_GRANDDAUGHTER_1
-	object_event  6,  3, SPRITE_SLOWPOKE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, KurtsHouseSlowpoke, EVENT_KURTS_HOUSE_SLOWPOKE
+	object_event  6,  3, SPRITE_RAMOLOSS, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, KurtsHouseRamoloss, EVENT_KURTS_HOUSE_RAMOLOSS
 	object_event 14,  3, SPRITE_KURT, SPRITEMOVEDATA_STANDING_UP, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Kurt2, EVENT_KURTS_HOUSE_KURT_2
 	object_event 11,  4, SPRITE_TWIN, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, KurtsGranddaughter2, EVENT_KURTS_HOUSE_GRANDDAUGHTER_2

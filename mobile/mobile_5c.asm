@@ -654,7 +654,7 @@ Function171c87:
 	ld de, vTiles2 tile $00
 	ld bc, $6e tiles
 	call CopyBytes
-	ld hl, PasswordSlowpokeLZ
+	ld hl, PasswordRamolossLZ
 	ld de, vTiles0 tile $00
 	call Decompress
 	call EnableLCD
@@ -726,7 +726,7 @@ Function171d2b:
 	ld de, vTiles2 tile $00
 	ld bc, $6e tiles
 	call CopyBytes
-	ld hl, PasswordSlowpokeLZ
+	ld hl, PasswordRamolossLZ
 	ld de, vTiles0 tile $00
 	call Decompress
 	call EnableLCD
@@ -770,8 +770,8 @@ INCBIN "gfx/mobile/password.attrmap"
 ChooseMobileCenterAttrmap:
 INCBIN "gfx/mobile/mobile_center.attrmap"
 
-PasswordSlowpokeLZ:
-INCBIN "gfx/pokedex/slowpoke.2bpp.lz"
+PasswordRamolossLZ:
+INCBIN "gfx/pokedex/ramoloss.2bpp.lz"
 
 String_172e31:
 	db "パスワード<WO>いれてください@"

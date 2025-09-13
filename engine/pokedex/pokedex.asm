@@ -624,8 +624,8 @@ Pokedex_InitSearchScreen:
 	ld [wDexSearchMonType2], a
 	call Pokedex_PlaceSearchScreenTypeStrings
 	xor a
-	ld [wDexSearchSlowpokeFrame], a
-	farcall DoDexSearchSlowpokeFrame
+	ld [wDexSearchRamolossFrame], a
+	farcall DoDexSearchRamolossFrame
 	call WaitBGMap
 	ld a, SCGB_POKEDEX_SEARCH_OPTION
 	call Pokedex_GetSGBLayout
@@ -678,7 +678,7 @@ Pokedex_UpdateSearchScreen:
 
 .MenuAction_BeginSearch:
 	call Pokedex_SearchForMons
-	farcall AnimateDexSearchSlowpoke
+	farcall AnimateDexSearchRamoloss
 	ld a, [wDexSearchResultCount]
 	and a
 	jr nz, .show_search_results
@@ -2433,15 +2433,15 @@ Pokedex_LoadGFX:
 	call Pokedex_CheckSGB
 	jr nz, .LoadPokedexLZ
 	farcall LoadSGBPokedexGFX
-	jr .LoadPokedexSlowpokeLZ
+	jr .LoadPokedexRamolossLZ
 
 .LoadPokedexLZ:
 	ld hl, PokedexLZ
 	ld de, vTiles2 tile $31
 	call Decompress
 
-.LoadPokedexSlowpokeLZ:
-	ld hl, PokedexSlowpokeLZ
+.LoadPokedexRamolossLZ:
+	ld hl, PokedexRamolossLZ
 	ld de, vTiles0
 	call Decompress
 	ld a, 6
@@ -2468,8 +2468,8 @@ Pokedex_InvertTiles:
 PokedexLZ:
 INCBIN "gfx/pokedex/pokedex.2bpp.lz"
 
-PokedexSlowpokeLZ:
-INCBIN "gfx/pokedex/slowpoke.2bpp.lz"
+PokedexRamolossLZ:
+INCBIN "gfx/pokedex/ramoloss.2bpp.lz"
 
 Pokedex_CheckSGB:
 	ldh a, [hCGB]

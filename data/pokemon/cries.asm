@@ -84,7 +84,7 @@ PokemonCries::
 	mon_cry CRY_GROLEM,       224,  192 ; GROLEM
 	mon_cry CRY_BOUSTIFLOR,    0,  256 ; PONYTA
 	mon_cry CRY_BOUSTIFLOR,   32,  320 ; GALOPA
-	mon_cry CRY_SLOWPOKE,      0,  256 ; SLOWPOKE
+	mon_cry CRY_RAMOLOSS,      0,  256 ; RAMOLOSS
 	mon_cry CRY_CANINOS,     0,  256 ; FLAGADOSS
 	mon_cry CRY_CHRYSACIER,     128,  224 ; MAGNETI
 	mon_cry CRY_CHRYSACIER,      32,  320 ; MAGNETON

@@ -78,7 +78,7 @@ FramesPointers:
 	dw GrolemFrames
 	dw PonytaFrames
 	dw GalopaFrames
-	dw SlowpokeFrames
+	dw RamolossFrames
 	dw FlagadossFrames
 	dw MagnetiFrames
 	dw MagnetonFrames

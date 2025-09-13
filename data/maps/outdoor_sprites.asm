@@ -155,7 +155,7 @@ CeruleanGroupSprites:
 	db SPRITE_ROCKET
 	db SPRITE_MISTY
 	db SPRITE_POKE_BALL
-	db SPRITE_SLOWPOKE
+	db SPRITE_RAMOLOSS
 
 SaffronGroupSprites:
 	db SPRITE_SUICUNE
@@ -180,7 +180,7 @@ SaffronGroupSprites:
 	db SPRITE_ROCKET
 	db SPRITE_MISTY
 	db SPRITE_POKE_BALL
-	db SPRITE_SLOWPOKE
+	db SPRITE_RAMOLOSS
 
 CeladonGroupSprites:
 	db SPRITE_SUICUNE
@@ -455,7 +455,7 @@ AzaleaGroupSprites:
 	db SPRITE_LASS
 	db SPRITE_RIVAL
 	db SPRITE_FRUIT_TREE
-	db SPRITE_SLOWPOKE
+	db SPRITE_RAMOLOSS
 
 GoldenrodGroupSprites:
 	db SPRITE_SUICUNE
@@ -480,7 +480,7 @@ GoldenrodGroupSprites:
 	db SPRITE_LASS
 	db SPRITE_DAY_CARE_MON_2
 	db SPRITE_FRUIT_TREE
-	db SPRITE_SLOWPOKE
+	db SPRITE_RAMOLOSS
 
 CianwoodGroupSprites:
 	db SPRITE_SUICUNE

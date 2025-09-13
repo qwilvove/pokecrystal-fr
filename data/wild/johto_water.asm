@@ -30,17 +30,17 @@ JohtoWaterWildMons:
 	db 20, TENTACRUEL
 	end_water_wildmons
 
-	def_water_wildmons SLOWPOKE_WELL_B1F
+	def_water_wildmons RAMOLOSS_WELL_B1F
 	db 2 percent ; encounter rate
-	db 15, SLOWPOKE
-	db 20, SLOWPOKE
-	db 10, SLOWPOKE
+	db 15, RAMOLOSS
+	db 20, RAMOLOSS
+	db 10, RAMOLOSS
 	end_water_wildmons
 
-	def_water_wildmons SLOWPOKE_WELL_B2F
+	def_water_wildmons RAMOLOSS_WELL_B2F
 	db 2 percent ; encounter rate
-	db 15, SLOWPOKE
-	db 20, SLOWPOKE
+	db 15, RAMOLOSS
+	db 20, RAMOLOSS
 	db 20, FLAGADOSS
 	end_water_wildmons
 

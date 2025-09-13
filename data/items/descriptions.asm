@@ -103,7 +103,7 @@ ItemDescriptions:
 	dw TeruSama7Desc
 	dw PnkApricornDesc
 	dw BlackGlassesDesc
-	dw SlowpokeTailDesc
+	dw RamolossTailDesc
 	dw PinkBowDesc
 	dw StickDesc
 	dw SmokeBallDesc
@@ -654,7 +654,7 @@ BlackGlassesDesc:
 	db   "Renforce capacités"
 	next "TENEBRES. (TENU)@"
 
-SlowpokeTailDesc:
+RamolossTailDesc:
 	db   "Très bon. Se vend"
 	next "cher.@"
 

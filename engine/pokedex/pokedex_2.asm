@@ -1,4 +1,4 @@
-AnimateDexSearchSlowpoke:
+AnimateDexSearchRamoloss:
 	ld hl, .FrameIDs
 	ld b, 25
 .loop
@@ -11,20 +11,20 @@ AnimateDexSearchSlowpoke:
 	ld a, [hli]
 .ok
 
-	ld [wDexSearchSlowpokeFrame], a
+	ld [wDexSearchRamolossFrame], a
 	ld a, [hli]
 	ld c, a
 	push bc
 	push hl
-	call DoDexSearchSlowpokeFrame
+	call DoDexSearchRamolossFrame
 	pop hl
 	pop bc
 	call DelayFrames
 	dec b
 	jr nz, .loop
 	xor a
-	ld [wDexSearchSlowpokeFrame], a
-	call DoDexSearchSlowpokeFrame
+	ld [wDexSearchRamolossFrame], a
+	call DoDexSearchRamolossFrame
 	ld c, 32
 	call DelayFrames
 	ret
@@ -38,9 +38,9 @@ AnimateDexSearchSlowpoke:
 	db 4, 7
 	db -2
 
-DoDexSearchSlowpokeFrame:
-	ld a, [wDexSearchSlowpokeFrame]
-	ld hl, .SlowpokeSpriteData
+DoDexSearchRamolossFrame:
+	ld a, [wDexSearchRamolossFrame]
+	ld hl, .RamolossSpriteData
 	ld de, wShadowOAMSprite00
 .loop
 	ld a, [hli]
@@ -51,7 +51,7 @@ DoDexSearchSlowpokeFrame:
 	ld a, [hli]
 	ld [de], a ; x
 	inc de
-	ld a, [wDexSearchSlowpokeFrame]
+	ld a, [wDexSearchRamolossFrame]
 	ld b, a
 	add a
 	add b
@@ -64,7 +64,7 @@ DoDexSearchSlowpokeFrame:
 	inc de
 	jr .loop
 
-.SlowpokeSpriteData:
+.RamolossSpriteData:
 	dbsprite  9, 11, 0, 0, $00, 0
 	dbsprite 10, 11, 0, 0, $01, 0
 	dbsprite 11, 11, 0, 0, $02, 0

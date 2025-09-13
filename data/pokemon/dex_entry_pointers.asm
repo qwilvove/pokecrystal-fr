@@ -79,7 +79,7 @@ PokedexDataPointerTable:
 	dw GrolemPokedexEntry
 	dw PonytaPokedexEntry
 	dw GalopaPokedexEntry
-	dw SlowpokePokedexEntry
+	dw RamolossPokedexEntry
 	dw FlagadossPokedexEntry
 	dw MagnetiPokedexEntry
 	dw MagnetonPokedexEntry

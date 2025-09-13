@@ -78,7 +78,7 @@ AnimationPointers:
 	dw GrolemAnimation
 	dw PonytaAnimation
 	dw GalopaAnimation
-	dw SlowpokeAnimation
+	dw RamolossAnimation
 	dw FlagadossAnimation
 	dw MagnetiAnimation
 	dw MagnetonAnimation

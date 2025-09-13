@@ -730,7 +730,7 @@ wDexSearchResultCount:: db
 wDexArrowCursorPosIndex:: db
 wDexArrowCursorDelayCounter:: db
 wDexArrowCursorBlinkCounter:: db
-wDexSearchSlowpokeFrame:: db
+wDexSearchRamolossFrame:: db
 wUnlockedUnownMode:: db
 wDexCurUnownIndex:: db
 wDexUnownCount:: db

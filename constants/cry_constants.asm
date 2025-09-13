@@ -4,7 +4,7 @@
 ; gen 1
 	const CRY_NIDORAN_M
 	const CRY_NIDORAN_F
-	const CRY_SLOWPOKE
+	const CRY_RAMOLOSS
 	const CRY_KANGOUREX
 	const CRY_CHARMANDER
 	const CRY_GRIMER

@@ -315,7 +315,7 @@ Function11c1b9:
 	ld de, vTiles2
 	ld bc, $60
 	call CopyBytes
-	ld hl, EZChatSlowpokeLZ
+	ld hl, EZChatRamolossLZ
 	ld de, vTiles0
 	call Decompress
 	call EnableLCD
@@ -3230,8 +3230,8 @@ INCLUDE "data/pokemon/ezchat_order.asm"
 SelectStartGFX:
 INCBIN "gfx/mobile/select_start.2bpp"
 
-EZChatSlowpokeLZ:
-INCBIN "gfx/pokedex/slowpoke.2bpp.lz"
+EZChatRamolossLZ:
+INCBIN "gfx/pokedex/ramoloss.2bpp.lz"
 
 MobileEZChatCategoryNames:
 ; entries correspond to EZCHAT_* constants

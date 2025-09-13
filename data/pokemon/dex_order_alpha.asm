@@ -194,7 +194,7 @@ AlphabeticalPokedexOrder:
 	db RAFFLESIA
 	db RAICHU
 	db RAIKOU
-	db SLOWPOKE
+	db RAMOLOSS
 	db FEAROW
 	db RATTATA
 	db RATICATE

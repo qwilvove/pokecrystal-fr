@@ -36,7 +36,7 @@
 	const ICON_HO_OH
 	const ICON_LUGIA
 	const ICON_LEVIATOR
-	const ICON_SLOWPOKE
+	const ICON_RAMOLOSS
 	const ICON_SUDOWOODO
 	const ICON_BIGMON
 DEF NUM_ICONS EQU const_value - 1

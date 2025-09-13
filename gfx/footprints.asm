@@ -180,7 +180,7 @@ INCBIN "gfx/footprints/gravalanch.1bpp",   footprint_top
 INCBIN "gfx/footprints/grolem.1bpp",      footprint_top
 INCBIN "gfx/footprints/ponyta.1bpp",     footprint_top
 INCBIN "gfx/footprints/galopa.1bpp",   footprint_top
-INCBIN "gfx/footprints/slowpoke.1bpp",   footprint_top
+INCBIN "gfx/footprints/ramoloss.1bpp",   footprint_top
 INCBIN "gfx/footprints/flagadoss.1bpp",    footprint_top
 ; 073-080 bottom halves
 INCBIN "gfx/footprints/tentacruel.1bpp", footprint_bottom
@@ -189,7 +189,7 @@ INCBIN "gfx/footprints/gravalanch.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/grolem.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/ponyta.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/galopa.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/slowpoke.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/ramoloss.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/flagadoss.1bpp",    footprint_bottom
 ; 081-088 top halves
 INCBIN "gfx/footprints/magneti.1bpp",  footprint_top

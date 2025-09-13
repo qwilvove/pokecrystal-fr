@@ -17,7 +17,7 @@
 Route32_MapScripts:
 	def_scene_scripts
 	scene_script Route32Noop1Scene, SCENE_ROUTE32_COOLTRAINER_M_BLOCKS
-	scene_script Route32Noop2Scene, SCENE_ROUTE32_OFFER_SLOWPOKETAIL
+	scene_script Route32Noop2Scene, SCENE_ROUTE32_OFFER_RAMOLOSSTAIL
 	scene_script Route32Noop3Scene, SCENE_ROUTE32_NOOP
 
 	def_callbacks
@@ -117,17 +117,17 @@ Route32RoarTMGuyScript:
 	closetext
 	end
 
-Route32WannaBuyASlowpokeTailScript:
+Route32WannaBuyARamolossTailScript:
 	turnobject ROUTE32_FISHER4, DOWN
 	turnobject PLAYER, UP
-	sjump _OfferToSellSlowpokeTail
+	sjump _OfferToSellRamolossTail
 
-SlowpokeTailSalesmanScript:
+RamolossTailSalesmanScript:
 	faceplayer
-_OfferToSellSlowpokeTail:
+_OfferToSellRamolossTail:
 	setscene SCENE_ROUTE32_NOOP
 	opentext
-	writetext Text_MillionDollarSlowpokeTail
+	writetext Text_MillionDollarRamolossTail
 	yesorno
 	iffalse .refused
 	writetext Text_ThoughtKidsWereLoaded
@@ -136,7 +136,7 @@ _OfferToSellSlowpokeTail:
 	end
 
 .refused
-	writetext Text_RefusedToBuySlowpokeTail
+	writetext Text_RefusedToBuyRamolossTail
 	waitbutton
 	closetext
 	end
@@ -594,7 +594,7 @@ Route32CooltrainerMText_ExperiencesShouldBeUseful:
 	para "bénéfique."
 	done
 
-Text_MillionDollarSlowpokeTail:
+Text_MillionDollarRamolossTail:
 	text "Hé toi! Ca te"
 	line "dit une bonne"
 	cont "QUEUERAMOLOS?"
@@ -610,7 +610,7 @@ Text_ThoughtKidsWereLoaded:
 	line "thune! Dégage!"
 	done
 
-Text_RefusedToBuySlowpokeTail:
+Text_RefusedToBuyRamolossTail:
 	text "T'en veux pas?"
 	line "Dégage!"
 	done
@@ -927,7 +927,7 @@ Route32_MapEvents:
 
 	def_coord_events
 	coord_event 18,  8, SCENE_ROUTE32_COOLTRAINER_M_BLOCKS, Route32CooltrainerMStopsYouScene
-	coord_event  7, 71, SCENE_ROUTE32_OFFER_SLOWPOKETAIL, Route32WannaBuyASlowpokeTailScript
+	coord_event  7, 71, SCENE_ROUTE32_OFFER_RAMOLOSSTAIL, Route32WannaBuyARamolossTailScript
 
 	def_bg_events
 	bg_event 13,  5, BGEVENT_READ, Route32Sign
@@ -947,7 +947,7 @@ Route32_MapEvents:
 	object_event 10, 30, SPRITE_LASS, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_TRAINER, 1, TrainerPicnickerLiz1, -1
 	object_event 19,  8, SPRITE_COOLTRAINER_M, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route32CooltrainerMScript, -1
 	object_event 11, 82, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_UP, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 3, TrainerBirdKeeperPeter, -1
-	object_event  7, 70, SPRITE_FISHER, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, SlowpokeTailSalesmanScript, EVENT_SLOWPOKE_WELL_ROCKETS
+	object_event  7, 70, SPRITE_FISHER, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, RamolossTailSalesmanScript, EVENT_RAMOLOSS_WELL_ROCKETS
 	object_event  6, 53, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, Route32GreatBall, EVENT_ROUTE_32_GREAT_BALL
 	object_event 15, 13, SPRITE_FISHER, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route32RoarTMGuyScript, -1
 	object_event 12, 67, SPRITE_LASS, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, FriedaScript, EVENT_ROUTE_32_FRIEDA_OF_FRIDAY

@@ -13,14 +13,14 @@ CharcoalKilnBoss:
 	opentext
 	checkevent EVENT_GOT_HM01_CUT
 	iftrue .GotCut
-	checkevent EVENT_CLEARED_SLOWPOKE_WELL
-	iftrue .SavedSlowpoke
+	checkevent EVENT_CLEARED_RAMOLOSS_WELL
+	iftrue .SavedRamoloss
 	writetext CharcoalKilnBossText1
 	waitbutton
 	closetext
 	end
 
-.SavedSlowpoke:
+.SavedRamoloss:
 	writetext CharcoalKilnBossText2
 	waitbutton
 	closetext

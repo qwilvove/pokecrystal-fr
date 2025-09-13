@@ -5,7 +5,7 @@ KantoWaterWildMons:
 	def_water_wildmons TOHJO_FALLS
 	db 4 percent ; encounter rate
 	db 20, POISSIRENE
-	db 20, SLOWPOKE
+	db 20, RAMOLOSS
 	db 20, POISSOROY
 	end_water_wildmons
 

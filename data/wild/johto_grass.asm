@@ -506,60 +506,60 @@ JohtoGrassWildMons:
 	db 23, ONIX
 	end_grass_wildmons
 
-	def_grass_wildmons SLOWPOKE_WELL_B1F
+	def_grass_wildmons RAMOLOSS_WELL_B1F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	db 5, NOSFERAPTI
 	db 6, NOSFERAPTI
 	db 7, NOSFERAPTI
-	db 6, SLOWPOKE
+	db 6, RAMOLOSS
 	db 8, NOSFERAPTI
-	db 8, SLOWPOKE
-	db 8, SLOWPOKE
+	db 8, RAMOLOSS
+	db 8, RAMOLOSS
 	; day
 	db 5, NOSFERAPTI
 	db 6, NOSFERAPTI
 	db 7, NOSFERAPTI
-	db 6, SLOWPOKE
+	db 6, RAMOLOSS
 	db 8, NOSFERAPTI
-	db 8, SLOWPOKE
-	db 8, SLOWPOKE
+	db 8, RAMOLOSS
+	db 8, RAMOLOSS
 	; nite
 	db 5, NOSFERAPTI
 	db 6, NOSFERAPTI
 	db 7, NOSFERAPTI
-	db 6, SLOWPOKE
+	db 6, RAMOLOSS
 	db 8, NOSFERAPTI
-	db 8, SLOWPOKE
-	db 8, SLOWPOKE
+	db 8, RAMOLOSS
+	db 8, RAMOLOSS
 	end_grass_wildmons
 
-	def_grass_wildmons SLOWPOKE_WELL_B2F
+	def_grass_wildmons RAMOLOSS_WELL_B2F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	db 21, NOSFERAPTI
 	db 23, NOSFERAPTI
 	db 19, NOSFERAPTI
-	db 21, SLOWPOKE
+	db 21, RAMOLOSS
 	db 23, NOSFERALTO
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, RAMOLOSS
+	db 23, RAMOLOSS
 	; day
 	db 21, NOSFERAPTI
 	db 23, NOSFERAPTI
 	db 19, NOSFERAPTI
-	db 21, SLOWPOKE
+	db 21, RAMOLOSS
 	db 23, NOSFERALTO
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, RAMOLOSS
+	db 23, RAMOLOSS
 	; nite
 	db 21, NOSFERAPTI
 	db 23, NOSFERAPTI
 	db 19, NOSFERAPTI
-	db 21, SLOWPOKE
+	db 21, RAMOLOSS
 	db 23, NOSFERALTO
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, RAMOLOSS
+	db 23, RAMOLOSS
 	end_grass_wildmons
 
 	def_grass_wildmons ILEX_FOREST

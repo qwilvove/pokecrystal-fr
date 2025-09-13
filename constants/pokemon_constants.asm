@@ -97,7 +97,7 @@
 	const GROLEM      ; 4c
 	const PONYTA     ; 4d
 	const GALOPA   ; 4e
-	const SLOWPOKE   ; 4f
+	const RAMOLOSS   ; 4f
 	const FLAGADOSS    ; 50
 	const MAGNETI  ; 51
 	const MAGNETON   ; 52

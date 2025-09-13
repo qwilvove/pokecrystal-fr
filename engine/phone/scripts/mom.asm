@@ -50,7 +50,7 @@ MomPhoneInTown:
 	getlandmarkname STRING_BUFFER_4, LANDMARK_SPROUT_TOWER
 	sjump MomPhoneLandmark
 .azalea
-	getlandmarkname STRING_BUFFER_4, LANDMARK_SLOWPOKE_WELL
+	getlandmarkname STRING_BUFFER_4, LANDMARK_RAMOLOSS_WELL
 	sjump MomPhoneLandmark
 .goldenrod
 	getlandmarkname STRING_BUFFER_4, LANDMARK_RADIO_TOWER

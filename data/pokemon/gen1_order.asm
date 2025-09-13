@@ -36,7 +36,7 @@ Pokered_MonIndices:
 	db ONIX
 	db FEAROW
 	db PIDGEY
-	db SLOWPOKE
+	db RAMOLOSS
 	db KADABRA
 	db GRAVALANCH
 	db LEVEINARD

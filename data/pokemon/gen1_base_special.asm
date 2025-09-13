@@ -80,7 +80,7 @@ KantoMonSpecials:
 	db  55 ; GROLEM
 	db  65 ; PONYTA
 	db  80 ; GALOPA
-	db  40 ; SLOWPOKE
+	db  40 ; RAMOLOSS
 	db  80 ; FLAGADOSS
 	db  95 ; MAGNETI
 	db 120 ; MAGNETON

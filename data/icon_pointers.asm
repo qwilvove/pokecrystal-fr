@@ -37,7 +37,7 @@ IconPointers:
 	dw HoOhIcon
 	dw LugiaIcon
 	dw LeviatorIcon
-	dw SlowpokeIcon
+	dw RamolossIcon
 	dw SudowoodoIcon
 	dw BigmonIcon
 	assert_table_length NUM_ICONS + 1
