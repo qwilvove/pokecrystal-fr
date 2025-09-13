@@ -188,7 +188,7 @@ AlphabeticalPokedexOrder:
 	db PTITARD
 	db PYROLI
 	db QUEULORIOR
-	db WOBBUFFET
+	db QULBUTOKE
 	db QWILFISH
 	db GEODUDE
 	db VILEPLUME

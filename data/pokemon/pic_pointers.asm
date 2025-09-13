@@ -204,7 +204,7 @@ PokemonPicPointers::
 	dba_pics SlowkingFrontpic, SlowkingBackpic
 	dba_pics FeuforeveFrontpic, FeuforeveBackpic
 	dba_pics ; Unown pics have their own table (see data/pokemon/unown_pic_pointers.asm)
-	dba_pics WobbuffetFrontpic, WobbuffetBackpic
+	dba_pics QulbutokeFrontpic, QulbutokeBackpic
 	dba_pics GirafarigFrontpic, GirafarigBackpic
 	dba_pics PomdepikFrontpic, PomdepikBackpic
 	dba_pics ForetressFrontpic, ForetressBackpic

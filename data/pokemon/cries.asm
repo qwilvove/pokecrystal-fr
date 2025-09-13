@@ -207,7 +207,7 @@ PokemonCries::
 	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
 	mon_cry CRY_HOOTHOOT,    304,  232 ; FEUFOREVE
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
-	mon_cry CRY_PHARAMP,    635,  324 ; WOBBUFFET
+	mon_cry CRY_PHARAMP,    635,  324 ; QULBUTOKE
 	mon_cry CRY_GIRAFARIG,    65,  512 ; GIRAFARIG
 	mon_cry CRY_SLOWKING,    128,  256 ; POMDEPIK
 	mon_cry CRY_SLOWKING,      0,  384 ; FORETRESS

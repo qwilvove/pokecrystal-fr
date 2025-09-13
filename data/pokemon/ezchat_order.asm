@@ -62,7 +62,7 @@ EZChat_SortedPokemon:
 .shi_ji:   db HYPOCEAN, KOKIYAS, AQUALI, LAMANTINE, -1
 .su_zu:    db SUICUNE, STARMIE, INSECATEUR, NOSFERAPTI, DARDARGNAN, HYPNOMADE, DROWZEE, -1
 .se_ze:    db CARAPUCE, CELEBI, -1
-.so_zo:    db WOBBUFFET, -1
+.so_zo:    db QULBUTOKE, -1
 .ta_da:    db DUGTRIO, HYPOTREMPE, NOEUNOEUF, -1
 .chi_dhi:  db GERMIGNON, LOUPIO, -1
 .tsu_du:   db CARATROC, -1

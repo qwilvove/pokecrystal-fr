@@ -201,7 +201,7 @@ FramesPointers:
 	dw SlowkingFrames
 	dw FeuforeveFrames
 	dw UnownFrames
-	dw WobbuffetFrames
+	dw QulbutokeFrames
 	dw GirafarigFrames
 	dw PomdepikFrames
 	dw ForetressFrames

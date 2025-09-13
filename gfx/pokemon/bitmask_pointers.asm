@@ -201,7 +201,7 @@ BitmasksPointers:
 	dw SlowkingBitmasks
 	dw FeuforeveBitmasks
 	dw UnownBitmasks
-	dw WobbuffetBitmasks
+	dw QulbutokeBitmasks
 	dw GirafarigBitmasks
 	dw PomdepikBitmasks
 	dw ForetressBitmasks

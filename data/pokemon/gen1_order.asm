@@ -241,7 +241,7 @@ Pokered_MonIndices:
 	db SLOWKING
 	db FEUFOREVE
 	db UNOWN
-	db WOBBUFFET
+	db QULBUTOKE
 	db GIRAFARIG
 	db POMDEPIK
 	db FORETRESS
@@ -251,6 +251,6 @@ Pokered_MonIndices:
 	db SNUBBULL
 	db GRANBULL
 	db QWILFISH
-	db WOBBUFFET
-	db WOBBUFFET
+	db QULBUTOKE
+	db QULBUTOKE
 	assert_table_length NUM_POKEMON + 1

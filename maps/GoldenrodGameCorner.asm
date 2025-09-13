@@ -3,7 +3,7 @@ DEF GOLDENRODGAMECORNER_TM14_COINS      EQU 5500
 DEF GOLDENRODGAMECORNER_TM38_COINS      EQU 5500
 DEF GOLDENRODGAMECORNER_ABRA_COINS      EQU 100
 DEF GOLDENRODGAMECORNER_OSSELAIT_COINS    EQU 800
-DEF GOLDENRODGAMECORNER_WOBBUFFET_COINS EQU 1500
+DEF GOLDENRODGAMECORNER_QULBUTOKE_COINS EQU 1500
 
 	object_const_def
 	const GOLDENRODGAMECORNER_CLERK
@@ -172,7 +172,7 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	closewindow
 	ifequal 1, .Abra
 	ifequal 2, .Osselait
-	ifequal 3, .Wobbuffet
+	ifequal 3, .Qulbutoke
 	sjump GoldenrodGameCornerPrizeVendor_CancelPurchaseScript
 
 .Abra:
@@ -211,22 +211,22 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	takecoins GOLDENRODGAMECORNER_OSSELAIT_COINS
 	sjump .loop
 
-.Wobbuffet:
-	checkcoins GOLDENRODGAMECORNER_WOBBUFFET_COINS
+.Qulbutoke:
+	checkcoins GOLDENRODGAMECORNER_QULBUTOKE_COINS
 	ifequal HAVE_LESS, GoldenrodGameCornerPrizeVendor_NotEnoughCoinsScript
 	readvar VAR_PARTYCOUNT
 	ifequal PARTY_LENGTH, GoldenrodGameCornerPrizeMonVendor_NoRoomForPrizeScript
-	getmonname STRING_BUFFER_3, WOBBUFFET
+	getmonname STRING_BUFFER_3, QULBUTOKE
 	scall GoldenrodGameCornerPrizeVendor_ConfirmPurchaseScript
 	iffalse GoldenrodGameCornerPrizeVendor_CancelPurchaseScript
 	waitsfx
 	playsound SFX_TRANSACTION
 	writetext GoldenrodGameCornerPrizeVendorHereYouGoText
 	waitbutton
-	setval WOBBUFFET
+	setval QULBUTOKE
 	special GameCornerPrizeMonCheckDex
-	givepoke WOBBUFFET, 15
-	takecoins GOLDENRODGAMECORNER_WOBBUFFET_COINS
+	givepoke QULBUTOKE, 15
+	takecoins GOLDENRODGAMECORNER_QULBUTOKE_COINS
 	sjump .loop
 
 .MenuHeader:

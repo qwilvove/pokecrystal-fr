@@ -203,7 +203,7 @@ MonMenuIcons:
 	db ICON_SLOWPOKE    ; SLOWKING
 	db ICON_GHOST       ; FEUFOREVE
 	db ICON_UNOWN       ; UNOWN
-	db ICON_GHOST       ; WOBBUFFET
+	db ICON_GHOST       ; QULBUTOKE
 	db ICON_EQUINE      ; GIRAFARIG
 	db ICON_BUG         ; POMDEPIK
 	db ICON_BUG         ; FORETRESS

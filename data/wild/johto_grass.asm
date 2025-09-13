@@ -1228,8 +1228,8 @@ JohtoGrassWildMons:
 	db 23, GEODUDE
 	db 23, NOSFERAPTI
 	db 25, GRAVALANCH
-	db 20, WOBBUFFET
-	db 25, WOBBUFFET
+	db 20, QULBUTOKE
+	db 25, QULBUTOKE
 	db 23, NOSFERALTO
 	db 23, NOSFERALTO
 	end_grass_wildmons

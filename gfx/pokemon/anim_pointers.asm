@@ -201,7 +201,7 @@ AnimationPointers:
 	dw SlowkingAnimation
 	dw FeuforeveAnimation
 	dw UnownAnimation
-	dw WobbuffetAnimation
+	dw QulbutokeAnimation
 	dw GirafarigAnimation
 	dw PomdepikAnimation
 	dw ForetressAnimation

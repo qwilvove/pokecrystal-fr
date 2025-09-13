@@ -221,7 +221,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const SLOWKING   ; c7
 	const FEUFOREVE ; c8
 	const UNOWN      ; c9
-	const WOBBUFFET  ; ca
+	const QULBUTOKE  ; ca
 	const GIRAFARIG  ; cb
 	const POMDEPIK     ; cc
 	const FORETRESS ; cd
