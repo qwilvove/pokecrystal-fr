@@ -234,7 +234,7 @@ AnimationPointers:
 	dw DonphanAnimation
 	dw Porygon2Animation
 	dw CerfrousseAnimation
-	dw SmeargleAnimation
+	dw QueuloriorAnimation
 	dw DebugantAnimation
 	dw KapoeraAnimation
 	dw LippoutiAnimation

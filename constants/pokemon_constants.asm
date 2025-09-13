@@ -254,7 +254,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const DONPHAN    ; e8
 	const PORYGON2   ; e9
 	const CERFROUSSE   ; ea
-	const SMEARGLE   ; eb
+	const QUEULORIOR   ; eb
 	const DEBUGANT    ; ec
 	const KAPOERA  ; ed
 	const LIPPOUTI   ; ee

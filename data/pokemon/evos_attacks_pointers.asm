@@ -236,7 +236,7 @@ EvosAttacksPointers::
 	dw DonphanEvosAttacks
 	dw Porygon2EvosAttacks
 	dw CerfrousseEvosAttacks
-	dw SmeargleEvosAttacks
+	dw QueuloriorEvosAttacks
 	dw DebugantEvosAttacks
 	dw KapoeraEvosAttacks
 	dw LippoutiEvosAttacks

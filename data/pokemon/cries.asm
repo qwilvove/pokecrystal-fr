@@ -240,7 +240,7 @@ PokemonCries::
 	mon_cry CRY_DONPHAN,       0,  416 ; DONPHAN
 	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGON2
 	mon_cry CRY_CAPUMAIN,      -352,  384 ; CERFROUSSE
-	mon_cry CRY_PICHU,      -538,  496 ; SMEARGLE
+	mon_cry CRY_PICHU,      -538,  496 ; QUEULORIOR
 	mon_cry CRY_CAPUMAIN,        44,  264 ; DEBUGANT
 	mon_cry CRY_LIMAGMA,        0,  256 ; KAPOERA
 	mon_cry CRY_MARILL,      104,  256 ; LIPPOUTI

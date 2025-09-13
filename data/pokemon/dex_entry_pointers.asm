@@ -235,7 +235,7 @@ PokedexDataPointerTable:
 	dw DonphanPokedexEntry
 	dw Porygon2PokedexEntry
 	dw CerfroussePokedexEntry
-	dw SmearglePokedexEntry
+	dw QueuloriorPokedexEntry
 	dw DebugantPokedexEntry
 	dw KapoeraPokedexEntry
 	dw LippoutiPokedexEntry

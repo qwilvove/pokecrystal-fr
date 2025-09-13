@@ -3123,7 +3123,7 @@ CerfrousseEvosAttacks:
 	db 49, CONFUSE_RAY
 	db 0 ; no more level-up moves
 
-SmeargleEvosAttacks:
+QueuloriorEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, SKETCH
 	db 11, SKETCH

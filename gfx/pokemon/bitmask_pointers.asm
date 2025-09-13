@@ -234,7 +234,7 @@ BitmasksPointers:
 	dw DonphanBitmasks
 	dw Porygon2Bitmasks
 	dw CerfrousseBitmasks
-	dw SmeargleBitmasks
+	dw QueuloriorBitmasks
 	dw DebugantBitmasks
 	dw KapoeraBitmasks
 	dw LippoutiBitmasks

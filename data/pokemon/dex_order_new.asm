@@ -158,7 +158,7 @@ NewPokedexOrder:
 	db ELEKID
 	db ELEKTEK
 	db M__MIME
-	db SMEARGLE
+	db QUEULORIOR
 	db CANARTICHO
 	db NATU
 	db XATU

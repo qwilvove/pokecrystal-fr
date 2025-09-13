@@ -393,7 +393,7 @@ endr
 	jr nz, .valid
 
 .invalid
-	ld a, SMEARGLE
+	ld a, QUEULORIOR
 	ld [hl], a
 
 .valid

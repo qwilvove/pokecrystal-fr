@@ -234,7 +234,7 @@ AnimationIdlePointers:
 	dw DonphanAnimationIdle
 	dw Porygon2AnimationIdle
 	dw CerfrousseAnimationIdle
-	dw SmeargleAnimationIdle
+	dw QueuloriorAnimationIdle
 	dw DebugantAnimationIdle
 	dw KapoeraAnimationIdle
 	dw LippoutiAnimationIdle

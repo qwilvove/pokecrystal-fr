@@ -187,7 +187,7 @@ AlphabeticalPokedexOrder:
 	db PTERA
 	db PTITARD
 	db PYROLI
-	db SMEARGLE
+	db QUEULORIOR
 	db WOBBUFFET
 	db QWILFISH
 	db GEODUDE

@@ -234,7 +234,7 @@ FramesPointers:
 	dw DonphanFrames
 	dw Porygon2Frames
 	dw CerfrousseFrames
-	dw SmeargleFrames
+	dw QueuloriorFrames
 	dw DebugantFrames
 	dw KapoeraFrames
 	dw LippoutiFrames

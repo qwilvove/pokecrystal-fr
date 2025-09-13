@@ -1,4 +1,4 @@
-	db SMEARGLE ; 235
+	db QUEULORIOR ; 235
 
 	db  55,  20,  35,  75,  20,  45
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/smeargle/front.dimensions"
+	INCBIN "gfx/pokemon/queulorior/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_FAST ; growth rate
 	dn EGG_GROUND, EGG_GROUND ; egg groups

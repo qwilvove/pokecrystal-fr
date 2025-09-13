@@ -237,7 +237,7 @@ PokemonPicPointers::
 	dba_pics DonphanFrontpic, DonphanBackpic
 	dba_pics Porygon2Frontpic, Porygon2Backpic
 	dba_pics CerfrousseFrontpic, CerfrousseBackpic
-	dba_pics SmeargleFrontpic, SmeargleBackpic
+	dba_pics QueuloriorFrontpic, QueuloriorBackpic
 	dba_pics DebugantFrontpic, DebugantBackpic
 	dba_pics KapoeraFrontpic, KapoeraBackpic
 	dba_pics LippoutiFrontpic, LippoutiBackpic

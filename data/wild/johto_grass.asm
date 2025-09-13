@@ -373,17 +373,17 @@ JohtoGrassWildMons:
 	db 22, NATU
 	db 18, NATU
 	db 24, NATU
-	db 20, SMEARGLE
-	db 22, SMEARGLE
-	db 22, SMEARGLE
+	db 20, QUEULORIOR
+	db 22, QUEULORIOR
+	db 22, QUEULORIOR
 	; day
 	db 20, NATU
 	db 22, NATU
 	db 18, NATU
 	db 24, NATU
-	db 20, SMEARGLE
-	db 22, SMEARGLE
-	db 22, SMEARGLE
+	db 20, QUEULORIOR
+	db 22, QUEULORIOR
+	db 22, QUEULORIOR
 	; nite
 	db 20, NATU
 	db 22, NATU
