@@ -977,7 +977,7 @@ TentacruelEvosAttacks:
 	db 55, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-GeodudeEvosAttacks:
+RacaillouEvosAttacks:
 	db EVOLVE_LEVEL, 25, GRAVALANCH
 	db 0 ; no more evolutions
 	db 1, TACKLE

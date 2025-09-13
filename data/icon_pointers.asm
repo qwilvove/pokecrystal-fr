@@ -27,7 +27,7 @@ IconPointers:
 	dw CharmanderIcon
 	dw CaterpillarIcon
 	dw UnownIcon
-	dw GeodudeIcon
+	dw RacaillouIcon
 	dw FighterIcon
 	dw EggIcon
 	dw JellyfishIcon

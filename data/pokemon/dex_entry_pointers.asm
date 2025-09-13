@@ -74,7 +74,7 @@ PokedexDataPointerTable:
 	dw EmpiflorPokedexEntry
 	dw TentacoolPokedexEntry
 	dw TentacruelPokedexEntry
-	dw GeodudePokedexEntry
+	dw RacaillouPokedexEntry
 	dw GravalanchPokedexEntry
 	dw GrolemPokedexEntry
 	dw PonytaPokedexEntry

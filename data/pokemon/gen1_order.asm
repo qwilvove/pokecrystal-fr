@@ -168,7 +168,7 @@ Pokered_MonIndices:
 	db RATICATE
 	db NIDORINO
 	db NIDORINA
-	db GEODUDE
+	db RACAILLOU
 	db PORYGON
 	db PTERA
 	db RAIKOU ; MISSINGNO.

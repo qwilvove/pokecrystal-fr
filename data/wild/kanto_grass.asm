@@ -34,26 +34,26 @@ KantoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 6, NOSFERAPTI
-	db 8, GEODUDE
+	db 8, RACAILLOU
 	db 8, SANDSHREW
 	db 12, PARAS
-	db 10, GEODUDE
+	db 10, RACAILLOU
 	db 8, MELOFEE
 	db 8, MELOFEE
 	; day
 	db 6, NOSFERAPTI
-	db 8, GEODUDE
+	db 8, RACAILLOU
 	db 8, SANDSHREW
 	db 12, PARAS
-	db 10, GEODUDE
+	db 10, RACAILLOU
 	db 8, MELOFEE
 	db 8, MELOFEE
 	; nite
 	db 6, NOSFERAPTI
-	db 8, GEODUDE
+	db 8, RACAILLOU
 	db 8, MELOFEE
 	db 12, PARAS
-	db 10, GEODUDE
+	db 10, RACAILLOU
 	db 12, MELOFEE
 	db 12, MELOFEE
 	end_grass_wildmons
@@ -62,7 +62,7 @@ KantoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 10, OSSELAIT
-	db 11, GEODUDE
+	db 11, RACAILLOU
 	db 12, MACHOC
 	db 12, NOSFERAPTI
 	db 15, MACHOPEUR
@@ -70,7 +70,7 @@ KantoGrassWildMons:
 	db 12, OSSATUEUR
 	; day
 	db 10, OSSELAIT
-	db 11, GEODUDE
+	db 11, RACAILLOU
 	db 12, MACHOC
 	db 12, NOSFERAPTI
 	db 15, MACHOPEUR
@@ -78,8 +78,8 @@ KantoGrassWildMons:
 	db 12, OSSATUEUR
 	; nite
 	db 12, NOSFERAPTI
-	db 11, GEODUDE
-	db 12, GEODUDE
+	db 11, RACAILLOU
+	db 12, RACAILLOU
 	db 17, HAUNTER
 	db 15, NOSFERAPTI
 	db 15, NOSFERAPTI
@@ -90,7 +90,7 @@ KantoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 12, OSSELAIT
-	db 14, GEODUDE
+	db 14, RACAILLOU
 	db 16, ONIX
 	db 12, NOSFERAPTI
 	db 15, OSSATUEUR
@@ -98,7 +98,7 @@ KantoGrassWildMons:
 	db 15, KANGOUREX
 	; day
 	db 12, OSSELAIT
-	db 14, GEODUDE
+	db 14, RACAILLOU
 	db 16, ONIX
 	db 12, NOSFERAPTI
 	db 15, OSSATUEUR
@@ -106,7 +106,7 @@ KantoGrassWildMons:
 	db 15, KANGOUREX
 	; nite
 	db 12, NOSFERAPTI
-	db 14, GEODUDE
+	db 14, RACAILLOU
 	db 16, ONIX
 	db 15, NOSFERAPTI
 	db 15, HAUNTER

@@ -288,7 +288,7 @@ ExplodingTrap2:
 ExplodingTrap3:
 	checkevent EVENT_EXPLODING_TRAP_3
 	iftrue NoExplodingTrap
-	scall GeodudeExplodingTrap
+	scall RacaillouExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_3
 	end
@@ -304,7 +304,7 @@ ExplodingTrap4:
 ExplodingTrap5:
 	checkevent EVENT_EXPLODING_TRAP_5
 	iftrue NoExplodingTrap
-	scall GeodudeExplodingTrap
+	scall RacaillouExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_5
 	end
@@ -352,7 +352,7 @@ ExplodingTrap10:
 ExplodingTrap11:
 	checkevent EVENT_EXPLODING_TRAP_11
 	iftrue NoExplodingTrap
-	scall GeodudeExplodingTrap
+	scall RacaillouExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_11
 	end
@@ -360,7 +360,7 @@ ExplodingTrap11:
 ExplodingTrap12:
 	checkevent EVENT_EXPLODING_TRAP_12
 	iftrue NoExplodingTrap
-	scall GeodudeExplodingTrap
+	scall RacaillouExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_12
 	end
@@ -368,7 +368,7 @@ ExplodingTrap12:
 ExplodingTrap13:
 	checkevent EVENT_EXPLODING_TRAP_13
 	iftrue NoExplodingTrap
-	scall GeodudeExplodingTrap
+	scall RacaillouExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_13
 	end
@@ -408,7 +408,7 @@ ExplodingTrap17:
 ExplodingTrap18:
 	checkevent EVENT_EXPLODING_TRAP_18
 	iftrue NoExplodingTrap
-	scall GeodudeExplodingTrap
+	scall RacaillouExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_18
 	end
@@ -416,7 +416,7 @@ ExplodingTrap18:
 ExplodingTrap19:
 	checkevent EVENT_EXPLODING_TRAP_19
 	iftrue NoExplodingTrap
-	scall GeodudeExplodingTrap
+	scall RacaillouExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_19
 	end
@@ -455,13 +455,13 @@ VoltorbExplodingTrap:
 	startbattle
 	end
 
-GeodudeExplodingTrap:
+RacaillouExplodingTrap:
 	special FadeOutToWhite
-	cry GEODUDE
+	cry RACAILLOU
 	special FadeInFromWhite
 	setlasttalked -1
 	loadvar VAR_BATTLETYPE, BATTLETYPE_TRAP
-	loadwildmon GEODUDE, 21
+	loadwildmon RACAILLOU, 21
 	startbattle
 	end
 
@@ -745,7 +745,7 @@ TeamRocketBaseB1F_MapEvents:
 	coord_event 22, 16, SCENE_TEAMROCKETBASEB1F_TRAPS, SecurityCamera4
 	coord_event  8, 16, SCENE_TEAMROCKETBASEB1F_TRAPS, SecurityCamera5
 	; There are spots on the floor that trigger a Pokémon battle.
-	; Each Pokémon (Voltorb, Koffing, Geodude) knows Selfdestruct.
+	; Each Pokémon (Voltorb, Koffing, Racaillou) knows Selfdestruct.
 	coord_event  2,  7, SCENE_TEAMROCKETBASEB1F_TRAPS, ExplodingTrap1
 	coord_event  3,  7, SCENE_TEAMROCKETBASEB1F_TRAPS, ExplodingTrap2
 	coord_event  4,  7, SCENE_TEAMROCKETBASEB1F_TRAPS, ExplodingTrap3

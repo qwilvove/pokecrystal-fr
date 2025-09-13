@@ -79,7 +79,7 @@ PokemonCries::
 	mon_cry CRY_BOUSTIFLOR,  102,  332 ; EMPIFLOR
 	mon_cry CRY_MIMITOSS,       0,  256 ; TENTACOOL
 	mon_cry CRY_MIMITOSS,     238,  383 ; TENTACRUEL
-	mon_cry CRY_GOUPIX,      240,  144 ; GEODUDE
+	mon_cry CRY_GOUPIX,      240,  144 ; RACAILLOU
 	mon_cry CRY_GOUPIX,        0,  256 ; GRAVALANCH
 	mon_cry CRY_GROLEM,       224,  192 ; GROLEM
 	mon_cry CRY_BOUSTIFLOR,    0,  256 ; PONYTA

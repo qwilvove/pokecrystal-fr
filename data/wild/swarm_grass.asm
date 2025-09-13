@@ -6,26 +6,26 @@ SwarmGrassWildMons:
 	map_id DARK_CAVE_VIOLET_ENTRANCE
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, GEODUDE
+	db 3, RACAILLOU
 	db 3, INSOLOURDO
 	db 2, NOSFERAPTI
-	db 2, GEODUDE
+	db 2, RACAILLOU
 	db 2, INSOLOURDO
 	db 4, INSOLOURDO
 	db 4, INSOLOURDO
 	; day
-	db 3, GEODUDE
+	db 3, RACAILLOU
 	db 3, INSOLOURDO
 	db 2, NOSFERAPTI
-	db 2, GEODUDE
+	db 2, RACAILLOU
 	db 2, INSOLOURDO
 	db 4, INSOLOURDO
 	db 4, INSOLOURDO
 	; nite
-	db 3, GEODUDE
+	db 3, RACAILLOU
 	db 3, INSOLOURDO
 	db 2, NOSFERAPTI
-	db 2, GEODUDE
+	db 2, RACAILLOU
 	db 2, INSOLOURDO
 	db 4, INSOLOURDO
 	db 4, INSOLOURDO

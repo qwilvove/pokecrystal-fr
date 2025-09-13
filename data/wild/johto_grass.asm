@@ -425,7 +425,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons UNION_CAVE_1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 6, GEODUDE
+	db 6, RACAILLOU
 	db 6, SANDSHREW
 	db 5, NOSFERAPTI
 	db 4, RATTATA
@@ -433,7 +433,7 @@ JohtoGrassWildMons:
 	db 6, ONIX
 	db 6, ONIX
 	; day
-	db 6, GEODUDE
+	db 6, RACAILLOU
 	db 6, SANDSHREW
 	db 5, NOSFERAPTI
 	db 4, RATTATA
@@ -441,7 +441,7 @@ JohtoGrassWildMons:
 	db 6, ONIX
 	db 6, ONIX
 	; nite
-	db 6, GEODUDE
+	db 6, RACAILLOU
 	db 6, RATTATA
 	db 5, AXOLOTO
 	db 4, RATTATA
@@ -453,7 +453,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons UNION_CAVE_B1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 8, GEODUDE
+	db 8, RACAILLOU
 	db 6, NOSFERAPTI
 	db 8, NOSFERAPTI
 	db 8, ONIX
@@ -461,7 +461,7 @@ JohtoGrassWildMons:
 	db 8, RATTATA
 	db 8, RATTATA
 	; day
-	db 8, GEODUDE
+	db 8, RACAILLOU
 	db 6, NOSFERAPTI
 	db 8, NOSFERAPTI
 	db 8, ONIX
@@ -469,7 +469,7 @@ JohtoGrassWildMons:
 	db 8, RATTATA
 	db 8, RATTATA
 	; nite
-	db 8, GEODUDE
+	db 8, RACAILLOU
 	db 6, NOSFERAPTI
 	db 8, AXOLOTO
 	db 8, ONIX
@@ -485,7 +485,7 @@ JohtoGrassWildMons:
 	db 22, NOSFERALTO
 	db 22, NOSFERAPTI
 	db 21, RATICATE
-	db 20, GEODUDE
+	db 20, RACAILLOU
 	db 23, ONIX
 	db 23, ONIX
 	; day
@@ -493,7 +493,7 @@ JohtoGrassWildMons:
 	db 22, NOSFERALTO
 	db 22, NOSFERAPTI
 	db 21, RATICATE
-	db 20, GEODUDE
+	db 20, RACAILLOU
 	db 23, ONIX
 	db 23, ONIX
 	; nite
@@ -501,7 +501,7 @@ JohtoGrassWildMons:
 	db 22, NOSFERALTO
 	db 22, MARAISTE
 	db 21, RATICATE
-	db 20, GEODUDE
+	db 20, RACAILLOU
 	db 23, ONIX
 	db 23, ONIX
 	end_grass_wildmons
@@ -597,7 +597,7 @@ JohtoGrassWildMons:
 	db 13, NOSFERAPTI
 	db 14, MACHOC
 	db 13, NOSFERALTO
-	db 14, GEODUDE
+	db 14, RACAILLOU
 	db 16, RATICATE
 	db 16, RATICATE
 	; day
@@ -605,7 +605,7 @@ JohtoGrassWildMons:
 	db 13, NOSFERAPTI
 	db 14, MACHOC
 	db 13, NOSFERALTO
-	db 14, GEODUDE
+	db 14, RACAILLOU
 	db 16, RATICATE
 	db 16, RATICATE
 	; nite
@@ -613,7 +613,7 @@ JohtoGrassWildMons:
 	db 13, NOSFERAPTI
 	db 14, MARILL
 	db 13, NOSFERALTO
-	db 14, GEODUDE
+	db 14, RACAILLOU
 	db 16, RATICATE
 	db 16, RATICATE
 	end_grass_wildmons
@@ -621,7 +621,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons MOUNT_MORTAR_1F_INSIDE
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 13, GEODUDE
+	db 13, RACAILLOU
 	db 14, RATTATA
 	db 15, MACHOC
 	db 14, RATICATE
@@ -629,7 +629,7 @@ JohtoGrassWildMons:
 	db 15, NOSFERALTO
 	db 15, NOSFERALTO
 	; day
-	db 13, GEODUDE
+	db 13, RACAILLOU
 	db 14, RATTATA
 	db 15, MACHOC
 	db 14, RATICATE
@@ -637,7 +637,7 @@ JohtoGrassWildMons:
 	db 15, NOSFERALTO
 	db 15, NOSFERALTO
 	; nite
-	db 13, GEODUDE
+	db 13, RACAILLOU
 	db 14, RATTATA
 	db 15, RATICATE
 	db 14, NOSFERAPTI
@@ -651,7 +651,7 @@ JohtoGrassWildMons:
 	; morn
 	db 31, GRAVALANCH
 	db 32, MACHOPEUR
-	db 31, GEODUDE
+	db 31, RACAILLOU
 	db 30, RATICATE
 	db 28, MACHOC
 	db 30, NOSFERALTO
@@ -659,14 +659,14 @@ JohtoGrassWildMons:
 	; day
 	db 31, GRAVALANCH
 	db 32, MACHOPEUR
-	db 31, GEODUDE
+	db 31, RACAILLOU
 	db 30, RATICATE
 	db 28, MACHOC
 	db 30, NOSFERALTO
 	db 30, NOSFERALTO
 	; nite
 	db 31, GRAVALANCH
-	db 31, GEODUDE
+	db 31, RACAILLOU
 	db 30, RATICATE
 	db 30, NOSFERALTO
 	db 28, MARILL
@@ -681,7 +681,7 @@ JohtoGrassWildMons:
 	db 17, NOSFERAPTI
 	db 17, NOSFERALTO
 	db 16, MACHOC
-	db 16, GEODUDE
+	db 16, RACAILLOU
 	db 18, RATICATE
 	db 18, RATICATE
 	; day
@@ -689,7 +689,7 @@ JohtoGrassWildMons:
 	db 17, NOSFERAPTI
 	db 17, NOSFERALTO
 	db 16, MACHOC
-	db 16, GEODUDE
+	db 16, RACAILLOU
 	db 18, RATICATE
 	db 18, RATICATE
 	; nite
@@ -697,7 +697,7 @@ JohtoGrassWildMons:
 	db 17, NOSFERAPTI
 	db 17, NOSFERALTO
 	db 16, MARILL
-	db 16, GEODUDE
+	db 16, RACAILLOU
 	db 18, RATICATE
 	db 18, RATICATE
 	end_grass_wildmons
@@ -1181,26 +1181,26 @@ JohtoGrassWildMons:
 	def_grass_wildmons DARK_CAVE_VIOLET_ENTRANCE
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, GEODUDE
+	db 3, RACAILLOU
 	db 2, NOSFERAPTI
-	db 2, GEODUDE
-	db 4, GEODUDE
+	db 2, RACAILLOU
+	db 4, RACAILLOU
 	db 2, TEDDIURSA
 	db 4, NOSFERAPTI
 	db 4, INSOLOURDO
 	; day
-	db 3, GEODUDE
+	db 3, RACAILLOU
 	db 2, NOSFERAPTI
-	db 2, GEODUDE
-	db 4, GEODUDE
+	db 2, RACAILLOU
+	db 4, RACAILLOU
 	db 2, NOSFERAPTI
 	db 4, NOSFERAPTI
 	db 4, INSOLOURDO
 	; nite
-	db 3, GEODUDE
+	db 3, RACAILLOU
 	db 2, NOSFERAPTI
-	db 2, GEODUDE
-	db 4, GEODUDE
+	db 2, RACAILLOU
+	db 4, RACAILLOU
 	db 2, NOSFERAPTI
 	db 4, NOSFERAPTI
 	db 4, INSOLOURDO
@@ -1209,7 +1209,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons DARK_CAVE_BLACKTHORN_ENTRANCE
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, GEODUDE
+	db 23, RACAILLOU
 	db 23, NOSFERAPTI
 	db 25, GRAVALANCH
 	db 25, URSARING
@@ -1217,7 +1217,7 @@ JohtoGrassWildMons:
 	db 23, NOSFERALTO
 	db 23, NOSFERALTO
 	; day
-	db 23, GEODUDE
+	db 23, RACAILLOU
 	db 23, NOSFERAPTI
 	db 25, GRAVALANCH
 	db 25, URSARING
@@ -1225,7 +1225,7 @@ JohtoGrassWildMons:
 	db 23, NOSFERALTO
 	db 23, NOSFERALTO
 	; nite
-	db 23, GEODUDE
+	db 23, RACAILLOU
 	db 23, NOSFERAPTI
 	db 25, GRAVALANCH
 	db 20, QULBUTOKE
@@ -1351,7 +1351,7 @@ JohtoGrassWildMons:
 	; morn
 	db 6, RATTATA
 	db 6, PIAFABEC
-	db 6, GEODUDE
+	db 6, RACAILLOU
 	db 6, GRANIVOL
 	db 7, ABO
 	db 7, GRANIVOL
@@ -1359,7 +1359,7 @@ JohtoGrassWildMons:
 	; day
 	db 6, RATTATA
 	db 6, PIAFABEC
-	db 6, GEODUDE
+	db 6, RACAILLOU
 	db 6, GRANIVOL
 	db 7, ABO
 	db 7, GRANIVOL
@@ -1367,7 +1367,7 @@ JohtoGrassWildMons:
 	; nite
 	db 6, RATTATA
 	db 6, NOSFERAPTI
-	db 6, GEODUDE
+	db 6, RACAILLOU
 	db 6, NOSFERAPTI
 	db 7, RATTATA
 	db 7, RATTATA
@@ -1629,7 +1629,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_45
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, GEODUDE
+	db 23, RACAILLOU
 	db 23, GRAVALANCH
 	db 24, GLIGAR
 	db 25, DONPHAN
@@ -1637,7 +1637,7 @@ JohtoGrassWildMons:
 	db 27, AIRMURE
 	db 27, AIRMURE
 	; day
-	db 23, GEODUDE
+	db 23, RACAILLOU
 	db 23, GRAVALANCH
 	db 24, GLIGAR
 	db 25, DONPHAN
@@ -1645,7 +1645,7 @@ JohtoGrassWildMons:
 	db 27, AIRMURE
 	db 27, AIRMURE
 	; nite
-	db 23, GEODUDE
+	db 23, RACAILLOU
 	db 23, GRAVALANCH
 	db 24, GLIGAR
 	db 25, GRAVALANCH
@@ -1657,25 +1657,25 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_46
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 2, GEODUDE
+	db 2, RACAILLOU
 	db 2, PIAFABEC
-	db 3, GEODUDE
+	db 3, RACAILLOU
 	db 3, RATTATA
 	db 2, PHANPY
 	db 2, RATTATA
 	db 2, RATTATA
 	; day
-	db 2, GEODUDE
+	db 2, RACAILLOU
 	db 2, PIAFABEC
-	db 3, GEODUDE
+	db 3, RACAILLOU
 	db 3, RATTATA
 	db 2, RATTATA
 	db 2, RATTATA
 	db 2, RATTATA
 	; nite
-	db 2, GEODUDE
+	db 2, RACAILLOU
 	db 2, RATTATA
-	db 3, GEODUDE
+	db 3, RACAILLOU
 	db 3, RATTATA
 	db 2, RATTATA
 	db 2, RATTATA

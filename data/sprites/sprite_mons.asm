@@ -2,7 +2,7 @@ SpriteMons:
 ; entries correspond to SPRITE_* constants past SPRITE_POKEMON
 	table_width 1
 	db UNOWN
-	db GEODUDE
+	db RACAILLOU
 	db CANINOS
 	db ASPICOT
 	db KOKIYAS

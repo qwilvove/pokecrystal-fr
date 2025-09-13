@@ -214,7 +214,7 @@ TentacoolEggMoves:
 	db SAFEGUARD
 	db -1 ; end
 
-GeodudeEggMoves:
+RacaillouEggMoves:
 	db MEGA_PUNCH
 	db ROCK_SLIDE
 	db -1 ; end

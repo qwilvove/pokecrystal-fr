@@ -73,7 +73,7 @@ AnimationPointers:
 	dw EmpiflorAnimation
 	dw TentacoolAnimation
 	dw TentacruelAnimation
-	dw GeodudeAnimation
+	dw RacaillouAnimation
 	dw GravalanchAnimation
 	dw GrolemAnimation
 	dw PonytaAnimation

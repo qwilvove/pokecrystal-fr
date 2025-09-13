@@ -190,7 +190,7 @@ AlphabeticalPokedexOrder:
 	db QUEULORIOR
 	db QULBUTOKE
 	db QWILFISH
-	db GEODUDE
+	db RACAILLOU
 	db VILEPLUME
 	db RAICHU
 	db RAIKOU

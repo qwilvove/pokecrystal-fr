@@ -92,7 +92,7 @@
 	const EMPIFLOR ; 47
 	const TENTACOOL  ; 48
 	const TENTACRUEL ; 49
-	const GEODUDE    ; 4a
+	const RACAILLOU    ; 4a
 	const GRAVALANCH   ; 4b
 	const GROLEM      ; 4c
 	const PONYTA     ; 4d

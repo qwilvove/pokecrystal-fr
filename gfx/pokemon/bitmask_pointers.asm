@@ -73,7 +73,7 @@ BitmasksPointers:
 	dw EmpiflorBitmasks
 	dw TentacoolBitmasks
 	dw TentacruelBitmasks
-	dw GeodudeBitmasks
+	dw RacaillouBitmasks
 	dw GravalanchBitmasks
 	dw GrolemBitmasks
 	dw PonytaBitmasks

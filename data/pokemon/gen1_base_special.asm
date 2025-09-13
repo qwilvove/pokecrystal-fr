@@ -75,7 +75,7 @@ KantoMonSpecials:
 	db 100 ; EMPIFLOR
 	db 100 ; TENTACOOL
 	db 120 ; TENTACRUEL
-	db  30 ; GEODUDE
+	db  30 ; RACAILLOU
 	db  45 ; GRAVALANCH
 	db  55 ; GROLEM
 	db  65 ; PONYTA

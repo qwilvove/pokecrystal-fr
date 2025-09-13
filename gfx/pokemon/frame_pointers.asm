@@ -73,7 +73,7 @@ FramesPointers:
 	dw EmpiflorFrames
 	dw TentacoolFrames
 	dw TentacruelFrames
-	dw GeodudeFrames
+	dw RacaillouFrames
 	dw GravalanchFrames
 	dw GrolemFrames
 	dw PonytaFrames

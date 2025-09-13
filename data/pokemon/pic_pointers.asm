@@ -76,7 +76,7 @@ PokemonPicPointers::
 	dba_pics EmpiflorFrontpic, EmpiflorBackpic
 	dba_pics TentacoolFrontpic, TentacoolBackpic
 	dba_pics TentacruelFrontpic, TentacruelBackpic
-	dba_pics GeodudeFrontpic, GeodudeBackpic
+	dba_pics RacaillouFrontpic, RacaillouBackpic
 	dba_pics GravalanchFrontpic, GravalanchBackpic
 	dba_pics GrolemFrontpic, GrolemBackpic
 	dba_pics PonytaFrontpic, PonytaBackpic

@@ -73,7 +73,7 @@ AnimationIdlePointers:
 	dw EmpiflorAnimationIdle
 	dw TentacoolAnimationIdle
 	dw TentacruelAnimationIdle
-	dw GeodudeAnimationIdle
+	dw RacaillouAnimationIdle
 	dw GravalanchAnimationIdle
 	dw GrolemAnimationIdle
 	dw PonytaAnimationIdle
