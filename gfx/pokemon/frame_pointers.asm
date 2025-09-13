@@ -135,7 +135,7 @@ FramesPointers:
 	dw EvoliFrames
 	dw AqualiFrames
 	dw JolteonFrames
-	dw FlareonFrames
+	dw PyroliFrames
 	dw PorygonFrames
 	dw AmonitaFrames
 	dw AmonistarFrames

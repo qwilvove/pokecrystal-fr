@@ -154,7 +154,7 @@
 	const EVOLI      ; 85
 	const AQUALI   ; 86
 	const JOLTEON    ; 87
-	const FLAREON    ; 88
+	const PYROLI    ; 88
 	const PORYGON    ; 89
 	const AMONITA    ; 8a
 	const AMONISTAR    ; 8b

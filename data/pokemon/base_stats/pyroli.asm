@@ -1,4 +1,4 @@
-	db FLAREON ; 136
+	db PYROLI ; 136
 
 	db  65, 130,  60,  65,  95, 110
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 35 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/flareon/front.dimensions"
+	INCBIN "gfx/pokemon/pyroli/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_GROUND, EGG_GROUND ; egg groups

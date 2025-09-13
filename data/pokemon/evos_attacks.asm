@@ -1794,7 +1794,7 @@ MetamorphEvosAttacks:
 EvoliEvosAttacks:
 	db EVOLVE_ITEM, THUNDERSTONE, JOLTEON
 	db EVOLVE_ITEM, WATER_STONE, AQUALI
-	db EVOLVE_ITEM, FIRE_STONE, FLAREON
+	db EVOLVE_ITEM, FIRE_STONE, PYROLI
 	db EVOLVE_HAPPINESS, TR_MORNDAY, MENTALI
 	db EVOLVE_HAPPINESS, TR_NITE, NOCTALI
 	db 0 ; no more evolutions
@@ -1836,7 +1836,7 @@ JolteonEvosAttacks:
 	db 52, THUNDER
 	db 0 ; no more level-up moves
 
-FlareonEvosAttacks:
+PyroliEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP

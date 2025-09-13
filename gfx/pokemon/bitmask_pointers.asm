@@ -135,7 +135,7 @@ BitmasksPointers:
 	dw EvoliBitmasks
 	dw AqualiBitmasks
 	dw JolteonBitmasks
-	dw FlareonBitmasks
+	dw PyroliBitmasks
 	dw PorygonBitmasks
 	dw AmonitaBitmasks
 	dw AmonistarBitmasks

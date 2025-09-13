@@ -184,7 +184,7 @@ NewPokedexOrder:
 	db EVOLI
 	db AQUALI
 	db JOLTEON
-	db FLAREON
+	db PYROLI
 	db MENTALI
 	db NOCTALI
 	db HYPOTREMPE

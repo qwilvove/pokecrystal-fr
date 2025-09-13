@@ -102,7 +102,7 @@ Pokered_MonIndices:
 	db JIGGLYPUFF
 	db GRODOUDOU
 	db EVOLI
-	db FLAREON
+	db PYROLI
 	db JOLTEON
 	db AQUALI
 	db MACHOC

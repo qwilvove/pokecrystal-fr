@@ -186,7 +186,7 @@ AlphabeticalPokedexOrder:
 	db PSYKOKWAK
 	db PTERA
 	db PTITARD
-	db FLAREON
+	db PYROLI
 	db SMEARGLE
 	db WOBBUFFET
 	db QWILFISH

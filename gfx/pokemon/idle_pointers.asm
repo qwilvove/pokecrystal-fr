@@ -135,7 +135,7 @@ AnimationIdlePointers:
 	dw EvoliAnimationIdle
 	dw AqualiAnimationIdle
 	dw JolteonAnimationIdle
-	dw FlareonAnimationIdle
+	dw PyroliAnimationIdle
 	dw PorygonAnimationIdle
 	dw AmonitaAnimationIdle
 	dw AmonistarAnimationIdle

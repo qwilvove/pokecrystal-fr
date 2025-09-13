@@ -137,7 +137,7 @@ MonMenuIcons:
 	db ICON_FOX         ; EVOLI
 	db ICON_FOX         ; AQUALI
 	db ICON_FOX         ; JOLTEON
-	db ICON_FOX         ; FLAREON
+	db ICON_FOX         ; PYROLI
 	db ICON_VOLTORB     ; PORYGON
 	db ICON_SHELL       ; AMONITA
 	db ICON_SHELL       ; AMONISTAR

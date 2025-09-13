@@ -135,7 +135,7 @@ AnimationPointers:
 	dw EvoliAnimation
 	dw AqualiAnimation
 	dw JolteonAnimation
-	dw FlareonAnimation
+	dw PyroliAnimation
 	dw PorygonAnimation
 	dw AmonitaAnimation
 	dw AmonistarAnimation

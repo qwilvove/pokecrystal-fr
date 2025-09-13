@@ -136,7 +136,7 @@ PokedexDataPointerTable:
 	dw EvoliPokedexEntry
 	dw AqualiPokedexEntry
 	dw JolteonPokedexEntry
-	dw FlareonPokedexEntry
+	dw PyroliPokedexEntry
 	dw PorygonPokedexEntry
 	dw AmonitaPokedexEntry
 	dw AmonistarPokedexEntry
