@@ -160,7 +160,7 @@
 	const AMONISTAR    ; 8b
 	const KABUTO     ; 8c
 	const KABUTOPS   ; 8d
-	const AERODACTYL ; 8e
+	const PTERA ; 8e
 	const SNORLAX    ; 8f
 	const ARTIKODIN   ; 90
 	const ELECTHOR     ; 91

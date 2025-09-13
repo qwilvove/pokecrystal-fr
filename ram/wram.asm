@@ -3084,7 +3084,7 @@ wRuinsOfAlphResearchCenterSceneID::               db
 wRuinsOfAlphHoOhChamberSceneID::                  db
 wRuinsOfAlphKabutoChamberSceneID::                db
 wRuinsOfAlphAmonitaChamberSceneID::               db
-wRuinsOfAlphAerodactylChamberSceneID::            db
+wRuinsOfAlphPteraChamberSceneID::            db
 wRuinsOfAlphInnerChamberSceneID::                 db
 wMahoganyMart1FSceneID::                          db
 wTeamRocketBaseB1FSceneID::                       db

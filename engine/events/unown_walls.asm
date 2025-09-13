@@ -51,19 +51,19 @@ AmonitaChamber:
 .nope
 	ret
 
-SpecialAerodactylChamber:
+SpecialPteraChamber:
 	push de
 	push bc
 
 	call GetMapAttributesPointer
 	ld a, h
-	cp HIGH(RuinsOfAlphAerodactylChamber_MapAttributes)
+	cp HIGH(RuinsOfAlphPteraChamber_MapAttributes)
 	jr nz, .nope
 	ld a, l
-	cp LOW(RuinsOfAlphAerodactylChamber_MapAttributes)
+	cp LOW(RuinsOfAlphPteraChamber_MapAttributes)
 	jr nz, .nope
 
-	ld de, EVENT_WALL_OPENED_IN_AERODACTYL_CHAMBER
+	ld de, EVENT_WALL_OPENED_IN_PTERA_CHAMBER
 	ld b, SET_FLAG
 	call EventFlagAction
 

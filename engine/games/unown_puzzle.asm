@@ -813,7 +813,7 @@ LoadUnownPuzzlePiecesGFX:
 ; entries correspond to UNOWNPUZZLE_* constants
 	dw KabutoPuzzleLZ
 	dw AmonitaPuzzleLZ
-	dw AerodactylPuzzleLZ
+	dw PteraPuzzleLZ
 	dw HoOhPuzzleLZ
 
 UnownPuzzleCursorGFX:
@@ -825,8 +825,8 @@ INCBIN "gfx/unown_puzzle/start_cancel.2bpp.lz"
 HoOhPuzzleLZ:
 INCBIN "gfx/unown_puzzle/hooh.2bpp.lz"
 
-AerodactylPuzzleLZ:
-INCBIN "gfx/unown_puzzle/aerodactyl.2bpp.lz"
+PteraPuzzleLZ:
+INCBIN "gfx/unown_puzzle/ptera.2bpp.lz"
 
 KabutoPuzzleLZ:
 INCBIN "gfx/unown_puzzle/kabuto.2bpp.lz"

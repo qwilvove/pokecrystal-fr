@@ -143,7 +143,7 @@ MonMenuIcons:
 	db ICON_SHELL       ; AMONISTAR
 	db ICON_SHELL       ; KABUTO
 	db ICON_SHELL       ; KABUTOPS
-	db ICON_BIRD        ; AERODACTYL
+	db ICON_BIRD        ; PTERA
 	db ICON_SNORLAX     ; SNORLAX
 	db ICON_BIRD        ; ARTIKODIN
 	db ICON_BIRD        ; ELECTHOR

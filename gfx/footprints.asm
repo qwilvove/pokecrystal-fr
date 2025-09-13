@@ -323,7 +323,7 @@ INCBIN "gfx/footprints/amonita.1bpp",    footprint_top
 INCBIN "gfx/footprints/amonistar.1bpp",    footprint_top
 INCBIN "gfx/footprints/kabuto.1bpp",     footprint_top
 INCBIN "gfx/footprints/kabutops.1bpp",   footprint_top
-INCBIN "gfx/footprints/aerodactyl.1bpp", footprint_top
+INCBIN "gfx/footprints/ptera.1bpp", footprint_top
 INCBIN "gfx/footprints/snorlax.1bpp",    footprint_top
 INCBIN "gfx/footprints/artikodin.1bpp",   footprint_top
 ; 137-144 bottom halves
@@ -332,7 +332,7 @@ INCBIN "gfx/footprints/amonita.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/amonistar.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/kabuto.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/kabutops.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/aerodactyl.1bpp", footprint_bottom
+INCBIN "gfx/footprints/ptera.1bpp", footprint_bottom
 INCBIN "gfx/footprints/snorlax.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/artikodin.1bpp",   footprint_bottom
 ; 145-152 top halves

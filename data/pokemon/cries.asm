@@ -147,7 +147,7 @@ PokemonCries::
 	mon_cry CRY_CANINOS,   255,  192 ; AMONISTAR
 	mon_cry CRY_CHENIPAN,    187,  192 ; KABUTO
 	mon_cry CRY_FEAROW,      238,  129 ; KABUTOPS
-	mon_cry CRY_VILEPLUME,    32,  368 ; AERODACTYL
+	mon_cry CRY_VILEPLUME,    32,  368 ; PTERA
 	mon_cry CRY_GRIMER,       85,  129 ; SNORLAX
 	mon_cry CRY_RAICHU,      128,  192 ; ARTIKODIN
 	mon_cry CRY_FEAROW,      255,  256 ; ELECTHOR

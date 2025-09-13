@@ -35,7 +35,7 @@
 	const TILESET_HO_OH_WORD_ROOM      ; 21
 	const TILESET_KABUTO_WORD_ROOM     ; 22
 	const TILESET_AMONITA_WORD_ROOM    ; 23
-	const TILESET_AERODACTYL_WORD_ROOM ; 24
+	const TILESET_PTERA_WORD_ROOM ; 24
 DEF NUM_TILESETS EQU const_value - 1
 
 ; wTileset struct size

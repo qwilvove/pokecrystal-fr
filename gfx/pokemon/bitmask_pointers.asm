@@ -141,7 +141,7 @@ BitmasksPointers:
 	dw AmonistarBitmasks
 	dw KabutoBitmasks
 	dw KabutopsBitmasks
-	dw AerodactylBitmasks
+	dw PteraBitmasks
 	dw SnorlaxBitmasks
 	dw ArtikodinBitmasks
 	dw ElecthorBitmasks

@@ -487,7 +487,7 @@ RuinsOfAlphInnerChamber_Blocks:
 RuinsOfAlphHoOhChamber_Blocks:
 RuinsOfAlphKabutoChamber_Blocks:
 RuinsOfAlphAmonitaChamber_Blocks:
-RuinsOfAlphAerodactylChamber_Blocks:
+RuinsOfAlphPteraChamber_Blocks:
 	INCBIN "maps/RuinsOfAlphPuzzleChamber.blk"
 
 SproutTower1F_Blocks:
@@ -998,7 +998,7 @@ TohjoFalls_Blocks:
 RuinsOfAlphHoOhItemRoom_Blocks:
 RuinsOfAlphKabutoItemRoom_Blocks:
 RuinsOfAlphAmonitaItemRoom_Blocks:
-RuinsOfAlphAerodactylItemRoom_Blocks:
+RuinsOfAlphPteraItemRoom_Blocks:
 	INCBIN "maps/RuinsOfAlphItemRoom.blk"
 
 RuinsOfAlphHoOhWordRoom_Blocks:
@@ -1010,8 +1010,8 @@ RuinsOfAlphKabutoWordRoom_Blocks:
 RuinsOfAlphAmonitaWordRoom_Blocks:
 	INCBIN "maps/RuinsOfAlphAmonitaWordRoom.blk"
 
-RuinsOfAlphAerodactylWordRoom_Blocks:
-	INCBIN "maps/RuinsOfAlphAerodactylWordRoom.blk"
+RuinsOfAlphPteraWordRoom_Blocks:
+	INCBIN "maps/RuinsOfAlphPteraWordRoom.blk"
 
 DragonShrine_Blocks:
 	INCBIN "maps/DragonShrine.blk"

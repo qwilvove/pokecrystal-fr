@@ -143,7 +143,7 @@ EvosAttacksPointers::
 	dw AmonistarEvosAttacks
 	dw KabutoEvosAttacks
 	dw KabutopsEvosAttacks
-	dw AerodactylEvosAttacks
+	dw PteraEvosAttacks
 	dw SnorlaxEvosAttacks
 	dw ArtikodinEvosAttacks
 	dw ElecthorEvosAttacks

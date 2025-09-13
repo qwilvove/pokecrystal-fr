@@ -141,7 +141,7 @@ FramesPointers:
 	dw AmonistarFrames
 	dw KabutoFrames
 	dw KabutopsFrames
-	dw AerodactylFrames
+	dw PteraFrames
 	dw SnorlaxFrames
 	dw ArtikodinFrames
 	dw ElecthorFrames

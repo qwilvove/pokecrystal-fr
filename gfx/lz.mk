@@ -53,7 +53,7 @@ gfx/slots/slots_3.2bpp.lz: LZFLAGS += --align 4
 gfx/splash/metamorph.2bpp.lz: LZFLAGS += --method 2 --align 4
 
 gfx/tilesets/%.lz: LZFLAGS += --align 4
-gfx/tilesets/aerodactyl_word_room.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1
+gfx/tilesets/ptera_word_room.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1
 gfx/tilesets/battle_tower_outside.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1
 gfx/tilesets/beta_word_room.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1
 gfx/tilesets/ho_oh_word_room.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1

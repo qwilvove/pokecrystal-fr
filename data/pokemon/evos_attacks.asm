@@ -1919,7 +1919,7 @@ KabutopsEvosAttacks:
 	db 65, ANCIENTPOWER
 	db 0 ; no more level-up moves
 
-AerodactylEvosAttacks:
+PteraEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, WING_ATTACK
 	db 8, AGILITY

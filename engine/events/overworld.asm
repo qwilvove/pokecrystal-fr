@@ -282,7 +282,7 @@ FlashFunction:
 	farcall CheckBadge
 	jr c, .nozephyrbadge
 	push hl
-	farcall SpecialAerodactylChamber
+	farcall SpecialPteraChamber
 	pop hl
 	jr c, .useflash
 	ld a, [wTimeOfDayPalset]

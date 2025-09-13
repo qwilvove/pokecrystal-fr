@@ -143,7 +143,7 @@ KantoMonSpecials:
 	db 115 ; AMONISTAR
 	db  45 ; KABUTO
 	db  70 ; KABUTOPS
-	db  60 ; AERODACTYL
+	db  60 ; PTERA
 	db  65 ; SNORLAX
 	db 125 ; ARTIKODIN
 	db 125 ; ELECTHOR

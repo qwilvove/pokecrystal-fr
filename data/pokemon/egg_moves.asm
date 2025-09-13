@@ -423,7 +423,7 @@ KabutoEggMoves:
 	db FLAIL
 	db -1 ; end
 
-AerodactylEggMoves:
+PteraEggMoves:
 	db WHIRLWIND
 	db PURSUIT
 	db FORESIGHT
