@@ -60,7 +60,7 @@ PokedexDataPointerTable:
 	dw ColossingePokedexEntry
 	dw CaninosPokedexEntry
 	dw ArcaninPokedexEntry
-	dw PoliwagPokedexEntry
+	dw PtitardPokedexEntry
 	dw PoliwhirlPokedexEntry
 	dw PoliwrathPokedexEntry
 	dw AbraPokedexEntry

@@ -59,7 +59,7 @@ BitmasksPointers:
 	dw ColossingeBitmasks
 	dw CaninosBitmasks
 	dw ArcaninBitmasks
-	dw PoliwagBitmasks
+	dw PtitardBitmasks
 	dw PoliwhirlBitmasks
 	dw PoliwrathBitmasks
 	dw AbraBitmasks

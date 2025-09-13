@@ -130,15 +130,15 @@ JohtoWaterWildMons:
 
 	def_water_wildmons ROUTE_30
 	db 2 percent ; encounter rate
-	db 20, POLIWAG
-	db 15, POLIWAG
+	db 20, PTITARD
+	db 15, PTITARD
 	db 20, POLIWHIRL
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_31
 	db 2 percent ; encounter rate
-	db 20, POLIWAG
-	db 15, POLIWAG
+	db 20, PTITARD
+	db 15, PTITARD
 	db 20, POLIWHIRL
 	end_water_wildmons
 
@@ -193,8 +193,8 @@ JohtoWaterWildMons:
 
 	def_water_wildmons ROUTE_44
 	db 2 percent ; encounter rate
-	db 25, POLIWAG
-	db 20, POLIWAG
+	db 25, PTITARD
+	db 20, PTITARD
 	db 25, POLIWHIRL
 	end_water_wildmons
 
@@ -221,8 +221,8 @@ JohtoWaterWildMons:
 
 	def_water_wildmons VIOLET_CITY
 	db 2 percent ; encounter rate
-	db 20, POLIWAG
-	db 15, POLIWAG
+	db 20, PTITARD
+	db 15, PTITARD
 	db 20, POLIWHIRL
 	end_water_wildmons
 
@@ -242,8 +242,8 @@ JohtoWaterWildMons:
 
 	def_water_wildmons ECRUTEAK_CITY
 	db 2 percent ; encounter rate
-	db 20, POLIWAG
-	db 15, POLIWAG
+	db 20, PTITARD
+	db 15, PTITARD
 	db 20, POLIWHIRL
 	end_water_wildmons
 
@@ -265,7 +265,7 @@ JohtoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 35, POLIWHIRL
 	db 40, POLIWHIRL
-	db 35, POLIWAG
+	db 35, PTITARD
 	end_water_wildmons
 
 	db -1 ; end

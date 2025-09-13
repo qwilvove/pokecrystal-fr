@@ -794,7 +794,7 @@ CardFlip_CheckWinCondition:
 	dw .Impossible
 	dw .Pikachu
 	dw .Jigglypuff
-	dw .Poliwag
+	dw .Ptitard
 	dw .Mystherbe
 
 	dw .OneTwo
@@ -897,7 +897,7 @@ CardFlip_CheckWinCondition:
 	jr z, .WinTwelve
 	jp .Lose
 
-.Poliwag:
+.Ptitard:
 	ld a, [wCardFlipFaceUpCard]
 	and $3
 	cp $2

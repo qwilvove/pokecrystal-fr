@@ -173,7 +173,7 @@ TrainerFisherWilton1:
 	iftrue Route44NumberAcceptedM
 	checkevent EVENT_WILTON_ASKED_FOR_PHONE_NUMBER
 	iftrue .AskedAlready
-	writetext FisherWiltonHugePoliwagText
+	writetext FisherWiltonHugePtitardText
 	promptbutton
 	setevent EVENT_WILTON_ASKED_FOR_PHONE_NUMBER
 	scall Route44AskNumber1M
@@ -330,7 +330,7 @@ FisherWilton1BeatenText:
 	text "Je te pardonne."
 	done
 
-FisherWiltonHugePoliwagText:
+FisherWiltonHugePtitardText:
 	text "Ce PTITARD était"
 	line "énorme!"
 

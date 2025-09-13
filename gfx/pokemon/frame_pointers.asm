@@ -59,7 +59,7 @@ FramesPointers:
 	dw ColossingeFrames
 	dw CaninosFrames
 	dw ArcaninFrames
-	dw PoliwagFrames
+	dw PtitardFrames
 	dw PoliwhirlFrames
 	dw PoliwrathFrames
 	dw AbraFrames

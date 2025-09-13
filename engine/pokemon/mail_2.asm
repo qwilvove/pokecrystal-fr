@@ -286,7 +286,7 @@ LoadLovelyMailGFX:
 	ld de, LovelyMailBorderGFX
 	ld c, 5 * TILE_1BPP_SIZE
 	call LoadMailGFX_Color2
-	ld de, MailPoliwagGFX
+	ld de, MailPtitardGFX
 	ld c, 6 * TILE_1BPP_SIZE
 	call LoadMailGFX_Color3
 	ld de, LovelyMailUnderlineGFX

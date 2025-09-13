@@ -185,7 +185,7 @@ AlphabeticalPokedexOrder:
 	db PORYGON2
 	db PSYKOKWAK
 	db PTERA
-	db POLIWAG
+	db PTITARD
 	db FLAREON
 	db SMEARGLE
 	db WOBBUFFET

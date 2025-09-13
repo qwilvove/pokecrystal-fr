@@ -62,7 +62,7 @@ PokemonPicPointers::
 	dba_pics ColossingeFrontpic, ColossingeBackpic
 	dba_pics CaninosFrontpic, CaninosBackpic
 	dba_pics ArcaninFrontpic, ArcaninBackpic
-	dba_pics PoliwagFrontpic, PoliwagBackpic
+	dba_pics PtitardFrontpic, PtitardBackpic
 	dba_pics PoliwhirlFrontpic, PoliwhirlBackpic
 	dba_pics PoliwrathFrontpic, PoliwrathBackpic
 	dba_pics AbraFrontpic, AbraBackpic

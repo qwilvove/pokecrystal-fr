@@ -59,7 +59,7 @@ AnimationIdlePointers:
 	dw ColossingeAnimationIdle
 	dw CaninosAnimationIdle
 	dw ArcaninAnimationIdle
-	dw PoliwagAnimationIdle
+	dw PtitardAnimationIdle
 	dw PoliwhirlAnimationIdle
 	dw PoliwrathAnimationIdle
 	dw AbraAnimationIdle

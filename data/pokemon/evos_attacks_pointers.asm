@@ -61,7 +61,7 @@ EvosAttacksPointers::
 	dw ColossingeEvosAttacks
 	dw CaninosEvosAttacks
 	dw ArcaninEvosAttacks
-	dw PoliwagEvosAttacks
+	dw PtitardEvosAttacks
 	dw PoliwhirlEvosAttacks
 	dw PoliwrathEvosAttacks
 	dw AbraEvosAttacks

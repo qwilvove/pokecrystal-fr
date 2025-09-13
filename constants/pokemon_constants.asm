@@ -78,7 +78,7 @@
 	const COLOSSINGE   ; 39
 	const CANINOS  ; 3a
 	const ARCANIN   ; 3b
-	const POLIWAG    ; 3c
+	const PTITARD    ; 3c
 	const POLIWHIRL  ; 3d
 	const POLIWRATH  ; 3e
 	const ABRA       ; 3f

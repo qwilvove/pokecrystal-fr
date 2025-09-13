@@ -61,7 +61,7 @@ KantoMonSpecials:
 	db  60 ; COLOSSINGE
 	db  50 ; CANINOS
 	db  80 ; ARCANIN
-	db  40 ; POLIWAG
+	db  40 ; PTITARD
 	db  50 ; POLIWHIRL
 	db  70 ; POLIWRATH
 	db 105 ; ABRA

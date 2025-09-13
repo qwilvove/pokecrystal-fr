@@ -1,7 +1,7 @@
 ; IconPointers indexes (see data/icon_pointers.asm)
 	const_def
 	const ICON_NULL
-	const ICON_POLIWAG
+	const ICON_PTITARD
 	const ICON_JIGGLYPUFF
 	const ICON_DIGLETT
 	const ICON_PIKACHU

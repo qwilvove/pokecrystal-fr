@@ -73,7 +73,7 @@ NewPokedexOrder:
 	db COTOVOL
 	db PARAS
 	db PARASECT
-	db POLIWAG
+	db PTITARD
 	db POLIWHIRL
 	db POLIWRATH
 	db POLITOED

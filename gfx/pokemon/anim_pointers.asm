@@ -59,7 +59,7 @@ AnimationPointers:
 	dw ColossingeAnimation
 	dw CaninosAnimation
 	dw ArcaninAnimation
-	dw PoliwagAnimation
+	dw PtitardAnimation
 	dw PoliwhirlAnimation
 	dw PoliwrathAnimation
 	dw AbraAnimation

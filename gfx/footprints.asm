@@ -141,7 +141,7 @@ INCBIN "gfx/footprints/ferosinge.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/colossinge.1bpp",   footprint_top
 INCBIN "gfx/footprints/caninos.1bpp",  footprint_top
 INCBIN "gfx/footprints/arcanin.1bpp",   footprint_top
-INCBIN "gfx/footprints/poliwag.1bpp",    footprint_top
+INCBIN "gfx/footprints/ptitard.1bpp",    footprint_top
 INCBIN "gfx/footprints/poliwhirl.1bpp",  footprint_top
 INCBIN "gfx/footprints/poliwrath.1bpp",  footprint_top
 INCBIN "gfx/footprints/abra.1bpp",       footprint_top
@@ -150,7 +150,7 @@ INCBIN "gfx/footprints/kadabra.1bpp",    footprint_top
 INCBIN "gfx/footprints/colossinge.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/caninos.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/arcanin.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/poliwag.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/ptitard.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/poliwhirl.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/poliwrath.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/abra.1bpp",       footprint_bottom

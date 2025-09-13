@@ -2,7 +2,7 @@ IconPointers:
 ; entries correspond to ICON_* constants (see constants/icon_constants.asm)
 	table_width 2
 	dw NullIcon
-	dw PoliwagIcon
+	dw PtitardIcon
 	dw JigglypuffIcon
 	dw DiglettIcon
 	dw PikachuIcon

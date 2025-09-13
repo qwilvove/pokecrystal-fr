@@ -59,7 +59,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw CaninosEggMoves
 	dw NoEggMoves
-	dw PoliwagEggMoves
+	dw PtitardEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw AbraEggMoves

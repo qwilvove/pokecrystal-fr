@@ -1283,7 +1283,7 @@ JohtoGrassWildMons:
 	; nite
 	db 3, MIMIGAL
 	db 3, HOOTHOOT
-	db 4, POLIWAG
+	db 4, PTITARD
 	db 4, HOOTHOOT
 	db 3, NOSFERAPTI
 	db 4, HOOTHOOT
@@ -1310,7 +1310,7 @@ JohtoGrassWildMons:
 	db 5, GRANIVOL
 	; nite
 	db 4, MIMIGAL
-	db 4, POLIWAG
+	db 4, PTITARD
 	db 5, CHETIFLOR
 	db 5, HOOTHOOT
 	db 4, NOSFERAPTI
@@ -1618,7 +1618,7 @@ JohtoGrassWildMons:
 	db 26, EXCELANGUE
 	; nite
 	db 23, TANGELA
-	db 22, POLIWAG
+	db 22, PTITARD
 	db 22, CHETIFLOR
 	db 24, BOUSTIFLOR
 	db 24, POLIWHIRL

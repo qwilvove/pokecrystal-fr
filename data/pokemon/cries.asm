@@ -65,7 +65,7 @@ PokemonCries::
 	mon_cry CRY_NIDOQUEEN,   175,  192 ; COLOSSINGE
 	mon_cry CRY_CANINOS,    32,  192 ; CANINOS
 	mon_cry CRY_ASPICOT,        0,  256 ; ARCANIN
-	mon_cry CRY_PIDGEY,      255,  383 ; POLIWAG
+	mon_cry CRY_PIDGEY,      255,  383 ; PTITARD
 	mon_cry CRY_PIDGEY,      119,  224 ; POLIWHIRL
 	mon_cry CRY_PIDGEY,        0,  383 ; POLIWRATH
 	mon_cry CRY_CHRYSACIER,     192,  129 ; ABRA

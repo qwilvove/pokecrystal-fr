@@ -72,17 +72,17 @@ FishGroups:
 .Pond_Old:
 	db  70 percent + 1, MAGICARPE,   10
 	db  85 percent + 1, MAGICARPE,   10
-	db 100 percent,     POLIWAG,    10
+	db 100 percent,     PTITARD,    10
 .Pond_Good:
 	db  35 percent,     MAGICARPE,   20
-	db  70 percent,     POLIWAG,    20
-	db  90 percent + 1, POLIWAG,    20
+	db  70 percent,     PTITARD,    20
+	db  90 percent + 1, PTITARD,    20
 	db 100 percent,     time_group 6
 .Pond_Super:
-	db  40 percent,     POLIWAG,    40
+	db  40 percent,     PTITARD,    40
 	db  70 percent,     time_group 7
 	db  90 percent + 1, MAGICARPE,   40
-	db 100 percent,     POLIWAG,    40
+	db 100 percent,     PTITARD,    40
 
 .Minidraco_Old:
 	db  70 percent + 1, MAGICARPE,   10
@@ -195,14 +195,14 @@ FishGroups:
 .Remoraid_Old:
 	db  70 percent + 1, MAGICARPE,   10
 	db  85 percent + 1, MAGICARPE,   10
-	db 100 percent,     POLIWAG,    10
+	db 100 percent,     PTITARD,    10
 .Remoraid_Good:
 	db  35 percent,     MAGICARPE,   20
-	db  70 percent,     POLIWAG,    20
-	db  90 percent + 1, POLIWAG,    20
+	db  70 percent,     PTITARD,    20
+	db  90 percent + 1, PTITARD,    20
 	db 100 percent,     time_group 6
 .Remoraid_Super:
-	db  40 percent,     POLIWAG,    40
+	db  40 percent,     PTITARD,    40
 	db  70 percent,     time_group 7
 	db  90 percent + 1, MAGICARPE,   40
 	db 100 percent,     REMORAID,   40
@@ -215,8 +215,8 @@ TimeFishGroups:
 	db KOKIYAS,   40,  KOKIYAS,   40 ; 3
 	db POISSIRENE,    20,  POISSIRENE,    20 ; 4
 	db POISSIRENE,    40,  POISSIRENE,    40 ; 5
-	db POLIWAG,    20,  POLIWAG,    20 ; 6
-	db POLIWAG,    40,  POLIWAG,    40 ; 7
+	db PTITARD,    20,  PTITARD,    20 ; 6
+	db PTITARD,    40,  PTITARD,    40 ; 7
 	db MINIDRACO,    20,  MINIDRACO,    20 ; 8
 	db MINIDRACO,    40,  MINIDRACO,    40 ; 9
 	db QWILFISH,   20,  QWILFISH,   20 ; 10
