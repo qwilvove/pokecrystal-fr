@@ -1064,11 +1064,11 @@ Cry_Rattata:
 	channel 6, Cry_Rattata_Ch6
 	channel 8, Cry_Rattata_Ch8
 
-Cry_Vileplume:
+Cry_Rafflesia:
 	channel_count 3
-	channel 5, Cry_Vileplume_Ch5
-	channel 6, Cry_Vileplume_Ch6
-	channel 8, Cry_Vileplume_Ch8
+	channel 5, Cry_Rafflesia_Ch5
+	channel 6, Cry_Rafflesia_Ch6
+	channel 8, Cry_Rafflesia_Ch8
 
 Cry_Goupix:
 	channel_count 3
@@ -1146,7 +1146,7 @@ Cry_Raichu_Ch8:
 	noise_note 8, 12, 1, 59
 	sound_ret
 
-Cry_Vileplume_Ch5:
+Cry_Rafflesia_Ch5:
 	duty_cycle_pattern 3, 3, 0, 0
 	square_note 15, 15, 7, 1984
 	square_note 6, 14, 4, 1985
@@ -1155,7 +1155,7 @@ Cry_Vileplume_Ch5:
 	square_note 8, 12, 1, 1984
 	sound_ret
 
-Cry_Vileplume_Ch6:
+Cry_Rafflesia_Ch6:
 	duty_cycle_pattern 1, 1, 3, 3
 	square_note 15, 9, 7, 1921
 	square_note 6, 8, 4, 1920
@@ -1163,7 +1163,7 @@ Cry_Vileplume_Ch6:
 	square_note 15, 8, 3, 1921
 	sound_ret
 
-Cry_Vileplume_Ch8:
+Cry_Rafflesia_Ch8:
 	noise_note 3, 15, 2, 60
 	noise_note 13, 14, 6, 44
 	noise_note 15, 13, 7, 60

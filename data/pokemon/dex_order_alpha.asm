@@ -191,7 +191,7 @@ AlphabeticalPokedexOrder:
 	db QULBUTOKE
 	db QWILFISH
 	db RACAILLOU
-	db VILEPLUME
+	db RAFFLESIA
 	db RAICHU
 	db RAIKOU
 	db SLOWPOKE

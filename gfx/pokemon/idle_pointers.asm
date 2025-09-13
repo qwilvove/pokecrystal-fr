@@ -44,7 +44,7 @@ AnimationIdlePointers:
 	dw NosferaltoAnimationIdle
 	dw MystherbeAnimationIdle
 	dw OrtideAnimationIdle
-	dw VileplumeAnimationIdle
+	dw RafflesiaAnimationIdle
 	dw ParasAnimationIdle
 	dw ParasectAnimationIdle
 	dw MimitossAnimationIdle

@@ -86,7 +86,7 @@ NewPokedexOrder:
 	db SLOWKING
 	db MYSTHERBE
 	db ORTIDE
-	db VILEPLUME
+	db RAFFLESIA
 	db JOLIFLOR
 	db DROWZEE
 	db HYPNOMADE

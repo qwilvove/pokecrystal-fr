@@ -37,7 +37,7 @@
 	const CRY_KRABBY
 	const CRY_PSYKOKWAK
 	const CRY_RATTATA
-	const CRY_VILEPLUME
+	const CRY_RAFFLESIA
 	const CRY_GOUPIX
 	const CRY_BOUSTIFLOR
 

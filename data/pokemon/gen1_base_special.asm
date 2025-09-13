@@ -46,7 +46,7 @@ KantoMonSpecials:
 	db  75 ; NOSFERALTO
 	db  75 ; MYSTHERBE
 	db  85 ; ORTIDE
-	db 100 ; VILEPLUME
+	db 100 ; RAFFLESIA
 	db  55 ; PARAS
 	db  80 ; PARASECT
 	db  40 ; MIMITOSS

@@ -44,7 +44,7 @@ AnimationPointers:
 	dw NosferaltoAnimation
 	dw MystherbeAnimation
 	dw OrtideAnimation
-	dw VileplumeAnimation
+	dw RafflesiaAnimation
 	dw ParasAnimation
 	dw ParasectAnimation
 	dw MimitossAnimation

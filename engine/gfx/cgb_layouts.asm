@@ -401,7 +401,7 @@ _CGB_SlotMachine:
 	call FillBoxCGB
 	hlcoord 4, 2, wAttrmap
 	lb bc, 2, 12
-	ld a, $1 ; Vileplume palette
+	ld a, $1 ; Rafflesia palette
 	call FillBoxCGB
 	hlcoord 3, 2, wAttrmap
 	lb bc, 10, 1

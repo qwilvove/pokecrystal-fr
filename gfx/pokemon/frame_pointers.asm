@@ -44,7 +44,7 @@ FramesPointers:
 	dw NosferaltoFrames
 	dw MystherbeFrames
 	dw OrtideFrames
-	dw VileplumeFrames
+	dw RafflesiaFrames
 	dw ParasFrames
 	dw ParasectFrames
 	dw MimitossFrames

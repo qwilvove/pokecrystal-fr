@@ -47,7 +47,7 @@ PokemonPicPointers::
 	dba_pics NosferaltoFrontpic, NosferaltoBackpic
 	dba_pics MystherbeFrontpic, MystherbeBackpic
 	dba_pics OrtideFrontpic, OrtideBackpic
-	dba_pics VileplumeFrontpic, VileplumeBackpic
+	dba_pics RafflesiaFrontpic, RafflesiaBackpic
 	dba_pics ParasFrontpic, ParasBackpic
 	dba_pics ParasectFrontpic, ParasectBackpic
 	dba_pics MimitossFrontpic, MimitossBackpic

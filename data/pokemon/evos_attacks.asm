@@ -569,7 +569,7 @@ MystherbeEvosAttacks:
 	db 0 ; no more level-up moves
 
 OrtideEvosAttacks:
-	db EVOLVE_ITEM, LEAF_STONE, VILEPLUME
+	db EVOLVE_ITEM, LEAF_STONE, RAFFLESIA
 	db EVOLVE_ITEM, SUN_STONE, JOLIFLOR
 	db 0 ; no more evolutions
 	db 1, ABSORB
@@ -584,7 +584,7 @@ OrtideEvosAttacks:
 	db 44, PETAL_DANCE
 	db 0 ; no more level-up moves
 
-VileplumeEvosAttacks:
+RafflesiaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, ABSORB
 	db 1, SWEET_SCENT

@@ -50,7 +50,7 @@ PokemonCries::
 	mon_cry CRY_CARAPUCE,    250,  256 ; NOSFERALTO
 	mon_cry CRY_MYSTHERBE,      221,  129 ; MYSTHERBE
 	mon_cry CRY_MYSTHERBE,      170,  192 ; ORTIDE
-	mon_cry CRY_VILEPLUME,    34,  383 ; VILEPLUME
+	mon_cry CRY_RAFFLESIA,    34,  383 ; RAFFLESIA
 	mon_cry CRY_PARAS,        32,  352 ; PARAS
 	mon_cry CRY_PARAS,        66,  383 ; PARASECT
 	mon_cry CRY_MIMITOSS,      68,  192 ; MIMITOSS
@@ -147,7 +147,7 @@ PokemonCries::
 	mon_cry CRY_CANINOS,   255,  192 ; AMONISTAR
 	mon_cry CRY_CHENIPAN,    187,  192 ; KABUTO
 	mon_cry CRY_FEAROW,      238,  129 ; KABUTOPS
-	mon_cry CRY_VILEPLUME,    32,  368 ; PTERA
+	mon_cry CRY_RAFFLESIA,    32,  368 ; PTERA
 	mon_cry CRY_GRIMER,       85,  129 ; SNORLAX
 	mon_cry CRY_RAICHU,      128,  192 ; ARTIKODIN
 	mon_cry CRY_FEAROW,      255,  256 ; ELECTHOR

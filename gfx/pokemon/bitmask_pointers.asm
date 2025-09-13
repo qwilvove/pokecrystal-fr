@@ -44,7 +44,7 @@ BitmasksPointers:
 	dw NosferaltoBitmasks
 	dw MystherbeBitmasks
 	dw OrtideBitmasks
-	dw VileplumeBitmasks
+	dw RafflesiaBitmasks
 	dw ParasBitmasks
 	dw ParasectBitmasks
 	dw MimitossBitmasks

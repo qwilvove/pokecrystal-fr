@@ -36,7 +36,7 @@ Cries:
 	dba Cry_Krabby
 	dba Cry_Psykokwak
 	dba Cry_Rattata
-	dba Cry_Vileplume
+	dba Cry_Rafflesia
 	dba Cry_Goupix
 	dba Cry_Boustiflor
 	dba Cry_Marill
