@@ -400,16 +400,16 @@ KantoGrassWildMons:
 	db 15, RATTATA
 	db 15, PIAFABEC
 	db 15, RATICATE
-	db 15, FEAROW
-	db 15, FEAROW
+	db 15, RAPASDEPIC
+	db 15, RAPASDEPIC
 	db 18, OSSATUEUR
 	db 18, OSSATUEUR
 	; day
 	db 15, RATTATA
 	db 15, PIAFABEC
 	db 15, RATICATE
-	db 15, FEAROW
-	db 15, FEAROW
+	db 15, RAPASDEPIC
+	db 15, RAPASDEPIC
 	db 18, OSSATUEUR
 	db 18, OSSATUEUR
 	; nite
@@ -428,7 +428,7 @@ KantoGrassWildMons:
 	db 15, PIAFABEC
 	db 17, VOLTORB
 	db 15, RATICATE
-	db 15, FEAROW
+	db 15, RAPASDEPIC
 	db 15, OSSATUEUR
 	db 16, ELEKTEK
 	db 16, ELEKTEK
@@ -436,7 +436,7 @@ KantoGrassWildMons:
 	db 15, PIAFABEC
 	db 17, VOLTORB
 	db 15, RATICATE
-	db 15, FEAROW
+	db 15, RAPASDEPIC
 	db 15, OSSATUEUR
 	db 18, ELEKTEK
 	db 18, ELEKTEK
@@ -566,17 +566,17 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 26, GRIMER
-	db 27, FEAROW
+	db 27, RAPASDEPIC
 	db 28, GRIMER
-	db 29, FEAROW
-	db 29, FEAROW
+	db 29, RAPASDEPIC
+	db 29, RAPASDEPIC
 	db 30, GROTADMORV
 	db 30, GROTADMORV
 	; day
 	db 26, GRIMER
-	db 27, FEAROW
+	db 27, RAPASDEPIC
 	db 28, GRIMER
-	db 29, FEAROW
+	db 29, RAPASDEPIC
 	db 29, LIMAGMA
 	db 30, GROTADMORV
 	db 30, GROTADMORV
@@ -593,18 +593,18 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_17
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 30, FEAROW
+	db 30, RAPASDEPIC
 	db 29, GRIMER
 	db 31, GRIMER
-	db 32, FEAROW
+	db 32, RAPASDEPIC
 	db 33, GRIMER
 	db 33, GROTADMORV
 	db 33, GROTADMORV
 	; day
-	db 30, FEAROW
+	db 30, RAPASDEPIC
 	db 29, LIMAGMA
 	db 29, GRIMER
-	db 32, FEAROW
+	db 32, RAPASDEPIC
 	db 32, LIMAGMA
 	db 33, GROTADMORV
 	db 33, GROTADMORV
@@ -622,17 +622,17 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 26, GRIMER
-	db 27, FEAROW
+	db 27, RAPASDEPIC
 	db 28, GRIMER
-	db 29, FEAROW
-	db 29, FEAROW
+	db 29, RAPASDEPIC
+	db 29, RAPASDEPIC
 	db 30, GROTADMORV
 	db 30, GROTADMORV
 	; day
 	db 26, GRIMER
-	db 27, FEAROW
+	db 27, RAPASDEPIC
 	db 28, GRIMER
-	db 29, FEAROW
+	db 29, RAPASDEPIC
 	db 29, LIMAGMA
 	db 30, GROTADMORV
 	db 30, GROTADMORV
@@ -682,16 +682,16 @@ KantoGrassWildMons:
 	db 5, PIAFABEC
 	db 4, DODUO
 	db 6, PONYTA
-	db 7, FEAROW
-	db 7, FEAROW
+	db 7, RAPASDEPIC
+	db 7, RAPASDEPIC
 	; day
 	db 3, RATTATA
 	db 3, PIAFABEC
 	db 5, PIAFABEC
 	db 4, DODUO
 	db 6, PONYTA
-	db 7, FEAROW
-	db 7, FEAROW
+	db 7, RAPASDEPIC
+	db 7, RAPASDEPIC
 	; nite
 	db 3, RATTATA
 	db 3, PTITARD

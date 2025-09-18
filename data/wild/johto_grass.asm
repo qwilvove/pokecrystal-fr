@@ -1550,16 +1550,16 @@ JohtoGrassWildMons:
 	db 15, RATTATA
 	db 16, RATICATE
 	db 15, ARBOK
-	db 16, FEAROW
-	db 16, FEAROW
+	db 16, RAPASDEPIC
+	db 16, RAPASDEPIC
 	; day
 	db 13, ABO
 	db 14, PIAFABEC
 	db 15, RATTATA
 	db 16, RATICATE
 	db 15, ARBOK
-	db 16, FEAROW
-	db 16, FEAROW
+	db 16, RAPASDEPIC
+	db 16, RAPASDEPIC
 	; nite
 	db 13, RATTATA
 	db 14, NOSFERAPTI

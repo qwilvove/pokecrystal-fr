@@ -21,7 +21,7 @@ FramesPointers:
 	dw RattataFrames
 	dw RaticateFrames
 	dw PiafabecFrames
-	dw FearowFrames
+	dw RapasdepicFrames
 	dw AboFrames
 	dw ArbokFrames
 	dw PikachuFrames

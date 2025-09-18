@@ -21,7 +21,7 @@ AnimationPointers:
 	dw RattataAnimation
 	dw RaticateAnimation
 	dw PiafabecAnimation
-	dw FearowAnimation
+	dw RapasdepicAnimation
 	dw AboAnimation
 	dw ArbokAnimation
 	dw PikachuAnimation

@@ -25,7 +25,7 @@ Cries:
 	dba Cry_Aspicot
 	dba Cry_Chenipan
 	dba Cry_Abo
-	dba Cry_Fearow
+	dba Cry_Rapasdepic
 	dba Cry_Melofee
 	dba Cry_Mimitoss
 	dba Cry_Lokhlass

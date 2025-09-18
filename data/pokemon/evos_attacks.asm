@@ -288,7 +288,7 @@ RaticateEvosAttacks:
 	db 0 ; no more level-up moves
 
 PiafabecEvosAttacks:
-	db EVOLVE_LEVEL, 20, FEAROW
+	db EVOLVE_LEVEL, 20, RAPASDEPIC
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 1, GROWL
@@ -300,7 +300,7 @@ PiafabecEvosAttacks:
 	db 43, AGILITY
 	db 0 ; no more level-up moves
 
-FearowEvosAttacks:
+RapasdepicEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, PECK
 	db 1, GROWL

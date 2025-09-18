@@ -1596,7 +1596,7 @@ BattleTowerMons:
 	bigdw 65 ; SDef
 	dname "RINGUMA", MON_NAME_LENGTH
 
-	db FEAROW
+	db RAPASDEPIC
 	db BRIGHTPOWDER
 	db MIRROR_MOVE, PURSUIT, PECK, SWIFT
 	dw 0 ; OT ID
@@ -5205,7 +5205,7 @@ BattleTowerMons:
 	bigdw 218 ; SDef
 	dname "HAGANE-RU", MON_NAME_LENGTH
 
-	db FEAROW
+	db RAPASDEPIC
 	db KINGS_ROCK
 	db DRILL_PECK, STEEL_WING, HYPER_BEAM, MUD_SLAP
 	dw 0 ; OT ID

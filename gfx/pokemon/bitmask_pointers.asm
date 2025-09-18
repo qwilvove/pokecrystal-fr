@@ -21,7 +21,7 @@ BitmasksPointers:
 	dw RattataBitmasks
 	dw RaticateBitmasks
 	dw PiafabecBitmasks
-	dw FearowBitmasks
+	dw RapasdepicBitmasks
 	dw AboBitmasks
 	dw ArbokBitmasks
 	dw PikachuBitmasks

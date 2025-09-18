@@ -40,7 +40,7 @@
 	const RATTATA    ; 13
 	const RATICATE   ; 14
 	const PIAFABEC    ; 15
-	const FEAROW     ; 16
+	const RAPASDEPIC     ; 16
 	const ABO      ; 17
 	const ARBOK      ; 18
 	const PIKACHU    ; 19

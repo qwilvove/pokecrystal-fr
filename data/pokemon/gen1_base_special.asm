@@ -23,7 +23,7 @@ KantoMonSpecials:
 	db  25 ; RATTATA
 	db  50 ; RATICATE
 	db  31 ; PIAFABEC
-	db  61 ; FEAROW
+	db  61 ; RAPASDEPIC
 	db  40 ; ABO
 	db  65 ; ARBOK
 	db  50 ; PIKACHU

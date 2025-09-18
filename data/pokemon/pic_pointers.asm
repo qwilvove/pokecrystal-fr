@@ -24,7 +24,7 @@ PokemonPicPointers::
 	dba_pics RattataFrontpic, RattataBackpic
 	dba_pics RaticateFrontpic, RaticateBackpic
 	dba_pics PiafabecFrontpic, PiafabecBackpic
-	dba_pics FearowFrontpic, FearowBackpic
+	dba_pics RapasdepicFrontpic, RapasdepicBackpic
 	dba_pics AboFrontpic, AboBackpic
 	dba_pics ArbokFrontpic, ArbokBackpic
 	dba_pics PikachuFrontpic, PikachuBackpic

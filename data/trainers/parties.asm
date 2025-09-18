@@ -384,7 +384,7 @@ YoungsterGroup:
 
 	; YOUNGSTER (9)
 	db "ROMAIN@", TRAINERTYPE_NORMAL
-	db 35, FEAROW
+	db 35, RAPASDEPIC
 	db -1 ; end
 
 	; YOUNGSTER (10)
@@ -607,7 +607,7 @@ BirdKeeperGroup:
 	; BIRD_KEEPER (6)
 	db "TONY@", TRAINERTYPE_NORMAL
 	db 18, PIAFABEC
-	db 20, FEAROW
+	db 20, RAPASDEPIC
 	db 18, PIAFABEC
 	db -1 ; end
 
@@ -625,8 +625,8 @@ BirdKeeperGroup:
 
 	; BIRD_KEEPER (9)
 	db "MARC@", TRAINERTYPE_NORMAL
-	db 29, FEAROW
-	db 35, FEAROW
+	db 29, RAPASDEPIC
+	db 35, RAPASDEPIC
 	db -1 ; end
 
 	; BIRD_KEEPER (10)
@@ -666,7 +666,7 @@ BirdKeeperGroup:
 	; BIRD_KEEPER (16)
 	db "BRET@", TRAINERTYPE_NORMAL
 	db 32, PIDGEOTTO
-	db 32, FEAROW
+	db 32, RAPASDEPIC
 	db -1 ; end
 
 	; BIRD_KEEPER (17)
@@ -3052,7 +3052,7 @@ CamperGroup:
 
 	; CAMPER (22)
 	db "QUENTIN@", TRAINERTYPE_NORMAL
-	db 30, FEAROW
+	db 30, RAPASDEPIC
 	db 30, COLOSSINGE
 	db 30, TAUROS
 	db -1 ; end

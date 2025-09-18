@@ -34,7 +34,7 @@ Pokered_MonIndices:
 	db CARATROC ; MISSINGNO.
 	db CANINOS
 	db ONIX
-	db FEAROW
+	db RAPASDEPIC
 	db PIDGEY
 	db RAMOLOSS
 	db KADABRA

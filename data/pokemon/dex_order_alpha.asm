@@ -195,7 +195,7 @@ AlphabeticalPokedexOrder:
 	db RAICHU
 	db RAIKOU
 	db RAMOLOSS
-	db FEAROW
+	db RAPASDEPIC
 	db RATTATA
 	db RATICATE
 	db REMORAID

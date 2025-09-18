@@ -998,11 +998,11 @@ Cry_Abo:
 	channel 6, Cry_Abo_Ch6
 	channel 8, Cry_Abo_Ch8
 
-Cry_Fearow:
+Cry_Rapasdepic:
 	channel_count 3
-	channel 5, Cry_Fearow_Ch5
-	channel 6, Cry_Fearow_Ch6
-	channel 8, Cry_Fearow_Ch8
+	channel 5, Cry_Rapasdepic_Ch5
+	channel 6, Cry_Rapasdepic_Ch6
+	channel 8, Cry_Rapasdepic_Ch8
 
 Cry_Melofee:
 	channel_count 3
@@ -1982,7 +1982,7 @@ Cry_Carapuce_Ch8:
 	noise_note 15, 12, 2, 76
 	sound_ret
 
-Cry_Fearow_Ch5:
+Cry_Rapasdepic_Ch5:
 	duty_cycle_pattern 1, 1, 0, 0
 	square_note 10, 15, 5, 1664
 	square_note 3, 14, 2, 1696
@@ -1994,7 +1994,7 @@ Cry_Fearow_Ch5:
 	square_note 8, 12, 1, 1696
 	sound_ret
 
-Cry_Fearow_Ch6:
+Cry_Rapasdepic_Ch6:
 	duty_cycle_pattern 0, 0, 3, 3
 	square_note 9, 13, 5, 1585
 	square_note 3, 13, 2, 1618
@@ -2006,7 +2006,7 @@ Cry_Fearow_Ch6:
 	square_note 8, 11, 1, 1617
 	sound_ret
 
-Cry_Fearow_Ch8:
+Cry_Rapasdepic_Ch8:
 	noise_note 6, 14, 3, 76
 	noise_note 4, 12, 3, 60
 	noise_note 5, 13, 4, 60

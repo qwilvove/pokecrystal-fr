@@ -15,7 +15,7 @@ NewPokedexOrder:
 	db PIDGEOTTO
 	db PIDGEOT
 	db PIAFABEC
-	db FEAROW
+	db RAPASDEPIC
 	db HOOTHOOT
 	db NOARFANG
 	db RATTATA

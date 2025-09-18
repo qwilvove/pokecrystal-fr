@@ -21,7 +21,7 @@ AnimationIdlePointers:
 	dw RattataAnimationIdle
 	dw RaticateAnimationIdle
 	dw PiafabecAnimationIdle
-	dw FearowAnimationIdle
+	dw RapasdepicAnimationIdle
 	dw AboAnimationIdle
 	dw ArbokAnimationIdle
 	dw PikachuAnimationIdle

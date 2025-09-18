@@ -27,7 +27,7 @@ PokemonCries::
 	mon_cry CRY_RATTATA,       0,  256 ; RATTATA
 	mon_cry CRY_RATTATA,      32,  383 ; RATICATE
 	mon_cry CRY_PIAFABEC,       0,  256 ; PIAFABEC
-	mon_cry CRY_FEAROW,       64,  288 ; FEAROW
+	mon_cry CRY_RAPASDEPIC,       64,  288 ; RAPASDEPIC
 	mon_cry CRY_ABO,        18,  192 ; ABO
 	mon_cry CRY_ABO,       224,  144 ; ARBOK
 	mon_cry CRY_BULBIZARRE,   238,  129 ; PIKACHU
@@ -95,8 +95,8 @@ PokemonCries::
 	mon_cry CRY_OTARIA,         35,  383 ; LAMANTINE
 	mon_cry CRY_GRIMER,        0,  256 ; GRIMER
 	mon_cry CRY_GROTADMORV,         239,  383 ; GROTADMORV
-	mon_cry CRY_FEAROW,        0,  256 ; KOKIYAS
-	mon_cry CRY_FEAROW,      111,  352 ; CRUSTABRI
+	mon_cry CRY_RAPASDEPIC,        0,  256 ; KOKIYAS
+	mon_cry CRY_RAPASDEPIC,      111,  352 ; CRUSTABRI
 	mon_cry CRY_CHRYSACIER,       0,  256 ; FANTOMINUS
 	mon_cry CRY_CHRYSACIER,      48,  192 ; HAUNTER
 	mon_cry CRY_GROTADMORV,           0,  383 ; ECTOPLASMA
@@ -146,11 +146,11 @@ PokemonCries::
 	mon_cry CRY_CANINOS,   240,  129 ; AMONITA
 	mon_cry CRY_CANINOS,   255,  192 ; AMONISTAR
 	mon_cry CRY_CHENIPAN,    187,  192 ; KABUTO
-	mon_cry CRY_FEAROW,      238,  129 ; KABUTOPS
+	mon_cry CRY_RAPASDEPIC,      238,  129 ; KABUTOPS
 	mon_cry CRY_RAFFLESIA,    32,  368 ; PTERA
 	mon_cry CRY_GRIMER,       85,  129 ; SNORLAX
 	mon_cry CRY_RAICHU,      128,  192 ; ARTIKODIN
-	mon_cry CRY_FEAROW,      255,  256 ; ELECTHOR
+	mon_cry CRY_RAPASDEPIC,      255,  256 ; ELECTHOR
 	mon_cry CRY_RAICHU,      248,  192 ; MOLTRES
 	mon_cry CRY_BULBIZARRE,    96,  192 ; MINIDRACO
 	mon_cry CRY_BULBIZARRE,    64,  256 ; DRACO

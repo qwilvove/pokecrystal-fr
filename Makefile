@@ -215,7 +215,7 @@ gfx/pokemon/unown/normal.gbcpal: $(subst .png,.gbcpal,$(unown_pngs))
 gfx/pokemon/egg/unused_front.2bpp: rgbgfx += --columns
 
 gfx/pokemon/piafabec/normal.gbcpal: tools/gbcpal += --reverse
-gfx/pokemon/fearow/normal.gbcpal: tools/gbcpal += --reverse
+gfx/pokemon/rapasdepic/normal.gbcpal: tools/gbcpal += --reverse
 gfx/pokemon/canarticho/normal.gbcpal: tools/gbcpal += --reverse
 gfx/pokemon/kicklee/normal.gbcpal: tools/gbcpal += --reverse
 gfx/pokemon/insecateur/normal.gbcpal: tools/gbcpal += --reverse
