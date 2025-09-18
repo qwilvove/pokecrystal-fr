@@ -199,7 +199,7 @@ AlphabeticalPokedexOrder:
 	db RATTATA
 	db RATTATAC
 	db REMORAID
-	db CHARMELEON
+	db REPTINCEL
 	db RHYHORN
 	db RHYDON
 	db SLOWKING

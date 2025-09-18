@@ -67,7 +67,7 @@ FlorizarreEvosAttacks:
 	db 0 ; no more level-up moves
 
 CharmanderEvosAttacks:
-	db EVOLVE_LEVEL, 16, CHARMELEON
+	db EVOLVE_LEVEL, 16, REPTINCEL
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, GROWL
@@ -81,7 +81,7 @@ CharmanderEvosAttacks:
 	db 49, FIRE_SPIN
 	db 0 ; no more level-up moves
 
-CharmeleonEvosAttacks:
+ReptincelEvosAttacks:
 	db EVOLVE_LEVEL, 36, DRACAUFEU
 	db 0 ; no more evolutions
 	db 1, SCRATCH

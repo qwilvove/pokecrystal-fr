@@ -4,7 +4,7 @@ AnimationIdlePointers:
 	dw HerbizarreAnimationIdle
 	dw FlorizarreAnimationIdle
 	dw CharmanderAnimationIdle
-	dw CharmeleonAnimationIdle
+	dw ReptincelAnimationIdle
 	dw DracaufeuAnimationIdle
 	dw CarapuceAnimationIdle
 	dw CarabaffeAnimationIdle

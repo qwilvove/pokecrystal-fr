@@ -4,7 +4,7 @@ FramesPointers:
 	dw HerbizarreFrames
 	dw FlorizarreFrames
 	dw CharmanderFrames
-	dw CharmeleonFrames
+	dw ReptincelFrames
 	dw DracaufeuFrames
 	dw CarapuceFrames
 	dw CarabaffeFrames

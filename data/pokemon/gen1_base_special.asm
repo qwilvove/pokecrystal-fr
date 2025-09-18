@@ -6,7 +6,7 @@ KantoMonSpecials:
 	db  80 ; HERBIZARRE
 	db 100 ; FLORIZARRE
 	db  50 ; CHARMANDER
-	db  65 ; CHARMELEON
+	db  65 ; REPTINCEL
 	db  85 ; DRACAUFEU
 	db  50 ; CARAPUCE
 	db  65 ; CARABAFFE

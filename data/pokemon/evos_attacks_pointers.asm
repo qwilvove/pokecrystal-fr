@@ -6,7 +6,7 @@ EvosAttacksPointers::
 	dw HerbizarreEvosAttacks
 	dw FlorizarreEvosAttacks
 	dw CharmanderEvosAttacks
-	dw CharmeleonEvosAttacks
+	dw ReptincelEvosAttacks
 	dw DracaufeuEvosAttacks
 	dw CarapuceEvosAttacks
 	dw CarabaffeEvosAttacks

@@ -23,7 +23,7 @@
 	const HERBIZARRE    ; 02
 	const FLORIZARRE   ; 03
 	const CHARMANDER ; 04
-	const CHARMELEON ; 05
+	const REPTINCEL ; 05
 	const DRACAUFEU  ; 06
 	const CARAPUCE   ; 07
 	const CARABAFFE  ; 08
