@@ -38,7 +38,7 @@ FramesPointers:
 	dw MelodelfeFrames
 	dw GoupixFrames
 	dw FeunardFrames
-	dw JigglypuffFrames
+	dw RondoudouFrames
 	dw GrodoudouFrames
 	dw NosferaptiFrames
 	dw NosferaltoFrames

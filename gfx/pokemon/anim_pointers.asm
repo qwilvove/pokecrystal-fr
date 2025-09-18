@@ -38,7 +38,7 @@ AnimationPointers:
 	dw MelodelfeAnimation
 	dw GoupixAnimation
 	dw FeunardAnimation
-	dw JigglypuffAnimation
+	dw RondoudouAnimation
 	dw GrodoudouAnimation
 	dw NosferaptiAnimation
 	dw NosferaltoAnimation

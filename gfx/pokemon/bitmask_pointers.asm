@@ -38,7 +38,7 @@ BitmasksPointers:
 	dw MelodelfeBitmasks
 	dw GoupixBitmasks
 	dw FeunardBitmasks
-	dw JigglypuffBitmasks
+	dw RondoudouBitmasks
 	dw GrodoudouBitmasks
 	dw NosferaptiBitmasks
 	dw NosferaltoBitmasks

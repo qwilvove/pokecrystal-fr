@@ -793,7 +793,7 @@ CardFlip_CheckWinCondition:
 	dw .Impossible
 	dw .Impossible
 	dw .Pikachu
-	dw .Jigglypuff
+	dw .Rondoudou
 	dw .Ptitard
 	dw .Mystherbe
 
@@ -890,7 +890,7 @@ CardFlip_CheckWinCondition:
 	jr z, .WinTwelve
 	jp .Lose
 
-.Jigglypuff:
+.Rondoudou:
 	ld a, [wCardFlipFaceUpCard]
 	and $3
 	cp $1

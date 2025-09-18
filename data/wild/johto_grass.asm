@@ -1381,7 +1381,7 @@ JohtoGrassWildMons:
 	db 11, RATTATA
 	db 12, PIDGEY
 	db 10, ABRA
-	db 12, JIGGLYPUFF
+	db 12, RONDOUDOU
 	db 10, METAMORPH
 	db 10, METAMORPH
 	; day
@@ -1389,7 +1389,7 @@ JohtoGrassWildMons:
 	db 11, RATTATA
 	db 12, PIDGEY
 	db 10, ABRA
-	db 12, JIGGLYPUFF
+	db 12, RONDOUDOU
 	db 10, METAMORPH
 	db 10, METAMORPH
 	; nite
@@ -1397,7 +1397,7 @@ JohtoGrassWildMons:
 	db 11, RATTATA
 	db 12, HOOTHOOT
 	db 10, ABRA
-	db 12, JIGGLYPUFF
+	db 12, RONDOUDOU
 	db 10, METAMORPH
 	db 10, METAMORPH
 	end_grass_wildmons
@@ -1409,7 +1409,7 @@ JohtoGrassWildMons:
 	db 14, PIDGEY
 	db 13, CANINOS
 	db 10, ABRA
-	db 12, JIGGLYPUFF
+	db 12, RONDOUDOU
 	db 10, METAMORPH
 	db 12, YANMA
 	; day
@@ -1417,7 +1417,7 @@ JohtoGrassWildMons:
 	db 14, PIDGEY
 	db 13, CANINOS
 	db 10, ABRA
-	db 12, JIGGLYPUFF
+	db 12, RONDOUDOU
 	db 10, METAMORPH
 	db 12, YANMA
 	; nite
@@ -1425,7 +1425,7 @@ JohtoGrassWildMons:
 	db 14, HOOTHOOT
 	db 13, PSYKOKWAK
 	db 10, ABRA
-	db 12, JIGGLYPUFF
+	db 12, RONDOUDOU
 	db 10, METAMORPH
 	db 12, YANMA
 	end_grass_wildmons

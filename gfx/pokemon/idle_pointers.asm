@@ -38,7 +38,7 @@ AnimationIdlePointers:
 	dw MelodelfeAnimationIdle
 	dw GoupixAnimationIdle
 	dw FeunardAnimationIdle
-	dw JigglypuffAnimationIdle
+	dw RondoudouAnimationIdle
 	dw GrodoudouAnimationIdle
 	dw NosferaptiAnimationIdle
 	dw NosferaltoAnimationIdle

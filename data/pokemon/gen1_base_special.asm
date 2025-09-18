@@ -40,7 +40,7 @@ KantoMonSpecials:
 	db  85 ; MELODELFE
 	db  65 ; GOUPIX
 	db 100 ; FEUNARD
-	db  25 ; JIGGLYPUFF
+	db  25 ; RONDOUDOU
 	db  50 ; GRODOUDOU
 	db  40 ; NOSFERAPTI
 	db  75 ; NOSFERALTO

@@ -261,7 +261,7 @@ FindOwnedPosters:
 	db DECO_TOWN_MAP ; 10
 	db DECO_PIKACHU_POSTER ; 11
 	db DECO_MELOFEE_POSTER ; 12
-	db DECO_JIGGLYPUFF_POSTER ; 13
+	db DECO_RONDOUDOU_POSTER ; 13
 	db -1
 
 DecoConsoleMenu:
@@ -297,7 +297,7 @@ FindOwnedOrnaments:
 	db DECO_PIKACHU_DOLL ; 1e
 	db DECO_SURF_PIKACHU_DOLL ; 1f
 	db DECO_MELOFEE_DOLL ; 20
-	db DECO_JIGGLYPUFF_DOLL ; 21
+	db DECO_RONDOUDOU_DOLL ; 21
 	db DECO_BULBIZARRE_DOLL ; 22
 	db DECO_CHARMANDER_DOLL ; 23
 	db DECO_CARAPUCE_DOLL ; 24
@@ -1006,7 +1006,7 @@ DecorationDesc_PosterPointers:
 	dbw DECO_TOWN_MAP, DecorationDesc_TownMapPoster
 	dbw DECO_PIKACHU_POSTER, DecorationDesc_PikachuPoster
 	dbw DECO_MELOFEE_POSTER, DecorationDesc_MelofeePoster
-	dbw DECO_JIGGLYPUFF_POSTER, DecorationDesc_JigglypuffPoster
+	dbw DECO_RONDOUDOU_POSTER, DecorationDesc_RondoudouPoster
 	db -1
 
 DecorationDesc_TownMapPoster:
@@ -1035,11 +1035,11 @@ DecorationDesc_MelofeePoster:
 	text_far _LookMelofeePosterText
 	text_end
 
-DecorationDesc_JigglypuffPoster:
-	jumptext .LookJigglypuffPosterText
+DecorationDesc_RondoudouPoster:
+	jumptext .LookRondoudouPosterText
 
-.LookJigglypuffPosterText:
-	text_far _LookJigglypuffPosterText
+.LookRondoudouPosterText:
+	text_far _LookRondoudouPosterText
 	text_end
 
 DecorationDesc_NullPoster:

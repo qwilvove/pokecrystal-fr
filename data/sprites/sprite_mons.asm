@@ -21,7 +21,7 @@ SpriteMons:
 	db LIPPOUTOU
 	db STARMIE
 	db BULBIZARRE
-	db JIGGLYPUFF
+	db RONDOUDOU
 	db GRIMER
 	db ABO
 	db PARAS

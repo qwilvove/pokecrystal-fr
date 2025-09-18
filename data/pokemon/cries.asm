@@ -44,7 +44,7 @@ PokemonCries::
 	mon_cry CRY_MELOFEE,    170,  160 ; MELODELFE
 	mon_cry CRY_GOUPIX,       79,  144 ; GOUPIX
 	mon_cry CRY_GOUPIX,      136,  224 ; FEUNARD
-	mon_cry CRY_PIDGEY,      255,  181 ; JIGGLYPUFF
+	mon_cry CRY_PIDGEY,      255,  181 ; RONDOUDOU
 	mon_cry CRY_PIDGEY,      104,  224 ; GRODOUDOU
 	mon_cry CRY_CARAPUCE,    224,  256 ; NOSFERAPTI
 	mon_cry CRY_CARAPUCE,    250,  256 ; NOSFERALTO

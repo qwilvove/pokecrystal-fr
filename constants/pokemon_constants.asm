@@ -57,7 +57,7 @@
 	const MELODELFE   ; 24
 	const GOUPIX     ; 25
 	const FEUNARD  ; 26
-	const JIGGLYPUFF ; 27
+	const RONDOUDOU ; 27
 	const GRODOUDOU ; 28
 	const NOSFERAPTI      ; 29
 	const NOSFERALTO     ; 2a

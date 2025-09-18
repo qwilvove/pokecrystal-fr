@@ -2,7 +2,7 @@ Icons: ; used only for BANK(Icons)
 
 NullIcon:
 PtitardIcon:      INCBIN "gfx/icons/ptitard.2bpp"
-JigglypuffIcon:   INCBIN "gfx/icons/jigglypuff.2bpp"
+RondoudouIcon:   INCBIN "gfx/icons/rondoudou.2bpp"
 DiglettIcon:      INCBIN "gfx/icons/diglett.2bpp"
 PikachuIcon:      INCBIN "gfx/icons/pikachu.2bpp"
 StaryuIcon:       INCBIN "gfx/icons/staryu.2bpp"

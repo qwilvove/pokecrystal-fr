@@ -451,7 +451,7 @@ _CGB_GSIntro:
 
 .Jumptable:
 	dw .KokiyasLokhlassScene
-	dw .JigglypuffPikachuScene
+	dw .RondoudouPikachuScene
 	dw .StartersDracaufeuScene
 
 .KokiyasLokhlassScene:
@@ -472,14 +472,14 @@ INCLUDE "gfx/intro/gs_kokiyas_lokhlass_bg.pal"
 .KokiyasLokhlassOBPals:
 INCLUDE "gfx/intro/gs_kokiyas_lokhlass_ob.pal"
 
-.JigglypuffPikachuScene:
+.RondoudouPikachuScene:
 	ld de, wBGPals1
-	ld a, PREDEFPAL_GS_INTRO_JIGGLYPUFF_PIKACHU_BG
+	ld a, PREDEFPAL_GS_INTRO_RONDOUDOU_PIKACHU_BG
 	call GetPredefPal
 	call LoadHLPaletteIntoDE
 
 	ld de, wOBPals1
-	ld a, PREDEFPAL_GS_INTRO_JIGGLYPUFF_PIKACHU_OB
+	ld a, PREDEFPAL_GS_INTRO_RONDOUDOU_PIKACHU_OB
 	call GetPredefPal
 	call LoadHLPaletteIntoDE
 	call WipeAttrmap

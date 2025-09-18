@@ -203,7 +203,7 @@ AlphabeticalPokedexOrder:
 	db RHINOCORNE
 	db RHINOFEROS
 	db ROIGADA
-	db JIGGLYPUFF
+	db RONDOUDOU
 	db SNORLAX
 	db PIDGEOT
 	db PIDGEY

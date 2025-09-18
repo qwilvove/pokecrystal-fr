@@ -3,7 +3,7 @@ IconPointers:
 	table_width 2
 	dw NullIcon
 	dw PtitardIcon
-	dw JigglypuffIcon
+	dw RondoudouIcon
 	dw DiglettIcon
 	dw PikachuIcon
 	dw StaryuIcon

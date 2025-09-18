@@ -41,7 +41,7 @@ PokemonPicPointers::
 	dba_pics MelodelfeFrontpic, MelodelfeBackpic
 	dba_pics GoupixFrontpic, GoupixBackpic
 	dba_pics FeunardFrontpic, FeunardBackpic
-	dba_pics JigglypuffFrontpic, JigglypuffBackpic
+	dba_pics RondoudouFrontpic, RondoudouBackpic
 	dba_pics GrodoudouFrontpic, GrodoudouBackpic
 	dba_pics NosferaptiFrontpic, NosferaptiBackpic
 	dba_pics NosferaltoFrontpic, NosferaltoBackpic

@@ -39,7 +39,7 @@ PokedexDataPointerTable:
 	dw MelodelfePokedexEntry
 	dw GoupixPokedexEntry
 	dw FeunardPokedexEntry
-	dw JigglypuffPokedexEntry
+	dw RondoudouPokedexEntry
 	dw GrodoudouPokedexEntry
 	dw NosferaptiPokedexEntry
 	dw NosferaltoPokedexEntry

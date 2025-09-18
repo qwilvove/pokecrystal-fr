@@ -289,7 +289,7 @@ KantoGrassWildMons:
 	db 13, SNUBBULL
 	db 15, PIDGEOTTO
 	db 12, ABRA
-	db 14, JIGGLYPUFF
+	db 14, RONDOUDOU
 	db 14, ABRA
 	db 14, ABRA
 	; day
@@ -297,7 +297,7 @@ KantoGrassWildMons:
 	db 13, SNUBBULL
 	db 15, PIDGEOTTO
 	db 12, ABRA
-	db 14, JIGGLYPUFF
+	db 14, RONDOUDOU
 	db 14, ABRA
 	db 14, ABRA
 	; nite
@@ -305,7 +305,7 @@ KantoGrassWildMons:
 	db 13, MIAOUSS
 	db 15, NOARFANG
 	db 12, ABRA
-	db 14, JIGGLYPUFF
+	db 14, RONDOUDOU
 	db 14, ABRA
 	db 14, ABRA
 	end_grass_wildmons
@@ -317,7 +317,7 @@ KantoGrassWildMons:
 	db 13, SNUBBULL
 	db 14, MAGNETI
 	db 15, RATTATAC
-	db 12, JIGGLYPUFF
+	db 12, RONDOUDOU
 	db 15, GRANBULL
 	db 15, GRANBULL
 	; day
@@ -325,7 +325,7 @@ KantoGrassWildMons:
 	db 13, SNUBBULL
 	db 14, MAGNETI
 	db 15, RATTATAC
-	db 12, JIGGLYPUFF
+	db 12, RONDOUDOU
 	db 15, GRANBULL
 	db 15, GRANBULL
 	; nite
@@ -333,7 +333,7 @@ KantoGrassWildMons:
 	db 13, DROWZEE
 	db 14, MAGNETI
 	db 15, PSYKOKWAK
-	db 12, JIGGLYPUFF
+	db 12, RONDOUDOU
 	db 15, RATTATAC
 	db 15, RATTATAC
 	end_grass_wildmons
@@ -345,7 +345,7 @@ KantoGrassWildMons:
 	db 17, PIAFABEC
 	db 18, SNUBBULL
 	db 18, RATTATAC
-	db 18, JIGGLYPUFF
+	db 18, RONDOUDOU
 	db 16, ABRA
 	db 16, ABRA
 	; day
@@ -353,7 +353,7 @@ KantoGrassWildMons:
 	db 17, PIAFABEC
 	db 18, SNUBBULL
 	db 18, RATTATAC
-	db 18, JIGGLYPUFF
+	db 18, RONDOUDOU
 	db 16, ABRA
 	db 16, ABRA
 	; nite
@@ -361,7 +361,7 @@ KantoGrassWildMons:
 	db 17, CORNEBRE
 	db 18, MALOSSE
 	db 18, PERSIAN
-	db 18, JIGGLYPUFF
+	db 18, RONDOUDOU
 	db 16, ABRA
 	db 16, ABRA
 	end_grass_wildmons
@@ -373,7 +373,7 @@ KantoGrassWildMons:
 	db 19, PIDGEOTTO
 	db 16, ABRA
 	db 17, CANINOS
-	db 16, JIGGLYPUFF
+	db 16, RONDOUDOU
 	db 18, KADABRA
 	db 18, KADABRA
 	; day
@@ -381,7 +381,7 @@ KantoGrassWildMons:
 	db 19, PIDGEOTTO
 	db 16, ABRA
 	db 17, CANINOS
-	db 16, JIGGLYPUFF
+	db 16, RONDOUDOU
 	db 18, KADABRA
 	db 18, KADABRA
 	; nite
@@ -389,7 +389,7 @@ KantoGrassWildMons:
 	db 20, NOARFANG
 	db 16, ABRA
 	db 17, HAUNTER
-	db 16, JIGGLYPUFF
+	db 16, RONDOUDOU
 	db 18, KADABRA
 	db 18, KADABRA
 	end_grass_wildmons

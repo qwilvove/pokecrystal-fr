@@ -21,13 +21,13 @@ SpriteAnimOAMData:
 	spriteanimoam $06, .OAMData_GSIntroLokhlass            ; SPRITE_ANIM_OAMSET_GS_INTRO_LOKHLASS_3
 	spriteanimoam $0c, .OAMData_GSIntroNote              ; SPRITE_ANIM_OAMSET_GS_INTRO_NOTE
 	spriteanimoam $0d, .OAMData_1x1_Palette0             ; SPRITE_ANIM_OAMSET_GS_INTRO_INVISIBLE_NOTE
-	spriteanimoam $00, .OAMData_GSIntroJigglypuffPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_JIGGLYPUFF_1
-	spriteanimoam $04, .OAMData_GSIntroJigglypuffPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_JIGGLYPUFF_2
-	spriteanimoam $08, .OAMData_GSIntroJigglypuffPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_JIGGLYPUFF_3
-	spriteanimoam $40, .OAMData_GSIntroJigglypuffPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_1
-	spriteanimoam $44, .OAMData_GSIntroJigglypuffPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_2
-	spriteanimoam $48, .OAMData_GSIntroJigglypuffPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_3
-	spriteanimoam $4c, .OAMData_GSIntroJigglypuffPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_4
+	spriteanimoam $00, .OAMData_GSIntroRondoudouPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_RONDOUDOU_1
+	spriteanimoam $04, .OAMData_GSIntroRondoudouPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_RONDOUDOU_2
+	spriteanimoam $08, .OAMData_GSIntroRondoudouPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_RONDOUDOU_3
+	spriteanimoam $40, .OAMData_GSIntroRondoudouPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_1
+	spriteanimoam $44, .OAMData_GSIntroRondoudouPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_2
+	spriteanimoam $48, .OAMData_GSIntroRondoudouPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_3
+	spriteanimoam $4c, .OAMData_GSIntroRondoudouPikachu ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_4
 	spriteanimoam $80, .OAMData_GSIntroPikachuTail       ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_TAIL_1
 	spriteanimoam $85, .OAMData_GSIntroPikachuTail       ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_TAIL_2
 	spriteanimoam $8a, .OAMData_GSIntroPikachuTail       ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_TAIL_3
@@ -265,7 +265,7 @@ SpriteAnimOAMData:
 	dbsprite -1,  0,  4,  4, $21, 0
 	dbsprite  0,  0,  4,  4, $22, 0
 
-.OAMData_GSIntroJigglypuffPikachu:
+.OAMData_GSIntroRondoudouPikachu:
 	db 16
 	dbsprite -2, -2,  0,  0, $00, 0
 	dbsprite -1, -2,  0,  0, $01, 0

@@ -99,7 +99,7 @@ Pokered_MonIndices:
 	db SANDSLASH
 	db AMONITA
 	db AMONISTAR
-	db JIGGLYPUFF
+	db RONDOUDOU
 	db GRODOUDOU
 	db EVOLI
 	db PYROLI
