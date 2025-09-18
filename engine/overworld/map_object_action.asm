@@ -252,7 +252,7 @@ SetFacingBigDollAsym:
 SetFacingBigDoll:
 	ld a, [wVariableSprites + SPRITE_BIG_DOLL - SPRITE_VARS]
 	ld d, FACING_BIG_DOLL_SYM ; symmetric
-	cp SPRITE_BIG_SNORLAX
+	cp SPRITE_BIG_RONFLEX
 	jr z, .ok
 	cp SPRITE_BIG_LOKHLASS
 	jr z, .ok

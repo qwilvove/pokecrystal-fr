@@ -159,7 +159,7 @@ GirafarigFrontpic:   INCBIN "gfx/pokemon/girafarig/front.animated.2bpp.lz"
 DrowzeeFrontpic:     INCBIN "gfx/pokemon/drowzee/front.animated.2bpp.lz"
 FarfuretFrontpic:     INCBIN "gfx/pokemon/farfuret/front.animated.2bpp.lz"
 JoliflorFrontpic:   INCBIN "gfx/pokemon/joliflor/front.animated.2bpp.lz"
-SnorlaxFrontpic:     INCBIN "gfx/pokemon/snorlax/front.animated.2bpp.lz"
+RonflexFrontpic:     INCBIN "gfx/pokemon/ronflex/front.animated.2bpp.lz"
 GrodoudouFrontpic:  INCBIN "gfx/pokemon/grodoudou/front.animated.2bpp.lz"
 YanmaFrontpic:       INCBIN "gfx/pokemon/yanma/front.animated.2bpp.lz"
 QueuloriorFrontpic:    INCBIN "gfx/pokemon/queulorior/front.animated.2bpp.lz"
@@ -325,7 +325,7 @@ ElekidBackpic:       INCBIN "gfx/pokemon/elekid/back.2bpp.lz"
 CelebiBackpic:       INCBIN "gfx/pokemon/celebi/back.2bpp.lz"
 KrabbyBackpic:       INCBIN "gfx/pokemon/krabby/back.2bpp.lz"
 BugCatcherPic:       INCBIN "gfx/trainers/bug_catcher.2bpp.lz"
-SnorlaxBackpic:      INCBIN "gfx/pokemon/snorlax/back.2bpp.lz"
+RonflexBackpic:      INCBIN "gfx/pokemon/ronflex/back.2bpp.lz"
 
 
 SECTION "Pics 12", ROMX

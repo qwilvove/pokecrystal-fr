@@ -321,9 +321,9 @@ CheckLuckyNumberShowFlag:
 	farcall _CheckLuckyNumberShowFlag
 	jp ScriptReturnCarry
 
-SnorlaxAwake:
+RonflexAwake:
 ; Check if the Poké Flute channel is playing, and if the player is standing
-; next to Snorlax.
+; next to Ronflex.
 
 ; outputs:
 ; wScriptVar is 1 if the conditions are met, otherwise 0.

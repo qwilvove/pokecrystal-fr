@@ -429,7 +429,7 @@ PteraEggMoves:
 	db FORESIGHT
 	db -1 ; end
 
-SnorlaxEggMoves:
+RonflexEggMoves:
 	db LICK
 	db -1 ; end
 

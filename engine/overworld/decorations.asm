@@ -331,7 +331,7 @@ FindOwnedBigDolls:
 	jp FindOwnedDecosInCategory
 
 .big_dolls:
-	db DECO_BIG_SNORLAX_DOLL ; 1a
+	db DECO_BIG_RONFLEX_DOLL ; 1a
 	db DECO_BIG_ONIX_DOLL ; 1b
 	db DECO_BIG_LOKHLASS_DOLL ; 1c
 	db -1

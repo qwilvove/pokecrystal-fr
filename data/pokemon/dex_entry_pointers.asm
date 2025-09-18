@@ -143,7 +143,7 @@ PokedexDataPointerTable:
 	dw KabutoPokedexEntry
 	dw KabutopsPokedexEntry
 	dw PteraPokedexEntry
-	dw SnorlaxPokedexEntry
+	dw RonflexPokedexEntry
 	dw ArtikodinPokedexEntry
 	dw ElecthorPokedexEntry
 	dw MoltresPokedexEntry

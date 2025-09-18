@@ -1,8 +1,8 @@
 IrwinRumorScript:
 	checkevent EVENT_OPENED_MT_SILVER
 	iftrue .MtSilver
-	checkevent EVENT_FOUGHT_SNORLAX
-	iftrue .Snorlax
+	checkevent EVENT_FOUGHT_RONFLEX
+	iftrue .Ronflex
 	checkevent EVENT_GOT_PASS_FROM_COPYCAT
 	iftrue .TrainPass
 	checkflag ENGINE_MARSHBADGE
@@ -67,8 +67,8 @@ IrwinRumorScript:
 	promptbutton
 	sjump PhoneScript_HangUpText_Male
 
-.Snorlax:
-	farwritetext IrwinSnorlaxGossipText
+.Ronflex:
+	farwritetext IrwinRonflexGossipText
 	promptbutton
 	sjump PhoneScript_HangUpText_Male
 

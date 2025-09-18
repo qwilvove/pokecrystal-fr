@@ -144,7 +144,7 @@ KantoMonSpecials:
 	db  45 ; KABUTO
 	db  70 ; KABUTOPS
 	db  60 ; PTERA
-	db  65 ; SNORLAX
+	db  65 ; RONFLEX
 	db 125 ; ARTIKODIN
 	db 125 ; ELECTHOR
 	db 125 ; MOLTRES

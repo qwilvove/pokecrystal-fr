@@ -144,7 +144,7 @@ EvosAttacksPointers::
 	dw KabutoEvosAttacks
 	dw KabutopsEvosAttacks
 	dw PteraEvosAttacks
-	dw SnorlaxEvosAttacks
+	dw RonflexEvosAttacks
 	dw ArtikodinEvosAttacks
 	dw ElecthorEvosAttacks
 	dw MoltresEvosAttacks

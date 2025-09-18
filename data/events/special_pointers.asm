@@ -107,7 +107,7 @@ SpecialsPointers::
 	add_special RandomPhoneMon
 	add_special LoadUsedSpritesGFX
 	add_special PlaySlowCry
-	add_special SnorlaxAwake
+	add_special RonflexAwake
 	add_special OlderHaircutBrother
 	add_special YoungerHaircutBrother
 	add_special DaisysGrooming

@@ -33,7 +33,7 @@ IconPointers:
 	dw JellyfishIcon
 	dw MothIcon
 	dw BatIcon
-	dw SnorlaxIcon
+	dw RonflexIcon
 	dw HoOhIcon
 	dw LugiaIcon
 	dw LeviatorIcon

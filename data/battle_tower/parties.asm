@@ -394,7 +394,7 @@ BattleTowerMons:
 	bigdw 39 ; SDef
 	dname "HAPINASU", MON_NAME_LENGTH
 
-	db SNORLAX
+	db RONFLEX
 	db MIRACLEBERRY
 	db HEADBUTT, PROTECT, SNORE, SURF
 	dw 0 ; OT ID
@@ -1703,7 +1703,7 @@ BattleTowerMons:
 	bigdw 115 ; SDef
 	dname "KINGUDORA", MON_NAME_LENGTH
 
-	db SNORLAX
+	db RONFLEX
 	db QUICK_CLAW
 	db ATTRACT, BODY_SLAM, PSYCH_UP, EARTHQUAKE
 	dw 0 ; OT ID
@@ -2278,7 +2278,7 @@ BattleTowerMons:
 	bigdw 279 ; SDef
 	dname "TUBOTUBO", MON_NAME_LENGTH
 
-	db SNORLAX
+	db RONFLEX
 	db LEFTOVERS
 	db HYPER_BEAM, EARTHQUAKE, SURF, PSYCH_UP
 	dw 0 ; OT ID
@@ -3087,7 +3087,7 @@ BattleTowerMons:
 	bigdw 215 ; SDef
 	dname "HAPINASU", MON_NAME_LENGTH
 
-	db SNORLAX
+	db RONFLEX
 	db PINK_BOW
 	db ROCK_SLIDE, SURF, BODY_SLAM, EARTHQUAKE
 	dw 0 ; OT ID
@@ -3402,7 +3402,7 @@ BattleTowerMons:
 	bigdw 250 ; SDef
 	dname "HAPINASU", MON_NAME_LENGTH
 
-	db SNORLAX
+	db RONFLEX
 	db LEFTOVERS
 	db ROCK_SLIDE, EARTHQUAKE, BLIZZARD, SHADOW_BALL
 	dw 0 ; OT ID
@@ -3873,7 +3873,7 @@ BattleTowerMons:
 	bigdw 221 ; SDef
 	dname "SANDA-SU", MON_NAME_LENGTH
 
-	db SNORLAX
+	db RONFLEX
 	db LEFTOVERS
 	db REST, BELLY_DRUM, SNORE, EARTHQUAKE
 	dw 0 ; OT ID
@@ -4682,7 +4682,7 @@ BattleTowerMons:
 	bigdw 230 ; SDef
 	dname "KAIRIKI-", MON_NAME_LENGTH
 
-	db SNORLAX
+	db RONFLEX
 	db MIRACLEBERRY
 	db FIRE_BLAST, SURF, EARTHQUAKE, HYPER_BEAM
 	dw 0 ; OT ID

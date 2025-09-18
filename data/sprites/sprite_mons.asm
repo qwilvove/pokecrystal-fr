@@ -32,7 +32,7 @@ SpriteMons:
 	db LOKHLASS
 	db RHINOFEROS
 	db MOLTRES
-	db SNORLAX
+	db RONFLEX
 	db LEVIATOR
 	db LUGIA
 	db HO_OH

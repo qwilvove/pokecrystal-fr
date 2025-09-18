@@ -1931,7 +1931,7 @@ PteraEvosAttacks:
 	db 50, HYPER_BEAM
 	db 0 ; no more level-up moves
 
-SnorlaxEvosAttacks:
+RonflexEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 8, AMNESIA

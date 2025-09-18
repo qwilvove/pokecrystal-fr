@@ -180,7 +180,7 @@ DEF NUM_SPRITEMOVEDATA EQU const_value
 	const SPRITEMOVEFN_FOLLOWNOTEXACT        ; 12
 	const SPRITEMOVEFN_SHADOW                ; 13
 	const SPRITEMOVEFN_EMOTE                 ; 14
-	const SPRITEMOVEFN_BIG_SNORLAX           ; 15
+	const SPRITEMOVEFN_BIG_RONFLEX           ; 15
 	const SPRITEMOVEFN_BOUNCE                ; 16
 	const SPRITEMOVEFN_SCREENSHAKE           ; 17
 	const SPRITEMOVEFN_SPIN_CLOCKWISE        ; 18

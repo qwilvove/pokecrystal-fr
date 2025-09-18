@@ -142,7 +142,7 @@ AnimationIdlePointers:
 	dw KabutoAnimationIdle
 	dw KabutopsAnimationIdle
 	dw PteraAnimationIdle
-	dw SnorlaxAnimationIdle
+	dw RonflexAnimationIdle
 	dw ArtikodinAnimationIdle
 	dw ElecthorAnimationIdle
 	dw MoltresAnimationIdle

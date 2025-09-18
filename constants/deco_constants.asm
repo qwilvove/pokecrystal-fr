@@ -107,7 +107,7 @@ DEF NUM_DECO_ACTIONS EQU const_value - 1
 	const DECOFLAG_RACAILLOU_DOLL
 	const DECOFLAG_MACHOC_DOLL
 	const DECOFLAG_TENTACOOL_DOLL
-	const DECOFLAG_BIG_SNORLAX_DOLL
+	const DECOFLAG_BIG_RONFLEX_DOLL
 	const DECOFLAG_BIG_ONIX_DOLL
 	const DECOFLAG_BIG_LOKHLASS_DOLL
 DEF NUM_NON_TROPHY_DECOS EQU const_value
@@ -149,7 +149,7 @@ DEF NUM_DECOS EQU const_value
 	const DECO_VIRTUAL_BOY
 ; FindOwnedBigDolls.big_dolls values (see engine/overworld/decorations.asm)
 	const BIG_DOLLS
-	const DECO_BIG_SNORLAX_DOLL
+	const DECO_BIG_RONFLEX_DOLL
 	const DECO_BIG_ONIX_DOLL
 	const DECO_BIG_LOKHLASS_DOLL
 ; FindOwnedOrnaments.ornaments values (see engine/overworld/decorations.asm)

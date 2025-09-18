@@ -145,7 +145,7 @@ PokemonPicPointers::
 	dba_pics KabutoFrontpic, KabutoBackpic
 	dba_pics KabutopsFrontpic, KabutopsBackpic
 	dba_pics PteraFrontpic, PteraBackpic
-	dba_pics SnorlaxFrontpic, SnorlaxBackpic
+	dba_pics RonflexFrontpic, RonflexBackpic
 	dba_pics ArtikodinFrontpic, ArtikodinBackpic
 	dba_pics ElecthorFrontpic, ElecthorBackpic
 	dba_pics MoltresFrontpic, MoltresBackpic

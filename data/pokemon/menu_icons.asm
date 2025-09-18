@@ -144,7 +144,7 @@ MonMenuIcons:
 	db ICON_SHELL       ; KABUTO
 	db ICON_SHELL       ; KABUTOPS
 	db ICON_BIRD        ; PTERA
-	db ICON_SNORLAX     ; SNORLAX
+	db ICON_RONFLEX     ; RONFLEX
 	db ICON_BIRD        ; ARTIKODIN
 	db ICON_BIRD        ; ELECTHOR
 	db ICON_BIRD        ; MOLTRES

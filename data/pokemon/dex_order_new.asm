@@ -226,7 +226,7 @@ NewPokedexOrder:
 	db KABUTO
 	db KABUTOPS
 	db PTERA
-	db SNORLAX
+	db RONFLEX
 	db BULBIZARRE
 	db HERBIZARRE
 	db FLORIZARRE

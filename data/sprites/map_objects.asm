@@ -171,7 +171,7 @@ SpriteMovementData::
 	db 0 ; palette flags
 
 ; SPRITEMOVEDATA_BIGDOLLSYM
-	db SPRITEMOVEFN_BIG_SNORLAX ; movement function
+	db SPRITEMOVEFN_BIG_RONFLEX ; movement function
 	db DOWN ; facing
 	db OBJECT_ACTION_BIG_DOLL_SYM ; action
 	db WONT_DELETE | FIXED_FACING | SLIDING | MOVE_ANYWHERE ; flags1

@@ -142,7 +142,7 @@ EggMovePointers::
 	dw KabutoEggMoves
 	dw NoEggMoves
 	dw PteraEggMoves
-	dw SnorlaxEggMoves
+	dw RonflexEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

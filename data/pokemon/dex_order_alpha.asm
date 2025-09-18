@@ -204,7 +204,7 @@ AlphabeticalPokedexOrder:
 	db RHINOFEROS
 	db ROIGADA
 	db RONDOUDOU
-	db SNORLAX
+	db RONFLEX
 	db PIDGEOT
 	db PIDGEY
 	db PIDGEOTTO

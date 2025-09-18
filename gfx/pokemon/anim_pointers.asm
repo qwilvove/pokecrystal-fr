@@ -142,7 +142,7 @@ AnimationPointers:
 	dw KabutoAnimation
 	dw KabutopsAnimation
 	dw PteraAnimation
-	dw SnorlaxAnimation
+	dw RonflexAnimation
 	dw ArtikodinAnimation
 	dw ElecthorAnimation
 	dw MoltresAnimation

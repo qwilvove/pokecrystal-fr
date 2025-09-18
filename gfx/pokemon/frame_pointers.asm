@@ -142,7 +142,7 @@ FramesPointers:
 	dw KabutoFrames
 	dw KabutopsFrames
 	dw PteraFrames
-	dw SnorlaxFrames
+	dw RonflexFrames
 	dw ArtikodinFrames
 	dw ElecthorFrames
 	dw MoltresFrames

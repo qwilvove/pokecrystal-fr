@@ -161,7 +161,7 @@
 	const KABUTO     ; 8c
 	const KABUTOPS   ; 8d
 	const PTERA ; 8e
-	const SNORLAX    ; 8f
+	const RONFLEX    ; 8f
 	const ARTIKODIN   ; 90
 	const ELECTHOR     ; 91
 	const MOLTRES    ; 92

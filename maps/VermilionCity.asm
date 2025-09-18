@@ -3,7 +3,7 @@
 	const VERMILIONCITY_GRAMPS
 	const VERMILIONCITY_MACHOC
 	const VERMILIONCITY_SUPER_NERD
-	const VERMILIONCITY_BIG_SNORLAX
+	const VERMILIONCITY_BIG_RONFLEX
 	const VERMILIONCITY_POKEFAN_M
 
 VermilionCity_MapScripts:
@@ -38,25 +38,25 @@ VermilionMachoc:
 VermilionCitySuperNerdScript:
 	jumptextfaceplayer VermilionCitySuperNerdText
 
-VermilionSnorlax:
+VermilionRonflex:
 	opentext
-	special SnorlaxAwake
+	special RonflexAwake
 	iftrue .Awake
-	writetext VermilionCitySnorlaxSleepingText
+	writetext VermilionCityRonflexSleepingText
 	waitbutton
 	closetext
 	end
 
 .Awake:
-	writetext VermilionCityRadioNearSnorlaxText
+	writetext VermilionCityRadioNearRonflexText
 	pause 15
-	cry SNORLAX
+	cry RONFLEX
 	closetext
 	loadvar VAR_BATTLETYPE, BATTLETYPE_FORCEITEM
-	loadwildmon SNORLAX, 50
+	loadwildmon RONFLEX, 50
 	startbattle
-	disappear VERMILIONCITY_BIG_SNORLAX
-	setevent EVENT_FOUGHT_SNORLAX
+	disappear VERMILIONCITY_BIG_RONFLEX
+	setevent EVENT_FOUGHT_RONFLEX
 	reloadmapafterbattle
 	end
 
@@ -165,12 +165,12 @@ VermilionCitySuperNerdText:
 	cont "MON de CARMIN."
 	done
 
-VermilionCitySnorlaxSleepingText:
+VermilionCityRonflexSleepingText:
 	text "RONFLEX ronfle"
 	line "paisiblement..."
 	done
 
-VermilionCityRadioNearSnorlaxText:
+VermilionCityRadioNearRonflexText:
 	text "Le #MATOS est"
 	line "placé près de"
 	cont "l'oreille du"
@@ -306,5 +306,5 @@ VermilionCity_MapEvents:
 	object_event 23,  6, SPRITE_GRAMPS, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, VermilionMachocOwner, -1
 	object_event 26,  7, SPRITE_MACHOC, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, VermilionMachoc, -1
 	object_event 14, 16, SPRITE_SUPER_NERD, SPRITEMOVEDATA_WANDER, 1, 1, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, VermilionCitySuperNerdScript, -1
-	object_event 34,  8, SPRITE_BIG_SNORLAX, SPRITEMOVEDATA_BIGDOLLSYM, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, VermilionSnorlax, EVENT_VERMILION_CITY_SNORLAX
+	object_event 34,  8, SPRITE_BIG_RONFLEX, SPRITEMOVEDATA_BIGDOLLSYM, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, VermilionRonflex, EVENT_VERMILION_CITY_RONFLEX
 	object_event 31, 12, SPRITE_POKEFAN_M, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_SCRIPT, 0, VermilionGymBadgeGuy, -1

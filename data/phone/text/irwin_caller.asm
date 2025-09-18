@@ -137,7 +137,7 @@ IrwinTrainPassGossipText:
 	line "VOLER?"
 	done
 
-IrwinSnorlaxGossipText:
+IrwinRonflexGossipText:
 	text "Bah dis donc!"
 
 	para "Tu as réveillé"

@@ -148,7 +148,7 @@ PokemonCries::
 	mon_cry CRY_CHENIPAN,    187,  192 ; KABUTO
 	mon_cry CRY_RAPASDEPIC,      238,  129 ; KABUTOPS
 	mon_cry CRY_RAFFLESIA,    32,  368 ; PTERA
-	mon_cry CRY_GRIMER,       85,  129 ; SNORLAX
+	mon_cry CRY_GRIMER,       85,  129 ; RONFLEX
 	mon_cry CRY_RAICHU,      128,  192 ; ARTIKODIN
 	mon_cry CRY_RAPASDEPIC,      255,  256 ; ELECTHOR
 	mon_cry CRY_RAICHU,      248,  192 ; MOLTRES

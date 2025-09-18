@@ -15,15 +15,15 @@ VermilionPokecenter1FNurseScript:
 VermilionPokecenter1FFishingGuruScript:
 	faceplayer
 	opentext
-	checkevent EVENT_FOUGHT_SNORLAX
-	iftrue .FoughtSnorlax
+	checkevent EVENT_FOUGHT_RONFLEX
+	iftrue .FoughtRonflex
 	writetext VermilionPokecenter1FFishingGuruText
 	waitbutton
 	closetext
 	end
 
-.FoughtSnorlax:
-	writetext VermilionPokecenter1FFishingGuruText_FoughtSnorlax
+.FoughtRonflex:
+	writetext VermilionPokecenter1FFishingGuruText_FoughtRonflex
 	waitbutton
 	closetext
 	end
@@ -44,7 +44,7 @@ VermilionPokecenter1FFishingGuruText:
 	cont "ment le réveiller?"
 	done
 
-VermilionPokecenter1FFishingGuruText_FoughtSnorlax:
+VermilionPokecenter1FFishingGuruText_FoughtRonflex:
 	text "Il y avait un"
 	line "#MON endormi"
 
