@@ -17,7 +17,7 @@ Pokered_MonIndices:
 	db NIDORAN_F
 	db NIDOQUEEN
 	db OSSELAIT
-	db RHYHORN
+	db RHINOCORNE
 	db LOKHLASS
 	db ARCANIN
 	db MEW

@@ -1502,7 +1502,7 @@ WeezingEvosAttacks:
 	db 51, DESTINY_BOND
 	db 0 ; no more level-up moves
 
-RhyhornEvosAttacks:
+RhinocorneEvosAttacks:
 	db EVOLVE_LEVEL, 42, RHYDON
 	db 0 ; no more evolutions
 	db 1, HORN_ATTACK

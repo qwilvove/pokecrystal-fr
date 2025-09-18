@@ -111,7 +111,7 @@ PokedexDataPointerTable:
 	dw ExcelanguePokedexEntry
 	dw KoffingPokedexEntry
 	dw WeezingPokedexEntry
-	dw RhyhornPokedexEntry
+	dw RhinocornePokedexEntry
 	dw RhydonPokedexEntry
 	dw LeveinardPokedexEntry
 	dw TangelaPokedexEntry

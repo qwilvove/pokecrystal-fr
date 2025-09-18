@@ -110,7 +110,7 @@ BitmasksPointers:
 	dw ExcelangueBitmasks
 	dw KoffingBitmasks
 	dw WeezingBitmasks
-	dw RhyhornBitmasks
+	dw RhinocorneBitmasks
 	dw RhydonBitmasks
 	dw LeveinardBitmasks
 	dw TangelaBitmasks

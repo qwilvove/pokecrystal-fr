@@ -110,7 +110,7 @@ FramesPointers:
 	dw ExcelangueFrames
 	dw KoffingFrames
 	dw WeezingFrames
-	dw RhyhornFrames
+	dw RhinocorneFrames
 	dw RhydonFrames
 	dw LeveinardFrames
 	dw TangelaFrames

@@ -330,7 +330,7 @@ KoffingEggMoves:
 	db PAIN_SPLIT
 	db -1 ; end
 
-RhyhornEggMoves:
+RhinocorneEggMoves:
 	db CRUNCH
 	db REVERSAL
 	db ROCK_SLIDE

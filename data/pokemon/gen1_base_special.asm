@@ -112,7 +112,7 @@ KantoMonSpecials:
 	db  60 ; EXCELANGUE
 	db  60 ; KOFFING
 	db  85 ; WEEZING
-	db  30 ; RHYHORN
+	db  30 ; RHINOCORNE
 	db  45 ; RHYDON
 	db 105 ; LEVEINARD
 	db 100 ; TANGELA

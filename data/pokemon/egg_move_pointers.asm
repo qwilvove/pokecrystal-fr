@@ -110,7 +110,7 @@ EggMovePointers::
 	dw ExcelangueEggMoves
 	dw KoffingEggMoves
 	dw NoEggMoves
-	dw RhyhornEggMoves
+	dw RhinocorneEggMoves
 	dw NoEggMoves
 	dw LeveinardEggMoves
 	dw TangelaEggMoves

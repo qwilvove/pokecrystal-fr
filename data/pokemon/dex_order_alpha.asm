@@ -200,7 +200,7 @@ AlphabeticalPokedexOrder:
 	db RATTATAC
 	db REMORAID
 	db REPTINCEL
-	db RHYHORN
+	db RHINOCORNE
 	db RHYDON
 	db SLOWKING
 	db JIGGLYPUFF

@@ -113,7 +113,7 @@ PokemonPicPointers::
 	dba_pics ExcelangueFrontpic, ExcelangueBackpic
 	dba_pics KoffingFrontpic, KoffingBackpic
 	dba_pics WeezingFrontpic, WeezingBackpic
-	dba_pics RhyhornFrontpic, RhyhornBackpic
+	dba_pics RhinocorneFrontpic, RhinocorneBackpic
 	dba_pics RhydonFrontpic, RhydonBackpic
 	dba_pics LeveinardFrontpic, LeveinardBackpic
 	dba_pics TangelaFrontpic, TangelaBackpic

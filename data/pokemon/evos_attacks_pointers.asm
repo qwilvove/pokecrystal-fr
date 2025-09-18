@@ -112,7 +112,7 @@ EvosAttacksPointers::
 	dw ExcelangueEvosAttacks
 	dw KoffingEvosAttacks
 	dw WeezingEvosAttacks
-	dw RhyhornEvosAttacks
+	dw RhinocorneEvosAttacks
 	dw RhydonEvosAttacks
 	dw LeveinardEvosAttacks
 	dw TangelaEvosAttacks

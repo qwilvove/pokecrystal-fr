@@ -110,7 +110,7 @@ AnimationPointers:
 	dw ExcelangueAnimation
 	dw KoffingAnimation
 	dw WeezingAnimation
-	dw RhyhornAnimation
+	dw RhinocorneAnimation
 	dw RhydonAnimation
 	dw LeveinardAnimation
 	dw TangelaAnimation

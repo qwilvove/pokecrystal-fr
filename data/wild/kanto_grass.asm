@@ -118,7 +118,7 @@ KantoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 34, GRAVALANCH
-	db 32, RHYHORN
+	db 32, RHINOCORNE
 	db 33, ONIX
 	db 34, NOSFERALTO
 	db 35, SANDSLASH
@@ -126,7 +126,7 @@ KantoGrassWildMons:
 	db 35, RHYDON
 	; day
 	db 34, GRAVALANCH
-	db 32, RHYHORN
+	db 32, RHINOCORNE
 	db 33, ONIX
 	db 34, NOSFERALTO
 	db 35, SANDSLASH

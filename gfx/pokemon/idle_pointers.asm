@@ -110,7 +110,7 @@ AnimationIdlePointers:
 	dw ExcelangueAnimationIdle
 	dw KoffingAnimationIdle
 	dw WeezingAnimationIdle
-	dw RhyhornAnimationIdle
+	dw RhinocorneAnimationIdle
 	dw RhydonAnimationIdle
 	dw LeveinardAnimationIdle
 	dw TangelaAnimationIdle

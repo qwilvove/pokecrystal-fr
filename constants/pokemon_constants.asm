@@ -129,7 +129,7 @@
 	const EXCELANGUE  ; 6c
 	const KOFFING    ; 6d
 	const WEEZING    ; 6e
-	const RHYHORN    ; 6f
+	const RHINOCORNE    ; 6f
 	const RHYDON     ; 70
 	const LEVEINARD    ; 71
 	const TANGELA    ; 72
