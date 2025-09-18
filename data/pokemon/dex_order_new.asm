@@ -19,7 +19,7 @@ NewPokedexOrder:
 	db HOOTHOOT
 	db NOARFANG
 	db RATTATA
-	db RATICATE
+	db RATTATAC
 	db FOUINETTE
 	db FOUINAR
 	db PICHU

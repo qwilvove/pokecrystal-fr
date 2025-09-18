@@ -20,7 +20,7 @@ PokedexDataPointerTable:
 	dw PidgeottoPokedexEntry
 	dw PidgeotPokedexEntry
 	dw RattataPokedexEntry
-	dw RaticatePokedexEntry
+	dw RattatacPokedexEntry
 	dw PiafabecPokedexEntry
 	dw RapasdepicPokedexEntry
 	dw AboPokedexEntry

@@ -197,7 +197,7 @@ AlphabeticalPokedexOrder:
 	db RAMOLOSS
 	db RAPASDEPIC
 	db RATTATA
-	db RATICATE
+	db RATTATAC
 	db REMORAID
 	db CHARMELEON
 	db RHYHORN

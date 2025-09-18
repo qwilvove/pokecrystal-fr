@@ -21,7 +21,7 @@ KantoMonSpecials:
 	db  50 ; PIDGEOTTO
 	db  70 ; PIDGEOT
 	db  25 ; RATTATA
-	db  50 ; RATICATE
+	db  50 ; RATTATAC
 	db  31 ; PIAFABEC
 	db  61 ; RAPASDEPIC
 	db  40 ; ABO

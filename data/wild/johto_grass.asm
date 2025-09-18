@@ -290,24 +290,24 @@ JohtoGrassWildMons:
 	db 15, RATTATA
 	db 14, NOSFERAPTI
 	db 15, RATTATA
-	db 15, RATICATE
-	db 15, RATICATE
+	db 15, RATTATAC
+	db 15, RATTATAC
 	; day
 	db 13, RATTATA
 	db 14, KOFFING
 	db 15, RATTATA
 	db 14, NOSFERAPTI
 	db 15, RATTATA
-	db 15, RATICATE
-	db 15, RATICATE
+	db 15, RATTATAC
+	db 15, RATTATAC
 	; nite
 	db 13, RATTATA
 	db 14, KOFFING
 	db 15, RATTATA
 	db 14, NOSFERAPTI
 	db 15, RATTATA
-	db 15, RATICATE
-	db 15, RATICATE
+	db 15, RATTATAC
+	db 15, RATTATAC
 	end_grass_wildmons
 
 	def_grass_wildmons BURNED_TOWER_B1F
@@ -484,7 +484,7 @@ JohtoGrassWildMons:
 	db 22, NOSFERAPTI
 	db 22, NOSFERALTO
 	db 22, NOSFERAPTI
-	db 21, RATICATE
+	db 21, RATTATAC
 	db 20, RACAILLOU
 	db 23, ONIX
 	db 23, ONIX
@@ -492,7 +492,7 @@ JohtoGrassWildMons:
 	db 22, NOSFERAPTI
 	db 22, NOSFERALTO
 	db 22, NOSFERAPTI
-	db 21, RATICATE
+	db 21, RATTATAC
 	db 20, RACAILLOU
 	db 23, ONIX
 	db 23, ONIX
@@ -500,7 +500,7 @@ JohtoGrassWildMons:
 	db 22, NOSFERAPTI
 	db 22, NOSFERALTO
 	db 22, MARAISTE
-	db 21, RATICATE
+	db 21, RATTATAC
 	db 20, RACAILLOU
 	db 23, ONIX
 	db 23, ONIX
@@ -598,24 +598,24 @@ JohtoGrassWildMons:
 	db 14, MACHOC
 	db 13, NOSFERALTO
 	db 14, RACAILLOU
-	db 16, RATICATE
-	db 16, RATICATE
+	db 16, RATTATAC
+	db 16, RATTATAC
 	; day
 	db 14, RATTATA
 	db 13, NOSFERAPTI
 	db 14, MACHOC
 	db 13, NOSFERALTO
 	db 14, RACAILLOU
-	db 16, RATICATE
-	db 16, RATICATE
+	db 16, RATTATAC
+	db 16, RATTATAC
 	; nite
 	db 14, RATTATA
 	db 13, NOSFERAPTI
 	db 14, MARILL
 	db 13, NOSFERALTO
 	db 14, RACAILLOU
-	db 16, RATICATE
-	db 16, RATICATE
+	db 16, RATTATAC
+	db 16, RATTATAC
 	end_grass_wildmons
 
 	def_grass_wildmons MOUNT_MORTAR_1F_INSIDE
@@ -624,7 +624,7 @@ JohtoGrassWildMons:
 	db 13, RACAILLOU
 	db 14, RATTATA
 	db 15, MACHOC
-	db 14, RATICATE
+	db 14, RATTATAC
 	db 15, NOSFERAPTI
 	db 15, NOSFERALTO
 	db 15, NOSFERALTO
@@ -632,14 +632,14 @@ JohtoGrassWildMons:
 	db 13, RACAILLOU
 	db 14, RATTATA
 	db 15, MACHOC
-	db 14, RATICATE
+	db 14, RATTATAC
 	db 15, NOSFERAPTI
 	db 15, NOSFERALTO
 	db 15, NOSFERALTO
 	; nite
 	db 13, RACAILLOU
 	db 14, RATTATA
-	db 15, RATICATE
+	db 15, RATTATAC
 	db 14, NOSFERAPTI
 	db 15, MARILL
 	db 15, NOSFERALTO
@@ -652,7 +652,7 @@ JohtoGrassWildMons:
 	db 31, GRAVALANCH
 	db 32, MACHOPEUR
 	db 31, RACAILLOU
-	db 30, RATICATE
+	db 30, RATTATAC
 	db 28, MACHOC
 	db 30, NOSFERALTO
 	db 30, NOSFERALTO
@@ -660,14 +660,14 @@ JohtoGrassWildMons:
 	db 31, GRAVALANCH
 	db 32, MACHOPEUR
 	db 31, RACAILLOU
-	db 30, RATICATE
+	db 30, RATTATAC
 	db 28, MACHOC
 	db 30, NOSFERALTO
 	db 30, NOSFERALTO
 	; nite
 	db 31, GRAVALANCH
 	db 31, RACAILLOU
-	db 30, RATICATE
+	db 30, RATTATAC
 	db 30, NOSFERALTO
 	db 28, MARILL
 	db 32, NOSFERALTO
@@ -682,24 +682,24 @@ JohtoGrassWildMons:
 	db 17, NOSFERALTO
 	db 16, MACHOC
 	db 16, RACAILLOU
-	db 18, RATICATE
-	db 18, RATICATE
+	db 18, RATTATAC
+	db 18, RATTATAC
 	; day
 	db 15, NOSFERAPTI
 	db 17, NOSFERAPTI
 	db 17, NOSFERALTO
 	db 16, MACHOC
 	db 16, RACAILLOU
-	db 18, RATICATE
-	db 18, RATICATE
+	db 18, RATTATAC
+	db 18, RATTATAC
 	; nite
 	db 15, NOSFERAPTI
 	db 17, NOSFERAPTI
 	db 17, NOSFERALTO
 	db 16, MARILL
 	db 16, RACAILLOU
-	db 18, RATICATE
-	db 18, RATICATE
+	db 18, RATTATAC
+	db 18, RATTATAC
 	end_grass_wildmons
 
 	def_grass_wildmons ICE_PATH_1F
@@ -1490,7 +1490,7 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 16, RATTATA
-	db 16, RATICATE
+	db 16, RATTATAC
 	db 16, MAGNETI
 	db 16, PIDGEOTTO
 	db 13, TAUROS
@@ -1498,7 +1498,7 @@ JohtoGrassWildMons:
 	db 13, ECREMEUH
 	; day
 	db 16, RATTATA
-	db 16, RATICATE
+	db 16, RATTATAC
 	db 16, MAGNETI
 	db 16, PIDGEOTTO
 	db 13, TAUROS
@@ -1506,7 +1506,7 @@ JohtoGrassWildMons:
 	db 13, ECREMEUH
 	; nite
 	db 16, MIAOUSS
-	db 16, RATICATE
+	db 16, RATTATAC
 	db 16, MAGNETI
 	db 16, NOARFANG
 	db 16, MIAOUSS
@@ -1518,7 +1518,7 @@ JohtoGrassWildMons:
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	db 16, RATTATA
-	db 16, RATICATE
+	db 16, RATTATAC
 	db 16, MAGNETI
 	db 16, PIDGEOTTO
 	db 15, ECREMEUH
@@ -1526,7 +1526,7 @@ JohtoGrassWildMons:
 	db 15, TAUROS
 	; day
 	db 16, RATTATA
-	db 16, RATICATE
+	db 16, RATTATAC
 	db 16, MAGNETI
 	db 16, PIDGEOTTO
 	db 15, ECREMEUH
@@ -1534,7 +1534,7 @@ JohtoGrassWildMons:
 	db 15, TAUROS
 	; nite
 	db 16, MIAOUSS
-	db 16, RATICATE
+	db 16, RATTATAC
 	db 16, MAGNETI
 	db 16, NOARFANG
 	db 18, MIAOUSS
@@ -1548,7 +1548,7 @@ JohtoGrassWildMons:
 	db 13, ABO
 	db 14, PIAFABEC
 	db 15, RATTATA
-	db 16, RATICATE
+	db 16, RATTATAC
 	db 15, ARBOK
 	db 16, RAPASDEPIC
 	db 16, RAPASDEPIC
@@ -1556,14 +1556,14 @@ JohtoGrassWildMons:
 	db 13, ABO
 	db 14, PIAFABEC
 	db 15, RATTATA
-	db 16, RATICATE
+	db 16, RATTATAC
 	db 15, ARBOK
 	db 16, RAPASDEPIC
 	db 16, RAPASDEPIC
 	; nite
 	db 13, RATTATA
 	db 14, NOSFERAPTI
-	db 15, RATICATE
+	db 15, RATTATAC
 	db 16, NOSFERALTO
 	db 15, MARILL
 	db 16, NOSFERALTO
@@ -1577,7 +1577,7 @@ JohtoGrassWildMons:
 	db 16, PIDGEOTTO
 	db 16, CANARTICHO
 	db 15, FOUINAR
-	db 17, RATICATE
+	db 17, RATTATAC
 	db 17, FOUINAR
 	db 17, FOUINAR
 	; day
@@ -1585,15 +1585,15 @@ JohtoGrassWildMons:
 	db 16, PIDGEOTTO
 	db 16, CANARTICHO
 	db 15, FOUINAR
-	db 17, RATICATE
+	db 17, RATTATAC
 	db 17, FOUINAR
 	db 17, FOUINAR
 	; nite
 	db 15, MIMITOSS
 	db 16, NOARFANG
-	db 16, RATICATE
+	db 16, RATTATAC
 	db 17, MIMITOSS
-	db 17, RATICATE
+	db 17, RATTATAC
 	db 17, AEROMITE
 	db 17, AEROMITE
 	end_grass_wildmons

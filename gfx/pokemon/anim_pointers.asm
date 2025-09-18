@@ -19,7 +19,7 @@ AnimationPointers:
 	dw PidgeottoAnimation
 	dw PidgeotAnimation
 	dw RattataAnimation
-	dw RaticateAnimation
+	dw RattatacAnimation
 	dw PiafabecAnimation
 	dw RapasdepicAnimation
 	dw AboAnimation

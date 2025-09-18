@@ -19,7 +19,7 @@ FramesPointers:
 	dw PidgeottoFrames
 	dw PidgeotFrames
 	dw RattataFrames
-	dw RaticateFrames
+	dw RattatacFrames
 	dw PiafabecFrames
 	dw RapasdepicFrames
 	dw AboFrames

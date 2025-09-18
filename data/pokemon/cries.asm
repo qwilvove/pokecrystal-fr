@@ -25,7 +25,7 @@ PokemonCries::
 	mon_cry CRY_PIDGEOTTO,    40,  320 ; PIDGEOTTO
 	mon_cry CRY_PIDGEOTTO,    17,  383 ; PIDGEOT
 	mon_cry CRY_RATTATA,       0,  256 ; RATTATA
-	mon_cry CRY_RATTATA,      32,  383 ; RATICATE
+	mon_cry CRY_RATTATA,      32,  383 ; RATTATAC
 	mon_cry CRY_PIAFABEC,       0,  256 ; PIAFABEC
 	mon_cry CRY_RAPASDEPIC,       64,  288 ; RAPASDEPIC
 	mon_cry CRY_ABO,        18,  192 ; ABO

@@ -38,7 +38,7 @@
 	const PIDGEOTTO  ; 11
 	const PIDGEOT    ; 12
 	const RATTATA    ; 13
-	const RATICATE   ; 14
+	const RATTATAC   ; 14
 	const PIAFABEC    ; 15
 	const RAPASDEPIC     ; 16
 	const ABO      ; 17

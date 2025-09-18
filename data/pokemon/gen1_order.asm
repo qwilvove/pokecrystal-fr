@@ -165,7 +165,7 @@ Pokered_MonIndices:
 	db PONYTA
 	db GALOPA
 	db RATTATA
-	db RATICATE
+	db RATTATAC
 	db NIDORINO
 	db NIDORINA
 	db RACAILLOU
