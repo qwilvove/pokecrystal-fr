@@ -2,10 +2,17 @@
 
 This is a disassembly of Pokémon - Version Cristal (France).
 
+This work is based on [pret/pokecrystal](https://github.com/pret/pokecrystal).
+
 It builds the following ROMs:
 
 - Pokemon - Version Cristal (F) [C].gbc `sha1: c055992b16b7399c687647725cdd1f4f13a2f75c`
 - pokecrystal_debug.gbc (debug build) `sha1: b6ad57fe73be7af9f4651799e3149c8ceba1cb8b`
+
+The project features two branches :
+
+- `master` : Minimal changes from pret/pokecrystal to produce the French version of the game.
+- `code-fr` : Based on `master`, produces the same roms but code variables are translated to match French names (e.g., pokemon names).
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
