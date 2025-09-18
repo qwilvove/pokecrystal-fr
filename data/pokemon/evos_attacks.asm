@@ -1503,7 +1503,7 @@ WeezingEvosAttacks:
 	db 0 ; no more level-up moves
 
 RhinocorneEvosAttacks:
-	db EVOLVE_LEVEL, 42, RHYDON
+	db EVOLVE_LEVEL, 42, RHINOFEROS
 	db 0 ; no more evolutions
 	db 1, HORN_ATTACK
 	db 1, TAIL_WHIP
@@ -1515,7 +1515,7 @@ RhinocorneEvosAttacks:
 	db 55, EARTHQUAKE
 	db 0 ; no more level-up moves
 
-RhydonEvosAttacks:
+RhinoferosEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, HORN_ATTACK
 	db 1, TAIL_WHIP

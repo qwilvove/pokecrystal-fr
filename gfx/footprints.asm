@@ -253,7 +253,7 @@ INCBIN "gfx/footprints/excelangue.1bpp",  footprint_top
 INCBIN "gfx/footprints/koffing.1bpp",    footprint_top
 INCBIN "gfx/footprints/weezing.1bpp",    footprint_top
 INCBIN "gfx/footprints/rhinocorne.1bpp",    footprint_top
-INCBIN "gfx/footprints/rhydon.1bpp",     footprint_top
+INCBIN "gfx/footprints/rhinoferos.1bpp",     footprint_top
 ; 105-112 bottom halves
 INCBIN "gfx/footprints/ossatueur.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/kicklee.1bpp",  footprint_bottom
@@ -262,7 +262,7 @@ INCBIN "gfx/footprints/excelangue.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/koffing.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/weezing.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/rhinocorne.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/rhydon.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/rhinoferos.1bpp",     footprint_bottom
 ; 113-120 top halves
 INCBIN "gfx/footprints/leveinard.1bpp",    footprint_top
 INCBIN "gfx/footprints/tangela.1bpp",    footprint_top

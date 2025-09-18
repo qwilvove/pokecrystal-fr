@@ -114,7 +114,7 @@ PokemonPicPointers::
 	dba_pics KoffingFrontpic, KoffingBackpic
 	dba_pics WeezingFrontpic, WeezingBackpic
 	dba_pics RhinocorneFrontpic, RhinocorneBackpic
-	dba_pics RhydonFrontpic, RhydonBackpic
+	dba_pics RhinoferosFrontpic, RhinoferosBackpic
 	dba_pics LeveinardFrontpic, LeveinardBackpic
 	dba_pics TangelaFrontpic, TangelaBackpic
 	dba_pics KangourexFrontpic, KangourexBackpic

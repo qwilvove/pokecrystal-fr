@@ -112,7 +112,7 @@ PokedexDataPointerTable:
 	dw KoffingPokedexEntry
 	dw WeezingPokedexEntry
 	dw RhinocornePokedexEntry
-	dw RhydonPokedexEntry
+	dw RhinoferosPokedexEntry
 	dw LeveinardPokedexEntry
 	dw TangelaPokedexEntry
 	dw KangourexPokedexEntry

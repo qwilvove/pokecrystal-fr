@@ -1,6 +1,6 @@
 Pokered_MonIndices:
 	table_width 1
-	db RHYDON
+	db RHINOFEROS
 	db KANGOUREX
 	db NIDORAN_M
 	db MELOFEE

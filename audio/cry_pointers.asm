@@ -18,7 +18,7 @@ Cries:
 	dba Cry_Pidgey
 	dba Cry_Bulbizarre
 	dba Cry_Piafabec
-	dba Cry_Rhydon
+	dba Cry_Rhinoferos
 	dba Cry_Grolem
 	dba Cry_Blastoise
 	dba Cry_Pidgeotto

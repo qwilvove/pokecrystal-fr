@@ -113,7 +113,7 @@ EvosAttacksPointers::
 	dw KoffingEvosAttacks
 	dw WeezingEvosAttacks
 	dw RhinocorneEvosAttacks
-	dw RhydonEvosAttacks
+	dw RhinoferosEvosAttacks
 	dw LeveinardEvosAttacks
 	dw TangelaEvosAttacks
 	dw KangourexEvosAttacks

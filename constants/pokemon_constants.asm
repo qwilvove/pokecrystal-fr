@@ -130,7 +130,7 @@
 	const KOFFING    ; 6d
 	const WEEZING    ; 6e
 	const RHINOCORNE    ; 6f
-	const RHYDON     ; 70
+	const RHINOFEROS     ; 70
 	const LEVEINARD    ; 71
 	const TANGELA    ; 72
 	const KANGOUREX ; 73

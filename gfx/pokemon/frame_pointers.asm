@@ -111,7 +111,7 @@ FramesPointers:
 	dw KoffingFrames
 	dw WeezingFrames
 	dw RhinocorneFrames
-	dw RhydonFrames
+	dw RhinoferosFrames
 	dw LeveinardFrames
 	dw TangelaFrames
 	dw KangourexFrames

@@ -111,7 +111,7 @@ BitmasksPointers:
 	dw KoffingBitmasks
 	dw WeezingBitmasks
 	dw RhinocorneBitmasks
-	dw RhydonBitmasks
+	dw RhinoferosBitmasks
 	dw LeveinardBitmasks
 	dw TangelaBitmasks
 	dw KangourexBitmasks

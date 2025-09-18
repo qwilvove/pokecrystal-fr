@@ -111,7 +111,7 @@ AnimationPointers:
 	dw KoffingAnimation
 	dw WeezingAnimation
 	dw RhinocorneAnimation
-	dw RhydonAnimation
+	dw RhinoferosAnimation
 	dw LeveinardAnimation
 	dw TangelaAnimation
 	dw KangourexAnimation

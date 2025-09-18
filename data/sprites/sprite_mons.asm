@@ -30,7 +30,7 @@ SpriteMons:
 	db MACHOC
 	db VOLTORB
 	db LOKHLASS
-	db RHYDON
+	db RHINOFEROS
 	db MOLTRES
 	db SNORLAX
 	db LEVIATOR

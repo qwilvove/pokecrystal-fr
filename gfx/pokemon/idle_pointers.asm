@@ -111,7 +111,7 @@ AnimationIdlePointers:
 	dw KoffingAnimationIdle
 	dw WeezingAnimationIdle
 	dw RhinocorneAnimationIdle
-	dw RhydonAnimationIdle
+	dw RhinoferosAnimationIdle
 	dw LeveinardAnimationIdle
 	dw TangelaAnimationIdle
 	dw KangourexAnimationIdle

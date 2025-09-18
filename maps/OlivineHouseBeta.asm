@@ -1,6 +1,6 @@
 	object_const_def
 	const OLIVINEHOUSEBETA_TEACHER
-	const OLIVINEHOUSEBETA_RHYDON
+	const OLIVINEHOUSEBETA_RHINOFEROS
 
 OlivineHouseBeta_MapScripts:
 	def_scene_scripts
@@ -10,10 +10,10 @@ OlivineHouseBeta_MapScripts:
 OlivineHouseBetaTeacherScript:
 	jumptextfaceplayer OlivineHouseBetaTeacherText
 
-OlivineHouseBetaRhydonScript:
+OlivineHouseBetaRhinoferosScript:
 	opentext
-	writetext OlivineHouseBetaRhydonText
-	cry RHYDON
+	writetext OlivineHouseBetaRhinoferosText
+	cry RHINOFEROS
 	waitbutton
 	closetext
 	end
@@ -33,7 +33,7 @@ OlivineHouseBetaTeacherText:
 	cont "des médicaments."
 	done
 
-OlivineHouseBetaRhydonText:
+OlivineHouseBetaRhinoferosText:
 	text "RHINOFEROS: Feros!"
 	done
 
@@ -52,4 +52,4 @@ OlivineHouseBeta_MapEvents:
 
 	def_object_events
 	object_event  2,  3, SPRITE_TEACHER, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, OlivineHouseBetaTeacherScript, -1
-	object_event  6,  4, SPRITE_RHYDON, SPRITEMOVEDATA_WALK_UP_DOWN, 0, 2, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, OlivineHouseBetaRhydonScript, -1
+	object_event  6,  4, SPRITE_RHINOFEROS, SPRITEMOVEDATA_WALK_UP_DOWN, 0, 2, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, OlivineHouseBetaRhinoferosScript, -1
