@@ -200,7 +200,7 @@ MonMenuIcons:
 	db ICON_FOX         ; MENTALI
 	db ICON_FOX         ; NOCTALI
 	db ICON_BIRD        ; CORNEBRE
-	db ICON_RAMOLOSS    ; SLOWKING
+	db ICON_RAMOLOSS    ; ROIGADA
 	db ICON_GHOST       ; FEUFOREVE
 	db ICON_UNOWN       ; UNOWN
 	db ICON_GHOST       ; QULBUTOKE

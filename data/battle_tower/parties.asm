@@ -2382,7 +2382,7 @@ BattleTowerMons:
 	bigdw 124 ; SDef
 	dname "HAtuSAMU", MON_NAME_LENGTH
 
-	db SLOWKING
+	db ROIGADA
 	db MINT_BERRY
 	db REST, SURF, PSYCHIC_M, AMNESIA
 	dw 0 ; OT ID

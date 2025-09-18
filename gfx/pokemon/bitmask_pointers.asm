@@ -198,7 +198,7 @@ BitmasksPointers:
 	dw MentaliBitmasks
 	dw NoctaliBitmasks
 	dw CornebreBitmasks
-	dw SlowkingBitmasks
+	dw RoigadaBitmasks
 	dw FeuforeveBitmasks
 	dw UnownBitmasks
 	dw QulbutokeBitmasks

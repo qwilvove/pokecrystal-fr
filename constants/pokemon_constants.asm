@@ -218,7 +218,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const MENTALI     ; c4
 	const NOCTALI    ; c5
 	const CORNEBRE    ; c6
-	const SLOWKING   ; c7
+	const ROIGADA   ; c7
 	const FEUFOREVE ; c8
 	const UNOWN      ; c9
 	const QULBUTOKE  ; ca

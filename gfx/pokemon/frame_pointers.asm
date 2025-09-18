@@ -198,7 +198,7 @@ FramesPointers:
 	dw MentaliFrames
 	dw NoctaliFrames
 	dw CornebreFrames
-	dw SlowkingFrames
+	dw RoigadaFrames
 	dw FeuforeveFrames
 	dw UnownFrames
 	dw QulbutokeFrames

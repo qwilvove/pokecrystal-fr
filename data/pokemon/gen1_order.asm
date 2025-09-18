@@ -238,7 +238,7 @@ Pokered_MonIndices:
 	db MENTALI
 	db NOCTALI
 	db CORNEBRE
-	db SLOWKING
+	db ROIGADA
 	db FEUFOREVE
 	db UNOWN
 	db QULBUTOKE

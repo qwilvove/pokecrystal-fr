@@ -198,7 +198,7 @@ AnimationPointers:
 	dw MentaliAnimation
 	dw NoctaliAnimation
 	dw CornebreAnimation
-	dw SlowkingAnimation
+	dw RoigadaAnimation
 	dw FeuforeveAnimation
 	dw UnownAnimation
 	dw QulbutokeAnimation

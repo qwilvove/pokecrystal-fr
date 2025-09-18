@@ -198,7 +198,7 @@ AnimationIdlePointers:
 	dw MentaliAnimationIdle
 	dw NoctaliAnimationIdle
 	dw CornebreAnimationIdle
-	dw SlowkingAnimationIdle
+	dw RoigadaAnimationIdle
 	dw FeuforeveAnimationIdle
 	dw UnownAnimationIdle
 	dw QulbutokeAnimationIdle

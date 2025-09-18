@@ -204,19 +204,19 @@ PokemonCries::
 	mon_cry CRY_CAPUMAIN,       162,  320 ; MENTALI
 	mon_cry CRY_MIMITOSS,    -233,  240 ; NOCTALI
 	mon_cry CRY_MARILL,      -31,  384 ; CORNEBRE
-	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
+	mon_cry CRY_ROIGADA,    260,  512 ; ROIGADA
 	mon_cry CRY_HOOTHOOT,    304,  232 ; FEUFOREVE
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
 	mon_cry CRY_PHARAMP,    635,  324 ; QULBUTOKE
 	mon_cry CRY_GIRAFARIG,    65,  512 ; GIRAFARIG
-	mon_cry CRY_SLOWKING,    128,  256 ; POMDEPIK
-	mon_cry CRY_SLOWKING,      0,  384 ; FORETRESS
+	mon_cry CRY_ROIGADA,    128,  256 ; POMDEPIK
+	mon_cry CRY_ROIGADA,      0,  384 ; FORETRESS
 	mon_cry CRY_INSOLOURDO,   452,  256 ; INSOLOURDO
 	mon_cry CRY_GLIGAR,     -258,  256 ; GLIGAR
 	mon_cry CRY_TYPHLOSION,  239,  247 ; STEELIX
 	mon_cry CRY_INSOLOURDO,   274,  232 ; SNUBBULL
 	mon_cry CRY_INSOLOURDO,     0,  384 ; GRANBULL
-	mon_cry CRY_SLOWKING,    352,  224 ; QWILFISH
+	mon_cry CRY_ROIGADA,    352,  224 ; QWILFISH
 	mon_cry CRY_PHARAMP,      0,  352 ; CIZAYOX
 	mon_cry CRY_INSOLOURDO,   656,  168 ; CARATROC
 	mon_cry CRY_PHARAMP,     53,  224 ; HERACROSS
@@ -247,7 +247,7 @@ PokemonCries::
 	mon_cry CRY_HELIATRONC,   -728,  180 ; ELEKID
 	mon_cry CRY_TEDDIURSA,   374,   58 ; MAGBY
 	mon_cry CRY_GLIGAR,     -461,  416 ; ECREMEUH
-	mon_cry CRY_SLOWKING,    659,  320 ; LEUPHORIE
+	mon_cry CRY_ROIGADA,    659,  320 ; LEUPHORIE
 	mon_cry CRY_RAIKOU,      558,  288 ; RAIKOU
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
 	mon_cry CRY_MAGCARGO,      0,  384 ; SUICUNE

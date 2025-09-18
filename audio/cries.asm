@@ -37,11 +37,11 @@ Cry_Fouinette:
 	channel 5, Cry_Fouinette_Ch5
 	channel 6, Cry_Fouinette_Ch6
 
-Cry_Slowking:
+Cry_Roigada:
 	channel_count 3
-	channel 5, Cry_Slowking_Ch5
-	channel 6, Cry_Slowking_Ch6
-	channel 8, Cry_Slowking_Ch8
+	channel 5, Cry_Roigada_Ch5
+	channel 6, Cry_Roigada_Ch6
+	channel 8, Cry_Roigada_Ch8
 
 Cry_Mareep:
 	channel_count 2
@@ -253,7 +253,7 @@ Cry_Insolourdo_Ch8:
 	noise_note 32, 11, 5, 95
 	sound_ret
 
-Cry_Slowking_Ch5:
+Cry_Roigada_Ch5:
 	duty_cycle_pattern 0, 3, 0, 3
 	square_note 2, 15, 1, 1360
 	square_note 2, 15, 1, 1328
@@ -264,7 +264,7 @@ Cry_Slowking_Ch5:
 	square_note 16, 15, 2, 1360
 	sound_ret
 
-Cry_Slowking_Ch6:
+Cry_Roigada_Ch6:
 	duty_cycle_pattern 3, 3, 0, 2
 	square_note 4, 14, 1, 1568
 	square_note 5, 14, 2, 1280
@@ -273,7 +273,7 @@ Cry_Slowking_Ch6:
 	square_note 16, 14, 2, 1280
 	sound_ret
 
-Cry_Slowking_Ch8:
+Cry_Roigada_Ch8:
 	noise_note 2, 8, -2, 93
 	noise_note 2, 9, -2, 76
 	noise_note 5, 9, -2, 93

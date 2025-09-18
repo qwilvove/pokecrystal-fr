@@ -48,7 +48,7 @@ Cries:
 	dba Cry_Togetic
 	dba Cry_Hoothoot
 	dba Cry_Fouinette
-	dba Cry_Slowking
+	dba Cry_Roigada
 	dba Cry_Hericendre
 	dba Cry_Germignon
 	dba Cry_Kaiminus

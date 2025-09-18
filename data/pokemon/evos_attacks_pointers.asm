@@ -200,7 +200,7 @@ EvosAttacksPointers::
 	dw MentaliEvosAttacks
 	dw NoctaliEvosAttacks
 	dw CornebreEvosAttacks
-	dw SlowkingEvosAttacks
+	dw RoigadaEvosAttacks
 	dw FeuforeveEvosAttacks
 	dw UnownEvosAttacks
 	dw QulbutokeEvosAttacks

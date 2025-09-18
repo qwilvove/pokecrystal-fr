@@ -199,7 +199,7 @@ PokedexDataPointerTable:
 	dw MentaliPokedexEntry
 	dw NoctaliPokedexEntry
 	dw CornebrePokedexEntry
-	dw SlowkingPokedexEntry
+	dw RoigadaPokedexEntry
 	dw FeuforevePokedexEntry
 	dw UnownPokedexEntry
 	dw QulbutokePokedexEntry

@@ -83,7 +83,7 @@ NewPokedexOrder:
 	db POISSOROY
 	db RAMOLOSS
 	db FLAGADOSS
-	db SLOWKING
+	db ROIGADA
 	db MYSTHERBE
 	db ORTIDE
 	db RAFFLESIA

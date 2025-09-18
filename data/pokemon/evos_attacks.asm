@@ -1056,7 +1056,7 @@ GalopaEvosAttacks:
 
 RamolossEvosAttacks:
 	db EVOLVE_LEVEL, 37, FLAGADOSS
-	db EVOLVE_TRADE, KINGS_ROCK, SLOWKING
+	db EVOLVE_TRADE, KINGS_ROCK, ROIGADA
 	db 0 ; no more evolutions
 	db 1, CURSE
 	db 1, TACKLE
@@ -2678,7 +2678,7 @@ CornebreEvosAttacks:
 	db 41, MEAN_LOOK
 	db 0 ; no more level-up moves
 
-SlowkingEvosAttacks:
+RoigadaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, CURSE
 	db 1, TACKLE

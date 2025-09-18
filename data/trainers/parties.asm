@@ -3279,7 +3279,7 @@ PokefanMGroup:
 	; POKEFANM (12)
 	db "ALEC@", TRAINERTYPE_ITEM
 	db 29, NIDOKING,   BERRY
-	db 29, SLOWKING,   BERRY
+	db 29, ROIGADA,   BERRY
 	db 29, POISSOROY,    BERRY
 	db -1 ; end
 
