@@ -271,7 +271,7 @@ INCBIN "gfx/footprints/hypotrempe.1bpp",     footprint_top
 INCBIN "gfx/footprints/hypocean.1bpp",     footprint_top
 INCBIN "gfx/footprints/poissirene.1bpp",    footprint_top
 INCBIN "gfx/footprints/poissoroy.1bpp",    footprint_top
-INCBIN "gfx/footprints/staryu.1bpp",     footprint_top
+INCBIN "gfx/footprints/stari.1bpp",     footprint_top
 ; 113-120 bottom halves
 INCBIN "gfx/footprints/leveinard.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/saquedeneu.1bpp",    footprint_bottom
@@ -280,7 +280,7 @@ INCBIN "gfx/footprints/hypotrempe.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/hypocean.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/poissirene.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/poissoroy.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/staryu.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/stari.1bpp",     footprint_bottom
 ; 121-128 top halves
 INCBIN "gfx/footprints/starmie.1bpp",    footprint_top
 INCBIN "gfx/footprints/m__mime.1bpp",   footprint_top

@@ -221,7 +221,7 @@ AlphabeticalPokedexOrder:
 	db SNUBBULL
 	db SOPORIFIK
 	db SPECTRUM
-	db STARYU
+	db STARI
 	db STARMIE
 	db STEELIX
 	db SUICUNE

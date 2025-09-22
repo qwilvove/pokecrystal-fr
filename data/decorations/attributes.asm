@@ -47,7 +47,7 @@ DecorationAttributes:
 	decoration DECO_DOLL,    CARAPUCE,        SET_UP_DOLL,       EVENT_DECO_CARAPUCE_DOLL,           SPRITE_CARAPUCE
 	decoration DECO_DOLL,    PTITARD,         SET_UP_DOLL,       EVENT_DECO_PTITARD_DOLL,            SPRITE_PTITARD
 	decoration DECO_DOLL,    DIGLETT,         SET_UP_DOLL,       EVENT_DECO_DIGLETT_DOLL,            SPRITE_DIGLETT
-	decoration DECO_DOLL,    STARYU,          SET_UP_DOLL,       EVENT_DECO_STARYU_DOLL,             SPRITE_STARMIE
+	decoration DECO_DOLL,    STARI,          SET_UP_DOLL,       EVENT_DECO_STARI_DOLL,             SPRITE_STARMIE
 	decoration DECO_DOLL,    MAGICARPE,        SET_UP_DOLL,       EVENT_DECO_MAGICARPE_DOLL,           SPRITE_MAGICARPE
 	decoration DECO_DOLL,    MYSTHERBE,          SET_UP_DOLL,       EVENT_DECO_MYSTHERBE_DOLL,             SPRITE_MYSTHERBE
 	decoration DECO_DOLL,    ECTOPLASMA,          SET_UP_DOLL,       EVENT_DECO_ECTOPLASMA_DOLL,             SPRITE_ECTOPLASMA

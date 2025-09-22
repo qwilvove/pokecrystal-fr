@@ -138,7 +138,7 @@
 	const HYPOCEAN     ; 75
 	const POISSIRENE    ; 76
 	const POISSOROY    ; 77
-	const STARYU     ; 78
+	const STARI     ; 78
 	const STARMIE    ; 79
 	const M__MIME   ; 7a
 	const INSECATEUR    ; 7b

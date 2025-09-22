@@ -23,8 +23,8 @@ BillsGrandpa:
 	iftrue .ShowedPichu
 	checkevent EVENT_SHOWED_CANINOS_GOUPIX_TO_BILLS_GRANDPA
 	iftrue .ShowedCaninosGoupix
-	checkevent EVENT_SHOWED_STARYU_TO_BILLS_GRANDPA
-	iftrue .ShowedStaryu
+	checkevent EVENT_SHOWED_STARI_TO_BILLS_GRANDPA
+	iftrue .ShowedStari
 	checkevent EVENT_SHOWED_MYSTHERBE_TO_BILLS_GRANDPA
 	iftrue .ShowedMystherbe
 	checkevent EVENT_SHOWED_EXCELANGUE_TO_BILLS_GRANDPA
@@ -57,7 +57,7 @@ BillsGrandpa:
 	sjump .ShowedMystherbe
 
 .GotLeafStone:
-	writetext BillsGrandpaStaryuText
+	writetext BillsGrandpaStariText
 	promptbutton
 	writetext BillsGrandpaAskToSeeMonText
 	yesorno
@@ -65,10 +65,10 @@ BillsGrandpa:
 	scall .ExcitedToSee
 	special BillsGrandfather
 	iffalse .SaidNo
-	ifnotequal STARYU, .WrongPokemon
+	ifnotequal STARI, .WrongPokemon
 	scall .CorrectPokemon
-	setevent EVENT_SHOWED_STARYU_TO_BILLS_GRANDPA
-	sjump .ShowedStaryu
+	setevent EVENT_SHOWED_STARI_TO_BILLS_GRANDPA
+	sjump .ShowedStari
 
 .GotWaterStone:
 	checkver
@@ -136,7 +136,7 @@ BillsGrandpa:
 	closetext
 	end
 
-.ShowedStaryu:
+.ShowedStari:
 	checkevent EVENT_GOT_WATER_STONE_FROM_BILLS_GRANDPA
 	iftrue .GotWaterStone
 	scall .ReceiveItem
@@ -296,7 +296,7 @@ BillsGrandpaMystherbeText:
 	cont "sur sa tête."
 	done
 
-BillsGrandpaStaryuText:
+BillsGrandpaStariText:
 	text "Connais-tu un"
 	line "#MON marin avec"
 

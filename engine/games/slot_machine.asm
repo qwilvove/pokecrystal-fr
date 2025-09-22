@@ -5,7 +5,7 @@
 	const SLOTS_CHERRY   ; $08
 	const SLOTS_PIKACHU  ; $0c
 	const SLOTS_CARAPUCE ; $10
-	const SLOTS_STARYU   ; $14
+	const SLOTS_STARI   ; $14
 DEF NUM_SLOT_REELS EQU const_value / 4 ; 6
 DEF SLOTS_NO_MATCH EQU -1
 
@@ -873,7 +873,7 @@ GetUnknownSlotReelData: ; unreferenced
 	db 2 ; SLOTS_CHERRY
 	db 3 ; SLOTS_PIKACHU
 	db 4 ; SLOTS_CARAPUCE
-	db 5 ; SLOTS_STARYU
+	db 5 ; SLOTS_STARI
 	assert_table_length NUM_SLOT_REELS
 
 ReelActionJumptable:
@@ -1666,7 +1666,7 @@ Slots_InitBias:
 .Normal:
 	db   1 percent - 1, SLOTS_SEVEN
 	db   1 percent + 1, SLOTS_POKEBALL
-	db   4 percent,     SLOTS_STARYU
+	db   4 percent,     SLOTS_STARI
 	db   8 percent,     SLOTS_CARAPUCE
 	db  16 percent,     SLOTS_PIKACHU
 	db  19 percent,     SLOTS_CHERRY
@@ -1675,7 +1675,7 @@ Slots_InitBias:
 .Lucky:
 	db   1 percent,     SLOTS_SEVEN
 	db   1 percent + 1, SLOTS_POKEBALL
-	db   3 percent + 1, SLOTS_STARYU
+	db   3 percent + 1, SLOTS_STARI
 	db   6 percent + 1, SLOTS_CARAPUCE
 	db  12 percent,     SLOTS_PIKACHU
 	db  31 percent + 1, SLOTS_CHERRY
@@ -1849,7 +1849,7 @@ Slots_GetPayout:
 	dw   6 ; SLOTS_CHERRY
 	dw   8 ; SLOTS_PIKACHU
 	dw  10 ; SLOTS_CARAPUCE
-	dw  15 ; SLOTS_STARYU
+	dw  15 ; SLOTS_STARI
 	assert_table_length NUM_SLOT_REELS
 
 .no_win
@@ -1899,7 +1899,7 @@ Slots_PayoutText:
 	dbw "6@@@", .LinedUpMonOrCherry ; SLOTS_CHERRY
 	dbw "8@@@", .LinedUpMonOrCherry ; SLOTS_PIKACHU
 	dbw "10@@", .LinedUpMonOrCherry ; SLOTS_CARAPUCE
-	dbw "15@@", .LinedUpMonOrCherry ; SLOTS_STARYU
+	dbw "15@@", .LinedUpMonOrCherry ; SLOTS_STARI
 	assert_table_length NUM_SLOT_REELS
 
 .Text_PrintPayout:
@@ -2163,39 +2163,39 @@ Slots_PlaySFX:
 Reel1Tilemap:
 	db SLOTS_SEVEN    ;  0
 	db SLOTS_CHERRY   ;  1
-	db SLOTS_STARYU   ;  2
+	db SLOTS_STARI   ;  2
 	db SLOTS_PIKACHU  ;  3
 	db SLOTS_CARAPUCE ;  4
 	db SLOTS_SEVEN    ;  5
 	db SLOTS_CHERRY   ;  6
-	db SLOTS_STARYU   ;  7
+	db SLOTS_STARI   ;  7
 	db SLOTS_PIKACHU  ;  8
 	db SLOTS_CARAPUCE ;  9
 	db SLOTS_POKEBALL ; 10
 	db SLOTS_CHERRY   ; 11
-	db SLOTS_STARYU   ; 12
+	db SLOTS_STARI   ; 12
 	db SLOTS_PIKACHU  ; 13
 	db SLOTS_CARAPUCE ; 14
 	db SLOTS_SEVEN    ;  0
 	db SLOTS_CHERRY   ;  1
-	db SLOTS_STARYU   ;  2
+	db SLOTS_STARI   ;  2
 
 Reel2Tilemap:
 	db SLOTS_SEVEN    ;  0
 	db SLOTS_PIKACHU  ;  1
 	db SLOTS_CHERRY   ;  2
 	db SLOTS_CARAPUCE ;  3
-	db SLOTS_STARYU   ;  4
+	db SLOTS_STARI   ;  4
 	db SLOTS_POKEBALL ;  5
 	db SLOTS_PIKACHU  ;  6
 	db SLOTS_CHERRY   ;  7
 	db SLOTS_CARAPUCE ;  8
-	db SLOTS_STARYU   ;  9
+	db SLOTS_STARI   ;  9
 	db SLOTS_POKEBALL ; 10
 	db SLOTS_PIKACHU  ; 11
 	db SLOTS_CHERRY   ; 12
 	db SLOTS_CARAPUCE ; 13
-	db SLOTS_STARYU   ; 14
+	db SLOTS_STARI   ; 14
 	db SLOTS_SEVEN    ;  0
 	db SLOTS_PIKACHU  ;  1
 	db SLOTS_CHERRY   ;  2
@@ -2205,16 +2205,16 @@ Reel3Tilemap:
 	db SLOTS_PIKACHU  ;  1
 	db SLOTS_CHERRY   ;  2
 	db SLOTS_CARAPUCE ;  3
-	db SLOTS_STARYU   ;  4
+	db SLOTS_STARI   ;  4
 	db SLOTS_PIKACHU  ;  5
 	db SLOTS_CHERRY   ;  6
 	db SLOTS_CARAPUCE ;  7
-	db SLOTS_STARYU   ;  8
+	db SLOTS_STARI   ;  8
 	db SLOTS_PIKACHU  ;  9
 	db SLOTS_POKEBALL ; 10
 	db SLOTS_CHERRY   ; 11
 	db SLOTS_CARAPUCE ; 12
-	db SLOTS_STARYU   ; 13
+	db SLOTS_STARI   ; 13
 	db SLOTS_PIKACHU  ; 14
 	db SLOTS_SEVEN    ;  0
 	db SLOTS_PIKACHU  ;  1

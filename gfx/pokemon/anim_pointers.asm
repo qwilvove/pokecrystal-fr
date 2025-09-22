@@ -119,7 +119,7 @@ AnimationPointers:
 	dw HypoceanAnimation
 	dw PoissireneAnimation
 	dw PoissoroyAnimation
-	dw StaryuAnimation
+	dw StariAnimation
 	dw StarmieAnimation
 	dw MMimeAnimation
 	dw InsecateurAnimation

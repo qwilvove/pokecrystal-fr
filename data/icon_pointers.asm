@@ -6,7 +6,7 @@ IconPointers:
 	dw RondoudouIcon
 	dw DiglettIcon
 	dw PikachuIcon
-	dw StaryuIcon
+	dw StariIcon
 	dw FishIcon
 	dw BirdIcon
 	dw MonsterIcon

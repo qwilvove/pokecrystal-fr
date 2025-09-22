@@ -1032,7 +1032,7 @@ CooltrainerFGroup:
 
 	; COOLTRAINERF (17)
 	db "MARIA@", TRAINERTYPE_NORMAL
-	db 24, STARYU
+	db 24, STARI
 	db 26, STARMIE
 	db -1 ; end
 
@@ -1808,7 +1808,7 @@ SwimmerMGroup:
 	db 16, TENTACOOL
 	db 17, TENTACOOL
 	db 16, TENTACOOL
-	db 19, STARYU
+	db 19, STARI
 	db 17, TENTACOOL
 	db 19, REMORAID
 	db -1 ; end
@@ -1858,7 +1858,7 @@ SwimmerMGroup:
 
 	; SWIMMERM (13)
 	db "KURT@", TRAINERTYPE_NORMAL
-	db 13, STARYU
+	db 13, STARI
 	db 18, STARMIE
 	db 16, HYPOTREMPE
 	db -1 ; end
@@ -1879,7 +1879,7 @@ SwimmerMGroup:
 
 	; SWIMMERM (16)
 	db "STEFFEN@", TRAINERTYPE_NORMAL
-	db 13, STARYU
+	db 13, STARI
 	db 18, STARMIE
 	db 16, HYPOTREMPE
 	db -1 ; end
@@ -1898,14 +1898,14 @@ SwimmerMGroup:
 
 	; SWIMMERM (19)
 	db "ERNST@", TRAINERTYPE_NORMAL
-	db 13, STARYU
+	db 13, STARI
 	db 18, STARMIE
 	db 16, HYPOTREMPE
 	db -1 ; end
 
 	; SWIMMERM (20)
 	db "KARL@", TRAINERTYPE_NORMAL
-	db 13, STARYU
+	db 13, STARI
 	db 18, STARMIE
 	db 16, HYPOTREMPE
 	db -1 ; end
@@ -1920,12 +1920,12 @@ SwimmerMGroup:
 SwimmerFGroup:
 	; SWIMMERF (1)
 	db "SIMONE@", TRAINERTYPE_NORMAL
-	db 21, STARYU
+	db 21, STARI
 	db -1 ; end
 
 	; SWIMMERF (2)
 	db "ANNA@", TRAINERTYPE_NORMAL
-	db 19, STARYU
+	db 19, STARI
 	db 19, KOKIYAS
 	db -1 ; end
 
@@ -1949,7 +1949,7 @@ SwimmerFGroup:
 
 	; SWIMMERF (6)
 	db "BIRGIT@", TRAINERTYPE_NORMAL
-	db 20, STARYU
+	db 20, STARI
 	db 20, STARMIE
 	db -1 ; end
 

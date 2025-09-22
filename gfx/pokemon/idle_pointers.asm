@@ -119,7 +119,7 @@ AnimationIdlePointers:
 	dw HypoceanAnimationIdle
 	dw PoissireneAnimationIdle
 	dw PoissoroyAnimationIdle
-	dw StaryuAnimationIdle
+	dw StariAnimationIdle
 	dw StarmieAnimationIdle
 	dw MMimeAnimationIdle
 	dw InsecateurAnimationIdle

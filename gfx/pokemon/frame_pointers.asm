@@ -119,7 +119,7 @@ FramesPointers:
 	dw HypoceanFrames
 	dw PoissireneFrames
 	dw PoissoroyFrames
-	dw StaryuFrames
+	dw StariFrames
 	dw StarmieFrames
 	dw MMimeFrames
 	dw InsecateurFrames

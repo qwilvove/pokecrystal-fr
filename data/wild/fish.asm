@@ -209,8 +209,8 @@ FishGroups:
 
 TimeFishGroups:
 	;  day              nite
-	db CORAYON,    20,  STARYU,     20 ; 0
-	db CORAYON,    40,  STARYU,     40 ; 1
+	db CORAYON,    20,  STARI,     20 ; 0
+	db CORAYON,    40,  STARI,     40 ; 1
 	db KOKIYAS,   20,  KOKIYAS,   20 ; 2
 	db KOKIYAS,   40,  KOKIYAS,   40 ; 3
 	db POISSIRENE,    20,  POISSIRENE,    20 ; 4

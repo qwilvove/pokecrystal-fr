@@ -122,7 +122,7 @@ PokemonPicPointers::
 	dba_pics HypoceanFrontpic, HypoceanBackpic
 	dba_pics PoissireneFrontpic, PoissireneBackpic
 	dba_pics PoissoroyFrontpic, PoissoroyBackpic
-	dba_pics StaryuFrontpic, StaryuBackpic
+	dba_pics StariFrontpic, StariBackpic
 	dba_pics StarmieFrontpic, StarmieBackpic
 	dba_pics MMimeFrontpic, MMimeBackpic
 	dba_pics InsecateurFrontpic, InsecateurBackpic

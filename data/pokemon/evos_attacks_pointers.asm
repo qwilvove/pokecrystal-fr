@@ -121,7 +121,7 @@ EvosAttacksPointers::
 	dw HypoceanEvosAttacks
 	dw PoissireneEvosAttacks
 	dw PoissoroyEvosAttacks
-	dw StaryuEvosAttacks
+	dw StariEvosAttacks
 	dw StarmieEvosAttacks
 	dw MMimeEvosAttacks
 	dw InsecateurEvosAttacks

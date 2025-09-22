@@ -120,7 +120,7 @@ PokedexDataPointerTable:
 	dw HypoceanPokedexEntry
 	dw PoissirenePokedexEntry
 	dw PoissoroyPokedexEntry
-	dw StaryuPokedexEntry
+	dw StariPokedexEntry
 	dw StarmiePokedexEntry
 	dw MMimePokedexEntry
 	dw InsecateurPokedexEntry

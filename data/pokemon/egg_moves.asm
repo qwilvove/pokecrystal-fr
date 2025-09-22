@@ -5,7 +5,7 @@ SECTION "Egg Moves", ROMX
 ; Sweet Scent and Steel Wing were redundant since they're TMs, and
 ; Charm and Lovely Kiss were unobtainable.
 
-; Staryu's egg moves were removed in Crystal, because Staryu is genderless
+; Stari's egg moves were removed in Crystal, because Stari is genderless
 ; and can only breed with Metamorph.
 
 INCLUDE "data/pokemon/egg_move_pointers.asm"

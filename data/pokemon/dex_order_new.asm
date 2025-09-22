@@ -168,7 +168,7 @@ NewPokedexOrder:
 	db KRABBY
 	db KRABBOSS
 	db CARATROC
-	db STARYU
+	db STARI
 	db STARMIE
 	db KOKIYAS
 	db CRUSTABRI

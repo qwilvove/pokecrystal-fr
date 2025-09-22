@@ -1627,7 +1627,7 @@ PoissoroyEvosAttacks:
 	db 61, AGILITY
 	db 0 ; no more level-up moves
 
-StaryuEvosAttacks:
+StariEvosAttacks:
 	db EVOLVE_ITEM, WATER_STONE, STARMIE
 	db 0 ; no more evolutions
 	db 1, TACKLE

@@ -119,7 +119,7 @@ BitmasksPointers:
 	dw HypoceanBitmasks
 	dw PoissireneBitmasks
 	dw PoissoroyBitmasks
-	dw StaryuBitmasks
+	dw StariBitmasks
 	dw StarmieBitmasks
 	dw MMimeBitmasks
 	dw InsecateurBitmasks
