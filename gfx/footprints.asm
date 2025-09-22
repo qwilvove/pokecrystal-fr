@@ -559,7 +559,7 @@ INCBIN "gfx/footprints/entei.1bpp",      footprint_top
 INCBIN "gfx/footprints/suicune.1bpp",    footprint_top
 INCBIN "gfx/footprints/embrylex.1bpp",   footprint_top
 INCBIN "gfx/footprints/pupitar.1bpp",    footprint_top
-INCBIN "gfx/footprints/tyranitar.1bpp",  footprint_top
+INCBIN "gfx/footprints/tyranocif.1bpp",  footprint_top
 ; 241-248 bottom halves
 INCBIN "gfx/footprints/ecremeuh.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/leuphorie.1bpp",    footprint_bottom
@@ -568,7 +568,7 @@ INCBIN "gfx/footprints/entei.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/suicune.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/embrylex.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/pupitar.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/tyranitar.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/tyranocif.1bpp",  footprint_bottom
 ; 249-256 top halves
 INCBIN "gfx/footprints/lugia.1bpp",      footprint_top
 INCBIN "gfx/footprints/ho_oh.1bpp",      footprint_top

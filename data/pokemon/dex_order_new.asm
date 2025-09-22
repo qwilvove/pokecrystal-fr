@@ -247,7 +247,7 @@ NewPokedexOrder:
 	db DRACOLOSSE
 	db EMBRYLEX
 	db PUPITAR
-	db TYRANITAR
+	db TYRANOCIF
 	db LUGIA
 	db HO_OH
 	db MEWTWO

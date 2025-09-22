@@ -247,7 +247,7 @@ AnimationPointers:
 	dw SuicuneAnimation
 	dw EmbrylexAnimation
 	dw PupitarAnimation
-	dw TyranitarAnimation
+	dw TyranocifAnimation
 	dw LugiaAnimation
 	dw HoOhAnimation
 	dw CelebiAnimation

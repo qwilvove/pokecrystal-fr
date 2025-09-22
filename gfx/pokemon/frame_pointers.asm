@@ -247,7 +247,7 @@ FramesPointers:
 	dw SuicuneFrames
 	dw EmbrylexFrames
 	dw PupitarFrames
-	dw TyranitarFrames
+	dw TyranocifFrames
 	dw LugiaFrames
 	dw HoOhFrames
 	dw CelebiFrames

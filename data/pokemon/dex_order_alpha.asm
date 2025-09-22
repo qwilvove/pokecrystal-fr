@@ -243,7 +243,7 @@ AlphabeticalPokedexOrder:
 	db TRIOPIKEUR
 	db TYGNON
 	db TYPHLOSION
-	db TYRANITAR
+	db TYRANOCIF
 	db URSARING
 	db MAGCARGO
 	db JOLTEON

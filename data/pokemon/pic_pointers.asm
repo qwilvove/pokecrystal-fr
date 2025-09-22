@@ -250,7 +250,7 @@ PokemonPicPointers::
 	dba_pics SuicuneFrontpic, SuicuneBackpic
 	dba_pics EmbrylexFrontpic, EmbrylexBackpic
 	dba_pics PupitarFrontpic, PupitarBackpic
-	dba_pics TyranitarFrontpic, TyranitarBackpic
+	dba_pics TyranocifFrontpic, TyranocifBackpic
 	dba_pics LugiaFrontpic, LugiaBackpic
 	dba_pics HoOhFrontpic, HoOhBackpic
 	dba_pics CelebiFrontpic, CelebiBackpic

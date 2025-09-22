@@ -3283,7 +3283,7 @@ EmbrylexEvosAttacks:
 	db 0 ; no more level-up moves
 
 PupitarEvosAttacks:
-	db EVOLVE_LEVEL, 55, TYRANITAR
+	db EVOLVE_LEVEL, 55, TYRANOCIF
 	db 0 ; no more evolutions
 	db 1, BITE
 	db 1, LEER
@@ -3299,7 +3299,7 @@ PupitarEvosAttacks:
 	db 65, HYPER_BEAM
 	db 0 ; no more level-up moves
 
-TyranitarEvosAttacks:
+TyranocifEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, BITE
 	db 1, LEER

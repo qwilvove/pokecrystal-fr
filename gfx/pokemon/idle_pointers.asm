@@ -247,7 +247,7 @@ AnimationIdlePointers:
 	dw SuicuneAnimationIdle
 	dw EmbrylexAnimationIdle
 	dw PupitarAnimationIdle
-	dw TyranitarAnimationIdle
+	dw TyranocifAnimationIdle
 	dw LugiaAnimationIdle
 	dw HoOhAnimationIdle
 	dw CelebiAnimationIdle

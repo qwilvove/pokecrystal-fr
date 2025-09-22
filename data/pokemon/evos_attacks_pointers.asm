@@ -249,7 +249,7 @@ EvosAttacksPointers::
 	dw SuicuneEvosAttacks
 	dw EmbrylexEvosAttacks
 	dw PupitarEvosAttacks
-	dw TyranitarEvosAttacks
+	dw TyranocifEvosAttacks
 	dw LugiaEvosAttacks
 	dw HoOhEvosAttacks
 	dw CelebiEvosAttacks

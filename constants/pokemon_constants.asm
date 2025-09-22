@@ -267,7 +267,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const SUICUNE    ; f5
 	const EMBRYLEX   ; f6
 	const PUPITAR    ; f7
-	const TYRANITAR  ; f8
+	const TYRANOCIF  ; f8
 	const LUGIA      ; f9
 	const HO_OH      ; fa
 	const CELEBI     ; fb

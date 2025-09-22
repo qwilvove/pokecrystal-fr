@@ -247,7 +247,7 @@ BitmasksPointers:
 	dw SuicuneBitmasks
 	dw EmbrylexBitmasks
 	dw PupitarBitmasks
-	dw TyranitarBitmasks
+	dw TyranocifBitmasks
 	dw LugiaBitmasks
 	dw HoOhBitmasks
 	dw CelebiBitmasks

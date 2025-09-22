@@ -248,7 +248,7 @@ PokedexDataPointerTable:
 	dw SuicunePokedexEntry
 	dw EmbrylexPokedexEntry
 	dw PupitarPokedexEntry
-	dw TyranitarPokedexEntry
+	dw TyranocifPokedexEntry
 	dw LugiaPokedexEntry
 	dw HoOhPokedexEntry
 	dw CelebiPokedexEntry
