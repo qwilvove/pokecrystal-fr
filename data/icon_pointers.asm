@@ -4,7 +4,7 @@ IconPointers:
 	dw NullIcon
 	dw PtitardIcon
 	dw RondoudouIcon
-	dw DiglettIcon
+	dw TaupiqueurIcon
 	dw PikachuIcon
 	dw StariIcon
 	dw FishIcon

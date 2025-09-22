@@ -55,8 +55,8 @@ PokemonCries::
 	mon_cry CRY_PARAS,        66,  383 ; PARASECT
 	mon_cry CRY_MIMITOSS,      68,  192 ; MIMITOSS
 	mon_cry CRY_MIMITOSS,      41,  256 ; AEROMITE
-	mon_cry CRY_DIGLETT,     170,  129 ; DIGLETT
-	mon_cry CRY_DIGLETT,      42,  144 ; DUGTRIO
+	mon_cry CRY_TAUPIQUEUR,     170,  129 ; TAUPIQUEUR
+	mon_cry CRY_TAUPIQUEUR,      42,  144 ; DUGTRIO
 	mon_cry CRY_MELOFEE,    119,  144 ; MIAOUSS
 	mon_cry CRY_MELOFEE,    153,  383 ; PERSIAN
 	mon_cry CRY_PSYKOKWAK,      32,  224 ; PSYKOKWAK
@@ -89,8 +89,8 @@ PokemonCries::
 	mon_cry CRY_CHRYSACIER,     128,  224 ; MAGNETI
 	mon_cry CRY_CHRYSACIER,      32,  320 ; MAGNETON
 	mon_cry CRY_PIAFABEC,     221,  129 ; CANARTICHO
-	mon_cry CRY_DIGLETT,     187,  129 ; DODUO
-	mon_cry CRY_DIGLETT,     153,  160 ; DODRIO
+	mon_cry CRY_TAUPIQUEUR,     187,  129 ; DODUO
+	mon_cry CRY_TAUPIQUEUR,     153,  160 ; DODRIO
 	mon_cry CRY_OTARIA,        136,  320 ; OTARIA
 	mon_cry CRY_OTARIA,         35,  383 ; LAMANTINE
 	mon_cry CRY_TADMORV,        0,  256 ; TADMORV
@@ -107,7 +107,7 @@ PokemonCries::
 	mon_cry CRY_KRABBY,      238,  352 ; KRABBOSS
 	mon_cry CRY_VOLTORB,     237,  256 ; VOLTORB
 	mon_cry CRY_VOLTORB,     168,  272 ; ELECTRODE
-	mon_cry CRY_DIGLETT,       0,  256 ; NOEUNOEUF
+	mon_cry CRY_TAUPIQUEUR,       0,  256 ; NOEUNOEUF
 	mon_cry CRY_SOPORIFIK,       0,  256 ; NOADKOKO
 	mon_cry CRY_MELOFEE,      0,  256 ; OSSELAIT
 	mon_cry CRY_MYSTHERBE,       79,  224 ; OSSATUEUR

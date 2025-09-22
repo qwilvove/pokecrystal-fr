@@ -50,7 +50,7 @@ PokedexDataPointerTable:
 	dw ParasectPokedexEntry
 	dw MimitossPokedexEntry
 	dw AeromitePokedexEntry
-	dw DiglettPokedexEntry
+	dw TaupiqueurPokedexEntry
 	dw DugtrioPokedexEntry
 	dw MiaoussPokedexEntry
 	dw PersianPokedexEntry

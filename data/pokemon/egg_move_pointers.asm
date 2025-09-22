@@ -49,7 +49,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw MimitossEggMoves
 	dw NoEggMoves
-	dw DiglettEggMoves
+	dw TaupiqueurEggMoves
 	dw NoEggMoves
 	dw MiaoussEggMoves
 	dw NoEggMoves

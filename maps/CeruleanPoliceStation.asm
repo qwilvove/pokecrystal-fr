@@ -1,7 +1,7 @@
 	object_const_def
 	const CERULEANPOLICESTATION_FISHING_GURU
 	const CERULEANPOLICESTATION_POKEFAN_F
-	const CERULEANPOLICESTATION_DIGLETT
+	const CERULEANPOLICESTATION_TAUPIQUEUR
 
 CeruleanPoliceStation_MapScripts:
 	def_scene_scripts
@@ -14,10 +14,10 @@ CeruleanPoliceStationFishingGuruScript:
 CeruleanPoliceStationPokefanFScript:
 	jumptextfaceplayer CeruleanPoliceStationPokefanFText
 
-CeruleanDiglett:
+CeruleanTaupiqueur:
 	opentext
-	writetext CeruleanDiglettText
-	cry DIGLETT
+	writetext CeruleanTaupiqueurText
+	cry TAUPIQUEUR
 	waitbutton
 	closetext
 	end
@@ -36,7 +36,7 @@ CeruleanPoliceStationPokefanFText:
 	line "ont déjà volés."
 	done
 
-CeruleanDiglettText:
+CeruleanTaupiqueurText:
 	text "TAUPIQUEUR: Topi!"
 	done
 
@@ -54,4 +54,4 @@ CeruleanPoliceStation_MapEvents:
 	def_object_events
 	object_event  5,  1, SPRITE_FISHING_GURU, SPRITEMOVEDATA_STANDING_UP, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, CeruleanPoliceStationFishingGuruScript, -1
 	object_event  5,  4, SPRITE_POKEFAN_F, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, CeruleanPoliceStationPokefanFScript, -1
-	object_event  3,  5, SPRITE_DIGLETT, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_SCRIPT, 0, CeruleanDiglett, -1
+	object_event  3,  5, SPRITE_TAUPIQUEUR, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_SCRIPT, 0, CeruleanTaupiqueur, -1

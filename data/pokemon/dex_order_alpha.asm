@@ -229,7 +229,7 @@ AlphabeticalPokedexOrder:
 	db TADMORV
 	db TARPAUD
 	db TARTARD
-	db DIGLETT
+	db TAUPIQUEUR
 	db TAUROS
 	db TEDDIURSA
 	db TENTACOOL

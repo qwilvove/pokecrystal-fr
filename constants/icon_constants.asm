@@ -3,7 +3,7 @@
 	const ICON_NULL
 	const ICON_PTITARD
 	const ICON_RONDOUDOU
-	const ICON_DIGLETT
+	const ICON_TAUPIQUEUR
 	const ICON_PIKACHU
 	const ICON_STARI
 	const ICON_FISH

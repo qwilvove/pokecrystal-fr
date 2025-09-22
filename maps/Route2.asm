@@ -49,8 +49,8 @@ TrainerBugCatcherDoug:
 Route2Sign:
 	jumptext Route2SignText
 
-Route2DiglettsCaveSign:
-	jumptext Route2DiglettsCaveSignText
+Route2TaupiqueursCaveSign:
+	jumptext Route2TaupiqueursCaveSignText
 
 Route2DireHit:
 	itemball DIRE_HIT
@@ -143,7 +143,7 @@ Route2SignText:
 	line "ARGENTA"
 	done
 
-Route2DiglettsCaveSignText:
+Route2TaupiqueursCaveSignText:
 	text "CAVE TAUPIQUEUR"
 	done
 
@@ -155,13 +155,13 @@ Route2_MapEvents:
 	warp_event 15, 31, ROUTE_2_GATE, 3
 	warp_event 16, 27, ROUTE_2_GATE, 1
 	warp_event 17, 27, ROUTE_2_GATE, 2
-	warp_event 12,  7, DIGLETTS_CAVE, 3
+	warp_event 12,  7, TAUPIQUEURS_CAVE, 3
 
 	def_coord_events
 
 	def_bg_events
 	bg_event  7, 51, BGEVENT_READ, Route2Sign
-	bg_event 11,  9, BGEVENT_READ, Route2DiglettsCaveSign
+	bg_event 11,  9, BGEVENT_READ, Route2TaupiqueursCaveSign
 	bg_event  7, 23, BGEVENT_ITEM, Route2HiddenMaxEther
 	bg_event  4, 14, BGEVENT_ITEM, Route2HiddenFullHeal
 	bg_event  4, 27, BGEVENT_ITEM, Route2HiddenFullRestore

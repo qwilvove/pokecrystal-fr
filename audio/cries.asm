@@ -920,11 +920,11 @@ Cry_Nidoqueen:
 	channel 6, Cry_Nidoqueen_Ch6
 	channel 8, Cry_Nidoqueen_Ch8
 
-Cry_Diglett:
+Cry_Taupiqueur:
 	channel_count 3
-	channel 5, Cry_Diglett_Ch5
-	channel 6, Cry_Diglett_Ch6
-	channel 8, Cry_Diglett_Ch8
+	channel 5, Cry_Taupiqueur_Ch5
+	channel 6, Cry_Taupiqueur_Ch6
+	channel 8, Cry_Taupiqueur_Ch8
 
 Cry_Otaria:
 	channel_count 3
@@ -1446,7 +1446,7 @@ Cry_Tadmorv_Ch6:
 Cry_Tadmorv_Ch8:
 	sound_ret
 
-Cry_Diglett_Ch5:
+Cry_Taupiqueur_Ch5:
 	duty_cycle_pattern 3, 0, 3, 0
 	square_note 4, 15, 1, 1792
 	square_note 4, 14, 1, 1920
@@ -1460,7 +1460,7 @@ Cry_Diglett_Ch5:
 	square_note 8, 11, 1, 1857
 	sound_ret
 
-Cry_Diglett_Ch6:
+Cry_Taupiqueur_Ch6:
 	duty_cycle_pattern 1, 0, 1, 0
 	square_note 12, 0, 8, 0
 	square_note 4, 15, 1, 1793
@@ -1471,7 +1471,7 @@ Cry_Diglett_Ch6:
 	square_note 8, 13, 1, 1793
 	sound_ret
 
-Cry_Diglett_Ch8:
+Cry_Taupiqueur_Ch8:
 	noise_note 15, 0, 8, 0
 	noise_note 4, 0, 8, 0
 	noise_note 4, 13, 1, 76

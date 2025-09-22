@@ -68,7 +68,7 @@
 	const PARASECT   ; 2f
 	const MIMITOSS    ; 30
 	const AEROMITE   ; 31
-	const DIGLETT    ; 32
+	const TAUPIQUEUR    ; 32
 	const DUGTRIO    ; 33
 	const MIAOUSS     ; 34
 	const PERSIAN    ; 35

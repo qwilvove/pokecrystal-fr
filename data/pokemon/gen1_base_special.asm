@@ -51,7 +51,7 @@ KantoMonSpecials:
 	db  80 ; PARASECT
 	db  40 ; MIMITOSS
 	db  90 ; AEROMITE
-	db  45 ; DIGLETT
+	db  45 ; TAUPIQUEUR
 	db  70 ; DUGTRIO
 	db  40 ; MIAOUSS
 	db  65 ; PERSIAN

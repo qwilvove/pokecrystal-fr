@@ -49,7 +49,7 @@ BitmasksPointers:
 	dw ParasectBitmasks
 	dw MimitossBitmasks
 	dw AeromiteBitmasks
-	dw DiglettBitmasks
+	dw TaupiqueurBitmasks
 	dw DugtrioBitmasks
 	dw MiaoussBitmasks
 	dw PersianBitmasks

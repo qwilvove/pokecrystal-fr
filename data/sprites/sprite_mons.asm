@@ -13,7 +13,7 @@ SpriteMons:
 	db CARAPUCE
 	db TOGEPI
 	db PAPILUSION
-	db DIGLETT
+	db TAUPIQUEUR
 	db PTITARD
 	db PIKACHU
 	db MELOFEE

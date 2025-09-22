@@ -2,29 +2,29 @@
 
 KantoGrassWildMons:
 
-	def_grass_wildmons DIGLETTS_CAVE
+	def_grass_wildmons TAUPIQUEURS_CAVE
 	db 4 percent, 2 percent, 8 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, DIGLETT
-	db 6, DIGLETT
-	db 12, DIGLETT
-	db 24, DIGLETT
+	db 3, TAUPIQUEUR
+	db 6, TAUPIQUEUR
+	db 12, TAUPIQUEUR
+	db 24, TAUPIQUEUR
 	db 24, DUGTRIO
 	db 24, DUGTRIO
 	db 24, DUGTRIO
 	; day
-	db 2, DIGLETT
-	db 4, DIGLETT
-	db 8, DIGLETT
-	db 16, DIGLETT
+	db 2, TAUPIQUEUR
+	db 4, TAUPIQUEUR
+	db 8, TAUPIQUEUR
+	db 16, TAUPIQUEUR
 	db 16, DUGTRIO
 	db 16, DUGTRIO
 	db 16, DUGTRIO
 	; nite
-	db 4, DIGLETT
-	db 8, DIGLETT
-	db 16, DIGLETT
-	db 32, DIGLETT
+	db 4, TAUPIQUEUR
+	db 8, TAUPIQUEUR
+	db 16, TAUPIQUEUR
+	db 32, TAUPIQUEUR
 	db 32, DUGTRIO
 	db 32, DUGTRIO
 	db 32, DUGTRIO

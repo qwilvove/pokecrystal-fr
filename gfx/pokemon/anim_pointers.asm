@@ -49,7 +49,7 @@ AnimationPointers:
 	dw ParasectAnimation
 	dw MimitossAnimation
 	dw AeromiteAnimation
-	dw DiglettAnimation
+	dw TaupiqueurAnimation
 	dw DugtrioAnimation
 	dw MiaoussAnimation
 	dw PersianAnimation

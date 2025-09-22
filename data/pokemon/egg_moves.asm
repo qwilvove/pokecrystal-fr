@@ -134,7 +134,7 @@ MimitossEggMoves:
 	db GIGA_DRAIN
 	db -1 ; end
 
-DiglettEggMoves:
+TaupiqueurEggMoves:
 	db FAINT_ATTACK
 	db SCREECH
 	db ANCIENTPOWER

@@ -170,7 +170,7 @@ GoldenrodPPSpeechHouse_Blocks:
 GoldenrodNameRater_Blocks:
 VermilionFishingSpeechHouse_Blocks:
 VermilionMagnetTrainSpeechHouse_Blocks:
-VermilionDiglettsCaveSpeechHouse_Blocks:
+VermilionTaupiqueursCaveSpeechHouse_Blocks:
 BluesHouse_Blocks:
 PewterNidoranSpeechHouse_Blocks:
 PewterSnoozeSpeechHouse_Blocks:
@@ -928,8 +928,8 @@ RockTunnel1F_Blocks:
 RockTunnelB1F_Blocks:
 	INCBIN "maps/RockTunnelB1F.blk"
 
-DiglettsCave_Blocks:
-	INCBIN "maps/DiglettsCave.blk"
+TaupiqueursCave_Blocks:
+	INCBIN "maps/TaupiqueursCave.blk"
 
 MountMoon_Blocks:
 	INCBIN "maps/MountMoon.blk"

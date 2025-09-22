@@ -70,7 +70,7 @@ Landmarks:
 	landmark 108,  76, UndergroundName
 	landmark 100,  76, Route6Name
 	landmark 100,  84, VermilionCityName
-	landmark  88,  60, DiglettsCaveName
+	landmark  88,  60, TaupiqueursCaveName
 	landmark  88,  68, Route7Name
 	landmark 116,  68, Route8Name
 	landmark 116,  52, Route9Name
@@ -203,7 +203,7 @@ IlexForestName:      db "BOIS AUX<BSP>CHENES@"
 BurnedTowerName:     db "TOUR<BSP>CENDREE@"
 FastShipName:        db "BATEAU<BSP>EXPRESS@"
 ViridianForestName:  db "FORET<BSP>DE JADE@" ; unreferenced
-DiglettsCaveName:    db "CAVE<BSP>TAUPIQUEUR@"
+TaupiqueursCaveName:    db "CAVE<BSP>TAUPIQUEUR@"
 TohjoFallsName:      db "CHUTES<BSP>TOHJO@"
 UndergroundName:     db "SOUTERRAIN@"
 BattleTowerName:     db "TOUR DE<BSP>COMBAT@"

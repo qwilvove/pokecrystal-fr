@@ -49,7 +49,7 @@ FramesPointers:
 	dw ParasectFrames
 	dw MimitossFrames
 	dw AeromiteFrames
-	dw DiglettFrames
+	dw TaupiqueurFrames
 	dw DugtrioFrames
 	dw MiaoussFrames
 	dw PersianFrames

@@ -12,7 +12,7 @@ Cries:
 	dba Cry_Mystherbe
 	dba Cry_Raichu
 	dba Cry_Nidoqueen
-	dba Cry_Diglett
+	dba Cry_Taupiqueur
 	dba Cry_Otaria
 	dba Cry_Soporifik
 	dba Cry_Roucool

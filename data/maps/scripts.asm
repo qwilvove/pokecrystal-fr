@@ -124,7 +124,7 @@ INCLUDE "maps/Route17Route18Gate.asm"
 
 SECTION "Map Scripts 8", ROMX
 
-INCLUDE "maps/DiglettsCave.asm"
+INCLUDE "maps/TaupiqueursCave.asm"
 INCLUDE "maps/MountMoon.asm"
 INCLUDE "maps/UndergroundPath.asm"
 INCLUDE "maps/RockTunnel1F.asm"
@@ -311,7 +311,7 @@ INCLUDE "maps/VermilionPokecenter2FBeta.asm"
 INCLUDE "maps/PokemonFanClub.asm"
 INCLUDE "maps/VermilionMagnetTrainSpeechHouse.asm"
 INCLUDE "maps/VermilionMart.asm"
-INCLUDE "maps/VermilionDiglettsCaveSpeechHouse.asm"
+INCLUDE "maps/VermilionTaupiqueursCaveSpeechHouse.asm"
 INCLUDE "maps/VermilionGym.asm"
 INCLUDE "maps/Route6SaffronGate.asm"
 INCLUDE "maps/Route6UndergroundPathEntrance.asm"
