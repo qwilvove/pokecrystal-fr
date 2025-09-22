@@ -63,7 +63,7 @@ KantoMonSpecials:
 	db  80 ; ARCANIN
 	db  40 ; PTITARD
 	db  50 ; POLIWHIRL
-	db  70 ; POLIWRATH
+	db  70 ; TARTARD
 	db 105 ; ABRA
 	db 120 ; KADABRA
 	db 135 ; ALAKAZAM

@@ -75,7 +75,7 @@ NewPokedexOrder:
 	db PARASECT
 	db PTITARD
 	db POLIWHIRL
-	db POLIWRATH
+	db TARTARD
 	db TARPAUD
 	db MAGICARPE
 	db LEVIATOR

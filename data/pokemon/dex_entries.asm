@@ -61,7 +61,7 @@ CaninosPokedexEntry::  INCLUDE "data/pokemon/dex_entries/caninos.asm"
 ArcaninPokedexEntry::   INCLUDE "data/pokemon/dex_entries/arcanin.asm"
 PtitardPokedexEntry::    INCLUDE "data/pokemon/dex_entries/ptitard.asm"
 PoliwhirlPokedexEntry::  INCLUDE "data/pokemon/dex_entries/poliwhirl.asm"
-PoliwrathPokedexEntry::  INCLUDE "data/pokemon/dex_entries/poliwrath.asm"
+TartardPokedexEntry::  INCLUDE "data/pokemon/dex_entries/tartard.asm"
 AbraPokedexEntry::       INCLUDE "data/pokemon/dex_entries/abra.asm"
 KadabraPokedexEntry::    INCLUDE "data/pokemon/dex_entries/kadabra.asm"
 

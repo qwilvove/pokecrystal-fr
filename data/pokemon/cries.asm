@@ -67,7 +67,7 @@ PokemonCries::
 	mon_cry CRY_ASPICOT,        0,  256 ; ARCANIN
 	mon_cry CRY_ROUCOOL,      255,  383 ; PTITARD
 	mon_cry CRY_ROUCOOL,      119,  224 ; POLIWHIRL
-	mon_cry CRY_ROUCOOL,        0,  383 ; POLIWRATH
+	mon_cry CRY_ROUCOOL,        0,  383 ; TARTARD
 	mon_cry CRY_CHRYSACIER,     192,  129 ; ABRA
 	mon_cry CRY_CHRYSACIER,     168,  320 ; KADABRA
 	mon_cry CRY_CHRYSACIER,     152,  383 ; ALAKAZAM

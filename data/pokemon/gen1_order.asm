@@ -110,7 +110,7 @@ Pokered_MonIndices:
 	db ABO
 	db PARAS
 	db POLIWHIRL
-	db POLIWRATH
+	db TARTARD
 	db ASPICOT
 	db COCONFORT
 	db DARDARGNAN

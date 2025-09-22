@@ -802,7 +802,7 @@ PtitardEvosAttacks:
 	db 0 ; no more level-up moves
 
 PoliwhirlEvosAttacks:
-	db EVOLVE_ITEM, WATER_STONE, POLIWRATH
+	db EVOLVE_ITEM, WATER_STONE, TARTARD
 	db EVOLVE_TRADE, KINGS_ROCK, TARPAUD
 	db 0 ; no more evolutions
 	db 1, BUBBLE
@@ -817,7 +817,7 @@ PoliwhirlEvosAttacks:
 	db 51, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-PoliwrathEvosAttacks:
+TartardEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, WATER_GUN
 	db 1, HYPNOSIS

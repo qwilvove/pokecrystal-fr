@@ -228,7 +228,7 @@ AlphabeticalPokedexOrder:
 	db SULFURA
 	db TADMORV
 	db TARPAUD
-	db POLIWRATH
+	db TARTARD
 	db DIGLETT
 	db TAUROS
 	db TEDDIURSA

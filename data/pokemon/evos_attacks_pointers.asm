@@ -63,7 +63,7 @@ EvosAttacksPointers::
 	dw ArcaninEvosAttacks
 	dw PtitardEvosAttacks
 	dw PoliwhirlEvosAttacks
-	dw PoliwrathEvosAttacks
+	dw TartardEvosAttacks
 	dw AbraEvosAttacks
 	dw KadabraEvosAttacks
 	dw AlakazamEvosAttacks

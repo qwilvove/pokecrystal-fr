@@ -22,10 +22,10 @@ CeladonCityFlypointCallback:
 CeladonCityFisherScript:
 	jumptextfaceplayer CeladonCityFisherText
 
-CeladonCityPoliwrath:
+CeladonCityTartard:
 	opentext
-	writetext CeladonCityPoliwrathText
-	cry POLIWRATH
+	writetext CeladonCityTartardText
+	cry TARTARD
 	waitbutton
 	closetext
 	end
@@ -84,7 +84,7 @@ CeladonCityFisherText:
 	cont "grenouille?"
 	done
 
-CeladonCityPoliwrathText:
+CeladonCityTartardText:
 	text "TARTARD: Tarr!"
 	done
 
@@ -255,7 +255,7 @@ CeladonCity_MapEvents:
 
 	def_object_events
 	object_event 26, 11, SPRITE_FISHER, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, CeladonCityFisherScript, -1
-	object_event 27, 11, SPRITE_PTITARD, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, CeladonCityPoliwrath, -1
+	object_event 27, 11, SPRITE_PTITARD, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, CeladonCityTartard, -1
 	object_event 20, 24, SPRITE_TEACHER, SPRITEMOVEDATA_WALK_LEFT_RIGHT, 2, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_SCRIPT, 0, CeladonCityTeacher1Script, -1
 	object_event 14, 16, SPRITE_GRAMPS, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_SCRIPT, 0, CeladonCityGramps1Script, -1
 	object_event  8, 31, SPRITE_GRAMPS, SPRITEMOVEDATA_STANDING_UP, 0, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_SCRIPT, 0, CeladonCityGramps2Script, -1

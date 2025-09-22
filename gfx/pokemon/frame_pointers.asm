@@ -61,7 +61,7 @@ FramesPointers:
 	dw ArcaninFrames
 	dw PtitardFrames
 	dw PoliwhirlFrames
-	dw PoliwrathFrames
+	dw TartardFrames
 	dw AbraFrames
 	dw KadabraFrames
 	dw AlakazamFrames

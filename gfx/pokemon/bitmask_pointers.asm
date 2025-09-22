@@ -61,7 +61,7 @@ BitmasksPointers:
 	dw ArcaninBitmasks
 	dw PtitardBitmasks
 	dw PoliwhirlBitmasks
-	dw PoliwrathBitmasks
+	dw TartardBitmasks
 	dw AbraBitmasks
 	dw KadabraBitmasks
 	dw AlakazamBitmasks

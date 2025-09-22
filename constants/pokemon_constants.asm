@@ -80,7 +80,7 @@
 	const ARCANIN   ; 3b
 	const PTITARD    ; 3c
 	const POLIWHIRL  ; 3d
-	const POLIWRATH  ; 3e
+	const TARTARD  ; 3e
 	const ABRA       ; 3f
 	const KADABRA    ; 40
 	const ALAKAZAM   ; 41
