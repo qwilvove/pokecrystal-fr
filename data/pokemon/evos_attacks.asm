@@ -2916,7 +2916,7 @@ UrsaringEvosAttacks:
 	db 0 ; no more level-up moves
 
 LimagmaEvosAttacks:
-	db EVOLVE_LEVEL, 38, MAGCARGO
+	db EVOLVE_LEVEL, 38, VOLCAROPOD
 	db 0 ; no more evolutions
 	db 1, SMOG
 	db 8, EMBER
@@ -2928,7 +2928,7 @@ LimagmaEvosAttacks:
 	db 50, BODY_SLAM
 	db 0 ; no more level-up moves
 
-MagcargoEvosAttacks:
+VolcaropodEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, SMOG
 	db 1, EMBER

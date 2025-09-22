@@ -154,11 +154,11 @@ Cry_Insolourdo:
 	channel 6, Cry_Insolourdo_Ch6
 	channel 8, Cry_Insolourdo_Ch8
 
-Cry_Magcargo:
+Cry_Volcaropod:
 	channel_count 3
-	channel 5, Cry_Magcargo_Ch5
-	channel 6, Cry_Magcargo_Ch6
-	channel 8, Cry_Magcargo_Ch8
+	channel 5, Cry_Volcaropod_Ch5
+	channel 6, Cry_Volcaropod_Ch6
+	channel 8, Cry_Volcaropod_Ch8
 
 Cry_Entei:
 	channel_count 3
@@ -197,7 +197,7 @@ Cry_Entei_Ch8:
 	noise_note 32, 11, 4, 108
 	sound_ret
 
-Cry_Magcargo_Ch5:
+Cry_Volcaropod_Ch5:
 	duty_cycle_pattern 3, 0, 1, 0
 	square_note 4, 10, -7, 1824
 	square_note 2, 15, 8, 1820
@@ -208,7 +208,7 @@ Cry_Magcargo_Ch5:
 	square_note 4, 9, 1, 1806
 	sound_ret
 
-Cry_Magcargo_Ch6:
+Cry_Volcaropod_Ch6:
 	duty_cycle_pattern 0, 0, 2, 2
 	square_note 1, 11, 8, 1808
 	square_note 3, 13, 8, 1836
@@ -219,7 +219,7 @@ Cry_Magcargo_Ch6:
 	square_note 4, 12, 1, 1872
 	sound_ret
 
-Cry_Magcargo_Ch8:
+Cry_Volcaropod_Ch8:
 	noise_note 2, 14, 8, 59
 .loop:
 	noise_note 1, 15, 1, 78

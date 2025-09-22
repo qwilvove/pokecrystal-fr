@@ -218,7 +218,7 @@ FramesPointers:
 	dw TeddiursaFrames
 	dw UrsaringFrames
 	dw LimagmaFrames
-	dw MagcargoFrames
+	dw VolcaropodFrames
 	dw MarcacrinFrames
 	dw CochignonFrames
 	dw CorayonFrames

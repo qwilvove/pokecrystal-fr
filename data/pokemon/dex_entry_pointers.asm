@@ -219,7 +219,7 @@ PokedexDataPointerTable:
 	dw TeddiursaPokedexEntry
 	dw UrsaringPokedexEntry
 	dw LimagmaPokedexEntry
-	dw MagcargoPokedexEntry
+	dw VolcaropodPokedexEntry
 	dw MarcacrinPokedexEntry
 	dw CochignonPokedexEntry
 	dw CorayonPokedexEntry

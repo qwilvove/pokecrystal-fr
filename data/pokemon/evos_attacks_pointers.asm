@@ -220,7 +220,7 @@ EvosAttacksPointers::
 	dw TeddiursaEvosAttacks
 	dw UrsaringEvosAttacks
 	dw LimagmaEvosAttacks
-	dw MagcargoEvosAttacks
+	dw VolcaropodEvosAttacks
 	dw MarcacrinEvosAttacks
 	dw CochignonEvosAttacks
 	dw CorayonEvosAttacks

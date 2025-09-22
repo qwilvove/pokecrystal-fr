@@ -245,7 +245,7 @@ AlphabeticalPokedexOrder:
 	db TYPHLOSION
 	db TYRANOCIF
 	db URSARING
-	db MAGCARGO
+	db VOLCAROPOD
 	db JOLTEON
 	db VOLTORB
 	db MAREEP

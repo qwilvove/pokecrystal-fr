@@ -218,7 +218,7 @@ AnimationIdlePointers:
 	dw TeddiursaAnimationIdle
 	dw UrsaringAnimationIdle
 	dw LimagmaAnimationIdle
-	dw MagcargoAnimationIdle
+	dw VolcaropodAnimationIdle
 	dw MarcacrinAnimationIdle
 	dw CochignonAnimationIdle
 	dw CorayonAnimationIdle

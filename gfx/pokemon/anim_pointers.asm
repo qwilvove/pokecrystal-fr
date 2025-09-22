@@ -218,7 +218,7 @@ AnimationPointers:
 	dw TeddiursaAnimation
 	dw UrsaringAnimation
 	dw LimagmaAnimation
-	dw MagcargoAnimation
+	dw VolcaropodAnimation
 	dw MarcacrinAnimation
 	dw CochignonAnimation
 	dw CorayonAnimation

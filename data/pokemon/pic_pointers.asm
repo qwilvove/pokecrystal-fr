@@ -221,7 +221,7 @@ PokemonPicPointers::
 	dba_pics TeddiursaFrontpic, TeddiursaBackpic
 	dba_pics UrsaringFrontpic, UrsaringBackpic
 	dba_pics LimagmaFrontpic, LimagmaBackpic
-	dba_pics MagcargoFrontpic, MagcargoBackpic
+	dba_pics VolcaropodFrontpic, VolcaropodBackpic
 	dba_pics MarcacrinFrontpic, MarcacrinBackpic
 	dba_pics CochignonFrontpic, CochignonBackpic
 	dba_pics CorayonFrontpic, CorayonBackpic

@@ -218,7 +218,7 @@ BitmasksPointers:
 	dw TeddiursaBitmasks
 	dw UrsaringBitmasks
 	dw LimagmaBitmasks
-	dw MagcargoBitmasks
+	dw VolcaropodBitmasks
 	dw MarcacrinBitmasks
 	dw CochignonBitmasks
 	dw CorayonBitmasks

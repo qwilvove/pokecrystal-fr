@@ -64,7 +64,7 @@ Cries:
 	dba Cry_Teddiursa
 	dba Cry_Heliatronc
 	dba Cry_Pharamp
-	dba Cry_Magcargo
+	dba Cry_Volcaropod
 	dba Cry_Pichu
 	dba Cry_Capumain
 	dba Cry_Insolourdo

@@ -224,10 +224,10 @@ PokemonCries::
 	mon_cry CRY_TEDDIURSA,  1954,  110 ; TEDDIURSA
 	mon_cry CRY_TEDDIURSA,  1600,  216 ; URSARING
 	mon_cry CRY_LIMAGMA,     -472,  320 ; LIMAGMA
-	mon_cry CRY_MAGCARGO,   -525,  448 ; MAGCARGO
+	mon_cry CRY_VOLCAROPOD,   -525,  448 ; VOLCAROPOD
 	mon_cry CRY_HERICENDRE,   510,  320 ; MARCACRIN
-	mon_cry CRY_MAGCARGO,   -265,  256 ; COCHIGNON
-	mon_cry CRY_MAGCARGO,    161,  232 ; CORAYON
+	mon_cry CRY_VOLCAROPOD,   -265,  256 ; COCHIGNON
+	mon_cry CRY_VOLCAROPOD,    161,  232 ; CORAYON
 	mon_cry CRY_HELIATRONC,     13,  256 ; REMORAID
 	mon_cry CRY_KAIMINUS,      0,  384 ; OCTILLERY
 	mon_cry CRY_TEDDIURSA,     2,  106 ; CADOIZO
@@ -250,7 +250,7 @@ PokemonCries::
 	mon_cry CRY_ROIGADA,    659,  320 ; LEUPHORIE
 	mon_cry CRY_RAIKOU,      558,  288 ; RAIKOU
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
-	mon_cry CRY_MAGCARGO,      0,  384 ; SUICUNE
+	mon_cry CRY_VOLCAROPOD,      0,  384 ; SUICUNE
 	mon_cry CRY_RAIKOU,       95,  208 ; EMBRYLEX
 	mon_cry CRY_MIMIGAL,   -475,  336 ; PUPITAR
 	mon_cry CRY_RAIKOU,     -256,  384 ; TYRANOCIF
