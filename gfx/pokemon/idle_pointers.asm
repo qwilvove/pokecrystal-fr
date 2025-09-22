@@ -185,7 +185,7 @@ AnimationIdlePointers:
 	dw MarillAnimationIdle
 	dw AzumarillAnimationIdle
 	dw SimularbreAnimationIdle
-	dw PolitoedAnimationIdle
+	dw TarpaudAnimationIdle
 	dw GranivolAnimationIdle
 	dw FloravolAnimationIdle
 	dw CotovolAnimationIdle

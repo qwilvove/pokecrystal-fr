@@ -185,7 +185,7 @@ FramesPointers:
 	dw MarillFrames
 	dw AzumarillFrames
 	dw SimularbreFrames
-	dw PolitoedFrames
+	dw TarpaudFrames
 	dw GranivolFrames
 	dw FloravolFrames
 	dw CotovolFrames

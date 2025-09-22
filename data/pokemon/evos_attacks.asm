@@ -803,7 +803,7 @@ PtitardEvosAttacks:
 
 PoliwhirlEvosAttacks:
 	db EVOLVE_ITEM, WATER_STONE, POLIWRATH
-	db EVOLVE_TRADE, KINGS_ROCK, POLITOED
+	db EVOLVE_TRADE, KINGS_ROCK, TARPAUD
 	db 0 ; no more evolutions
 	db 1, BUBBLE
 	db 1, HYPNOSIS
@@ -2508,7 +2508,7 @@ SimularbreEvosAttacks:
 	db 46, SLAM
 	db 0 ; no more level-up moves
 
-PolitoedEvosAttacks:
+TarpaudEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, WATER_GUN
 	db 1, HYPNOSIS

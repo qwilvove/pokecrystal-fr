@@ -227,7 +227,7 @@ AlphabeticalPokedexOrder:
 	db SUICUNE
 	db SULFURA
 	db TADMORV
-	db POLITOED
+	db TARPAUD
 	db POLIWRATH
 	db DIGLETT
 	db TAUROS

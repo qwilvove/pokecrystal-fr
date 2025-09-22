@@ -191,7 +191,7 @@ PokemonCries::
 	mon_cry CRY_MARILL,      283,  288 ; MARILL
 	mon_cry CRY_MARILL,      182,  384 ; AZUMARILL
 	mon_cry CRY_MELO,     3904,  384 ; SIMULARBRE
-	mon_cry CRY_MELO,     -675,  456 ; POLITOED
+	mon_cry CRY_MELO,     -675,  456 ; TARPAUD
 	mon_cry CRY_MELO,       59,  200 ; GRANIVOL
 	mon_cry CRY_MELO,       39,  312 ; FLORAVOL
 	mon_cry CRY_MELO,        0,  384 ; COTOVOL

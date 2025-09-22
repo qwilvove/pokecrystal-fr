@@ -188,7 +188,7 @@ PokemonPicPointers::
 	dba_pics MarillFrontpic, MarillBackpic
 	dba_pics AzumarillFrontpic, AzumarillBackpic
 	dba_pics SimularbreFrontpic, SimularbreBackpic
-	dba_pics PolitoedFrontpic, PolitoedBackpic
+	dba_pics TarpaudFrontpic, TarpaudBackpic
 	dba_pics GranivolFrontpic, GranivolBackpic
 	dba_pics FloravolFrontpic, FloravolBackpic
 	dba_pics CotovolFrontpic, CotovolBackpic
