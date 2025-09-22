@@ -19,7 +19,7 @@ PokemonPicPointers::
 	dba_pics CoconfortFrontpic, CoconfortBackpic
 	dba_pics DardargnanFrontpic, DardargnanBackpic
 	dba_pics PidgeyFrontpic, PidgeyBackpic
-	dba_pics PidgeottoFrontpic, PidgeottoBackpic
+	dba_pics RoucoupsFrontpic, RoucoupsBackpic
 	dba_pics PidgeotFrontpic, PidgeotBackpic
 	dba_pics RattataFrontpic, RattataBackpic
 	dba_pics RattatacFrontpic, RattatacBackpic

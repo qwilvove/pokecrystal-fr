@@ -18,7 +18,7 @@ KantoMonSpecials:
 	db  25 ; COCONFORT
 	db  45 ; DARDARGNAN
 	db  35 ; PIDGEY
-	db  50 ; PIDGEOTTO
+	db  50 ; ROUCOUPS
 	db  70 ; PIDGEOT
 	db  25 ; RATTATA
 	db  50 ; RATTATAC

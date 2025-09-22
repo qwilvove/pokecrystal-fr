@@ -48,7 +48,7 @@ INCBIN "gfx/footprints/coconfort.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/dardargnan.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/pidgey.1bpp",     footprint_bottom
 ; 017-024 top halves
-INCBIN "gfx/footprints/pidgeotto.1bpp",  footprint_top
+INCBIN "gfx/footprints/roucoups.1bpp",  footprint_top
 INCBIN "gfx/footprints/pidgeot.1bpp",    footprint_top
 INCBIN "gfx/footprints/rattata.1bpp",    footprint_top
 INCBIN "gfx/footprints/rattatac.1bpp",   footprint_top
@@ -57,7 +57,7 @@ INCBIN "gfx/footprints/rapasdepic.1bpp",     footprint_top
 INCBIN "gfx/footprints/abo.1bpp",      footprint_top
 INCBIN "gfx/footprints/arbok.1bpp",      footprint_top
 ; 017-024 bottom halves
-INCBIN "gfx/footprints/pidgeotto.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/roucoups.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/pidgeot.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/rattata.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/rattatac.1bpp",   footprint_bottom

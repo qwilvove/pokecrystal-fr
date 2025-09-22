@@ -17,7 +17,7 @@ PokedexDataPointerTable:
 	dw CoconfortPokedexEntry
 	dw DardargnanPokedexEntry
 	dw PidgeyPokedexEntry
-	dw PidgeottoPokedexEntry
+	dw RoucoupsPokedexEntry
 	dw PidgeotPokedexEntry
 	dw RattataPokedexEntry
 	dw RattatacPokedexEntry

@@ -21,7 +21,7 @@ Cries:
 	dba Cry_Rhinoferos
 	dba Cry_Grolem
 	dba Cry_Blastoise
-	dba Cry_Pidgeotto
+	dba Cry_Roucoups
 	dba Cry_Aspicot
 	dba Cry_Chenipan
 	dba Cry_Abo

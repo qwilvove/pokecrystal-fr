@@ -213,7 +213,7 @@ KantoGrassWildMons:
 	db 3, PIDGEY
 	db 5, PIDGEY
 	db 7, PAPILUSION
-	db 7, PIDGEOTTO
+	db 7, ROUCOUPS
 	db 4, PIKACHU
 	db 4, PIKACHU
 	; nite
@@ -287,7 +287,7 @@ KantoGrassWildMons:
 	; morn
 	db 13, PIDGEY
 	db 13, SNUBBULL
-	db 15, PIDGEOTTO
+	db 15, ROUCOUPS
 	db 12, ABRA
 	db 14, RONDOUDOU
 	db 14, ABRA
@@ -295,7 +295,7 @@ KantoGrassWildMons:
 	; day
 	db 13, PIDGEY
 	db 13, SNUBBULL
-	db 15, PIDGEOTTO
+	db 15, ROUCOUPS
 	db 12, ABRA
 	db 14, RONDOUDOU
 	db 14, ABRA
@@ -370,7 +370,7 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 17, SNUBBULL
-	db 19, PIDGEOTTO
+	db 19, ROUCOUPS
 	db 16, ABRA
 	db 17, CANINOS
 	db 16, RONDOUDOU
@@ -378,7 +378,7 @@ KantoGrassWildMons:
 	db 18, KADABRA
 	; day
 	db 17, SNUBBULL
-	db 19, PIDGEOTTO
+	db 19, ROUCOUPS
 	db 16, ABRA
 	db 17, CANINOS
 	db 16, RONDOUDOU
@@ -456,7 +456,7 @@ KantoGrassWildMons:
 	db 14, GRANIVOL
 	db 13, RATTATAC
 	db 15, MAGNETI
-	db 16, PIDGEOTTO
+	db 16, ROUCOUPS
 	db 16, RATTATA
 	db 16, GRANIVOL
 	db 16, GRANIVOL
@@ -464,7 +464,7 @@ KantoGrassWildMons:
 	db 14, GRANIVOL
 	db 13, RATTATAC
 	db 15, MAGNETI
-	db 16, PIDGEOTTO
+	db 16, ROUCOUPS
 	db 16, RATTATA
 	db 16, GRANIVOL
 	db 16, GRANIVOL
@@ -483,7 +483,7 @@ KantoGrassWildMons:
 	; morn
 	db 23, NIDORINO
 	db 23, NIDORINA
-	db 25, PIDGEOTTO
+	db 25, ROUCOUPS
 	db 25, GRANIVOL
 	db 27, GRANIVOL
 	db 27, GRANIVOL
@@ -491,7 +491,7 @@ KantoGrassWildMons:
 	; day
 	db 23, NIDORINO
 	db 23, NIDORINA
-	db 25, PIDGEOTTO
+	db 25, ROUCOUPS
 	db 25, GRANIVOL
 	db 27, GRANIVOL
 	db 27, GRANIVOL
@@ -511,7 +511,7 @@ KantoGrassWildMons:
 	; morn
 	db 26, NIDORINO
 	db 26, NIDORINA
-	db 28, PIDGEOTTO
+	db 28, ROUCOUPS
 	db 28, GRANIVOL
 	db 30, FLORAVOL
 	db 30, FLORAVOL
@@ -519,7 +519,7 @@ KantoGrassWildMons:
 	; day
 	db 26, NIDORINO
 	db 26, NIDORINA
-	db 28, PIDGEOTTO
+	db 28, ROUCOUPS
 	db 28, GRANIVOL
 	db 30, FLORAVOL
 	db 30, FLORAVOL
@@ -539,7 +539,7 @@ KantoGrassWildMons:
 	; morn
 	db 23, NIDORINO
 	db 23, NIDORINA
-	db 25, PIDGEOTTO
+	db 25, ROUCOUPS
 	db 25, GRANIVOL
 	db 27, GRANIVOL
 	db 27, GRANIVOL
@@ -547,7 +547,7 @@ KantoGrassWildMons:
 	; day
 	db 23, NIDORINO
 	db 23, NIDORINA
-	db 25, PIDGEOTTO
+	db 25, ROUCOUPS
 	db 25, GRANIVOL
 	db 27, GRANIVOL
 	db 27, GRANIVOL
@@ -735,7 +735,7 @@ KantoGrassWildMons:
 	; morn
 	db 10, CHENIPAN
 	db 10, PIDGEY
-	db 12, PIDGEOTTO
+	db 12, ROUCOUPS
 	db 12, CHRYSACIER
 	db 10, CHETIFLOR
 	db 14, PAPILUSION
@@ -743,7 +743,7 @@ KantoGrassWildMons:
 	; day
 	db 10, CHENIPAN
 	db 10, PIDGEY
-	db 12, PIDGEOTTO
+	db 12, ROUCOUPS
 	db 12, CHRYSACIER
 	db 10, CHETIFLOR
 	db 14, PAPILUSION

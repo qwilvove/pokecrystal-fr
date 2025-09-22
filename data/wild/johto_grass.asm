@@ -1465,7 +1465,7 @@ JohtoGrassWildMons:
 	db 14, CANINOS
 	db 15, PIDGEY
 	db 16, CANINOS
-	db 15, PIDGEOTTO
+	db 15, ROUCOUPS
 	db 15, COXYCLAQUE
 	db 15, COXYCLAQUE
 	; day
@@ -1473,7 +1473,7 @@ JohtoGrassWildMons:
 	db 14, CANINOS
 	db 15, PIDGEY
 	db 16, CANINOS
-	db 15, PIDGEOTTO
+	db 15, ROUCOUPS
 	db 15, PIDGEY
 	db 15, PIDGEY
 	; nite
@@ -1492,7 +1492,7 @@ JohtoGrassWildMons:
 	db 16, RATTATA
 	db 16, RATTATAC
 	db 16, MAGNETI
-	db 16, PIDGEOTTO
+	db 16, ROUCOUPS
 	db 13, TAUROS
 	db 13, ECREMEUH
 	db 13, ECREMEUH
@@ -1500,7 +1500,7 @@ JohtoGrassWildMons:
 	db 16, RATTATA
 	db 16, RATTATAC
 	db 16, MAGNETI
-	db 16, PIDGEOTTO
+	db 16, ROUCOUPS
 	db 13, TAUROS
 	db 13, ECREMEUH
 	db 13, ECREMEUH
@@ -1520,7 +1520,7 @@ JohtoGrassWildMons:
 	db 16, RATTATA
 	db 16, RATTATAC
 	db 16, MAGNETI
-	db 16, PIDGEOTTO
+	db 16, ROUCOUPS
 	db 15, ECREMEUH
 	db 15, TAUROS
 	db 15, TAUROS
@@ -1528,7 +1528,7 @@ JohtoGrassWildMons:
 	db 16, RATTATA
 	db 16, RATTATAC
 	db 16, MAGNETI
-	db 16, PIDGEOTTO
+	db 16, ROUCOUPS
 	db 15, ECREMEUH
 	db 15, TAUROS
 	db 15, TAUROS
@@ -1574,7 +1574,7 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 15, FOUINETTE
-	db 16, PIDGEOTTO
+	db 16, ROUCOUPS
 	db 16, CANARTICHO
 	db 15, FOUINAR
 	db 17, RATTATAC
@@ -1582,7 +1582,7 @@ JohtoGrassWildMons:
 	db 17, FOUINAR
 	; day
 	db 15, FOUINETTE
-	db 16, PIDGEOTTO
+	db 16, ROUCOUPS
 	db 16, CANARTICHO
 	db 15, FOUINAR
 	db 17, RATTATAC

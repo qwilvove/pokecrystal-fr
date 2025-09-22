@@ -16,7 +16,7 @@ AnimationPointers:
 	dw CoconfortAnimation
 	dw DardargnanAnimation
 	dw PidgeyAnimation
-	dw PidgeottoAnimation
+	dw RoucoupsAnimation
 	dw PidgeotAnimation
 	dw RattataAnimation
 	dw RattatacAnimation

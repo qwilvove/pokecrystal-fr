@@ -207,7 +207,7 @@ AlphabeticalPokedexOrder:
 	db RONFLEX
 	db PIDGEOT
 	db PIDGEY
-	db PIDGEOTTO
+	db ROUCOUPS
 	db SANDSHREW
 	db SANDSLASH
 	db CHARMANDER

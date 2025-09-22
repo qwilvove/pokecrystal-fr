@@ -149,7 +149,7 @@ Pokered_MonIndices:
 	db HAUNTER
 	db ABRA
 	db ALAKAZAM
-	db PIDGEOTTO
+	db ROUCOUPS
 	db PIDGEOT
 	db STARMIE
 	db BULBIZARRE

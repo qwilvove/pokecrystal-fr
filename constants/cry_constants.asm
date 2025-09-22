@@ -22,7 +22,7 @@
 	const CRY_RHINOFEROS
 	const CRY_GROLEM
 	const CRY_BLASTOISE
-	const CRY_PIDGEOTTO
+	const CRY_ROUCOUPS
 	const CRY_ASPICOT
 	const CRY_CHENIPAN
 	const CRY_ABO

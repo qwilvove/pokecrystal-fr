@@ -35,7 +35,7 @@
 	const COCONFORT     ; 0e
 	const DARDARGNAN   ; 0f
 	const PIDGEY     ; 10
-	const PIDGEOTTO  ; 11
+	const ROUCOUPS  ; 11
 	const PIDGEOT    ; 12
 	const RATTATA    ; 13
 	const RATTATAC   ; 14

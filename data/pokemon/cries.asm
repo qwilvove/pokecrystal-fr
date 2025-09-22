@@ -22,8 +22,8 @@ PokemonCries::
 	mon_cry CRY_BLASTOISE,   255,  129 ; COCONFORT
 	mon_cry CRY_BLASTOISE,    96,  256 ; DARDARGNAN
 	mon_cry CRY_PIDGEY,      223,  132 ; PIDGEY
-	mon_cry CRY_PIDGEOTTO,    40,  320 ; PIDGEOTTO
-	mon_cry CRY_PIDGEOTTO,    17,  383 ; PIDGEOT
+	mon_cry CRY_ROUCOUPS,    40,  320 ; ROUCOUPS
+	mon_cry CRY_ROUCOUPS,    17,  383 ; PIDGEOT
 	mon_cry CRY_RATTATA,       0,  256 ; RATTATA
 	mon_cry CRY_RATTATA,      32,  383 ; RATTATAC
 	mon_cry CRY_PIAFABEC,       0,  256 ; PIAFABEC
@@ -118,7 +118,7 @@ PokemonCries::
 	mon_cry CRY_GROLEM,       255,  383 ; WEEZING
 	mon_cry CRY_CHARMANDER,    0,  256 ; RHINOCORNE
 	mon_cry CRY_RHINOFEROS,        0,  256 ; RHINOFEROS
-	mon_cry CRY_PIDGEOTTO,    10,  320 ; LEVEINARD
+	mon_cry CRY_ROUCOUPS,    10,  320 ; LEVEINARD
 	mon_cry CRY_GROLEM,         0,  256 ; TANGELA
 	mon_cry CRY_KANGOUREX,    0,  256 ; KANGOUREX
 	mon_cry CRY_MELOFEE,    153,  144 ; HYPOTREMPE
@@ -132,7 +132,7 @@ PokemonCries::
 	mon_cry CRY_DROWZEE,     255,  383 ; LIPPOUTOU
 	mon_cry CRY_VOLTORB,     143,  383 ; ELEKTEK
 	mon_cry CRY_CHARMANDER,  255,  176 ; MAGMAR
-	mon_cry CRY_PIDGEOTTO,     0,  256 ; PINSIR
+	mon_cry CRY_ROUCOUPS,     0,  256 ; PINSIR
 	mon_cry CRY_CARAPUCE,     17,  192 ; TAUROS
 	mon_cry CRY_ABO,       128,  128 ; MAGICARPE
 	mon_cry CRY_ABO,         0,  256 ; LEVIATOR

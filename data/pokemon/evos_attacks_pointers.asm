@@ -18,7 +18,7 @@ EvosAttacksPointers::
 	dw CoconfortEvosAttacks
 	dw DardargnanEvosAttacks
 	dw PidgeyEvosAttacks
-	dw PidgeottoEvosAttacks
+	dw RoucoupsEvosAttacks
 	dw PidgeotEvosAttacks
 	dw RattataEvosAttacks
 	dw RattatacEvosAttacks
