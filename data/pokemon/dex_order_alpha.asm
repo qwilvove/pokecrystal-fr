@@ -217,7 +217,7 @@ AlphabeticalPokedexOrder:
 	db SCORPLANE
 	db SIMULARBRE
 	db SMOGO
-	db WEEZING
+	db SMOGOGO
 	db SNUBBULL
 	db DROWZEE
 	db HAUNTER

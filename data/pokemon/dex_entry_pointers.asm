@@ -110,7 +110,7 @@ PokedexDataPointerTable:
 	dw HitmonchanPokedexEntry
 	dw ExcelanguePokedexEntry
 	dw SmogoPokedexEntry
-	dw WeezingPokedexEntry
+	dw SmogogoPokedexEntry
 	dw RhinocornePokedexEntry
 	dw RhinoferosPokedexEntry
 	dw LeveinardPokedexEntry

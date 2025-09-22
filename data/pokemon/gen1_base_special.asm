@@ -111,7 +111,7 @@ KantoMonSpecials:
 	db  35 ; HITMONCHAN
 	db  60 ; EXCELANGUE
 	db  60 ; SMOGO
-	db  85 ; WEEZING
+	db  85 ; SMOGOGO
 	db  30 ; RHINOCORNE
 	db  45 ; RHINOFEROS
 	db 105 ; LEVEINARD

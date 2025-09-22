@@ -109,7 +109,7 @@ BitmasksPointers:
 	dw HitmonchanBitmasks
 	dw ExcelangueBitmasks
 	dw SmogoBitmasks
-	dw WeezingBitmasks
+	dw SmogogoBitmasks
 	dw RhinocorneBitmasks
 	dw RhinoferosBitmasks
 	dw LeveinardBitmasks

@@ -109,7 +109,7 @@ AnimationPointers:
 	dw HitmonchanAnimation
 	dw ExcelangueAnimation
 	dw SmogoAnimation
-	dw WeezingAnimation
+	dw SmogogoAnimation
 	dw RhinocorneAnimation
 	dw RhinoferosAnimation
 	dw LeveinardAnimation

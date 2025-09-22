@@ -319,7 +319,7 @@ JohtoGrassWildMons:
 	db 15, NOSFERAPTI
 	db 12, SMOGO
 	db 16, SMOGO
-	db 16, WEEZING
+	db 16, SMOGOGO
 	; day
 	db 14, RATTATA
 	db 14, SMOGO
@@ -327,7 +327,7 @@ JohtoGrassWildMons:
 	db 15, NOSFERAPTI
 	db 12, SMOGO
 	db 16, SMOGO
-	db 16, WEEZING
+	db 16, SMOGOGO
 	; nite
 	db 14, RATTATA
 	db 14, SMOGO
@@ -335,7 +335,7 @@ JohtoGrassWildMons:
 	db 15, NOSFERAPTI
 	db 12, SMOGO
 	db 16, SMOGO
-	db 16, WEEZING
+	db 16, SMOGOGO
 	end_grass_wildmons
 
 	def_grass_wildmons NATIONAL_PARK

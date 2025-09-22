@@ -111,7 +111,7 @@ EvosAttacksPointers::
 	dw HitmonchanEvosAttacks
 	dw ExcelangueEvosAttacks
 	dw SmogoEvosAttacks
-	dw WeezingEvosAttacks
+	dw SmogogoEvosAttacks
 	dw RhinocorneEvosAttacks
 	dw RhinoferosEvosAttacks
 	dw LeveinardEvosAttacks

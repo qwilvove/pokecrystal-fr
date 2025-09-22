@@ -251,7 +251,7 @@ INCBIN "gfx/footprints/kicklee.1bpp",  footprint_top
 INCBIN "gfx/footprints/hitmonchan.1bpp", footprint_top
 INCBIN "gfx/footprints/excelangue.1bpp",  footprint_top
 INCBIN "gfx/footprints/smogo.1bpp",    footprint_top
-INCBIN "gfx/footprints/weezing.1bpp",    footprint_top
+INCBIN "gfx/footprints/smogogo.1bpp",    footprint_top
 INCBIN "gfx/footprints/rhinocorne.1bpp",    footprint_top
 INCBIN "gfx/footprints/rhinoferos.1bpp",     footprint_top
 ; 105-112 bottom halves
@@ -260,7 +260,7 @@ INCBIN "gfx/footprints/kicklee.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/hitmonchan.1bpp", footprint_bottom
 INCBIN "gfx/footprints/excelangue.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/smogo.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/weezing.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/smogogo.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/rhinocorne.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/rhinoferos.1bpp",     footprint_bottom
 ; 113-120 top halves

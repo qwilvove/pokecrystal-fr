@@ -115,7 +115,7 @@ PokemonCries::
 	mon_cry CRY_OTARIA,        238,  320 ; HITMONCHAN
 	mon_cry CRY_OTARIA,          0,  256 ; EXCELANGUE
 	mon_cry CRY_GROLEM,       230,  349 ; SMOGO
-	mon_cry CRY_GROLEM,       255,  383 ; WEEZING
+	mon_cry CRY_GROLEM,       255,  383 ; SMOGOGO
 	mon_cry CRY_SALAMECHE,    0,  256 ; RHINOCORNE
 	mon_cry CRY_RHINOFEROS,        0,  256 ; RHINOFEROS
 	mon_cry CRY_ROUCOUPS,    10,  320 ; LEVEINARD

@@ -116,7 +116,7 @@ NewPokedexOrder:
 	db SCARABRUTE
 	db SCARHINO
 	db SMOGO
-	db WEEZING
+	db SMOGOGO
 	db GRIMER
 	db GROTADMORV
 	db MAGNETI

@@ -1474,7 +1474,7 @@ ExcelangueEvosAttacks:
 	db 0 ; no more level-up moves
 
 SmogoEvosAttacks:
-	db EVOLVE_LEVEL, 35, WEEZING
+	db EVOLVE_LEVEL, 35, SMOGOGO
 	db 0 ; no more evolutions
 	db 1, POISON_GAS
 	db 1, TACKLE
@@ -1487,7 +1487,7 @@ SmogoEvosAttacks:
 	db 45, DESTINY_BOND
 	db 0 ; no more level-up moves
 
-WeezingEvosAttacks:
+SmogogoEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, POISON_GAS
 	db 1, TACKLE
