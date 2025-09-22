@@ -140,7 +140,7 @@ PokemonCries::
 	mon_cry CRY_ROUCOOL,      255,  383 ; METAMORPH
 	mon_cry CRY_MIMITOSS,     136,  224 ; EVOLI
 	mon_cry CRY_MIMITOSS,     170,  383 ; AQUALI
-	mon_cry CRY_MIMITOSS,      61,  256 ; JOLTEON
+	mon_cry CRY_MIMITOSS,      61,  256 ; VOLTALI
 	mon_cry CRY_MIMITOSS,      16,  160 ; PYROLI
 	mon_cry CRY_BOUSTIFLOR,  170,  383 ; PORYGON
 	mon_cry CRY_CANINOS,   240,  129 ; AMONITA

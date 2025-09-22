@@ -4,7 +4,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 1
 
-	db JOLTEON
+	db VOLTALI
 	db MIRACLEBERRY
 	db THUNDERBOLT, HYPER_BEAM, SHADOW_BALL, ROAR
 	dw 0 ; OT ID
@@ -1102,7 +1102,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 3
 
-	db JOLTEON
+	db VOLTALI
 	db MIRACLEBERRY
 	db THUNDERBOLT, THUNDER_WAVE, ROAR, MUD_SLAP
 	dw 0 ; OT ID
@@ -2330,7 +2330,7 @@ BattleTowerMons:
 	bigdw 143 ; SDef
 	dname "RAPURASU", MON_NAME_LENGTH
 
-	db JOLTEON
+	db VOLTALI
 	db KINGS_ROCK
 	db THUNDERBOLT, THUNDER_WAVE, SHADOW_BALL, HIDDEN_POWER
 	dw 0 ; OT ID
@@ -3298,7 +3298,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 7
 
-	db JOLTEON
+	db VOLTALI
 	db MIRACLEBERRY
 	db THUNDERBOLT, HYPER_BEAM, SHADOW_BALL, ROAR
 	dw 0 ; OT ID
@@ -3847,7 +3847,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 8
 
-	db JOLTEON
+	db VOLTALI
 	db MIRACLEBERRY
 	db THUNDER_WAVE, THUNDERBOLT, IRON_TAIL, ROAR
 	dw 0 ; OT ID
@@ -5023,7 +5023,7 @@ BattleTowerMons:
 	bigdw 284 ; SDef
 	dname "KINGUDORA", MON_NAME_LENGTH
 
-	db JOLTEON
+	db VOLTALI
 	db BRIGHTPOWDER
 	db THUNDERBOLT, ROAR, THUNDER_WAVE, IRON_TAIL
 	dw 0 ; OT ID

@@ -136,7 +136,7 @@ KantoMonSpecials:
 	db  48 ; METAMORPH
 	db  65 ; EVOLI
 	db 110 ; AQUALI
-	db 110 ; JOLTEON
+	db 110 ; VOLTALI
 	db 110 ; PYROLI
 	db  75 ; PORYGON
 	db  90 ; AMONITA

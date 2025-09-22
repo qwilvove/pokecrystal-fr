@@ -153,7 +153,7 @@
 	const METAMORPH      ; 84
 	const EVOLI      ; 85
 	const AQUALI   ; 86
-	const JOLTEON    ; 87
+	const VOLTALI    ; 87
 	const PYROLI    ; 88
 	const PORYGON    ; 89
 	const AMONITA    ; 8a

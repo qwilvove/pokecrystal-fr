@@ -306,7 +306,7 @@ INCBIN "gfx/footprints/lokhlass.1bpp",     footprint_top
 INCBIN "gfx/footprints/metamorph.1bpp",      footprint_top
 INCBIN "gfx/footprints/evoli.1bpp",      footprint_top
 INCBIN "gfx/footprints/aquali.1bpp",   footprint_top
-INCBIN "gfx/footprints/jolteon.1bpp",    footprint_top
+INCBIN "gfx/footprints/voltali.1bpp",    footprint_top
 INCBIN "gfx/footprints/pyroli.1bpp",    footprint_top
 ; 129-136 bottom halves
 INCBIN "gfx/footprints/magicarpe.1bpp",   footprint_bottom
@@ -315,7 +315,7 @@ INCBIN "gfx/footprints/lokhlass.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/metamorph.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/evoli.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/aquali.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/jolteon.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/voltali.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/pyroli.1bpp",    footprint_bottom
 ; 137-144 top halves
 INCBIN "gfx/footprints/porygon.1bpp",    footprint_top

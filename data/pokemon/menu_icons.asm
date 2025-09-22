@@ -136,7 +136,7 @@ MonMenuIcons:
 	db ICON_BLOB        ; METAMORPH
 	db ICON_FOX         ; EVOLI
 	db ICON_FOX         ; AQUALI
-	db ICON_FOX         ; JOLTEON
+	db ICON_FOX         ; VOLTALI
 	db ICON_FOX         ; PYROLI
 	db ICON_VOLTORB     ; PORYGON
 	db ICON_SHELL       ; AMONITA

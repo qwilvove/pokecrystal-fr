@@ -136,7 +136,7 @@ EvosAttacksPointers::
 	dw MetamorphEvosAttacks
 	dw EvoliEvosAttacks
 	dw AqualiEvosAttacks
-	dw JolteonEvosAttacks
+	dw VoltaliEvosAttacks
 	dw PyroliEvosAttacks
 	dw PorygonEvosAttacks
 	dw AmonitaEvosAttacks

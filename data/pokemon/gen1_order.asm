@@ -103,7 +103,7 @@ Pokered_MonIndices:
 	db GRODOUDOU
 	db EVOLI
 	db PYROLI
-	db JOLTEON
+	db VOLTALI
 	db AQUALI
 	db MACHOC
 	db NOSFERAPTI

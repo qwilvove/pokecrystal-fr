@@ -246,7 +246,7 @@ AlphabeticalPokedexOrder:
 	db TYRANOCIF
 	db URSARING
 	db VOLCAROPOD
-	db JOLTEON
+	db VOLTALI
 	db VOLTORB
 	db MAREEP
 	db XATU

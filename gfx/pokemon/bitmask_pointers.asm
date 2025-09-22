@@ -134,7 +134,7 @@ BitmasksPointers:
 	dw MetamorphBitmasks
 	dw EvoliBitmasks
 	dw AqualiBitmasks
-	dw JolteonBitmasks
+	dw VoltaliBitmasks
 	dw PyroliBitmasks
 	dw PorygonBitmasks
 	dw AmonitaBitmasks

@@ -135,7 +135,7 @@ PokedexDataPointerTable:
 	dw MetamorphPokedexEntry
 	dw EvoliPokedexEntry
 	dw AqualiPokedexEntry
-	dw JolteonPokedexEntry
+	dw VoltaliPokedexEntry
 	dw PyroliPokedexEntry
 	dw PorygonPokedexEntry
 	dw AmonitaPokedexEntry

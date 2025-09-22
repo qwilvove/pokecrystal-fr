@@ -183,7 +183,7 @@ NewPokedexOrder:
 	db SAQUEDENEU
 	db EVOLI
 	db AQUALI
-	db JOLTEON
+	db VOLTALI
 	db PYROLI
 	db MENTALI
 	db NOCTALI

@@ -137,7 +137,7 @@ PokemonPicPointers::
 	dba_pics MetamorphFrontpic, MetamorphBackpic
 	dba_pics EvoliFrontpic, EvoliBackpic
 	dba_pics AqualiFrontpic, AqualiBackpic
-	dba_pics JolteonFrontpic, JolteonBackpic
+	dba_pics VoltaliFrontpic, VoltaliBackpic
 	dba_pics PyroliFrontpic, PyroliBackpic
 	dba_pics PorygonFrontpic, PorygonBackpic
 	dba_pics AmonitaFrontpic, AmonitaBackpic

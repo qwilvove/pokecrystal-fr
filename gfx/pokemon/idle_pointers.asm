@@ -134,7 +134,7 @@ AnimationIdlePointers:
 	dw MetamorphAnimationIdle
 	dw EvoliAnimationIdle
 	dw AqualiAnimationIdle
-	dw JolteonAnimationIdle
+	dw VoltaliAnimationIdle
 	dw PyroliAnimationIdle
 	dw PorygonAnimationIdle
 	dw AmonitaAnimationIdle

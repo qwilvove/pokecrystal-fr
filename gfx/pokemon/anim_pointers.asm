@@ -134,7 +134,7 @@ AnimationPointers:
 	dw MetamorphAnimation
 	dw EvoliAnimation
 	dw AqualiAnimation
-	dw JolteonAnimation
+	dw VoltaliAnimation
 	dw PyroliAnimation
 	dw PorygonAnimation
 	dw AmonitaAnimation

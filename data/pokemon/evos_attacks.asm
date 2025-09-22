@@ -1792,7 +1792,7 @@ MetamorphEvosAttacks:
 	db 0 ; no more level-up moves
 
 EvoliEvosAttacks:
-	db EVOLVE_ITEM, THUNDERSTONE, JOLTEON
+	db EVOLVE_ITEM, THUNDERSTONE, VOLTALI
 	db EVOLVE_ITEM, WATER_STONE, AQUALI
 	db EVOLVE_ITEM, FIRE_STONE, PYROLI
 	db EVOLVE_HAPPINESS, TR_MORNDAY, MENTALI
@@ -1822,7 +1822,7 @@ AqualiEvosAttacks:
 	db 52, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-JolteonEvosAttacks:
+VoltaliEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP

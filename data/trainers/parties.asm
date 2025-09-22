@@ -937,7 +937,7 @@ CooltrainerFGroup:
 	db 26, EVOLI
 	db 22, PYROLI
 	db 22, AQUALI
-	db 22, JOLTEON
+	db 22, VOLTALI
 	db -1 ; end
 
 	; COOLTRAINERF (2)
@@ -3140,7 +3140,7 @@ SageGroup:
 	; SAGE (11)
 	db "RAOH@", TRAINERTYPE_NORMAL
 	db 32, NOARFANG
-	db 32, JOLTEON
+	db 32, VOLTALI
 	db -1 ; end
 
 	; SAGE (12)
@@ -3323,7 +3323,7 @@ KimonoGirlGroup:
 
 	; KIMONO_GIRL (6)
 	db "SAYAKA@", TRAINERTYPE_NORMAL
-	db 17, JOLTEON
+	db 17, VOLTALI
 	db -1 ; end
 
 TwinsGroup:
