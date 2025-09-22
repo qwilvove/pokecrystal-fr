@@ -1501,7 +1501,7 @@ RadioChannels:
 	ld a, [wPokegearMapPlayerIconLandmark]
 	cp LANDMARK_RUINS_OF_ALPH
 	jr nz, .NoSignal
-	jp LoadStation_UnownRadio
+	jp LoadStation_ZarbiRadio
 
 .PlacesAndPeople:
 	call .InJohto
@@ -1623,15 +1623,15 @@ LoadStation_BuenasPassword:
 BuenasPasswordName:    db "CODE DE BUENA@"
 NotBuenasPasswordName: db "@"
 
-LoadStation_UnownRadio:
-	ld a, UNOWN_RADIO
+LoadStation_ZarbiRadio:
+	ld a, ZARBI_RADIO
 	ld [wCurRadioLine], a
 	xor a
 	ld [wNumRadioLinesPrinted], a
 	ld a, BANK(PlayRadioShow)
 	ld hl, PlayRadioShow
 	call Radio_BackUpFarCallParams
-	ld de, UnownStationName
+	ld de, ZarbiStationName
 	ret
 
 LoadStation_PlacesAndPeople:
@@ -1686,7 +1686,7 @@ LoadStation_EvolutionRadio:
 	ld a, BANK(PlayRadioShow)
 	ld hl, PlayRadioShow
 	call Radio_BackUpFarCallParams
-	ld de, UnownStationName
+	ld de, ZarbiStationName
 	ret
 
 DummyLoadStation: ; unreferenced
@@ -1757,7 +1757,7 @@ OaksPKMNTalkName:     db "CHRONIQUE<PKMN> CHEN@"
 PokedexShowName:      db "Show #DEX@"
 PokemonMusicName:     db "Musique #MON@"
 LuckyChannelName:     db "Antenne Chance@"
-UnownStationName:     db "?????@"
+ZarbiStationName:     db "?????@"
 
 PlacesAndPeopleName:  db "Socio FM@"
 LetsAllSingName:      db "Chantons un peu@"
@@ -2000,7 +2000,7 @@ PlayRadioStationPointers:
 	dw LoadStation_PokedexShow
 	dw LoadStation_PokemonMusic
 	dw LoadStation_LuckyChannel
-	dw LoadStation_UnownRadio
+	dw LoadStation_ZarbiRadio
 	dw LoadStation_PlacesAndPeople
 	dw LoadStation_LetsAllSing
 	dw LoadStation_RocketRadio

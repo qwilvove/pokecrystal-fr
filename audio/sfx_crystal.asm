@@ -1,30 +1,30 @@
-Sfx_IntroUnown1:
+Sfx_IntroZarbi1:
 	channel_count 1
-	channel 5, Sfx_IntroUnown1_Ch5
+	channel 5, Sfx_IntroZarbi1_Ch5
 
-Sfx_IntroUnown1_Ch5:
+Sfx_IntroZarbi1_Ch5:
 	vibrato 1, 10, 3
 	duty_cycle 2
 	square_note 8, 3, -1, 1797
 	square_note 32, 14, 2, 1797
 	sound_ret
 
-Sfx_IntroUnown2:
+Sfx_IntroZarbi2:
 	channel_count 1
-	channel 6, Sfx_IntroUnown2_Ch6
+	channel 6, Sfx_IntroZarbi2_Ch6
 
-Sfx_IntroUnown2_Ch6:
+Sfx_IntroZarbi2_Ch6:
 	vibrato 1, 7, 3
 	duty_cycle 2
 	square_note 8, 3, -1, 1880
 	square_note 32, 14, 2, 1880
 	sound_ret
 
-Sfx_IntroUnown3:
+Sfx_IntroZarbi3:
 	channel_count 1
-	channel 7, Sfx_IntroUnown3_Ch7
+	channel 7, Sfx_IntroZarbi3_Ch7
 
-Sfx_IntroUnown3_Ch7:
+Sfx_IntroZarbi3_Ch7:
 	vibrato 1, 5, 3
 	square_note 3, 3, 2, 1986
 	square_note 3, 2, 2, 1986

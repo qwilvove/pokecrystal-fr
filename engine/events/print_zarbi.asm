@@ -1,8 +1,8 @@
-DEF UNOWNSTAMP_BOLD_A EQU "♂" ; $ef
-DEF UNOWNSTAMP_BOLD_B EQU "♀" ; $f5
+DEF ZARBISTAMP_BOLD_A EQU "♂" ; $ef
+DEF ZARBISTAMP_BOLD_B EQU "♀" ; $f5
 
-_UnownPrinter:
-	ld a, [wUnownDex]
+_ZarbiPrinter:
+	ld a, [wZarbiDex]
 	and a
 	ret z
 
@@ -17,14 +17,14 @@ _UnownPrinter:
 	call ClearBGPalettes
 	call ClearTilemap
 
-	ld de, UnownDexATile
-	ld hl, vTiles0 tile UNOWNSTAMP_BOLD_A
-	lb bc, BANK(UnownDexATile), 1
+	ld de, ZarbiDexATile
+	ld hl, vTiles0 tile ZARBISTAMP_BOLD_A
+	lb bc, BANK(ZarbiDexATile), 1
 	call Request1bpp
 
-	ld de, UnownDexBTile
-	ld hl, vTiles0 tile UNOWNSTAMP_BOLD_B
-	lb bc, BANK(UnownDexBTile), 1
+	ld de, ZarbiDexBTile
+	ld hl, vTiles0 tile ZARBISTAMP_BOLD_B
+	lb bc, BANK(ZarbiDexBTile), 1
 	call Request1bpp
 
 	hlcoord 0, 0
@@ -44,19 +44,19 @@ _UnownPrinter:
 	call PlaceString
 
 	hlcoord 1, 16
-	ld de, UnownDexDoWhatString
+	ld de, ZarbiDexDoWhatString
 	call PlaceString
 
 	hlcoord 10, 6
-	ld de, UnownDexMenuString
+	ld de, ZarbiDexMenuString
 	call PlaceString
 
 	xor a
 	ld [wJumptableIndex], a
-	call .UpdateUnownFrontpic
+	call .UpdateZarbiFrontpic
 	call WaitBGMap
 
-	ld a, UNOWN
+	ld a, ZARBI
 	ld [wCurPartySpecies], a
 	xor a
 	ld [wTempMonDVs], a
@@ -74,7 +74,7 @@ _UnownPrinter:
 	jr nz, .pressed_b
 
 	ldh a, [hJoyPressed]
-	vc_patch Forbid_printing_Unown
+	vc_patch Forbid_printing_Zarbi
 if DEF(_CRYSTAL_VC)
 	and NO_INPUT
 else
@@ -90,7 +90,7 @@ endc
 .pressed_a
 	ld a, [wJumptableIndex]
 	push af
-	farcall PrintUnownStamp
+	farcall PrintZarbiStamp
 	call RestartMapMusic
 	pop af
 	ld [wJumptableIndex], a
@@ -118,7 +118,7 @@ endc
 	ld a, [hl]
 	and a
 	jr nz, .wrap_around_left
-	ld [hl], NUM_UNOWN + 1
+	ld [hl], NUM_ZARBI + 1
 .wrap_around_left
 	dec [hl]
 	jr .return
@@ -126,23 +126,23 @@ endc
 .press_right
 	ld hl, wJumptableIndex
 	ld a, [hl]
-	cp NUM_UNOWN
+	cp NUM_ZARBI
 	jr c, .wrap_around_right
 	ld [hl], -1
 .wrap_around_right
 	inc [hl]
 
 .return
-	call .UpdateUnownFrontpic
+	call .UpdateZarbiFrontpic
 	ret
 
-.UpdateUnownFrontpic:
+.UpdateZarbiFrontpic:
 	ld a, [wJumptableIndex]
-	cp NUM_UNOWN
+	cp NUM_ZARBI
 	jr z, .vacant
 	inc a
-	ld [wUnownLetter], a
-	ld a, UNOWN
+	ld [wZarbiLetter], a
+	ld a, ZARBI
 	ld [wCurPartySpecies], a
 	xor a
 	ld [wBoxAlignment], a
@@ -155,7 +155,7 @@ endc
 	lb bc, 7, 7
 	predef PlaceGraphic
 	ld de, vTiles2 tile $31
-	farcall RotateUnownFrontpic
+	farcall RotateZarbiFrontpic
 	ret
 
 .Load2bppToSRAM:
@@ -183,7 +183,7 @@ endc
 	lb bc, 7, 7
 	call ClearBox
 	hlcoord 1, 9
-	ld de, UnownDexVacantString
+	ld de, ZarbiDexVacantString
 	call PlaceString
 	xor a ; sScratch
 	call OpenSRAM
@@ -205,25 +205,25 @@ endc
 AlphRuinsStampString:
 	db "TAMPON RUIN. ALPHA@"
 
-UnownDexDoWhatString:
+ZarbiDexDoWhatString:
 	db "Que faire?@"
 
-UnownDexMenuString:
-	db   UNOWNSTAMP_BOLD_A, " IMPRIMER"
-	next UNOWNSTAMP_BOLD_B, " ANNULER"
+ZarbiDexMenuString:
+	db   ZARBISTAMP_BOLD_A, " IMPRIMER"
+	next ZARBISTAMP_BOLD_B, " ANNULER"
 	next "← RETOUR"
 	next "→ SUITE"
 	db   "@"
 
-UnownDexVacantString:
+ZarbiDexVacantString:
 	db "  VIDE@"
 
-UnownDexATile:
+ZarbiDexATile:
 INCBIN "gfx/printer/bold_a.1bpp"
-UnownDexBTile:
+ZarbiDexBTile:
 INCBIN "gfx/printer/bold_b.1bpp"
 
-PlaceUnownPrinterFrontpic:
+PlaceZarbiPrinterFrontpic:
 	hlcoord 0, 0
 	ld bc, SCREEN_AREA
 	ld a, " "

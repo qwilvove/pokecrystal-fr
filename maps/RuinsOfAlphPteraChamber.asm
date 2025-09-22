@@ -47,8 +47,8 @@ RuinsOfAlphPteraChamberWallOpenScript:
 
 RuinsOfAlphPteraChamberPuzzle:
 	reanchormap
-	setval UNOWNPUZZLE_PTERA
-	special UnownPuzzle
+	setval ZARBIPUZZLE_PTERA
+	special ZarbiPuzzle
 	closetext
 	iftrue .PuzzleComplete
 	end
@@ -56,7 +56,7 @@ RuinsOfAlphPteraChamberPuzzle:
 .PuzzleComplete:
 	setevent EVENT_RUINS_OF_ALPH_INNER_CHAMBER_TOURISTS
 	setevent EVENT_SOLVED_PTERA_PUZZLE
-	setflag ENGINE_UNLOCKED_UNOWNS_S_TO_W
+	setflag ENGINE_UNLOCKED_ZARBIS_S_TO_W
 	setmapscene RUINS_OF_ALPH_INNER_CHAMBER, SCENE_RUINSOFALPHINNERCHAMBER_STRANGE_PRESENCE
 	earthquake 30
 	showemote EMOTE_SHOCK, PLAYER, 15
@@ -81,8 +81,8 @@ RuinsOfAlphPteraChamberDescriptionSign:
 RuinsOfAlphPteraChamberWallPatternLeft:
 	opentext
 	writetext RuinsOfAlphPteraChamberWallPatternLeftText
-	setval UNOWNWORDS_LIGHT
-	special DisplayUnownWords
+	setval ZARBIWORDS_LIGHT
+	special DisplayZarbiWords
 	closetext
 	end
 
@@ -91,8 +91,8 @@ RuinsOfAlphPteraChamberWallPatternRight:
 	iftrue .WallOpen
 	opentext
 	writetext RuinsOfAlphPteraChamberWallPatternRightText
-	setval UNOWNWORDS_LIGHT
-	special DisplayUnownWords
+	setval ZARBIWORDS_LIGHT
+	special DisplayZarbiWords
 	closetext
 	end
 
@@ -113,7 +113,7 @@ RuinsOfAlphPteraChamberWallPatternLeftText:
 	cont "murs..."
 	done
 
-RuinsOfAlphPteraChamberUnownText: ; unreferenced
+RuinsOfAlphPteraChamberZarbiText: ; unreferenced
 	text "C'est du texte"
 	line "ZARBI!"
 	done

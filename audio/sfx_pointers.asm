@@ -192,9 +192,9 @@ SFX:
 ; new to Crystal
 	dba Sfx_GlassTing
 	dba Sfx_GlassTing2
-	dba Sfx_IntroUnown1
-	dba Sfx_IntroUnown2
-	dba Sfx_IntroUnown3
+	dba Sfx_IntroZarbi1
+	dba Sfx_IntroZarbi2
+	dba Sfx_IntroZarbi3
 	dba Sfx_MetamorphPopUp
 	dba Sfx_MetamorphTransform
 	dba Sfx_IntroSuicune1

@@ -55,7 +55,7 @@ DecorationAttributes:
 	decoration DECO_DOLL,    TADMORV,          SET_UP_DOLL,       EVENT_DECO_TADMORV_DOLL,             SPRITE_TADMORV
 	decoration DECO_DOLL,    VOLTORBE,         SET_UP_DOLL,       EVENT_DECO_VOLTORBE_DOLL,            SPRITE_VOLTORBE
 	decoration DECO_DOLL,    ASPICOT,          SET_UP_DOLL,       EVENT_DECO_ASPICOT_DOLL,             SPRITE_ASPICOT
-	decoration DECO_DOLL,    UNOWN,           SET_UP_DOLL,       EVENT_DECO_UNOWN_DOLL,              SPRITE_UNOWN
+	decoration DECO_DOLL,    ZARBI,           SET_UP_DOLL,       EVENT_DECO_ZARBI_DOLL,              SPRITE_ZARBI
 	decoration DECO_DOLL,    RACAILLOU,         SET_UP_DOLL,       EVENT_DECO_RACAILLOU_DOLL,            SPRITE_RACAILLOU
 	decoration DECO_DOLL,    MACHOC,          SET_UP_DOLL,       EVENT_DECO_MACHOC_DOLL,             SPRITE_MACHOC
 	decoration DECO_DOLL,    TENTACOOL,       SET_UP_DOLL,       EVENT_DECO_TENTACOOL_DOLL,          SPRITE_TENTACOOL

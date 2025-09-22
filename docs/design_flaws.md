@@ -6,7 +6,7 @@ These are parts of the code that do not work *incorrectly*, like [bugs and glitc
 ## Contents
 
 - [Pic banks are offset by `PICS_FIX`](#pic-banks-are-offset-by-pics_fix)
-- [`PokemonPicPointers` and `UnownPicPointers` are assumed to start at the same address](#pokemonpicpointers-and-unownpicpointers-are-assumed-to-start-at-the-same-address)
+- [`PokemonPicPointers` and `ZarbiPicPointers` are assumed to start at the same address](#pokemonpicpointers-and-zarbipicpointers-are-assumed-to-start-at-the-same-address)
 - [Footprints are split into top and bottom halves](#footprints-are-split-into-top-and-bottom-halves)
 - [Music IDs $64 and $80 or above have special behavior](#music-ids-64-and-80-or-above-have-special-behavior)
 - [`ITEM_C3` and `ITEM_DC` break up the continuous sequence of TM items](#item_c3-and-item_dc-break-up-the-continuous-sequence-of-tm-items)
@@ -19,7 +19,7 @@ These are parts of the code that do not work *incorrectly*, like [bugs and glitc
 
 ## Pic banks are offset by `PICS_FIX`
 
-[data/pokemon/pic_pointers.asm](https://github.com/pret/pokecrystal/blob/master/data/pokemon/pic_pointers.asm), [data/pokemon/unown_pic_pointers.asm](https://github.com/pret/pokecrystal/blob/master/data/pokemon/unown_pic_pointers.asm), and [data/trainers/pic_pointers.asm](https://github.com/pret/pokecrystal/blob/master/data/trainers/pic_pointers.asm) all have to use `dba_pic` instead of `dba`. This is a macro in [macros/data.asm](https://github.com/pret/pokecrystal/blob/master/macros/data.asm) that offsets banks by `PICS_FIX`:
+[data/pokemon/pic_pointers.asm](https://github.com/pret/pokecrystal/blob/master/data/pokemon/pic_pointers.asm), [data/pokemon/zarbi_pic_pointers.asm](https://github.com/pret/pokecrystal/blob/master/data/pokemon/zarbi_pic_pointers.asm), and [data/trainers/pic_pointers.asm](https://github.com/pret/pokecrystal/blob/master/data/trainers/pic_pointers.asm) all have to use `dba_pic` instead of `dba`. This is a macro in [macros/data.asm](https://github.com/pret/pokecrystal/blob/master/macros/data.asm) that offsets banks by `PICS_FIX`:
 
 ```asm
 MACRO dba_pic ; dbw bank, address
@@ -57,14 +57,14 @@ EXPORT DEF PICS_FIX EQU $36
 **Fix:** Delete `FixPicBank` and remove all four calls to `FixPicBank` in [engine/gfx/load_pics.asm](https://github.com/pret/pokecrystal/blob/master/engine/gfx/load_pics.asm). Then use `dba` instead of `dba_pic` everywhere.
 
 
-## `PokemonPicPointers` and `UnownPicPointers` are assumed to start at the same address
+## `PokemonPicPointers` and `ZarbiPicPointers` are assumed to start at the same address
 
 `GetFrontpicPointer` and `GetMonBackpic` in [engine/gfx/load_pics.asm](https://github.com/pret/pokecrystal/blob/master/engine/gfx/load_pics.asm) make this assumption, which has to be accounted for in the data files.
 
 In [gfx/pics.asm](https://github.com/pret/pokecrystal/blob/master/gfx/pics.asm):
 
 ```asm
-; PokemonPicPointers and UnownPicPointers are assumed to start at the same
+; PokemonPicPointers and ZarbiPicPointers are assumed to start at the same
 ; address, but in different banks. This is enforced in layout.link.
 
 
@@ -73,9 +73,9 @@ SECTION "Pic Pointers", ROMX
 INCLUDE "data/pokemon/pic_pointers.asm"
 
 
-SECTION "Unown Pic Pointers", ROMX
+SECTION "Zarbi Pic Pointers", ROMX
 
-INCLUDE "data/pokemon/unown_pic_pointers.asm"
+INCLUDE "data/pokemon/zarbi_pic_pointers.asm"
 ```
 
 In [layout.link](https://github.com/pret/pokecrystal/blob/master/layout.link):
@@ -87,7 +87,7 @@ ROMX $48
 	"Pics 1"
 ROMX $49
 	org $4000
-	"Unown Pic Pointers"
+	"Zarbi Pic Pointers"
 	"Pics 2"
 ```
 
@@ -99,19 +99,19 @@ Edit `GetFrontpicPointer`:
 
 ```diff
  	ld a, [wCurPartySpecies]
- 	cp UNOWN
- 	jr z, .unown
+ 	cp ZARBI
+ 	jr z, .zarbi
 +	ld hl, PokemonPicPointers
  	ld a, [wCurPartySpecies]
  	ld d, BANK(PokemonPicPointers)
  	jr .ok
- .unown
-+	ld hl, UnownPicPointers
- 	ld a, [wUnownLetter]
- 	ld d, BANK(UnownPicPointers)
+ .zarbi
++	ld hl, ZarbiPicPointers
+ 	ld a, [wZarbiLetter]
+ 	ld d, BANK(ZarbiPicPointers)
  .ok
 -	; These are assumed to be at the same address in their respective banks.
--	assert PokemonPicPointers == UnownPicPointers
+-	assert PokemonPicPointers == ZarbiPicPointers
 -	ld hl, PokemonPicPointers
  	dec a
  	ld bc, 6
@@ -122,15 +122,15 @@ And `GetMonBackpic`:
 
 ```diff
 -	; These are assumed to be at the same address in their respective banks.
--	assert PokemonPicPointers == UnownPicPointers
+-	assert PokemonPicPointers == ZarbiPicPointers
  	ld hl, PokemonPicPointers
  	ld a, b
  	ld d, BANK(PokemonPicPointers)
- 	cp UNOWN
+ 	cp ZARBI
  	jr nz, .ok
-+	ld hl, UnownPicPointers
++	ld hl, ZarbiPicPointers
  	ld a, c
- 	ld d, BANK(UnownPicPointers)
+ 	ld d, BANK(ZarbiPicPointers)
  .ok
  	dec a
  	ld bc, 6

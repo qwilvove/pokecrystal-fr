@@ -252,5 +252,5 @@ AlphabeticalPokedexOrder:
 	db XATU
 	db YANMA
 	db YMPHECT
-	db UNOWN
+	db ZARBI
 	assert_table_length NUM_POKEMON

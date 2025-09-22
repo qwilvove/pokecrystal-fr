@@ -13,7 +13,7 @@
 	const LETS_ALL_SING          ; 06
 	const ROCKET_RADIO           ; 07
 	const POKE_FLUTE_RADIO       ; 08
-	const UNOWN_RADIO            ; 09
+	const ZARBI_RADIO            ; 09
 	const EVOLUTION_RADIO        ; 0a
 DEF NUM_RADIO_CHANNELS EQU const_value
 ; internal indexes for channel segments
@@ -103,7 +103,7 @@ DEF NUM_RADIO_SEGMENTS EQU const_value
 	const MAPRADIO_POKEDEX_SHOW
 	const MAPRADIO_POKEMON_MUSIC
 	const MAPRADIO_LUCKY_CHANNEL
-	const MAPRADIO_UNOWN
+	const MAPRADIO_ZARBI
 	const MAPRADIO_PLACES_PEOPLE
 	const MAPRADIO_LETS_ALL_SING
 	const MAPRADIO_ROCKET

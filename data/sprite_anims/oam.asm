@@ -31,7 +31,7 @@ SpriteAnimOAMData:
 	spriteanimoam $80, .OAMData_GSIntroPikachuTail       ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_TAIL_1
 	spriteanimoam $85, .OAMData_GSIntroPikachuTail       ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_TAIL_2
 	spriteanimoam $8a, .OAMData_GSIntroPikachuTail       ; SPRITE_ANIM_OAMSET_GS_INTRO_PIKACHU_TAIL_3
-	spriteanimoam $00, .OAMData_IntroUnownF2_1           ; SPRITE_ANIM_OAMSET_GS_INTRO_SMALL_FIREBALL
+	spriteanimoam $00, .OAMData_IntroZarbiF2_1           ; SPRITE_ANIM_OAMSET_GS_INTRO_SMALL_FIREBALL
 	spriteanimoam $01, .OAMData_TradePoofBubble          ; SPRITE_ANIM_OAMSET_GS_INTRO_MED_FIREBALL
 	spriteanimoam $09, .OAMData_GSIntroBigFireball       ; SPRITE_ANIM_OAMSET_GS_INTRO_BIG_FIREBALL
 	spriteanimoam $10, .OAMData_GSIntroStarter           ; SPRITE_ANIM_OAMSET_GS_INTRO_GERMIGNON
@@ -125,14 +125,14 @@ SpriteAnimOAMData:
 	spriteanimoam $05, .OAMData_IntroPichu               ; SPRITE_ANIM_OAMSET_INTRO_PICHU_2
 	spriteanimoam $0a, .OAMData_IntroPichu               ; SPRITE_ANIM_OAMSET_INTRO_PICHU_3
 	spriteanimoam $50, .OAMData_IntroAxoloto              ; SPRITE_ANIM_OAMSET_INTRO_AXOLOTO
-	spriteanimoam $00, .OAMData_IntroUnown1              ; SPRITE_ANIM_OAMSET_INTRO_UNOWN_1
-	spriteanimoam $01, .OAMData_IntroUnown2              ; SPRITE_ANIM_OAMSET_INTRO_UNOWN_2
-	spriteanimoam $04, .OAMData_IntroUnown3              ; SPRITE_ANIM_OAMSET_INTRO_UNOWN_3
-	spriteanimoam $00, .OAMData_IntroUnownF2_1           ; SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_1
-	spriteanimoam $01, .OAMData_IntroUnownF2_2           ; SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_2
-	spriteanimoam $03, .OAMData_IntroUnownF2_3           ; SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_3
-	spriteanimoam $08, .OAMData_IntroUnownF2_4_5         ; SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_4
-	spriteanimoam $1c, .OAMData_IntroUnownF2_4_5         ; SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_5
+	spriteanimoam $00, .OAMData_IntroZarbi1              ; SPRITE_ANIM_OAMSET_INTRO_ZARBI_1
+	spriteanimoam $01, .OAMData_IntroZarbi2              ; SPRITE_ANIM_OAMSET_INTRO_ZARBI_2
+	spriteanimoam $04, .OAMData_IntroZarbi3              ; SPRITE_ANIM_OAMSET_INTRO_ZARBI_3
+	spriteanimoam $00, .OAMData_IntroZarbiF2_1           ; SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_1
+	spriteanimoam $01, .OAMData_IntroZarbiF2_2           ; SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_2
+	spriteanimoam $03, .OAMData_IntroZarbiF2_3           ; SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_3
+	spriteanimoam $08, .OAMData_IntroZarbiF2_4_5         ; SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_4
+	spriteanimoam $1c, .OAMData_IntroZarbiF2_4_5         ; SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_5
 	spriteanimoam $80, .OAMData_IntroSuicuneAway         ; SPRITE_ANIM_OAMSET_INTRO_SUICUNE_AWAY
 	spriteanimoam $00, .OAMData_Celebi                   ; SPRITE_ANIM_OAMSET_CELEBI_1
 	spriteanimoam $04, .OAMData_Celebi                   ; SPRITE_ANIM_OAMSET_CELEBI_2
@@ -174,7 +174,7 @@ SpriteAnimOAMData:
 	dbsprite -1,  0,  0,  0, $01, 0 | OAM_PRIO
 	dbsprite  0,  0,  0,  0, $01, 0 | OAM_XFLIP | OAM_PRIO
 
-.OAMData_IntroUnownF2_1:
+.OAMData_IntroZarbiF2_1:
 	db 4
 	dbsprite -1, -1,  0,  0, $00, 0
 	dbsprite  0, -1,  0,  0, $00, 0 | OAM_XFLIP
@@ -996,17 +996,17 @@ SpriteAnimOAMData:
 	dbsprite -1,  1,  4,  0, $0e, 2 | OAM_BANK1
 	dbsprite  0,  1,  4,  0, $0f, 2 | OAM_BANK1
 
-.OAMData_IntroUnown1:
+.OAMData_IntroZarbi1:
 	db 1
 	dbsprite -1, -1,  4,  4, $00, 0
 
-.OAMData_IntroUnown2:
+.OAMData_IntroZarbi2:
 	db 3
 	dbsprite -1,  0,  0,  0, $00, 0
 	dbsprite -1, -1,  0,  0, $01, 0
 	dbsprite  0, -1,  0,  0, $02, 0
 
-.OAMData_IntroUnown3:
+.OAMData_IntroZarbi3:
 	db 7
 	dbsprite -2,  1,  0,  0, $00, 0
 	dbsprite -2,  0,  0,  0, $01, 0
@@ -1016,7 +1016,7 @@ SpriteAnimOAMData:
 	dbsprite  0, -2,  0,  0, $05, 0
 	dbsprite  1, -2,  0,  0, $06, 0
 
-.OAMData_IntroUnownF2_2:
+.OAMData_IntroZarbiF2_2:
 	db 8
 	dbsprite -2, -1,  0,  0, $00, 0
 	dbsprite -1, -1,  0,  0, $01, 0
@@ -1027,7 +1027,7 @@ SpriteAnimOAMData:
 	dbsprite  0,  0,  0,  0, $01, 0 | OAM_XFLIP | OAM_YFLIP
 	dbsprite  1,  0,  0,  0, $00, 0 | OAM_XFLIP | OAM_YFLIP
 
-.OAMData_IntroUnownF2_3:
+.OAMData_IntroZarbiF2_3:
 	db 12
 	dbsprite -1, -3,  0,  0, $00, 0
 	dbsprite -1, -2,  0,  0, $01, 0
@@ -1042,7 +1042,7 @@ SpriteAnimOAMData:
 	dbsprite  0,  1,  0,  0, $01, 0 | OAM_XFLIP | OAM_YFLIP
 	dbsprite  0,  2,  0,  0, $00, 0 | OAM_XFLIP | OAM_YFLIP
 
-.OAMData_IntroUnownF2_4_5:
+.OAMData_IntroZarbiF2_4_5:
 	db 20
 	dbsprite -2, -3,  0,  4, $00, 0
 	dbsprite -1, -3,  0,  4, $01, 0

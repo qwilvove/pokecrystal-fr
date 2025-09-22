@@ -3438,16 +3438,16 @@ LoadEnemyMonToSwitchTo:
 	call LoadEnemyMon
 
 	ld a, [wCurPartySpecies]
-	cp UNOWN
-	jr nz, .skip_unown
-	ld a, [wFirstUnownSeen]
+	cp ZARBI
+	jr nz, .skip_zarbi
+	ld a, [wFirstZarbiSeen]
 	and a
-	jr nz, .skip_unown
+	jr nz, .skip_zarbi
 	ld hl, wEnemyMonDVs
-	predef GetUnownLetter
-	ld a, [wUnownLetter]
-	ld [wFirstUnownSeen], a
-.skip_unown
+	predef GetZarbiLetter
+	ld a, [wZarbiLetter]
+	ld [wFirstZarbiSeen], a
+.skip_zarbi
 
 	ld hl, wEnemyMonHP
 	ld a, [hli]
@@ -4022,7 +4022,7 @@ SwitchPlayerMon:
 
 SendOutPlayerMon:
 	ld hl, wBattleMonDVs
-	predef GetUnownLetter
+	predef GetZarbiLetter
 	hlcoord 1, 5
 	ld b, 7
 	ld c, 8
@@ -6139,17 +6139,17 @@ LoadEnemyMon:
 
 ; Species-specfic:
 
-; Unown
+; Zarbi
 	ld a, [wTempEnemyMonSpecies]
-	cp UNOWN
+	cp ZARBI
 	jr nz, .Magicarpe
 
 ; Get letter based on DVs
 	ld hl, wEnemyMonDVs
-	predef GetUnownLetter
+	predef GetZarbiLetter
 ; Can't use any letters that haven't been unlocked
 ; If combined with forced shiny battletype, causes an infinite loop
-	call CheckUnownLetter
+	call CheckZarbiLetter
 	jr c, .GenerateDVs ; try again
 
 .Magicarpe:
@@ -6444,10 +6444,10 @@ CheckSleepingTreeMon:
 
 INCLUDE "data/wild/treemons_asleep.asm"
 
-CheckUnownLetter:
-; Return carry if the Unown letter hasn't been unlocked yet
+CheckZarbiLetter:
+; Return carry if the Zarbi letter hasn't been unlocked yet
 
-	ld a, [wUnlockedUnowns]
+	ld a, [wUnlockedZarbis]
 	ld c, a
 	ld de, 0
 
@@ -6458,14 +6458,14 @@ CheckUnownLetter:
 	jr nc, .next
 
 ; Is our letter in the set?
-	ld hl, UnlockedUnownLetterSets
+	ld hl, UnlockedZarbiLetterSets
 	add hl, de
 	ld a, [hli]
 	ld h, [hl]
 	ld l, a
 
 	push de
-	ld a, [wUnownLetter]
+	ld a, [wZarbiLetter]
 	ld de, 1
 	push bc
 	call IsInArray
@@ -6479,7 +6479,7 @@ CheckUnownLetter:
 	inc e
 	inc e
 	ld a, e
-	cp NUM_UNLOCKED_UNOWN_SETS * 2
+	cp NUM_UNLOCKED_ZARBI_SETS * 2
 	jr c, .loop
 
 ; Hasn't been unlocked, or the letter is invalid
@@ -6491,7 +6491,7 @@ CheckUnownLetter:
 	and a
 	ret
 
-INCLUDE "data/wild/unlocked_unowns.asm"
+INCLUDE "data/wild/unlocked_zarbis.asm"
 
 SwapBattlerLevels: ; unreferenced
 	push bc
@@ -7963,7 +7963,7 @@ DropPlayerSub:
 	ld a, [wBattleMonSpecies]
 	ld [wCurPartySpecies], a
 	ld hl, wBattleMonDVs
-	predef GetUnownLetter
+	predef GetZarbiLetter
 	ld de, vTiles2 tile $31
 	predef GetMonBackpic
 	pop af
@@ -8000,7 +8000,7 @@ DropEnemySub:
 	ld [wCurPartySpecies], a
 	call GetBaseData
 	ld hl, wEnemyMonDVs
-	predef GetUnownLetter
+	predef GetZarbiLetter
 	ld de, vTiles2
 	predef GetAnimatedFrontpic
 	pop af
@@ -8188,16 +8188,16 @@ InitEnemyWildmon:
 	ld bc, NUM_MOVES
 	call CopyBytes
 	ld hl, wEnemyMonDVs
-	predef GetUnownLetter
+	predef GetZarbiLetter
 	ld a, [wCurPartySpecies]
-	cp UNOWN
-	jr nz, .skip_unown
-	ld a, [wFirstUnownSeen]
+	cp ZARBI
+	jr nz, .skip_zarbi
+	ld a, [wFirstZarbiSeen]
 	and a
-	jr nz, .skip_unown
-	ld a, [wUnownLetter]
-	ld [wFirstUnownSeen], a
-.skip_unown
+	jr nz, .skip_zarbi
+	ld a, [wZarbiLetter]
+	ld [wFirstZarbiSeen], a
+.skip_zarbi
 	ld de, vTiles2
 	predef GetAnimatedFrontpic
 	xor a

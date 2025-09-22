@@ -1,4 +1,4 @@
-	db UNOWN ; 201
+	db ZARBI ; 201
 
 	db  48,  72,  48,  48,  72,  48
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 40 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/unown_a/front.dimensions"
+	INCBIN "gfx/pokemon/zarbi_a/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_NONE, EGG_NONE ; egg groups

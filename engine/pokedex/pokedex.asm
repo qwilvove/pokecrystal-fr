@@ -11,8 +11,8 @@
 	const DEXSTATE_UPDATE_OPTION_SCR
 	const DEXSTATE_SEARCH_RESULTS_SCR
 	const DEXSTATE_UPDATE_SEARCH_RESULTS_SCR
-	const DEXSTATE_UNOWN_MODE
-	const DEXSTATE_UPDATE_UNOWN_MODE
+	const DEXSTATE_ZARBI_MODE
+	const DEXSTATE_UPDATE_ZARBI_MODE
 	const DEXSTATE_EXIT
 
 EXPORT DEF POKEDEX_SCX EQU 5
@@ -92,7 +92,7 @@ InitPokedex:
 	ld [wPrevDexEntryBackup], a
 	ld [wUnusedPokedexByte], a
 
-	call Pokedex_CheckUnlockedUnownMode
+	call Pokedex_CheckUnlockedZarbiMode
 
 	ld a, [wLastDexMode]
 	ld [wCurDexMode], a
@@ -104,18 +104,18 @@ InitPokedex:
 	call Pokedex_ResetBGMapMode
 	ret
 
-Pokedex_CheckUnlockedUnownMode:
+Pokedex_CheckUnlockedZarbiMode:
 	ld a, [wStatusFlags]
-	bit STATUSFLAGS_UNOWN_DEX_F, a
+	bit STATUSFLAGS_ZARBI_DEX_F, a
 	jr nz, .unlocked
 
 	xor a
-	ld [wUnlockedUnownMode], a
+	ld [wUnlockedZarbiMode], a
 	ret
 
 .unlocked
 	ld a, TRUE
-	ld [wUnlockedUnownMode], a
+	ld [wUnlockedZarbiMode], a
 	ret
 
 Pokedex_InitCursorPosition:
@@ -199,8 +199,8 @@ Pokedex_RunJumptable:
 	dw Pokedex_UpdateOptionScreen
 	dw Pokedex_InitSearchResultsScreen
 	dw Pokedex_UpdateSearchResultsScreen
-	dw Pokedex_InitUnownMode
-	dw Pokedex_UpdateUnownMode
+	dw Pokedex_InitZarbiMode
+	dw Pokedex_UpdateZarbiMode
 	dw Pokedex_Exit
 
 Pokedex_IncrementDexPointer:
@@ -525,10 +525,10 @@ Pokedex_InitOptionScreen:
 	ret
 
 Pokedex_UpdateOptionScreen:
-	ld a, [wUnlockedUnownMode]
+	ld a, [wUnlockedZarbiMode]
 	and a
 	jr nz, .okay
-	ld de, .NoUnownModeArrowCursorData
+	ld de, .NoZarbiModeArrowCursorData
 	jr .okay2
 .okay
 	ld de, .ArrowCursorData
@@ -556,7 +556,7 @@ Pokedex_UpdateOptionScreen:
 	ld [wJumptableIndex], a
 	ret
 
-.NoUnownModeArrowCursorData:
+.NoZarbiModeArrowCursorData:
 	db PAD_UP | PAD_DOWN, 3
 	dwcoord 2,  4 ; NEW
 	dwcoord 2,  6 ; OLD
@@ -567,13 +567,13 @@ Pokedex_UpdateOptionScreen:
 	dwcoord 2,  4 ; NEW
 	dwcoord 2,  6 ; OLD
 	dwcoord 2,  8 ; ABC
-	dwcoord 2, 10 ; UNOWN
+	dwcoord 2, 10 ; ZARBI
 
 .MenuActionJumptable:
 	dw .MenuAction_NewMode
 	dw .MenuAction_OldMode
 	dw .MenuAction_ABCMode
-	dw .MenuAction_UnownMode
+	dw .MenuAction_ZarbiMode
 
 .MenuAction_NewMode:
 	ld b, DEXMODE_NEW
@@ -606,9 +606,9 @@ Pokedex_UpdateOptionScreen:
 	ld [wJumptableIndex], a
 	ret
 
-.MenuAction_UnownMode:
+.MenuAction_ZarbiMode:
 	call Pokedex_BlackOutBG
-	ld a, DEXSTATE_UNOWN_MODE
+	ld a, DEXSTATE_ZARBI_MODE
 	ld [wJumptableIndex], a
 	ret
 
@@ -797,26 +797,26 @@ Pokedex_UpdateSearchResultsScreen:
 	ldh [hWX], a
 	ret
 
-Pokedex_InitUnownMode:
-	call Pokedex_LoadUnownFont
-	call Pokedex_DrawUnownModeBG
+Pokedex_InitZarbiMode:
+	call Pokedex_LoadZarbiFont
+	call Pokedex_DrawZarbiModeBG
 	xor a
-	ld [wDexCurUnownIndex], a
-	call Pokedex_LoadUnownFrontpicTiles
-	call Pokedex_UnownModePlaceCursor
-	farcall PrintUnownWord
+	ld [wDexCurZarbiIndex], a
+	call Pokedex_LoadZarbiFrontpicTiles
+	call Pokedex_ZarbiModePlaceCursor
+	farcall PrintZarbiWord
 	call WaitBGMap
-	ld a, SCGB_POKEDEX_UNOWN_MODE
+	ld a, SCGB_POKEDEX_ZARBI_MODE
 	call Pokedex_GetSGBLayout
 	call Pokedex_IncrementDexPointer
 	ret
 
-Pokedex_UpdateUnownMode:
+Pokedex_UpdateZarbiMode:
 	ld hl, hJoyPressed
 	ld a, [hl]
 	and PAD_A | PAD_B
 	jr nz, .a_b
-	call Pokedex_UnownModeHandleDPadInput
+	call Pokedex_ZarbiModeHandleDPadInput
 	ret
 
 .a_b
@@ -838,7 +838,7 @@ Pokedex_UpdateUnownMode:
 .done
 	ret
 
-Pokedex_UnownModeHandleDPadInput:
+Pokedex_ZarbiModeHandleDPadInput:
 	ld hl, hJoyLast
 	ld a, [hl]
 	and PAD_RIGHT
@@ -849,9 +849,9 @@ Pokedex_UnownModeHandleDPadInput:
 	ret
 
 .right
-	ld a, [wDexUnownCount]
+	ld a, [wDexZarbiCount]
 	ld e, a
-	ld hl, wDexCurUnownIndex
+	ld hl, wDexCurZarbiIndex
 	ld a, [hl]
 	inc a
 	cp e
@@ -861,7 +861,7 @@ Pokedex_UnownModeHandleDPadInput:
 	jr .update
 
 .left
-	ld hl, wDexCurUnownIndex
+	ld hl, wDexCurZarbiIndex
 	ld a, [hl]
 	and a
 	ret z
@@ -873,28 +873,28 @@ Pokedex_UnownModeHandleDPadInput:
 	xor a
 	ldh [hBGMapMode], a
 	pop af
-	call Pokedex_UnownModeEraseCursor
-	call Pokedex_LoadUnownFrontpicTiles
-	call Pokedex_UnownModePlaceCursor
-	farcall PrintUnownWord
+	call Pokedex_ZarbiModeEraseCursor
+	call Pokedex_LoadZarbiFrontpicTiles
+	call Pokedex_ZarbiModePlaceCursor
+	farcall PrintZarbiWord
 	ld a, $1
 	ldh [hBGMapMode], a
 	call DelayFrame
 	call DelayFrame
 	ret
 
-Pokedex_UnownModeEraseCursor:
+Pokedex_ZarbiModeEraseCursor:
 	ld c, " "
-	jr Pokedex_UnownModeUpdateCursorGfx
+	jr Pokedex_ZarbiModeUpdateCursorGfx
 
-Pokedex_UnownModePlaceCursor:
-	ld a, [wDexCurUnownIndex]
-	ld c, FIRST_UNOWN_CHAR + NUM_UNOWN ; diamond cursor
+Pokedex_ZarbiModePlaceCursor:
+	ld a, [wDexCurZarbiIndex]
+	ld c, FIRST_ZARBI_CHAR + NUM_ZARBI ; diamond cursor
 
-Pokedex_UnownModeUpdateCursorGfx:
+Pokedex_ZarbiModeUpdateCursorGfx:
 	ld e, a
 	ld d, 0
-	ld hl, UnownModeLetterAndCursorCoords + 2
+	ld hl, ZarbiModeLetterAndCursorCoords + 2
 rept 4
 	add hl, de
 endr
@@ -1191,11 +1191,11 @@ Pokedex_DrawOptionScreenBG:
 	hlcoord 3, 4
 	ld de, .Modes
 	call PlaceString
-	ld a, [wUnlockedUnownMode]
+	ld a, [wUnlockedZarbiMode]
 	and a
 	ret z
 	hlcoord 3, 10
-	ld de, .UnownMode
+	ld de, .ZarbiMode
 	call PlaceString
 	ret
 
@@ -1208,7 +1208,7 @@ Pokedex_DrawOptionScreenBG:
 	next "MODE A à Z"
 	db   "@"
 
-.UnownMode:
+.ZarbiMode:
 	db "MODE ZARBI@"
 
 Pokedex_DrawSearchScreenBG:
@@ -1303,7 +1303,7 @@ Pokedex_PlaceSearchResultsTypeStrings:
 .done
 	ret
 
-Pokedex_DrawUnownModeBG:
+Pokedex_DrawZarbiModeBG:
 	call Pokedex_FillBackgroundColor2
 	hlcoord 2, 1
 	lb bc, 10, 13
@@ -1319,15 +1319,15 @@ Pokedex_DrawUnownModeBG:
 	call Pokedex_PlaceFrontpicAtHL
 	ld de, 0
 	ld b, 0
-	ld c, NUM_UNOWN
+	ld c, NUM_ZARBI
 .loop
-	ld hl, wUnownDex
+	ld hl, wZarbiDex
 	add hl, de
 	ld a, [hl]
 	and a
 	jr z, .done
 	push af
-	ld hl, UnownModeLetterAndCursorCoords
+	ld hl, ZarbiModeLetterAndCursorCoords
 rept 4
 	add hl, de
 endr
@@ -1335,7 +1335,7 @@ endr
 	ld h, [hl]
 	ld l, a
 	pop af
-	add FIRST_UNOWN_CHAR - 1 ; Unown A
+	add FIRST_ZARBI_CHAR - 1 ; Zarbi A
 	ld [hl], a
 	inc de
 	inc b
@@ -1343,11 +1343,11 @@ endr
 	jr nz, .loop
 .done
 	ld a, b
-	ld [wDexUnownCount], a
+	ld [wDexZarbiCount], a
 	ret
 
-UnownModeLetterAndCursorCoords:
-; entries correspond to Unown forms
+ZarbiModeLetterAndCursorCoords:
+; entries correspond to Zarbi forms
 ;           letter, cursor
 	dwcoord   4,11,   3,11 ; A
 	dwcoord   4,10,   3,10 ; B
@@ -1729,7 +1729,7 @@ Pokedex_DisplayModeDescription:
 	dw .NewMode
 	dw .OldMode
 	dw .ABCMode
-	dw .UnownMode
+	dw .ZarbiMode
 
 .NewMode:
 	db   "<PKMN> listés par"
@@ -1743,7 +1743,7 @@ Pokedex_DisplayModeDescription:
 	db   "<PKMN> listés"
 	next "alphabétiquement.@"
 
-.UnownMode:
+.ZarbiMode:
 	db   "ZARBI listés par"
 	next "ordre de capture.@"
 
@@ -2354,8 +2354,8 @@ Pokedex_LoadSelectedMonTiles:
 	call Pokedex_GetSelectedMon
 	call Pokedex_CheckSeen
 	jr z, .QuestionMark
-	ld a, [wFirstUnownSeen]
-	ld [wUnownLetter], a
+	ld a, [wFirstZarbiSeen]
+	ld [wZarbiLetter], a
 	ld a, [wTempSpecies]
 	ld [wCurPartySpecies], a
 	call GetBaseData
@@ -2479,42 +2479,42 @@ Pokedex_CheckSGB:
 	dec a
 	ret
 
-Pokedex_LoadUnownFont:
+Pokedex_LoadZarbiFont:
 	ld a, BANK(sScratch)
 	call OpenSRAM
-	ld hl, UnownFont
+	ld hl, ZarbiFont
 	; sScratch + $188 was the address of sDecompressBuffer in pokegold
 	ld de, sScratch + $188
 	ld bc, 39 tiles
-	ld a, BANK(UnownFont)
+	ld a, BANK(ZarbiFont)
 	call FarCopyBytes
 	ld hl, sScratch + $188
-	ld bc, (NUM_UNOWN + 1) tiles
+	ld bc, (NUM_ZARBI + 1) tiles
 	call Pokedex_InvertTiles
 	ld de, sScratch + $188
-	ld hl, vTiles2 tile FIRST_UNOWN_CHAR
-	lb bc, BANK(Pokedex_LoadUnownFont), NUM_UNOWN + 1
+	ld hl, vTiles2 tile FIRST_ZARBI_CHAR
+	lb bc, BANK(Pokedex_LoadZarbiFont), NUM_ZARBI + 1
 	call Request2bpp
 	call CloseSRAM
 	ret
 
-Pokedex_LoadUnownFrontpicTiles:
-	ld a, [wUnownLetter]
+Pokedex_LoadZarbiFrontpicTiles:
+	ld a, [wZarbiLetter]
 	push af
-	ld a, [wDexCurUnownIndex]
+	ld a, [wDexCurZarbiIndex]
 	ld e, a
 	ld d, 0
-	ld hl, wUnownDex
+	ld hl, wZarbiDex
 	add hl, de
 	ld a, [hl]
-	ld [wUnownLetter], a
-	ld a, UNOWN
+	ld [wZarbiLetter], a
+	ld a, ZARBI
 	ld [wCurPartySpecies], a
 	call GetBaseData
 	ld de, vTiles2 tile $00
 	predef GetMonFrontpic
 	pop af
-	ld [wUnownLetter], a
+	ld [wZarbiLetter], a
 	ret
 
 _NewPokedexEntry:

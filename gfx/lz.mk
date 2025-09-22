@@ -13,9 +13,9 @@ gfx/diploma/diploma.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1
 gfx/memory_game/memory_game.2bpp.lz: LZFLAGS += --method 2 --align 4
 
 gfx/intro/%.lz: LZFLAGS += --align 4
-gfx/intro/crystal_unowns.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1
+gfx/intro/crystal_zarbis.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1
 gfx/intro/suicune_close.2bpp.lz: LZFLAGS += --method 2 --align 4
-gfx/intro/unown_back.2bpp.lz: LZFLAGS += --method 2 --align 4
+gfx/intro/zarbi_back.2bpp.lz: LZFLAGS += --method 2 --align 4
 
 gfx/mobile/mobile_trade.%.lz: LZFLAGS += --align 4
 gfx/mobile/mobile_trade_sprites.2bpp.lz: LZFLAGS += --align 4
@@ -41,7 +41,7 @@ gfx/pokemon/kapoera/back.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/nidoran_f/front.animated.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/colossinge/front.animated.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/insecateur/front.animated.2bpp.lz: LZFLAGS += --method 4
-gfx/pokemon/unown_g/front.animated.2bpp.lz: LZFLAGS += --method 4
+gfx/pokemon/zarbi_g/front.animated.2bpp.lz: LZFLAGS += --method 4
 gfx/pokemon/voltorbe/front.animated.2bpp.lz: LZFLAGS += --method 4
 
 gfx/sgb/gbc_only.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1
@@ -73,5 +73,5 @@ gfx/title/crystal.2bpp.lz: LZFLAGS += --align 4
 gfx/title/logo.2bpp.lz: LZFLAGS = --compressor null --method 1 --align 1
 gfx/title/suicune.2bpp.lz: LZFLAGS += --align 4
 
-gfx/unown_puzzle/%.lz: LZFLAGS += --align 4
-gfx/unown_puzzle/start_cancel.2bpp.lz: LZFLAGS += --method 8 --align 1
+gfx/zarbi_puzzle/%.lz: LZFLAGS += --align 4
+gfx/zarbi_puzzle/start_cancel.2bpp.lz: LZFLAGS += --method 8 --align 1

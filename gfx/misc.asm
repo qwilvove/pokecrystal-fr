@@ -45,10 +45,10 @@ GameFreakMetamorphGFX::
 INCBIN "gfx/splash/metamorph.2bpp.lz"
 
 
-SECTION "Unown Font", ROMX
+SECTION "Zarbi Font", ROMX
 
-UnownFont::
-INCBIN "gfx/font/unown_font.2bpp"
+ZarbiFont::
+INCBIN "gfx/font/zarbi_font.2bpp"
 
 
 SECTION "Pokégear GFX", ROMX

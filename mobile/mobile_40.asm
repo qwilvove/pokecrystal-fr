@@ -6417,20 +6417,20 @@ Function102d48:
 
 .asm_102d6d
 	ld a, [wTempSpecies]
-	cp UNOWN
+	cp ZARBI
 	jr nz, .asm_102d98
 	ld a, [wcd4c]
 	dec a
 	ld bc, PARTYMON_STRUCT_LENGTH
 	ld hl, wPartyMon1DVs
 	call AddNTimes
-	predef GetUnownLetter
-	farcall UpdateUnownDex
-	ld a, [wFirstUnownSeen]
+	predef GetZarbiLetter
+	farcall UpdateZarbiDex
+	ld a, [wFirstZarbiSeen]
 	and a
 	jr nz, .asm_102d98
-	ld a, [wUnownLetter]
-	ld [wFirstUnownSeen], a
+	ld a, [wZarbiLetter]
+	ld [wFirstZarbiSeen], a
 
 .asm_102d98
 	and a

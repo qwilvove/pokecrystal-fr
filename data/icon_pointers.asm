@@ -26,7 +26,7 @@ IconPointers:
 	dw BulbizarreIcon
 	dw SalamecheIcon
 	dw CaterpillarIcon
-	dw UnownIcon
+	dw ZarbiIcon
 	dw RacaillouIcon
 	dw FighterIcon
 	dw EggIcon

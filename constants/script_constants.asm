@@ -59,7 +59,7 @@ DEF STRING_BUFFER_LENGTH EQU 19
 	const VAR_WEEKDAY          ; 0b
 	const VAR_MAPGROUP         ; 0c
 	const VAR_MAPNUMBER        ; 0d
-	const VAR_UNOWNCOUNT       ; 0e
+	const VAR_ZARBICOUNT       ; 0e
 	const VAR_ENVIRONMENT      ; 0f
 	const VAR_BOXSPACE         ; 10
 	const VAR_CONTESTMINUTES   ; 11
@@ -304,24 +304,24 @@ DEF BUG_CONTESTANT_SIZE EQU 4
 	const HEALMACHINE_ELMS_LAB     ; 1
 	const HEALMACHINE_HALL_OF_FAME ; 2
 
-; UnownPuzzle setval arguments
-; LoadUnownPuzzlePiecesGFX.LZPointers indexes (see engine/games/unown_puzzle.asm)
+; ZarbiPuzzle setval arguments
+; LoadZarbiPuzzlePiecesGFX.LZPointers indexes (see engine/games/zarbi_puzzle.asm)
 	const_def
-	const UNOWNPUZZLE_KABUTO     ; 0
-	const UNOWNPUZZLE_AMONITA    ; 1
-	const UNOWNPUZZLE_PTERA ; 2
-	const UNOWNPUZZLE_HO_OH      ; 3
-DEF NUM_UNOWN_PUZZLES EQU const_value
+	const ZARBIPUZZLE_KABUTO     ; 0
+	const ZARBIPUZZLE_AMONITA    ; 1
+	const ZARBIPUZZLE_PTERA ; 2
+	const ZARBIPUZZLE_HO_OH      ; 3
+DEF NUM_ZARBI_PUZZLES EQU const_value
 
-; DisplayUnownWords setval arguments
-; UnownWalls and MenuHeaders_UnownWalls indexes (see data/events/unown_walls.asm)
+; DisplayZarbiWords setval arguments
+; ZarbiWalls and MenuHeaders_ZarbiWalls indexes (see data/events/zarbi_walls.asm)
 	const_def
-	const UNOWNWORDS_ESCAPE ; 0
-	const UNOWNWORDS_LIGHT  ; 1
-	const UNOWNWORDS_WATER  ; 2
-	const UNOWNWORDS_HO_OH  ; 3
-DEF NUM_UNOWN_WALLS EQU const_value
-DEF UNOWN_WALL_MENU_HEADER_SIZE EQU 5
+	const ZARBIWORDS_ESCAPE ; 0
+	const ZARBIWORDS_LIGHT  ; 1
+	const ZARBIWORDS_WATER  ; 2
+	const ZARBIWORDS_HO_OH  ; 3
+DEF NUM_ZARBI_WALLS EQU const_value
+DEF ZARBI_WALL_MENU_HEADER_SIZE EQU 5
 
 ; MoveTutor setval arguments
 	const_def 1

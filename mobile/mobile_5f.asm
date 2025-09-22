@@ -393,7 +393,7 @@ Function17d1f1:
 	call SetSeenAndCaughtMon
 
 	ld a, [wCurPartySpecies]
-	cp UNOWN
+	cp ZARBI
 	jr nz, .asm_17d223
 
 	ld hl, wPartyMon1DVs
@@ -401,14 +401,14 @@ Function17d1f1:
 	dec a
 	ld bc, PARTYMON_STRUCT_LENGTH
 	call AddNTimes
-	predef GetUnownLetter
-	callfar UpdateUnownDex
-	ld a, [wFirstUnownSeen]
+	predef GetZarbiLetter
+	callfar UpdateZarbiDex
+	ld a, [wFirstZarbiSeen]
 	and a
 	jr nz, .asm_17d223
 
-	ld a, [wUnownLetter]
-	ld [wFirstUnownSeen], a
+	ld a, [wZarbiLetter]
+	ld [wFirstZarbiSeen], a
 
 .asm_17d223
 	ret

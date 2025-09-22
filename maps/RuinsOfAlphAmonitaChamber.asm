@@ -48,8 +48,8 @@ RuinsOfAlphAmonitaChamberWallOpenScript:
 
 RuinsOfAlphAmonitaChamberPuzzle:
 	reanchormap
-	setval UNOWNPUZZLE_AMONITA
-	special UnownPuzzle
+	setval ZARBIPUZZLE_AMONITA
+	special ZarbiPuzzle
 	closetext
 	iftrue .PuzzleComplete
 	end
@@ -57,7 +57,7 @@ RuinsOfAlphAmonitaChamberPuzzle:
 .PuzzleComplete:
 	setevent EVENT_RUINS_OF_ALPH_INNER_CHAMBER_TOURISTS
 	setevent EVENT_SOLVED_AMONITA_PUZZLE
-	setflag ENGINE_UNLOCKED_UNOWNS_L_TO_R
+	setflag ENGINE_UNLOCKED_ZARBIS_L_TO_R
 	setmapscene RUINS_OF_ALPH_INNER_CHAMBER, SCENE_RUINSOFALPHINNERCHAMBER_STRANGE_PRESENCE
 	earthquake 30
 	showemote EMOTE_SHOCK, PLAYER, 15
@@ -82,8 +82,8 @@ RuinsOfAlphAmonitaChamberDescriptionSign:
 RuinsOfAlphAmonitaChamberWallPatternLeft:
 	opentext
 	writetext RuinsOfAlphAmonitaChamberWallPatternLeftText
-	setval UNOWNWORDS_WATER
-	special DisplayUnownWords
+	setval ZARBIWORDS_WATER
+	special DisplayZarbiWords
 	closetext
 	end
 
@@ -92,8 +92,8 @@ RuinsOfAlphAmonitaChamberWallPatternRight:
 	iftrue .WallOpen
 	opentext
 	writetext RuinsOfAlphAmonitaChamberWallPatternRightText
-	setval UNOWNWORDS_WATER
-	special DisplayUnownWords
+	setval ZARBIWORDS_WATER
+	special DisplayZarbiWords
 	closetext
 	end
 
@@ -114,7 +114,7 @@ RuinsOfAlphAmonitaChamberWallPatternLeftText:
 	cont "murs..."
 	done
 
-RuinsOfAlphAmonitaChamberUnownText: ; unreferenced
+RuinsOfAlphAmonitaChamberZarbiText: ; unreferenced
 	text "C'est du texte"
 	line "ZARBI!"
 	done

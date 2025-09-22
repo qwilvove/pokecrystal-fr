@@ -105,9 +105,9 @@ OverworldTownMap:
 	call ExitAllMenus
 	ret
 
-UnownPrinter:
+ZarbiPrinter:
 	call FadeToMenu
-	farcall _UnownPrinter
+	farcall _ZarbiPrinter
 	call ExitAllMenus
 	ret
 
@@ -182,10 +182,10 @@ MapRadio:
 	farcall PlayRadio
 	ret
 
-UnownPuzzle:
+ZarbiPuzzle:
 	call FadeToMenu
-	farcall _UnownPuzzle
-	ld a, [wSolvedUnownPuzzle]
+	farcall _ZarbiPuzzle
+	ld a, [wSolvedZarbiPuzzle]
 	ld [wScriptVar], a
 	call ExitAllMenus
 	ret

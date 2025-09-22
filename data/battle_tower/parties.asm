@@ -472,7 +472,7 @@ BattleTowerMons:
 	bigdw 29 ; SDef
 	dname "HERAKUROSU", MON_NAME_LENGTH
 
-	db UNOWN
+	db ZARBI
 	db BERRY
 	db HIDDEN_POWER, 0, 0, 0
 	dw 0 ; OT ID

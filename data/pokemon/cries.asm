@@ -206,7 +206,7 @@ PokemonCries::
 	mon_cry CRY_MARILL,      -31,  384 ; CORNEBRE
 	mon_cry CRY_ROIGADA,    260,  512 ; ROIGADA
 	mon_cry CRY_HOOTHOOT,    304,  232 ; FEUFOREVE
-	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
+	mon_cry CRY_HOOTHOOT,    354,  256 ; ZARBI
 	mon_cry CRY_PHARAMP,    635,  324 ; QULBUTOKE
 	mon_cry CRY_GIRAFARIG,    65,  512 ; GIRAFARIG
 	mon_cry CRY_ROIGADA,    128,  256 ; POMDEPIK

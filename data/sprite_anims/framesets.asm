@@ -58,13 +58,13 @@ SpriteAnimFrameData:
 	dw .Frameset_IntroSuicune2
 	dw .Frameset_IntroPichu
 	dw .Frameset_IntroAxoloto
-	dw .Frameset_IntroUnown1
-	dw .Frameset_IntroUnown2
-	dw .Frameset_IntroUnown3
-	dw .Frameset_IntroUnown4
-	dw .Frameset_IntroUnownF2
+	dw .Frameset_IntroZarbi1
+	dw .Frameset_IntroZarbi2
+	dw .Frameset_IntroZarbi3
+	dw .Frameset_IntroZarbi4
+	dw .Frameset_IntroZarbiF2
 	dw .Frameset_IntroSuicuneAway
-	dw .Frameset_IntroUnownF
+	dw .Frameset_IntroZarbiF
 	dw .Frameset_CelebiLeft
 	dw .Frameset_CelebiRight
 	assert_table_length NUM_SPRITE_ANIM_FRAMESETS
@@ -448,43 +448,43 @@ SpriteAnimFrameData:
 	oamframe SPRITE_ANIM_OAMSET_INTRO_AXOLOTO,  3
 	oamend
 
-.Frameset_IntroUnown1:
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_1,  3
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_2,  3
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_3,  7
+.Frameset_IntroZarbi1:
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_1,  3
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_2,  3
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_3,  7
 	oamdelete
 
-.Frameset_IntroUnown2:
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_1,  3, B_OAM_XFLIP
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_2,  3, B_OAM_XFLIP
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_3,  7, B_OAM_XFLIP
+.Frameset_IntroZarbi2:
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_1,  3, B_OAM_XFLIP
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_2,  3, B_OAM_XFLIP
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_3,  7, B_OAM_XFLIP
 	oamdelete
 
-.Frameset_IntroUnown3:
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_1,  3, B_OAM_YFLIP
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_2,  3, B_OAM_YFLIP
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_3,  7, B_OAM_YFLIP
+.Frameset_IntroZarbi3:
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_1,  3, B_OAM_YFLIP
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_2,  3, B_OAM_YFLIP
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_3,  7, B_OAM_YFLIP
 	oamdelete
 
-.Frameset_IntroUnown4:
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_1,  3, B_OAM_XFLIP, B_OAM_YFLIP
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_2,  3, B_OAM_XFLIP, B_OAM_YFLIP
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_3,  7, B_OAM_XFLIP, B_OAM_YFLIP
+.Frameset_IntroZarbi4:
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_1,  3, B_OAM_XFLIP, B_OAM_YFLIP
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_2,  3, B_OAM_XFLIP, B_OAM_YFLIP
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_3,  7, B_OAM_XFLIP, B_OAM_YFLIP
 	oamdelete
 
-.Frameset_IntroUnownF2:
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_1,  3
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_2,  3
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_3,  3
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_4,  7
-	oamframe SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_5,  7
+.Frameset_IntroZarbiF2:
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_1,  3
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_2,  3
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_3,  3
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_4,  7
+	oamframe SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_5,  7
 	oamend
 
 .Frameset_IntroSuicuneAway:
 	oamframe SPRITE_ANIM_OAMSET_INTRO_SUICUNE_AWAY,  3
 	oamend
 
-.Frameset_IntroUnownF:
+.Frameset_IntroZarbiF:
 	oamwait 0
 	oamend
 

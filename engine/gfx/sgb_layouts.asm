@@ -46,9 +46,9 @@ SGBLayoutJumptable:
 	dw .SGB_MagnetTrain
 	dw .SGB_PackPals
 	dw .SGB_TrainerCard
-	dw .SGB_PokedexUnownMode
+	dw .SGB_PokedexZarbiMode
 	dw .SGB_BillsPC
-	dw .SGB_UnownPuzzle
+	dw .SGB_ZarbiPuzzle
 	dw .SGB_GamefreakLogo
 	dw .SGB_PlayerOrMonFrontpicPals
 	dw .SGB_TradeTube
@@ -254,9 +254,9 @@ SGBLayoutJumptable:
 	ld de, BlkPacket_Pokedex_PC
 	ret
 
-.SGB_PokedexUnownMode:
+.SGB_PokedexZarbiMode:
 	call .SGB_Pokedex
-	ld de, BlkPacket_PokedexUnownMode
+	ld de, BlkPacket_PokedexZarbiMode
 	ret
 
 .SGB_PokedexSearchOption:
@@ -406,8 +406,8 @@ endr
 	ld de, BlkPacket_AllPal0
 	ret
 
-.SGB_UnownPuzzle:
-	ld hl, PalPacket_UnownPuzzle
+.SGB_ZarbiPuzzle:
+	ld hl, PalPacket_ZarbiPuzzle
 	ld de, BlkPacket_AllPal0
 	ret
 

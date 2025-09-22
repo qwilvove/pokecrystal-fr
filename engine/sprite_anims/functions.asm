@@ -46,8 +46,8 @@ DoSpriteAnimFrame:
 	dw SpriteAnimFunc_IntroSuicune
 	dw SpriteAnimFunc_IntroPichuAxoloto
 	dw SpriteAnimFunc_Celebi
-	dw SpriteAnimFunc_IntroUnown
-	dw SpriteAnimFunc_IntroUnownF
+	dw SpriteAnimFunc_IntroZarbi
+	dw SpriteAnimFunc_IntroZarbiF
 	dw SpriteAnimFunc_IntroSuicuneAway
 	assert_table_length NUM_SPRITE_ANIM_FUNCS
 
@@ -794,7 +794,7 @@ SpriteAnimFunc_IntroPichuAxoloto:
 .done
 	ret
 
-SpriteAnimFunc_IntroUnown:
+SpriteAnimFunc_IntroZarbi:
 	ld hl, SPRITEANIMSTRUCT_JUMPTABLE_INDEX
 	add hl, bc
 	ld d, [hl]
@@ -820,11 +820,11 @@ SpriteAnimFunc_IntroUnown:
 	ld [hl], a
 	ret
 
-SpriteAnimFunc_IntroUnownF:
+SpriteAnimFunc_IntroZarbiF:
 	ld a, [wSlotsDelay]
 	cp $40
 	ret nz
-	ld a, SPRITE_ANIM_FRAMESET_INTRO_UNOWN_F_2
+	ld a, SPRITE_ANIM_FRAMESET_INTRO_ZARBI_F_2
 	call _ReinitSpriteAnimFrame
 	ret
 

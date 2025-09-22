@@ -211,12 +211,12 @@ PrintPartyMonPage1:
 	call PlaceMoveNameString
 	call PlaceGenderAndShininess
 	ld hl, wTempMonDVs
-	predef GetUnownLetter
+	predef GetZarbiLetter
 	ld hl, wBoxAlignment
 	xor a
 	ld [hl], a
 	ld a, [wCurPartySpecies]
-	cp UNOWN
+	cp ZARBI
 	jr z, .got_alignment
 	inc [hl]
 .got_alignment

@@ -26,7 +26,7 @@ EngineFlags:
 	engine_flag wUnusedTwoDayTimerOn, 0 ; unused, possibly related to a 2-day timer
 
 	engine_flag wStatusFlags, STATUSFLAGS_POKEDEX_F
-	engine_flag wStatusFlags, STATUSFLAGS_UNOWN_DEX_F
+	engine_flag wStatusFlags, STATUSFLAGS_ZARBI_DEX_F
 	engine_flag wStatusFlags, STATUSFLAGS_CAUGHT_POKERUS_F
 	engine_flag wStatusFlags, STATUSFLAGS_ROCKET_SIGNAL_F
 	engine_flag wStatusFlags, STATUSFLAGS_HALL_OF_FAME_F
@@ -62,15 +62,15 @@ EngineFlags:
 	engine_flag wKantoBadges, VOLCANOBADGE
 	engine_flag wKantoBadges, EARTHBADGE
 
-	; unown sets (see data/wild/unlocked_unowns.asm)
-	engine_flag wUnlockedUnowns, UNLOCKED_UNOWNS_A_TO_K_F
-	engine_flag wUnlockedUnowns, UNLOCKED_UNOWNS_L_TO_R_F
-	engine_flag wUnlockedUnowns, UNLOCKED_UNOWNS_S_TO_W_F
-	engine_flag wUnlockedUnowns, UNLOCKED_UNOWNS_X_TO_Z_F
-	engine_flag wUnlockedUnowns, 4 ; unused
-	engine_flag wUnlockedUnowns, 5 ; unused
-	engine_flag wUnlockedUnowns, 6 ; unused
-	engine_flag wUnlockedUnowns, 7 ; unused
+	; zarbi sets (see data/wild/unlocked_zarbis.asm)
+	engine_flag wUnlockedZarbis, UNLOCKED_ZARBIS_A_TO_K_F
+	engine_flag wUnlockedZarbis, UNLOCKED_ZARBIS_L_TO_R_F
+	engine_flag wUnlockedZarbis, UNLOCKED_ZARBIS_S_TO_W_F
+	engine_flag wUnlockedZarbis, UNLOCKED_ZARBIS_X_TO_Z_F
+	engine_flag wUnlockedZarbis, 4 ; unused
+	engine_flag wUnlockedZarbis, 5 ; unused
+	engine_flag wUnlockedZarbis, 6 ; unused
+	engine_flag wUnlockedZarbis, 7 ; unused
 
 	; fly
 	engine_flag wVisitedSpawns, SPAWN_HOME

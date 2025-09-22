@@ -26,5 +26,5 @@ Animation data is in these files:
   Idle animations, appended to the main animation.  
   Used in the status screen (blinking, tail wags etc.)
 
-- [gfx/pokemon/unown_anims.asm](https://github.com/pret/pokecrystal/blob/master/gfx/pokemon/unown_anims.asm) and [gfx/pokemon/unown_idles.asm](https://github.com/pret/pokecrystal/blob/master/gfx/pokemon/unown_idles.asm):
-  Unown has its own animation data despite having an entry in the main tables.
+- [gfx/pokemon/zarbi_anims.asm](https://github.com/pret/pokecrystal/blob/master/gfx/pokemon/zarbi_anims.asm) and [gfx/pokemon/zarbi_idles.asm](https://github.com/pret/pokecrystal/blob/master/gfx/pokemon/zarbi_idles.asm):
+  Zarbi has its own animation data despite having an entry in the main tables.

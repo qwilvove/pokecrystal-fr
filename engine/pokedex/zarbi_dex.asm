@@ -1,8 +1,8 @@
-UpdateUnownDex:
-	ld a, [wUnownLetter]
+UpdateZarbiDex:
+	ld a, [wZarbiLetter]
 	ld c, a
-	ld b, NUM_UNOWN
-	ld hl, wUnownDex
+	ld b, NUM_ZARBI
+	ld hl, wZarbiDex
 .loop
 	ld a, [hli]
 	and a
@@ -18,20 +18,20 @@ UpdateUnownDex:
 	ld [hl], c
 	ret
 
-PrintUnownWord:
+PrintZarbiWord:
 	hlcoord 4, 15
 	ld bc, 12
 	ld a, " "
 	call ByteFill
-	ld a, [wDexCurUnownIndex]
+	ld a, [wDexCurZarbiIndex]
 	ld e, a
 	ld d, 0
-	ld hl, wUnownDex
+	ld hl, wZarbiDex
 	add hl, de
 	ld a, [hl]
 	ld e, a
 	ld d, 0
-	ld hl, UnownWords
+	ld hl, ZarbiWords
 	add hl, de
 	add hl, de
 	ld a, [hli]
@@ -46,4 +46,4 @@ PrintUnownWord:
 	ld [hli], a
 	jr .loop
 
-INCLUDE "data/pokemon/unown_words.asm"
+INCLUDE "data/pokemon/zarbi_words.asm"

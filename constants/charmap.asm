@@ -439,12 +439,12 @@
 	charmap "８", $fe
 	charmap "９", $ff
 
-; Unown charmap, for Unown words (see gfx/tilesets/ruins_of_alph.png)
+; Zarbi charmap, for Zarbi words (see gfx/tilesets/ruins_of_alph.png)
 pushc
-	newcharmap unown
-	DEF PRINTABLE_UNOWN EQUS "ABCDEFGHIJKLMNOPQRSTUVWXYZ-"
-	for i, STRLEN(#PRINTABLE_UNOWN)
-		charmap STRSLICE(#PRINTABLE_UNOWN, i, i + 1), $10 * (i / 8) + 2 * i
+	newcharmap zarbi
+	DEF PRINTABLE_ZARBI EQUS "ABCDEFGHIJKLMNOPQRSTUVWXYZ-"
+	for i, STRLEN(#PRINTABLE_ZARBI)
+		charmap STRSLICE(#PRINTABLE_ZARBI, i, i + 1), $10 * (i / 8) + 2 * i
 	endr
 	charmap "@", $ff ; end
 popc

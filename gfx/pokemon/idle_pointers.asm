@@ -200,7 +200,7 @@ AnimationIdlePointers:
 	dw CornebreAnimationIdle
 	dw RoigadaAnimationIdle
 	dw FeuforeveAnimationIdle
-	dw UnownAnimationIdle
+	dw ZarbiAnimationIdle
 	dw QulbutokeAnimationIdle
 	dw GirafarigAnimationIdle
 	dw PomdepikAnimationIdle

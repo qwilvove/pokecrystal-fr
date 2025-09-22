@@ -1,5 +1,5 @@
-GetUnownLetter:
-; Return Unown letter in wUnownLetter based on DVs at hl
+GetZarbiLetter:
+; Return Zarbi letter in wZarbiLetter based on DVs at hl
 
 ; Take the middle 2 bits of each DV and place them in order:
 ;	atk  def  spd  spc
@@ -37,7 +37,7 @@ GetUnownLetter:
 	ldh [hDividend], a
 	ldh [hDividend + 1], a
 	ldh [hDividend + 2], a
-	ld a, $ff / NUM_UNOWN + 1
+	ld a, $ff / NUM_ZARBI + 1
 	ldh [hDivisor], a
 	ld b, 4
 	call Divide
@@ -45,7 +45,7 @@ GetUnownLetter:
 ; Increment to get 1-26
 	ldh a, [hQuotient + 3]
 	inc a
-	ld [wUnownLetter], a
+	ld [wZarbiLetter], a
 	ret
 
 GetMonFrontpic:
@@ -104,17 +104,17 @@ _GetFrontpic:
 
 GetFrontpicPointer:
 	ld a, [wCurPartySpecies]
-	cp UNOWN
-	jr z, .unown
+	cp ZARBI
+	jr z, .zarbi
 	ld a, [wCurPartySpecies]
 	ld d, BANK(PokemonPicPointers)
 	jr .ok
-.unown
-	ld a, [wUnownLetter]
-	ld d, BANK(UnownPicPointers)
+.zarbi
+	ld a, [wZarbiLetter]
+	ld d, BANK(ZarbiPicPointers)
 .ok
 	; These are assumed to be at the same address in their respective banks.
-	assert PokemonPicPointers == UnownPicPointers
+	assert PokemonPicPointers == ZarbiPicPointers
 	ld hl, PokemonPicPointers
 	dec a
 	ld bc, 6
@@ -199,7 +199,7 @@ GetMonBackpic:
 
 	ld a, [wCurPartySpecies]
 	ld b, a
-	ld a, [wUnownLetter]
+	ld a, [wZarbiLetter]
 	ld c, a
 	ldh a, [rWBK]
 	push af
@@ -208,14 +208,14 @@ GetMonBackpic:
 	push de
 
 	; These are assumed to be at the same address in their respective banks.
-	assert PokemonPicPointers == UnownPicPointers
+	assert PokemonPicPointers == ZarbiPicPointers
 	ld hl, PokemonPicPointers
 	ld a, b
 	ld d, BANK(PokemonPicPointers)
-	cp UNOWN
+	cp ZARBI
 	jr nz, .ok
 	ld a, c
-	ld d, BANK(UnownPicPointers)
+	ld d, BANK(ZarbiPicPointers)
 .ok
 	dec a
 	ld bc, 6

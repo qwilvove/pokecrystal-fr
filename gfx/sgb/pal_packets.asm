@@ -25,8 +25,8 @@ PalPacket_MagnetTrain:
 PalPacket_BetaPoker:
 	sgb_pal_set BETA_POKER_0, BETA_POKER_1, BETA_POKER_2, BETA_POKER_3
 
-PalPacket_UnownPuzzle:
-	sgb_pal_set UNOWN_PUZZLE, UNOWN_PUZZLE, UNOWN_PUZZLE, UNOWN_PUZZLE
+PalPacket_ZarbiPuzzle:
+	sgb_pal_set ZARBI_PUZZLE, ZARBI_PUZZLE, ZARBI_PUZZLE, ZARBI_PUZZLE
 
 PalPacket_AllPal0:
 	sgb_pal_set ROUTES, ROUTES, ROUTES, ROUTES

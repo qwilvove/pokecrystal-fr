@@ -54,8 +54,8 @@ RuinsOfAlphKabutoChamberReceptionistScript:
 
 RuinsOfAlphKabutoChamberPuzzle:
 	reanchormap
-	setval UNOWNPUZZLE_KABUTO
-	special UnownPuzzle
+	setval ZARBIPUZZLE_KABUTO
+	special ZarbiPuzzle
 	closetext
 	iftrue .PuzzleComplete
 	end
@@ -63,7 +63,7 @@ RuinsOfAlphKabutoChamberPuzzle:
 .PuzzleComplete:
 	setevent EVENT_RUINS_OF_ALPH_INNER_CHAMBER_TOURISTS
 	setevent EVENT_SOLVED_KABUTO_PUZZLE
-	setflag ENGINE_UNLOCKED_UNOWNS_A_TO_K
+	setflag ENGINE_UNLOCKED_ZARBIS_A_TO_K
 	setevent EVENT_RUINS_OF_ALPH_KABUTO_CHAMBER_RECEPTIONIST
 	setmapscene RUINS_OF_ALPH_INNER_CHAMBER, SCENE_RUINSOFALPHINNERCHAMBER_STRANGE_PRESENCE
 	earthquake 30
@@ -83,8 +83,8 @@ RuinsOfAlphKabutoChamberPuzzle:
 RuinsOfAlphKabutoChamberScientistScript:
 	faceplayer
 	opentext
-	readvar VAR_UNOWNCOUNT
-	ifequal NUM_UNOWN, .AllUnownCaught
+	readvar VAR_ZARBICOUNT
+	ifequal NUM_ZARBI, .AllZarbiCaught
 	checkevent EVENT_WALL_OPENED_IN_KABUTO_CHAMBER
 	iftrue .WallOpen
 	checkevent EVENT_SOLVED_KABUTO_PUZZLE
@@ -104,8 +104,8 @@ RuinsOfAlphKabutoChamberScientistScript:
 	closetext
 	end
 
-.AllUnownCaught:
-	writetext RuinsOfAlphResearchCenterScientist1Text_GotAllUnown
+.AllZarbiCaught:
+	writetext RuinsOfAlphResearchCenterScientist1Text_GotAllZarbi
 	waitbutton
 	closetext
 	end
@@ -119,8 +119,8 @@ RuinsOfAlphKabutoChamberDescriptionSign:
 RuinsOfAlphKabutoChamberWallPatternLeft:
 	opentext
 	writetext RuinsOfAlphKabutoChamberWallPatternLeftText
-	setval UNOWNWORDS_ESCAPE
-	special DisplayUnownWords
+	setval ZARBIWORDS_ESCAPE
+	special DisplayZarbiWords
 	closetext
 	end
 
@@ -129,8 +129,8 @@ RuinsOfAlphKabutoChamberWallPatternRight:
 	iftrue .WallOpen
 	opentext
 	writetext RuinsOfAlphKabutoChamberWallPatternRightText
-	setval UNOWNWORDS_ESCAPE
-	special DisplayUnownWords
+	setval ZARBIWORDS_ESCAPE
+	special DisplayZarbiWords
 	closetext
 	end
 
@@ -220,7 +220,7 @@ RuinsOfAlphKabutoChamberWallPatternLeftText:
 	cont "murs..."
 	done
 
-RuinsOfAlphKabutoChamberUnownText: ; unreferenced
+RuinsOfAlphKabutoChamberZarbiText: ; unreferenced
 	text "C'est du texte"
 	line "ZARBI!"
 	done

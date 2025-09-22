@@ -6,7 +6,7 @@
 RuinsOfAlphResearchCenter_MapScripts:
 	def_scene_scripts
 	scene_script RuinsOfAlphResearchCenterNoopScene,        SCENE_RUINSOFALPHRESEARCHCENTER_NOOP
-	scene_script RuinsOfAlphResearchCenterGetUnownDexScene, SCENE_RUINSOFALPHRESEARCHCENTER_GET_UNOWN_DEX
+	scene_script RuinsOfAlphResearchCenterGetZarbiDexScene, SCENE_RUINSOFALPHRESEARCHCENTER_GET_ZARBI_DEX
 
 	def_callbacks
 	callback MAPCALLBACK_OBJECTS, RuinsOfAlphResearchCenterScientistCallback
@@ -14,13 +14,13 @@ RuinsOfAlphResearchCenter_MapScripts:
 RuinsOfAlphResearchCenterNoopScene:
 	end
 
-RuinsOfAlphResearchCenterGetUnownDexScene:
-	sdefer RuinsOfAlphResearchCenterGetUnownDexScript
+RuinsOfAlphResearchCenterGetZarbiDexScene:
+	sdefer RuinsOfAlphResearchCenterGetZarbiDexScript
 	end
 
 RuinsOfAlphResearchCenterScientistCallback:
 	checkscene
-	ifequal SCENE_RUINSOFALPHRESEARCHCENTER_GET_UNOWN_DEX, .ShowScientist
+	ifequal SCENE_RUINSOFALPHRESEARCHCENTER_GET_ZARBI_DEX, .ShowScientist
 	endcallback
 
 .ShowScientist:
@@ -28,7 +28,7 @@ RuinsOfAlphResearchCenterScientistCallback:
 	appear RUINSOFALPHRESEARCHCENTER_SCIENTIST3
 	endcallback
 
-RuinsOfAlphResearchCenterGetUnownDexScript:
+RuinsOfAlphResearchCenterGetZarbiDexScript:
 	applymovement RUINSOFALPHRESEARCHCENTER_SCIENTIST3, RuinsOfAlphResearchCenterApproachesComputerMovement
 	playsound SFX_BOOT_PC
 	pause 60
@@ -48,7 +48,7 @@ RuinsOfAlphResearchCenterGetUnownDexScript:
 	writetext RuinsOfAlphResearchCenterDexUpgradedText
 	playsound SFX_ITEM
 	waitsfx
-	setflag ENGINE_UNOWN_DEX
+	setflag ENGINE_ZARBI_DEX
 	writetext RuinsOfAlphResearchCenterScientist3Text
 	waitbutton
 	closetext
@@ -60,8 +60,8 @@ RuinsOfAlphResearchCenterGetUnownDexScript:
 RuinsOfAlphResearchCenterScientist3Script:
 	faceplayer
 	opentext
-	readvar VAR_UNOWNCOUNT
-	ifequal NUM_UNOWN, .PrinterAvailable
+	readvar VAR_ZARBICOUNT
+	ifequal NUM_ZARBI, .PrinterAvailable
 	writetext RuinsOfAlphResearchCenterScientist3Text
 	waitbutton
 	closetext
@@ -76,31 +76,31 @@ RuinsOfAlphResearchCenterScientist3Script:
 RuinsOfAlphResearchCenterScientist1Script:
 	faceplayer
 	opentext
-	readvar VAR_UNOWNCOUNT
-	ifequal NUM_UNOWN, .GotAllUnown
-	checkflag ENGINE_UNOWN_DEX
-	iftrue .GotUnownDex
-	checkevent EVENT_MADE_UNOWN_APPEAR_IN_RUINS
-	iftrue .UnownAppeared
+	readvar VAR_ZARBICOUNT
+	ifequal NUM_ZARBI, .GotAllZarbi
+	checkflag ENGINE_ZARBI_DEX
+	iftrue .GotZarbiDex
+	checkevent EVENT_MADE_ZARBI_APPEAR_IN_RUINS
+	iftrue .ZarbiAppeared
 	writetext RuinsOfAlphResearchCenterScientist1Text
 	waitbutton
 	closetext
 	end
 
-.UnownAppeared:
-	writetext RuinsOfAlphResearchCenterScientist1Text_UnownAppeared
+.ZarbiAppeared:
+	writetext RuinsOfAlphResearchCenterScientist1Text_ZarbiAppeared
 	waitbutton
 	closetext
 	end
 
-.GotUnownDex:
-	writetext RuinsOfAlphResearchCenterScientist1Text_GotUnownDex
+.GotZarbiDex:
+	writetext RuinsOfAlphResearchCenterScientist1Text_GotZarbiDex
 	waitbutton
 	closetext
 	end
 
-.GotAllUnown:
-	writetext RuinsOfAlphResearchCenterScientist1Text_GotAllUnown
+.GotAllZarbi:
+	writetext RuinsOfAlphResearchCenterScientist1Text_GotAllZarbi
 	waitbutton
 	closetext
 	clearevent EVENT_RUINS_OF_ALPH_OUTSIDE_TOURIST_YOUNGSTERS
@@ -109,23 +109,23 @@ RuinsOfAlphResearchCenterScientist1Script:
 RuinsOfAlphResearchCenterScientist2Script:
 	faceplayer
 	opentext
-	readvar VAR_UNOWNCOUNT
-	ifequal NUM_UNOWN, .GotAllUnown
-	checkevent EVENT_MADE_UNOWN_APPEAR_IN_RUINS
-	iftrue .UnownAppeared
+	readvar VAR_ZARBICOUNT
+	ifequal NUM_ZARBI, .GotAllZarbi
+	checkevent EVENT_MADE_ZARBI_APPEAR_IN_RUINS
+	iftrue .ZarbiAppeared
 	writetext RuinsOfAlphResearchCenterScientist2Text
 	waitbutton
 	closetext
 	end
 
-.UnownAppeared:
-	writetext RuinsOfAlphResearchCenterScientist2Text_UnownAppeared
+.ZarbiAppeared:
+	writetext RuinsOfAlphResearchCenterScientist2Text_ZarbiAppeared
 	waitbutton
 	closetext
 	end
 
-.GotAllUnown:
-	writetext RuinsOfAlphResearchCenterScientist2Text_GotAllUnown
+.GotAllZarbi:
+	writetext RuinsOfAlphResearchCenterScientist2Text_GotAllZarbi
 	waitbutton
 	closetext
 	end
@@ -134,16 +134,16 @@ RuinsOfAlphResearchCenterComputer:
 	opentext
 	checkevent EVENT_RUINS_OF_ALPH_RESEARCH_CENTER_SCIENTIST
 	iftrue .SkipChecking
-	readvar VAR_UNOWNCOUNT
-	ifequal NUM_UNOWN, .GotAllUnown
+	readvar VAR_ZARBICOUNT
+	ifequal NUM_ZARBI, .GotAllZarbi
 .SkipChecking:
 	writetext RuinsOfAlphResearchCenterComputerText
 	waitbutton
 	closetext
 	end
 
-.GotAllUnown:
-	writetext RuinsOfAlphResearchCenterComputerText_GotAllUnown
+.GotAllZarbi:
+	writetext RuinsOfAlphResearchCenterComputerText_GotAllZarbi
 	waitbutton
 	closetext
 	end
@@ -152,8 +152,8 @@ RuinsOfAlphResearchCenterPrinter:
 	opentext
 	checkevent EVENT_RUINS_OF_ALPH_RESEARCH_CENTER_SCIENTIST
 	iftrue .SkipChecking
-	readvar VAR_UNOWNCOUNT
-	ifequal NUM_UNOWN, .PrinterAvailable
+	readvar VAR_ZARBICOUNT
+	ifequal NUM_ZARBI, .PrinterAvailable
 .SkipChecking:
 	writetext RuinsOfAlphResearchCenterPrinterText_DoesntWork
 	waitbutton
@@ -161,9 +161,9 @@ RuinsOfAlphResearchCenterPrinter:
 	end
 
 .PrinterAvailable:
-	writetext RuinsOfAlphResearchCenterUnownPrinterText
+	writetext RuinsOfAlphResearchCenterZarbiPrinterText
 	waitbutton
-	special UnownPrinter
+	special ZarbiPrinter
 	closetext
 	end
 
@@ -247,14 +247,14 @@ RuinsOfAlphResearchCenterScientist1Text:
 	cont "Ni dans quel but."
 	done
 
-RuinsOfAlphResearchCenterScientist1Text_GotUnownDex:
+RuinsOfAlphResearchCenterScientist1Text_GotZarbiDex:
 	text "Combien y a-t-il"
 	line "de #MON diffé-"
 	cont "rents dans les"
 	cont "RUINES?"
 	done
 
-RuinsOfAlphResearchCenterScientist1Text_UnownAppeared:
+RuinsOfAlphResearchCenterScientist1Text_ZarbiAppeared:
 	text "Des #MON sont"
 	line "apparus dans les"
 	cont "RUINES?"
@@ -266,7 +266,7 @@ RuinsOfAlphResearchCenterScientist1Text_UnownAppeared:
 	line "suite y aller!"
 	done
 
-RuinsOfAlphResearchCenterScientist1Text_GotAllUnown:
+RuinsOfAlphResearchCenterScientist1Text_GotAllZarbi:
 	text "Grâce à ton aide,"
 	line "notre enquête sur"
 
@@ -291,7 +291,7 @@ RuinsOfAlphResearchCenterScientist2Text:
 	cont "des RUINES."
 	done
 
-RuinsOfAlphResearchCenterScientist2Text_UnownAppeared:
+RuinsOfAlphResearchCenterScientist2Text_ZarbiAppeared:
 	text "Les étranges #-"
 	line "MON des RUINES?"
 
@@ -334,7 +334,7 @@ RuinsOfAlphResearchCenterUnusedText2: ; unreferenced
 	cont "influence..."
 	done
 
-RuinsOfAlphResearchCenterScientist2Text_GotAllUnown:
+RuinsOfAlphResearchCenterScientist2Text_GotAllZarbi:
 	text "Comment ces drôles"
 	line "de figures ont pu"
 	cont "apparaître?"
@@ -351,11 +351,11 @@ RuinsOfAlphResearchCenterComputerText:
 	line "Année 10"
 	done
 
-RuinsOfAlphResearchCenterComputerText_GotAllUnown:
+RuinsOfAlphResearchCenterComputerText_GotAllZarbi:
 	text "#MON Mystère"
 	line "Nom: ZARBI"
 
-	para "Un total de {d:NUM_UNOWN}"
+	para "Un total de {d:NUM_ZARBI}"
 	line "types découverts."
 	done
 
@@ -365,7 +365,7 @@ RuinsOfAlphResearchCenterPrinterText_DoesntWork:
 	cont "l'instant..."
 	done
 
-RuinsOfAlphResearchCenterUnownPrinterText:
+RuinsOfAlphResearchCenterZarbiPrinterText:
 	text "ZARBI peut être"
 	line "imprimé."
 	done

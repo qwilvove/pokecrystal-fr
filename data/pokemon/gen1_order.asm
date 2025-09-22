@@ -240,7 +240,7 @@ Pokered_MonIndices:
 	db CORNEBRE
 	db ROIGADA
 	db FEUFOREVE
-	db UNOWN
+	db ZARBI
 	db QULBUTOKE
 	db GIRAFARIG
 	db POMDEPIK

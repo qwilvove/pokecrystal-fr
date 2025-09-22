@@ -50,9 +50,9 @@ SpecialsPointers::
 	add_special NameRival
 	add_special SetDayOfWeek
 	add_special OverworldTownMap
-	add_special UnownPrinter
+	add_special ZarbiPrinter
 	add_special MapRadio
-	add_special UnownPuzzle
+	add_special ZarbiPuzzle
 	add_special SlotMachine
 	add_special CardFlip
 	add_special UnusedMemoryGame ; unused
@@ -148,7 +148,7 @@ SpecialsPointers::
 	add_special AmonitaChamber
 	add_special Function11c1ab
 	add_special BattleTowerAction
-	add_special DisplayUnownWords
+	add_special DisplayZarbiWords
 	add_special Menu_ChallengeExplanationCancel
 	add_special Function17d2b6
 	add_special Function17d2ce

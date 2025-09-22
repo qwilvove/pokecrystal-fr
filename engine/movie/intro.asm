@@ -102,29 +102,29 @@ IntroScene1:
 	ldh [hBGMapMode], a
 	ld a, $1
 	ldh [rVBK], a
-	ld hl, IntroUnownAAttrmap
+	ld hl, IntroZarbiAAttrmap
 	debgcoord 0, 0
 	call Intro_DecompressRequest2bpp_64Tiles
 	ld a, $0
 	ldh [rVBK], a
-	ld hl, IntroUnownsGFX
+	ld hl, IntroZarbisGFX
 	ld de, vTiles2 tile $00
 	call Intro_DecompressRequest2bpp_128Tiles
 	ld hl, IntroPulseGFX
 	ld de, vTiles0 tile $00
 	call Intro_DecompressRequest2bpp_128Tiles
-	ld hl, IntroUnownATilemap
+	ld hl, IntroZarbiATilemap
 	debgcoord 0, 0
 	call Intro_DecompressRequest2bpp_64Tiles
 	ldh a, [rWBK]
 	push af
 	ld a, BANK(wBGPals1)
 	ldh [rWBK], a
-	ld hl, IntroUnownsPalette
+	ld hl, IntroZarbisPalette
 	ld de, wBGPals1
 	ld bc, 16 palettes
 	call CopyBytes
-	ld hl, IntroUnownsPalette
+	ld hl, IntroZarbisPalette
 	ld de, wBGPals2
 	ld bc, 16 palettes
 	call CopyBytes
@@ -146,7 +146,7 @@ IntroScene1:
 	ret
 
 IntroScene2:
-; First Unown (A) fades in, pulses, then fades out.
+; First Zarbi (A) fades in, pulses, then fades out.
 	ld hl, wIntroSceneFrameCounter
 	ld a, [hl]
 	inc [hl]
@@ -156,14 +156,14 @@ IntroScene2:
 	jr nz, .nosound
 	push af
 	depixel 11, 11
-	call CrystalIntro_InitUnownAnim
-	ld de, SFX_INTRO_UNOWN_1
+	call CrystalIntro_InitZarbiAnim
+	ld de, SFX_INTRO_ZARBI_1
 	call PlaySFX
 	pop af
 .nosound
 	ld [wIntroSceneTimer], a
 	xor a
-	call CrystalIntro_UnownFade
+	call CrystalIntro_ZarbiFade
 	ret
 .endscene
 	call NextIntroScene
@@ -232,7 +232,7 @@ IntroScene4:
 	ret
 
 IntroScene5:
-; Go back to the Unown.
+; Go back to the Zarbi.
 	call Intro_ClearBGPals
 	call ClearSprites
 	call ClearTilemap
@@ -241,29 +241,29 @@ IntroScene5:
 	ldh [hLCDCPointer], a
 	ld a, $1
 	ldh [rVBK], a
-	ld hl, IntroUnownHIAttrmap
+	ld hl, IntroZarbiHIAttrmap
 	debgcoord 0, 0
 	call Intro_DecompressRequest2bpp_64Tiles
 	ld a, $0
 	ldh [rVBK], a
-	ld hl, IntroUnownsGFX
+	ld hl, IntroZarbisGFX
 	ld de, vTiles2 tile $00
 	call Intro_DecompressRequest2bpp_128Tiles
 	ld hl, IntroPulseGFX
 	ld de, vTiles0 tile $00
 	call Intro_DecompressRequest2bpp_128Tiles
-	ld hl, IntroUnownHITilemap
+	ld hl, IntroZarbiHITilemap
 	debgcoord 0, 0
 	call Intro_DecompressRequest2bpp_64Tiles
 	ldh a, [rWBK]
 	push af
 	ld a, BANK(wBGPals1)
 	ldh [rWBK], a
-	ld hl, IntroUnownsPalette
+	ld hl, IntroZarbisPalette
 	ld de, wBGPals1
 	ld bc, 16 palettes
 	call CopyBytes
-	ld hl, IntroUnownsPalette
+	ld hl, IntroZarbisPalette
 	ld de, wBGPals2
 	ld bc, 16 palettes
 	call CopyBytes
@@ -285,44 +285,44 @@ IntroScene5:
 	ret
 
 IntroScene6:
-; Two more Unown (I, H) fade in.
+; Two more Zarbi (I, H) fade in.
 	ld hl, wIntroSceneFrameCounter
 	ld a, [hl]
 	inc [hl]
 	cp $80
 	jr nc, .endscene
 	cp $60
-	jr z, .SecondUnown
+	jr z, .SecondZarbi
 	cp $40
-	jr nc, .StopUnown
+	jr nc, .StopZarbi
 	cp $20
-	jr z, .FirstUnown
-	jr .NoUnown
+	jr z, .FirstZarbi
+	jr .NoZarbi
 
-.FirstUnown:
+.FirstZarbi:
 	push af
 	depixel 7, 15
-	call CrystalIntro_InitUnownAnim
-	ld de, SFX_INTRO_UNOWN_2
+	call CrystalIntro_InitZarbiAnim
+	ld de, SFX_INTRO_ZARBI_2
 	call PlaySFX
 	pop af
-.NoUnown:
+.NoZarbi:
 	ld [wIntroSceneTimer], a
 	xor a
-	call CrystalIntro_UnownFade
+	call CrystalIntro_ZarbiFade
 	ret
 
-.SecondUnown:
+.SecondZarbi:
 	push af
 	depixel 14, 6
-	call CrystalIntro_InitUnownAnim
-	ld de, SFX_INTRO_UNOWN_1
+	call CrystalIntro_InitZarbiAnim
+	ld de, SFX_INTRO_ZARBI_1
 	call PlaySFX
 	pop af
-.StopUnown:
+.StopZarbi:
 	ld [wIntroSceneTimer], a
 	ld a, $1
-	call CrystalIntro_UnownFade
+	call CrystalIntro_ZarbiFade
 	ret
 
 .endscene
@@ -500,7 +500,7 @@ IntroScene10:
 	ret
 
 IntroScene11:
-; Back to Unown again.
+; Back to Zarbi again.
 	call Intro_ClearBGPals
 	call ClearSprites
 	call ClearTilemap
@@ -509,26 +509,26 @@ IntroScene11:
 	ldh [hLCDCPointer], a
 	ld a, $1
 	ldh [rVBK], a
-	ld hl, IntroUnownsAttrmap
+	ld hl, IntroZarbisAttrmap
 	debgcoord 0, 0
 	call Intro_DecompressRequest2bpp_64Tiles
 	ld a, $0
 	ldh [rVBK], a
-	ld hl, IntroUnownsGFX
+	ld hl, IntroZarbisGFX
 	ld de, vTiles2 tile $00
 	call Intro_DecompressRequest2bpp_128Tiles
-	ld hl, IntroUnownsTilemap
+	ld hl, IntroZarbisTilemap
 	debgcoord 0, 0
 	call Intro_DecompressRequest2bpp_64Tiles
 	ldh a, [rWBK]
 	push af
 	ld a, BANK(wBGPals1)
 	ldh [rWBK], a
-	ld hl, IntroUnownsPalette
+	ld hl, IntroZarbisPalette
 	ld de, wBGPals1
 	ld bc, 16 palettes
 	call CopyBytes
-	ld hl, IntroUnownsPalette
+	ld hl, IntroZarbisPalette
 	ld de, wBGPals2
 	ld bc, 16 palettes
 	call CopyBytes
@@ -550,8 +550,8 @@ IntroScene11:
 	ret
 
 IntroScene12:
-; Even more Unown.
-	call .PlayUnownSound
+; Even more Zarbi.
+	call .PlayZarbiSound
 	ld hl, wIntroSceneFrameCounter
 	ld a, [hl]
 	inc [hl]
@@ -568,7 +568,7 @@ IntroScene12:
 	and $e0
 	srl a
 	swap a
-	call CrystalIntro_UnownFade
+	call CrystalIntro_ZarbiFade
 	ret
 
 .second_half
@@ -582,17 +582,17 @@ IntroScene12:
 	and $70
 	or $40
 	swap a
-	call CrystalIntro_UnownFade
+	call CrystalIntro_ZarbiFade
 	ret
 
 .done
 	call NextIntroScene
 	ret
 
-.PlayUnownSound:
+.PlayZarbiSound:
 	ld a, [wIntroSceneFrameCounter]
 	ld c, a
-	ld hl, .UnownSounds
+	ld hl, .ZarbiSounds
 .loop
 	ld a, [hli]
 	cp -1
@@ -612,15 +612,15 @@ IntroScene12:
 	call PlaySFX
 	ret
 
-.UnownSounds:
-	dbw $00, SFX_INTRO_UNOWN_3
-	dbw $20, SFX_INTRO_UNOWN_2
-	dbw $40, SFX_INTRO_UNOWN_1
-	dbw $60, SFX_INTRO_UNOWN_2
-	dbw $80, SFX_INTRO_UNOWN_3
-	dbw $90, SFX_INTRO_UNOWN_2
-	dbw $a0, SFX_INTRO_UNOWN_1
-	dbw $b0, SFX_INTRO_UNOWN_2
+.ZarbiSounds:
+	dbw $00, SFX_INTRO_ZARBI_3
+	dbw $20, SFX_INTRO_ZARBI_2
+	dbw $40, SFX_INTRO_ZARBI_1
+	dbw $60, SFX_INTRO_ZARBI_2
+	dbw $80, SFX_INTRO_ZARBI_3
+	dbw $90, SFX_INTRO_ZARBI_2
+	dbw $a0, SFX_INTRO_ZARBI_1
+	dbw $b0, SFX_INTRO_ZARBI_2
 	db -1
 
 IntroScene13:
@@ -744,7 +744,7 @@ IntroScene15:
 	ld hl, IntroSuicuneJumpGFX
 	ld de, vTiles2 tile $00
 	call Intro_DecompressRequest2bpp_128Tiles
-	ld hl, IntroUnownBackGFX
+	ld hl, IntroZarbiBackGFX
 	ld de, vTiles0 tile $00
 	call Intro_DecompressRequest2bpp_128Tiles
 	ld de, IntroGrass4GFX
@@ -780,7 +780,7 @@ IntroScene15:
 	farcall ClearSpriteAnims
 	call Intro_SetCGBPalUpdate
 	depixel 8, 5
-	ld a, SPRITE_ANIM_OBJ_INTRO_UNOWN_F
+	ld a, SPRITE_ANIM_OBJ_INTRO_ZARBI_F
 	call InitSpriteAnimStruct
 	depixel 12, 0
 	ld a, SPRITE_ANIM_OBJ_INTRO_SUICUNE_AWAY
@@ -792,7 +792,7 @@ IntroScene15:
 	ret
 
 IntroScene16:
-; Suicune shows its face. An Unown appears in front.
+; Suicune shows its face. An Zarbi appears in front.
 	ld hl, wIntroSceneFrameCounter
 	ld a, [hl]
 	inc [hl]
@@ -892,7 +892,7 @@ IntroScene19:
 	ld hl, IntroSuicuneBackGFX
 	ld de, vTiles2 tile $00
 	call Intro_DecompressRequest2bpp_128Tiles
-	ld hl, IntroUnownsGFX
+	ld hl, IntroZarbisGFX
 	ld de, vTiles1 tile $00
 	call Intro_DecompressRequest2bpp_128Tiles
 	ld de, IntroGrass4GFX
@@ -941,7 +941,7 @@ IntroScene19:
 	ret
 
 IntroScene20:
-; Suicune running away. A bunch of Unown appear.
+; Suicune running away. A bunch of Zarbi appear.
 	ld hl, wIntroSceneFrameCounter
 	ld a, [hl]
 	inc [hl]
@@ -950,7 +950,7 @@ IntroScene20:
 	cp $58
 	ret nc
 	cp $40
-	jr nc, .AppearUnown
+	jr nc, .AppearZarbi
 	cp $28
 	ret nc
 	ldh a, [hSCY]
@@ -958,7 +958,7 @@ IntroScene20:
 	ldh [hSCY], a
 	ret
 
-.AppearUnown:
+.AppearZarbi:
 	sub $18
 	ld c, a
 	and $3
@@ -970,17 +970,17 @@ IntroScene20:
 	srl a
 	ld [wIntroSceneTimer], a
 	xor a
-	call Intro_Scene20_AppearUnown
+	call Intro_Scene20_AppearZarbi
 	ret
 
-.AppearUnownPal2: ; unreferenced
+.AppearZarbiPal2: ; unreferenced
 	ld a, c
 	and $1c
 	srl a
 	srl a
 	ld [wIntroSceneTimer], a
 	ld a, 1
-	call Intro_Scene20_AppearUnown
+	call Intro_Scene20_AppearZarbi
 	ret
 
 .finished:
@@ -1062,26 +1062,26 @@ IntroScene26:
 	ldh [hBGMapMode], a
 	ld a, $1
 	ldh [rVBK], a
-	ld hl, IntroCrystalUnownsAttrmap
+	ld hl, IntroCrystalZarbisAttrmap
 	debgcoord 0, 0
 	call Intro_DecompressRequest2bpp_64Tiles
 	ld a, $0
 	ldh [rVBK], a
-	ld hl, IntroCrystalUnownsGFX
+	ld hl, IntroCrystalZarbisGFX
 	ld de, vTiles2 tile $00
 	call Intro_DecompressRequest2bpp_128Tiles
-	ld hl, IntroCrystalUnownsTilemap
+	ld hl, IntroCrystalZarbisTilemap
 	debgcoord 0, 0
 	call Intro_DecompressRequest2bpp_64Tiles
 	ldh a, [rWBK]
 	push af
 	ld a, BANK(wBGPals1)
 	ldh [rWBK], a
-	ld hl, IntroCrystalUnownsPalette
+	ld hl, IntroCrystalZarbisPalette
 	ld de, wBGPals1
 	ld bc, 16 palettes
 	call CopyBytes
-	ld hl, IntroCrystalUnownsPalette
+	ld hl, IntroCrystalZarbisPalette
 	ld de, wBGPals2
 	ld bc, 16 palettes
 	call CopyBytes
@@ -1103,7 +1103,7 @@ IntroScene26:
 	ret
 
 IntroScene27:
-; Spell out C R Y S T A L with Unown.
+; Spell out C R Y S T A L with Zarbi.
 	ld hl, wIntroSceneTimer
 	inc [hl]
 	ld hl, wIntroSceneFrameCounter
@@ -1118,7 +1118,7 @@ IntroScene27:
 	ld a, c
 	and $70
 	swap a
-	call Intro_FadeUnownWordPals
+	call Intro_FadeZarbiWordPals
 	ret
 
 .done
@@ -1188,47 +1188,47 @@ Intro_Scene24_ApplyPaletteFade:
 .FadePals:
 INCLUDE "gfx/intro/fade.pal"
 
-CrystalIntro_InitUnownAnim:
+CrystalIntro_InitZarbiAnim:
 	push de
-	ld a, SPRITE_ANIM_OBJ_INTRO_UNOWN
+	ld a, SPRITE_ANIM_OBJ_INTRO_ZARBI
 	call InitSpriteAnimStruct
 	ld hl, SPRITEANIMSTRUCT_VAR1
 	add hl, bc
 	ld [hl], $8
-	ld a, SPRITE_ANIM_FRAMESET_INTRO_UNOWN_4
+	ld a, SPRITE_ANIM_FRAMESET_INTRO_ZARBI_4
 	call ReinitSpriteAnimFrame
 	pop de
 
 	push de
-	ld a, SPRITE_ANIM_OBJ_INTRO_UNOWN
+	ld a, SPRITE_ANIM_OBJ_INTRO_ZARBI
 	call InitSpriteAnimStruct
 	ld hl, SPRITEANIMSTRUCT_VAR1
 	add hl, bc
 	ld [hl], $18
-	ld a, SPRITE_ANIM_FRAMESET_INTRO_UNOWN_3
+	ld a, SPRITE_ANIM_FRAMESET_INTRO_ZARBI_3
 	call ReinitSpriteAnimFrame
 	pop de
 
 	push de
-	ld a, SPRITE_ANIM_OBJ_INTRO_UNOWN
+	ld a, SPRITE_ANIM_OBJ_INTRO_ZARBI
 	call InitSpriteAnimStruct
 	ld hl, SPRITEANIMSTRUCT_VAR1
 	add hl, bc
 	ld [hl], $28
-	ld a, SPRITE_ANIM_FRAMESET_INTRO_UNOWN_1
+	ld a, SPRITE_ANIM_FRAMESET_INTRO_ZARBI_1
 	call ReinitSpriteAnimFrame
 	pop de
 
-	ld a, SPRITE_ANIM_OBJ_INTRO_UNOWN
+	ld a, SPRITE_ANIM_OBJ_INTRO_ZARBI
 	call InitSpriteAnimStruct
 	ld hl, SPRITEANIMSTRUCT_VAR1
 	add hl, bc
 	ld [hl], $38
-	ld a, SPRITE_ANIM_FRAMESET_INTRO_UNOWN_2
+	ld a, SPRITE_ANIM_FRAMESET_INTRO_ZARBI_2
 	call ReinitSpriteAnimFrame
 	ret
 
-CrystalIntro_UnownFade:
+CrystalIntro_ZarbiFade:
 	add a
 	add a
 	add a
@@ -1327,8 +1327,8 @@ for hue, 32
 	RGB 0, 0, hue
 endr
 
-Intro_Scene20_AppearUnown:
-; Spawn the palette for the nth Unown
+Intro_Scene20_AppearZarbi:
+; Spawn the palette for the nth Zarbi
 	and a
 	jr nz, .load_pal_2
 
@@ -1382,12 +1382,12 @@ Intro_Scene20_AppearUnown:
 	ret
 
 .pal1:
-INCLUDE "gfx/intro/unown_1.pal"
+INCLUDE "gfx/intro/zarbi_1.pal"
 
 .pal2:
-INCLUDE "gfx/intro/unown_2.pal"
+INCLUDE "gfx/intro/zarbi_2.pal"
 
-Intro_FadeUnownWordPals:
+Intro_FadeZarbiWordPals:
 	add a
 	add a
 	add a
@@ -1693,44 +1693,44 @@ INCBIN "gfx/intro/background.attrmap.lz"
 IntroBackgroundPalette:
 INCLUDE "gfx/intro/background.pal"
 
-IntroUnownsGFX:
-INCBIN "gfx/intro/unowns.2bpp.lz"
+IntroZarbisGFX:
+INCBIN "gfx/intro/zarbis.2bpp.lz"
 
 IntroPulseGFX:
 INCBIN "gfx/intro/pulse.2bpp.lz"
 
-IntroUnownATilemap:
-INCBIN "gfx/intro/unown_a.tilemap.lz"
+IntroZarbiATilemap:
+INCBIN "gfx/intro/zarbi_a.tilemap.lz"
 
-IntroUnownAAttrmap:
-INCBIN "gfx/intro/unown_a.attrmap.lz"
+IntroZarbiAAttrmap:
+INCBIN "gfx/intro/zarbi_a.attrmap.lz"
 
-IntroUnownHITilemap:
-INCBIN "gfx/intro/unown_hi.tilemap.lz"
+IntroZarbiHITilemap:
+INCBIN "gfx/intro/zarbi_hi.tilemap.lz"
 
-IntroUnownHIAttrmap:
-INCBIN "gfx/intro/unown_hi.attrmap.lz"
+IntroZarbiHIAttrmap:
+INCBIN "gfx/intro/zarbi_hi.attrmap.lz"
 
-IntroUnownsTilemap:
-INCBIN "gfx/intro/unowns.tilemap.lz"
+IntroZarbisTilemap:
+INCBIN "gfx/intro/zarbis.tilemap.lz"
 
-IntroUnownsAttrmap:
-INCBIN "gfx/intro/unowns.attrmap.lz"
+IntroZarbisAttrmap:
+INCBIN "gfx/intro/zarbis.attrmap.lz"
 
-IntroUnownsPalette:
-INCLUDE "gfx/intro/unowns.pal"
+IntroZarbisPalette:
+INCLUDE "gfx/intro/zarbis.pal"
 
-IntroCrystalUnownsGFX:
-INCBIN "gfx/intro/crystal_unowns.2bpp.lz"
+IntroCrystalZarbisGFX:
+INCBIN "gfx/intro/crystal_zarbis.2bpp.lz"
 
-IntroCrystalUnownsTilemap:
-INCBIN "gfx/intro/crystal_unowns.tilemap.lz"
+IntroCrystalZarbisTilemap:
+INCBIN "gfx/intro/crystal_zarbis.tilemap.lz"
 
-IntroCrystalUnownsAttrmap:
-INCBIN "gfx/intro/crystal_unowns.attrmap.lz"
+IntroCrystalZarbisAttrmap:
+INCBIN "gfx/intro/crystal_zarbis.attrmap.lz"
 
-IntroCrystalUnownsPalette:
-INCLUDE "gfx/intro/crystal_unowns.pal"
+IntroCrystalZarbisPalette:
+INCLUDE "gfx/intro/crystal_zarbis.pal"
 
 IntroSuicuneCloseGFX:
 INCBIN "gfx/intro/suicune_close.2bpp.lz"
@@ -1765,8 +1765,8 @@ INCBIN "gfx/intro/suicune_back.attrmap.lz"
 IntroSuicunePalette:
 INCLUDE "gfx/intro/suicune.pal"
 
-IntroUnownBackGFX:
-INCBIN "gfx/intro/unown_back.2bpp.lz"
+IntroZarbiBackGFX:
+INCBIN "gfx/intro/zarbi_back.2bpp.lz"
 
 IntroGrass1GFX:
 INCBIN "gfx/intro/grass1.2bpp"

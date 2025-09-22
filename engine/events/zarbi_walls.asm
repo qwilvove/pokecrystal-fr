@@ -99,14 +99,14 @@ SpecialKabutoChamber:
 	pop hl
 	ret
 
-DisplayUnownWords:
+DisplayZarbiWords:
 	ld a, [wScriptVar]
-	ld hl, MenuHeaders_UnownWalls
+	ld hl, MenuHeaders_ZarbiWalls
 	and a
 	jr z, .load
 
 	ld d, 0
-	ld e, UNOWN_WALL_MENU_HEADER_SIZE
+	ld e, ZARBI_WALL_MENU_HEADER_SIZE
 .loop
 	add hl, de
 	dec a
@@ -127,7 +127,7 @@ DisplayUnownWords:
 	add hl, de
 	ld a, [wScriptVar]
 	ld c, a
-	ld de, UnownWalls
+	ld de, ZarbiWalls
 	and a
 	jr z, .copy
 .loop2
@@ -138,21 +138,21 @@ DisplayUnownWords:
 	dec c
 	jr nz, .loop2
 .copy
-	call _DisplayUnownWords_CopyWord
+	call _DisplayZarbiWords_CopyWord
 	ld bc, wAttrmap - wTilemap
 	add hl, bc
-	call _DisplayUnownWords_FillAttr
+	call _DisplayZarbiWords_FillAttr
 	call WaitBGMap2
 	call JoyWaitAorB
 	call PlayClickSFX
 	call CloseWindow
 	ret
 
-pushc unown
+pushc zarbi
 
-INCLUDE "data/events/unown_walls.asm"
+INCLUDE "data/events/zarbi_walls.asm"
 
-_DisplayUnownWords_FillAttr:
+_DisplayZarbiWords_FillAttr:
 	ld a, [de]
 	cp "@"
 	ret z
@@ -165,7 +165,7 @@ _DisplayUnownWords_FillAttr:
 	inc hl
 	inc hl
 	inc de
-	jr _DisplayUnownWords_FillAttr
+	jr _DisplayZarbiWords_FillAttr
 
 .PlaceSquare:
 	push hl
@@ -179,7 +179,7 @@ _DisplayUnownWords_FillAttr:
 	pop hl
 	ret
 
-_DisplayUnownWords_CopyWord:
+_DisplayZarbiWords_CopyWord:
 	push hl
 	push de
 .word_loop

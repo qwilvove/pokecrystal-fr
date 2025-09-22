@@ -201,7 +201,7 @@ PokedexDataPointerTable:
 	dw CornebrePokedexEntry
 	dw RoigadaPokedexEntry
 	dw FeuforevePokedexEntry
-	dw UnownPokedexEntry
+	dw ZarbiPokedexEntry
 	dw QulbutokePokedexEntry
 	dw GirafarigPokedexEntry
 	dw PomdepikPokedexEntry

@@ -62,7 +62,7 @@ NewPokedexOrder:
 	db FANTOMINUS
 	db SPECTRUM
 	db ECTOPLASMA
-	db UNOWN
+	db ZARBI
 	db ONIX
 	db STEELIX
 	db CHETIFLOR

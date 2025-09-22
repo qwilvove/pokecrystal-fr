@@ -53,9 +53,9 @@ CGBLayoutJumptable:
 	dw _CGB_MagnetTrain
 	dw _CGB_PackPals
 	dw _CGB_TrainerCard
-	dw _CGB_PokedexUnownMode
+	dw _CGB_PokedexZarbiMode
 	dw _CGB_BillsPC
-	dw _CGB_UnownPuzzle
+	dw _CGB_ZarbiPuzzle
 	dw _CGB_GamefreakLogo
 	dw _CGB_PlayerOrMonFrontpicPals
 	dw _CGB_TradeTube
@@ -348,7 +348,7 @@ _CGB_Unknown: ; unreferenced
 BillsPCOrangePalette:
 INCLUDE "gfx/pc/orange.pal"
 
-_CGB_PokedexUnownMode:
+_CGB_PokedexZarbiMode:
 	ld de, wBGPals1
 	ld a, PREDEFPAL_POKEDEX
 	call GetPredefPal
@@ -594,11 +594,11 @@ _CGB_Unused0D:
 	call ApplyAttrmap
 	ret
 
-_CGB_UnownPuzzle:
-	ld hl, PalPacket_UnownPuzzle + 1
+_CGB_ZarbiPuzzle:
+	ld hl, PalPacket_ZarbiPuzzle + 1
 	call CopyFourPalettes
 	ld de, wOBPals1
-	ld a, PREDEFPAL_UNOWN_PUZZLE
+	ld a, PREDEFPAL_ZARBI_PUZZLE
 	call GetPredefPal
 	call LoadHLPaletteIntoDE
 	ldh a, [rWBK]

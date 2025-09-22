@@ -203,7 +203,7 @@ PokemonPicPointers::
 	dba_pics CornebreFrontpic, CornebreBackpic
 	dba_pics RoigadaFrontpic, RoigadaBackpic
 	dba_pics FeuforeveFrontpic, FeuforeveBackpic
-	dba_pics ; Unown pics have their own table (see data/pokemon/unown_pic_pointers.asm)
+	dba_pics ; Zarbi pics have their own table (see data/pokemon/zarbi_pic_pointers.asm)
 	dba_pics QulbutokeFrontpic, QulbutokeBackpic
 	dba_pics GirafarigFrontpic, GirafarigBackpic
 	dba_pics PomdepikFrontpic, PomdepikBackpic

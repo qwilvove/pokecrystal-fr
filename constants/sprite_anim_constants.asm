@@ -76,8 +76,8 @@ DEF NUM_SPRITEANIMDICT_ENTRIES EQU 10
 	const SPRITE_ANIM_OBJ_INTRO_SUICUNE             ; 26
 	const SPRITE_ANIM_OBJ_INTRO_PICHU               ; 27
 	const SPRITE_ANIM_OBJ_INTRO_AXOLOTO              ; 28
-	const SPRITE_ANIM_OBJ_INTRO_UNOWN               ; 29
-	const SPRITE_ANIM_OBJ_INTRO_UNOWN_F             ; 2a
+	const SPRITE_ANIM_OBJ_INTRO_ZARBI               ; 29
+	const SPRITE_ANIM_OBJ_INTRO_ZARBI_F             ; 2a
 	const SPRITE_ANIM_OBJ_INTRO_SUICUNE_AWAY        ; 2b
 	const SPRITE_ANIM_OBJ_CELEBI                    ; 2c
 DEF NUM_SPRITE_ANIM_OBJS EQU const_value
@@ -116,8 +116,8 @@ DEF NUM_SPRITE_ANIM_OBJS EQU const_value
 	const SPRITE_ANIM_FUNC_INTRO_SUICUNE             ; 1d
 	const SPRITE_ANIM_FUNC_INTRO_PICHU_AXOLOTO        ; 1e
 	const SPRITE_ANIM_FUNC_CELEBI                    ; 1f
-	const SPRITE_ANIM_FUNC_INTRO_UNOWN               ; 20
-	const SPRITE_ANIM_FUNC_INTRO_UNOWN_F             ; 21
+	const SPRITE_ANIM_FUNC_INTRO_ZARBI               ; 20
+	const SPRITE_ANIM_FUNC_INTRO_ZARBI_F             ; 21
 	const SPRITE_ANIM_FUNC_INTRO_SUICUNE_AWAY        ; 22
 DEF NUM_SPRITE_ANIM_FUNCS EQU const_value
 
@@ -180,13 +180,13 @@ DEF NUM_SPRITE_ANIM_FUNCS EQU const_value
 	const SPRITE_ANIM_FRAMESET_INTRO_SUICUNE_2           ; 36
 	const SPRITE_ANIM_FRAMESET_INTRO_PICHU               ; 37
 	const SPRITE_ANIM_FRAMESET_INTRO_AXOLOTO              ; 38
-	const SPRITE_ANIM_FRAMESET_INTRO_UNOWN_1             ; 39
-	const SPRITE_ANIM_FRAMESET_INTRO_UNOWN_2             ; 3a
-	const SPRITE_ANIM_FRAMESET_INTRO_UNOWN_3             ; 3b
-	const SPRITE_ANIM_FRAMESET_INTRO_UNOWN_4             ; 3c
-	const SPRITE_ANIM_FRAMESET_INTRO_UNOWN_F_2           ; 3d
+	const SPRITE_ANIM_FRAMESET_INTRO_ZARBI_1             ; 39
+	const SPRITE_ANIM_FRAMESET_INTRO_ZARBI_2             ; 3a
+	const SPRITE_ANIM_FRAMESET_INTRO_ZARBI_3             ; 3b
+	const SPRITE_ANIM_FRAMESET_INTRO_ZARBI_4             ; 3c
+	const SPRITE_ANIM_FRAMESET_INTRO_ZARBI_F_2           ; 3d
 	const SPRITE_ANIM_FRAMESET_INTRO_SUICUNE_AWAY        ; 3e
-	const SPRITE_ANIM_FRAMESET_INTRO_UNOWN_F             ; 3f
+	const SPRITE_ANIM_FRAMESET_INTRO_ZARBI_F             ; 3f
 	const SPRITE_ANIM_FRAMESET_CELEBI_LEFT               ; 40
 	const SPRITE_ANIM_FRAMESET_CELEBI_RIGHT              ; 41
 DEF NUM_SPRITE_ANIM_FRAMESETS EQU const_value
@@ -311,14 +311,14 @@ DEF NUM_SPRITE_ANIM_FRAMESETS EQU const_value
 	const SPRITE_ANIM_OAMSET_INTRO_PICHU_2               ; 73
 	const SPRITE_ANIM_OAMSET_INTRO_PICHU_3               ; 74
 	const SPRITE_ANIM_OAMSET_INTRO_AXOLOTO                ; 75
-	const SPRITE_ANIM_OAMSET_INTRO_UNOWN_1               ; 76
-	const SPRITE_ANIM_OAMSET_INTRO_UNOWN_2               ; 77
-	const SPRITE_ANIM_OAMSET_INTRO_UNOWN_3               ; 78
-	const SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_1           ; 79
-	const SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_2           ; 7a
-	const SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_3           ; 7b
-	const SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_4           ; 7c
-	const SPRITE_ANIM_OAMSET_INTRO_UNOWN_F_2_5           ; 7d
+	const SPRITE_ANIM_OAMSET_INTRO_ZARBI_1               ; 76
+	const SPRITE_ANIM_OAMSET_INTRO_ZARBI_2               ; 77
+	const SPRITE_ANIM_OAMSET_INTRO_ZARBI_3               ; 78
+	const SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_1           ; 79
+	const SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_2           ; 7a
+	const SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_3           ; 7b
+	const SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_4           ; 7c
+	const SPRITE_ANIM_OAMSET_INTRO_ZARBI_F_2_5           ; 7d
 	const SPRITE_ANIM_OAMSET_INTRO_SUICUNE_AWAY          ; 7e
 	const SPRITE_ANIM_OAMSET_CELEBI_1                    ; 7f
 	const SPRITE_ANIM_OAMSET_CELEBI_2                    ; 80

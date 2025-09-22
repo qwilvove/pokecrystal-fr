@@ -335,7 +335,7 @@ endr
 	ld bc, PARTYMON_STRUCT_LENGTH - MON_MAXHP
 	call CopyBytes
 	pop hl
-	jr .registerunowndex
+	jr .registerzarbidex
 
 .generatestats
 	pop hl
@@ -344,20 +344,20 @@ endr
 	ld b, FALSE
 	call CalcMonStats
 
-.registerunowndex
+.registerzarbidex
 	ld a, [wMonType]
 	and $f
 	jr nz, .done
 	ld a, [wCurPartySpecies]
-	cp UNOWN
+	cp ZARBI
 	jr nz, .done
 	ld hl, wPartyMon1DVs
 	ld a, [wPartyCount]
 	dec a
 	ld bc, PARTYMON_STRUCT_LENGTH
 	call AddNTimes
-	predef GetUnownLetter
-	callfar UpdateUnownDex
+	predef GetZarbiLetter
+	callfar UpdateZarbiDex
 
 .done
 	scf ; When this function returns, the carry flag indicates success vs failure.
@@ -458,20 +458,20 @@ AddTempmonToParty:
 .egg
 
 	ld a, [wCurPartySpecies]
-	cp UNOWN
+	cp ZARBI
 	jr nz, .done
 	ld hl, wPartyMon1DVs
 	ld a, [wPartyCount]
 	dec a
 	ld bc, PARTYMON_STRUCT_LENGTH
 	call AddNTimes
-	predef GetUnownLetter
-	callfar UpdateUnownDex
-	ld a, [wFirstUnownSeen]
+	predef GetZarbiLetter
+	callfar UpdateZarbiDex
+	ld a, [wFirstZarbiSeen]
 	and a
 	jr nz, .done
-	ld a, [wUnownLetter]
-	ld [wFirstUnownSeen], a
+	ld a, [wZarbiLetter]
+	ld [wFirstZarbiSeen], a
 .done
 
 	and a
@@ -1042,13 +1042,13 @@ SendMonIntoBox:
 	dec a
 	call SetSeenAndCaughtMon
 	ld a, [wCurPartySpecies]
-	cp UNOWN
-	jr nz, .not_unown
+	cp ZARBI
+	jr nz, .not_zarbi
 	ld hl, sBoxMon1DVs
-	predef GetUnownLetter
-	callfar UpdateUnownDex
+	predef GetZarbiLetter
+	callfar UpdateZarbiDex
 
-.not_unown
+.not_zarbi
 	ld hl, sBoxMon1Moves
 	ld de, wTempMonMoves
 	ld bc, NUM_MOVES

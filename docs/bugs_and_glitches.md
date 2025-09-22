@@ -73,7 +73,7 @@ Fixes in the [multi-player battle engine](#multi-player-battle-engine) category 
   - [Two tiles in the `port` tileset are drawn incorrectly](#two-tiles-in-the-port-tileset-are-drawn-incorrectly)
   - [The Ruins of Alph research center's roof color at night looks wrong](#the-ruins-of-alph-research-centers-roof-color-at-night-looks-wrong)
   - [Ramoloss Well's stones use the wrong corner tile](#ramoloss-wells-stones-use-the-wrong-corner-tile)
-  - [A hatching Unown egg would not show the right letter](#a-hatching-unown-egg-would-not-show-the-right-letter)
+  - [A hatching Zarbi egg would not show the right letter](#a-hatching-zarbi-egg-would-not-show-the-right-letter)
   - [Beat Up may fail to raise Substitute](#beat-up-may-fail-to-raise-substitute)
   - [HP bar animation is slow for high HP](#hp-bar-animation-is-slow-for-high-hp)
   - [HP bar animation off-by-one error for low HP](#hp-bar-animation-off-by-one-error-for-low-hp)
@@ -1806,13 +1806,13 @@ This is a mistake with block $5B in the `johto_modern` tileset. The bottom-left 
 ![image](https://raw.githubusercontent.com/pret/pokecrystal/master/docs/images/ramoloss_well_fixed.png)
 
 
-### A hatching Unown egg would not show the right letter
+### A hatching Zarbi egg would not show the right letter
 
 **Fix:** Edit both functions in [engine/pokemon/breeding.asm](https://github.com/pret/pokecrystal/blob/master/engine/pokemon/breeding.asm):
 
 ```diff
  GetEggFrontpic:
--; BUG: A hatching Unown egg would not show the right letter (see docs/bugs_and_glitches.md)
+-; BUG: A hatching Zarbi egg would not show the right letter (see docs/bugs_and_glitches.md)
  	push de
  	ld [wCurPartySpecies], a
  	ld [wCurSpecies], a
@@ -1820,7 +1820,7 @@ This is a mistake with block $5B in the `johto_modern` tileset. The bottom-left 
 -	ld hl, wBattleMonDVs
 +	ld a, MON_DVS
 +	call GetPartyParamLocation
- 	predef GetUnownLetter
+ 	predef GetZarbiLetter
  	pop de
  	predef_jump GetMonFrontpic
 
@@ -1832,7 +1832,7 @@ This is a mistake with block $5B in the `johto_modern` tileset. The bottom-left 
 -	ld hl, wBattleMonDVs
 +	ld a, MON_DVS
 +	call GetPartyParamLocation
- 	predef GetUnownLetter
+ 	predef GetZarbiLetter
  	pop de
  	predef_jump GetAnimatedFrontpic
 ```
@@ -2685,7 +2685,7 @@ This allows Pokémon to be duplicated, among other effects. It does not have a s
  	jr c, .nowildbattle
 
 -	ld a, b
- 	cp UNOWN
+ 	cp ZARBI
  	jr nz, .done
 ```
 

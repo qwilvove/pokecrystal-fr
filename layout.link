@@ -197,7 +197,7 @@ ROMX $48
 	"Pics 1"
 ROMX $49
 	org $4000
-	"Unown Pic Pointers"
+	"Zarbi Pic Pointers"
 	"Pics 2"
 ROMX $4a
 	"Trainer Pic Pointers"
@@ -301,7 +301,7 @@ ROMX $75
 ROMX $76
 	"Map Scripts 27"
 ROMX $77
-	"Unown Font"
+	"Zarbi Font"
 	"Print Party"
 	"Tileset Data 7"
 	"bank77"

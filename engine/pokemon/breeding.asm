@@ -620,13 +620,13 @@ GetBreedmonMovePointer:
 	ret
 
 GetEggFrontpic:
-; BUG: A hatching Unown egg would not show the right letter (see docs/bugs_and_glitches.md)
+; BUG: A hatching Zarbi egg would not show the right letter (see docs/bugs_and_glitches.md)
 	push de
 	ld [wCurPartySpecies], a
 	ld [wCurSpecies], a
 	call GetBaseData
 	ld hl, wBattleMonDVs
-	predef GetUnownLetter
+	predef GetZarbiLetter
 	pop de
 	predef_jump GetMonFrontpic
 
@@ -636,7 +636,7 @@ GetHatchlingFrontpic:
 	ld [wCurSpecies], a
 	call GetBaseData
 	ld hl, wBattleMonDVs
-	predef GetUnownLetter
+	predef GetZarbiLetter
 	pop de
 	predef_jump GetAnimatedFrontpic
 

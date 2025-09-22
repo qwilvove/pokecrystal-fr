@@ -209,7 +209,7 @@ Printer_ResetRegistersAndStartDataSend:
 	call SendScreenToPrinter
 	ret
 
-PrintUnownStamp:
+PrintZarbiStamp:
 	ld a, [wPrinterQueueLength]
 	push af
 
@@ -232,7 +232,7 @@ PrintUnownStamp:
 	xor a
 	ldh [hBGMapMode], a
 	call LoadTilemapToTempTilemap
-	farcall PlaceUnownPrinterFrontpic
+	farcall PlaceZarbiPrinterFrontpic
 	ln a, 0, 0 ; to be loaded to wPrinterMargins
 	call Printer_PrepareTilemapForPrint
 	call SafeLoadTempTilemapToTilemap

@@ -315,13 +315,13 @@ PokeAnim_InitPicAttributes:
 	call GetFarWRAMByte
 	ld [wPokeAnimSpecies], a
 
-	ld a, BANK(wUnownLetter)
-	ld hl, wUnownLetter
+	ld a, BANK(wZarbiLetter)
+	ld hl, wZarbiLetter
 	call GetFarWRAMByte
-	ld [wPokeAnimUnownLetter], a
+	ld [wPokeAnimZarbiLetter], a
 
-	call PokeAnim_GetSpeciesOrUnown
-	ld [wPokeAnimSpeciesOrUnown], a
+	call PokeAnim_GetSpeciesOrZarbi
+	ld [wPokeAnimSpeciesOrZarbi], a
 
 	call PokeAnim_GetFrontpicDims
 	ld a, c
@@ -452,9 +452,9 @@ PokeAnim_StopWaitAnim:
 	ld [wPokeAnimJumptableIndex], a
 	ret
 
-PokeAnim_IsUnown:
+PokeAnim_IsZarbi:
 	ld a, [wPokeAnimSpecies]
-	cp UNOWN
+	cp ZARBI
 	ret
 
 PokeAnim_IsEgg:
@@ -888,15 +888,15 @@ GetMonAnimPointer:
 	call PokeAnim_IsEgg
 	jr z, .egg
 
-	ld c, BANK(UnownAnimationPointers) ; aka BANK(UnownAnimationIdlePointers)
-	ld hl, UnownAnimationPointers
-	ld de, UnownAnimationIdlePointers
-	call PokeAnim_IsUnown
-	jr z, .unown
+	ld c, BANK(ZarbiAnimationPointers) ; aka BANK(ZarbiAnimationIdlePointers)
+	ld hl, ZarbiAnimationPointers
+	ld de, ZarbiAnimationIdlePointers
+	call PokeAnim_IsZarbi
+	jr z, .zarbi
 	ld c, BANK(AnimationPointers) ; aka BANK(AnimationIdlePointers)
 	ld hl, AnimationPointers
 	ld de, AnimationIdlePointers
-.unown
+.zarbi
 
 	ld a, [wPokeAnimIdleFlag]
 	and a
@@ -905,7 +905,7 @@ GetMonAnimPointer:
 	ld l, e
 .idles
 
-	ld a, [wPokeAnimSpeciesOrUnown]
+	ld a, [wPokeAnimSpeciesOrZarbi]
 	dec a
 	ld e, a
 	ld d, 0
@@ -957,10 +957,10 @@ GetMonFramesPointer:
 	call PokeAnim_IsEgg
 	jr z, .egg
 
-	call PokeAnim_IsUnown
-	ld b, BANK(UnownFramesPointers)
-	ld c, BANK(UnownsFrames)
-	ld hl, UnownFramesPointers
+	call PokeAnim_IsZarbi
+	ld b, BANK(ZarbiFramesPointers)
+	ld c, BANK(ZarbisFrames)
+	ld hl, ZarbiFramesPointers
 	jr z, .got_frames
 	ld a, [wPokeAnimSpecies]
 	cp JOHTO_POKEMON
@@ -973,7 +973,7 @@ GetMonFramesPointer:
 	ld a, c
 	ld [wPokeAnimFramesBank], a
 
-	ld a, [wPokeAnimSpeciesOrUnown]
+	ld a, [wPokeAnimSpeciesOrZarbi]
 	dec a
 	ld e, a
 	ld d, 0
@@ -1002,16 +1002,16 @@ GetMonBitmaskPointer:
 	call PokeAnim_IsEgg
 	jr z, .egg
 
-	call PokeAnim_IsUnown
-	ld a, BANK(UnownBitmasksPointers)
-	ld hl, UnownBitmasksPointers
-	jr z, .unown
+	call PokeAnim_IsZarbi
+	ld a, BANK(ZarbiBitmasksPointers)
+	ld hl, ZarbiBitmasksPointers
+	jr z, .zarbi
 	ld a, BANK(BitmasksPointers)
 	ld hl, BitmasksPointers
-.unown
+.zarbi
 	ld [wPokeAnimBitmaskBank], a
 
-	ld a, [wPokeAnimSpeciesOrUnown]
+	ld a, [wPokeAnimSpeciesOrZarbi]
 	dec a
 	ld e, a
 	ld d, 0
@@ -1036,14 +1036,14 @@ GetMonBitmaskPointer:
 	ld [wPokeAnimBitmaskAddr + 1], a
 	ret
 
-PokeAnim_GetSpeciesOrUnown:
-	call PokeAnim_IsUnown
-	jr z, .unown
+PokeAnim_GetSpeciesOrZarbi:
+	call PokeAnim_IsZarbi
+	jr z, .zarbi
 	ld a, [wPokeAnimSpecies]
 	ret
 
-.unown
-	ld a, [wPokeAnimUnownLetter]
+.zarbi
+	ld a, [wPokeAnimZarbiLetter]
 	ret
 
 Unused_HOF_AnimateAlignedFrontpic:

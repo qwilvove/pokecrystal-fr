@@ -12,7 +12,7 @@ SometimesFleeMons:
 	db DRACO
 	db TOGETIC
 	db NOCTALI
-	db UNOWN
+	db ZARBI
 	db SNUBBULL
 	db SCARHINO
 	db -1

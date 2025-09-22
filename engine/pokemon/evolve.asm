@@ -302,14 +302,14 @@ EvolveAfterBattle_MasterLoop:
 	call SetSeenAndCaughtMon
 
 	ld a, [wTempSpecies]
-	cp UNOWN
-	jr nz, .skip_unown
+	cp ZARBI
+	jr nz, .skip_zarbi
 
 	ld hl, wTempMonDVs
-	predef GetUnownLetter
-	callfar UpdateUnownDex
+	predef GetZarbiLetter
+	callfar UpdateZarbiDex
 
-.skip_unown
+.skip_zarbi
 	pop de
 	pop hl
 	ld a, [wTempMonSpecies]

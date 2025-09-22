@@ -202,7 +202,7 @@ MonMenuIcons:
 	db ICON_BIRD        ; CORNEBRE
 	db ICON_RAMOLOSS    ; ROIGADA
 	db ICON_GHOST       ; FEUFOREVE
-	db ICON_UNOWN       ; UNOWN
+	db ICON_ZARBI       ; ZARBI
 	db ICON_GHOST       ; QULBUTOKE
 	db ICON_EQUINE      ; GIRAFARIG
 	db ICON_BUG         ; POMDEPIK

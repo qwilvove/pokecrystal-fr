@@ -109,7 +109,7 @@ DEF NUM_OVERWORLD_SPRITES EQU const_value - 1
 ; SpriteMons indexes (see data/sprites/sprite_mons.asm)
 	const_next $80
 DEF SPRITE_POKEMON EQU const_value
-	const SPRITE_UNOWN ; 80
+	const SPRITE_ZARBI ; 80
 	const SPRITE_RACAILLOU ; 81
 	const SPRITE_CANINOS ; 82
 	const SPRITE_ASPICOT ; 83

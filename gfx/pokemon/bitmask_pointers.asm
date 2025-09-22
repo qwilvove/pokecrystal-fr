@@ -200,7 +200,7 @@ BitmasksPointers:
 	dw CornebreBitmasks
 	dw RoigadaBitmasks
 	dw FeuforeveBitmasks
-	dw UnownBitmasks
+	dw ZarbiBitmasks
 	dw QulbutokeBitmasks
 	dw GirafarigBitmasks
 	dw PomdepikBitmasks

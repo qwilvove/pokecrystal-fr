@@ -831,7 +831,7 @@ OTString:
 
 StatsScreen_PlaceFrontpic:
 	ld hl, wTempMonDVs
-	predef GetUnownLetter
+	predef GetZarbiLetter
 	call StatsScreen_GetAnimationParam
 	jr c, .egg
 	and a
@@ -859,13 +859,13 @@ StatsScreen_PlaceFrontpic:
 	ld hl, wStatsScreenFlags
 	set STATS_SCREEN_ANIMATE_MON, [hl]
 	ld a, [wCurPartySpecies]
-	cp UNOWN
-	jr z, .unown
+	cp ZARBI
+	jr z, .zarbi
 	hlcoord 0, 0
 	call PrepMonFrontpic
 	ret
 
-.unown
+.zarbi
 	xor a
 	ld [wBoxAlignment], a
 	hlcoord 0, 0
@@ -874,14 +874,14 @@ StatsScreen_PlaceFrontpic:
 
 .AnimateEgg:
 	ld a, [wCurPartySpecies]
-	cp UNOWN
-	jr z, .unownegg
+	cp ZARBI
+	jr z, .zarbiegg
 	ld a, TRUE
 	ld [wBoxAlignment], a
 	call .get_animation
 	ret
 
-.unownegg
+.zarbiegg
 	xor a
 	ld [wBoxAlignment], a
 	call .get_animation

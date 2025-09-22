@@ -191,9 +191,9 @@
 ; new to Crystal
 	const SFX_GLASS_TING                  ; bc
 	const SFX_GLASS_TING_2                ; bd
-	const SFX_INTRO_UNOWN_1               ; be
-	const SFX_INTRO_UNOWN_2               ; bf
-	const SFX_INTRO_UNOWN_3               ; c0
+	const SFX_INTRO_ZARBI_1               ; be
+	const SFX_INTRO_ZARBI_2               ; bf
+	const SFX_INTRO_ZARBI_3               ; c0
 	const SFX_METAMORPH_POP_UP                ; c1
 	const SFX_METAMORPH_TRANSFORM             ; c2
 	const SFX_INTRO_SUICUNE_1             ; c3

@@ -52,7 +52,7 @@ _GetVarAction::
 	dwb .DayOfWeek,                     RETVAR_EXECUTE
 	dwb wMapGroup,                      RETVAR_STRBUF2
 	dwb wMapNumber,                     RETVAR_STRBUF2
-	dwb .UnownCaught,                   RETVAR_EXECUTE
+	dwb .ZarbiCaught,                   RETVAR_EXECUTE
 	dwb wEnvironment,                   RETVAR_STRBUF2
 	dwb .BoxFreeSpace,                  RETVAR_EXECUTE
 	dwb wBugContestMinsRemaining,       RETVAR_STRBUF2
@@ -104,14 +104,14 @@ _GetVarAction::
 	call GetWeekday
 	jp .loadstringbuffer2
 
-.UnownCaught:
-; Number of unique Unown caught.
-	call .count_unown
+.ZarbiCaught:
+; Number of unique Zarbi caught.
+	call .count_zarbi
 	ld a, b
 	jp .loadstringbuffer2
 
-.count_unown
-	ld hl, wUnownDex
+.count_zarbi
+	ld hl, wZarbiDex
 	ld b, 0
 .loop
 	ld a, [hli]
@@ -119,7 +119,7 @@ _GetVarAction::
 	ret z
 	inc b
 	ld a, b
-	cp NUM_UNOWN
+	cp NUM_ZARBI
 	jr c, .loop
 	ret
 

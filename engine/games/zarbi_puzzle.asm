@@ -3,7 +3,7 @@ DEF PUZZLE_VOID   EQU $ef
 
 DEF puzcoord EQUS "* 6 +"
 
-_UnownPuzzle:
+_ZarbiPuzzle:
 	ldh a, [hInMenu]
 	push af
 	ld a, $1
@@ -18,14 +18,14 @@ _UnownPuzzle:
 	ld bc, SIZEOF("Miscellaneous")
 	xor a
 	call ByteFill
-	ld hl, UnownPuzzleCursorGFX
+	ld hl, ZarbiPuzzleCursorGFX
 	ld de, vTiles0 tile $e0
 	ld bc, 4 tiles
 	call CopyBytes
-	ld hl, UnownPuzzleStartCancelLZ
+	ld hl, ZarbiPuzzleStartCancelLZ
 	ld de, vTiles0 tile $ed
 	call Decompress
-	call LoadUnownPuzzlePiecesGFX
+	call LoadZarbiPuzzlePiecesGFX
 	hlcoord 0, 0
 	ld bc, SCREEN_AREA
 	ld a, PUZZLE_BORDER
@@ -33,44 +33,44 @@ _UnownPuzzle:
 	hlcoord 4, 3
 	lb bc, 12, 12
 	ld a, PUZZLE_VOID
-	call UnownPuzzle_FillBox
-	call InitUnownPuzzlePiecePositions
-	call UnownPuzzle_UpdateTilemap
+	call ZarbiPuzzle_FillBox
+	call InitZarbiPuzzlePiecePositions
+	call ZarbiPuzzle_UpdateTilemap
 	call PlaceStartCancelBox
 	xor a
 	ldh [hSCY], a
 	ldh [hSCX], a
 	ldh [rWY], a
 	ld [wJumptableIndex], a
-	ld [wHoldingUnownPuzzlePiece], a
-	ld [wUnownPuzzleCursorPosition], a
-	ld [wUnownPuzzleHeldPiece], a
+	ld [wHoldingZarbiPuzzlePiece], a
+	ld [wZarbiPuzzleCursorPosition], a
+	ld [wZarbiPuzzleHeldPiece], a
 	ld a, %10010011
 	ldh [rLCDC], a
 	call WaitBGMap
-	ld b, SCGB_UNOWN_PUZZLE
+	ld b, SCGB_ZARBI_PUZZLE
 	call GetSGBLayout
 	ld a, $e4
 	call DmgToCgbBGPals
 	ld a, $24
 	call DmgToCgbObjPal0
 	xor a
-	ld [wSolvedUnownPuzzle], a
+	ld [wSolvedZarbiPuzzle], a
 	call DelayFrame
 .loop
 	call JoyTextDelay
 	ld a, [wJumptableIndex]
 	bit JUMPTABLE_EXIT_F, a
 	jr nz, .quit
-	call UnownPuzzleJumptable
-	ld a, [wHoldingUnownPuzzlePiece]
+	call ZarbiPuzzleJumptable
+	ld a, [wHoldingZarbiPuzzlePiece]
 	and a
 	jr nz, .holding_piece
 	ldh a, [hVBlankCounter]
 	and $10
 	jr z, .clear
 .holding_piece
-	call RedrawUnownPuzzlePieces
+	call RedrawZarbiPuzzlePieces
 	jr .next
 
 .clear
@@ -89,7 +89,7 @@ _UnownPuzzle:
 	ldh [rLCDC], a
 	ret
 
-InitUnownPuzzlePiecePositions:
+InitZarbiPuzzlePiecePositions:
 	ld c, 1
 	ld b, 16
 .load_loop
@@ -168,7 +168,7 @@ PlaceStartCancelBoxBorder:
 	ld [hl], a
 	ret
 
-UnownPuzzleJumptable:
+ZarbiPuzzleJumptable:
 	jumptable .Jumptable, wJumptableIndex
 
 .Jumptable: ; redundant one-entry jumptable
@@ -177,10 +177,10 @@ UnownPuzzleJumptable:
 .Function:
 	ldh a, [hJoyPressed]
 	and PAD_START
-	jp nz, UnownPuzzle_Quit
+	jp nz, ZarbiPuzzle_Quit
 	ldh a, [hJoyPressed]
 	and PAD_A
-	jp nz, UnownPuzzle_A
+	jp nz, ZarbiPuzzle_A
 	ld hl, hJoyLast
 	ld a, [hl]
 	and PAD_UP
@@ -197,7 +197,7 @@ UnownPuzzleJumptable:
 	ret
 
 .d_up
-	ld hl, wUnownPuzzleCursorPosition
+	ld hl, wZarbiPuzzleCursorPosition
 	ld a, [hl]
 	cp 1 puzcoord 0
 	ret c
@@ -206,7 +206,7 @@ UnownPuzzleJumptable:
 	jr .done_joypad
 
 .d_down
-	ld hl, wUnownPuzzleCursorPosition
+	ld hl, wZarbiPuzzleCursorPosition
 	ld a, [hl]
 	cp 4 puzcoord 1
 	ret z
@@ -223,7 +223,7 @@ UnownPuzzleJumptable:
 	jr .done_joypad
 
 .d_left
-	ld hl, wUnownPuzzleCursorPosition
+	ld hl, wZarbiPuzzleCursorPosition
 	ld a, [hl]
 	and a
 	ret z
@@ -247,7 +247,7 @@ UnownPuzzleJumptable:
 	jr .done_joypad
 
 .d_right
-	ld hl, wUnownPuzzleCursorPosition
+	ld hl, wZarbiPuzzleCursorPosition
 	ld a, [hl]
 	cp 0 puzcoord 5
 	ret z
@@ -270,7 +270,7 @@ UnownPuzzleJumptable:
 	ld [hl], 5 puzcoord 5
 
 .done_joypad
-	ld a, [wHoldingUnownPuzzlePiece]
+	ld a, [wHoldingZarbiPuzzlePiece]
 	and a
 	jr nz, .holding_piece
 	ld de, SFX_POUND
@@ -283,42 +283,42 @@ UnownPuzzleJumptable:
 	call PlaySFX
 	ret
 
-UnownPuzzle_A:
-	ld a, [wHoldingUnownPuzzlePiece]
+ZarbiPuzzle_A:
+	ld a, [wHoldingZarbiPuzzlePiece]
 	and a
 	jr nz, .TryPlacePiece
-	call UnownPuzzle_CheckCurrentTileOccupancy
+	call ZarbiPuzzle_CheckCurrentTileOccupancy
 	and a
-	jr z, UnownPuzzle_InvalidAction
+	jr z, ZarbiPuzzle_InvalidAction
 	ld de, SFX_MEGA_KICK
 	call PlaySFX
 	ld [hl], 0
-	ld [wUnownPuzzleHeldPiece], a
-	call RedrawUnownPuzzlePieces
+	ld [wZarbiPuzzleHeldPiece], a
+	call RedrawZarbiPuzzlePieces
 	call FillUnoccupiedPuzzleSpace
 	call WaitBGMap
 	call WaitSFX
 	ld a, TRUE
-	ld [wHoldingUnownPuzzlePiece], a
+	ld [wHoldingZarbiPuzzlePiece], a
 	ret
 
 .TryPlacePiece:
-	call UnownPuzzle_CheckCurrentTileOccupancy
+	call ZarbiPuzzle_CheckCurrentTileOccupancy
 	and a
-	jr nz, UnownPuzzle_InvalidAction
+	jr nz, ZarbiPuzzle_InvalidAction
 	ld de, SFX_PLACE_PUZZLE_PIECE_DOWN
 	call PlaySFX
-	ld a, [wUnownPuzzleHeldPiece]
+	ld a, [wZarbiPuzzleHeldPiece]
 	ld [hl], a
-	call PlaceUnownPuzzlePieceGFX
+	call PlaceZarbiPuzzlePieceGFX
 	call WaitBGMap
 	xor a
-	ld [wUnownPuzzleHeldPiece], a
-	call RedrawUnownPuzzlePieces
+	ld [wZarbiPuzzleHeldPiece], a
+	call RedrawZarbiPuzzlePieces
 	xor a
-	ld [wHoldingUnownPuzzlePiece], a
+	ld [wHoldingZarbiPuzzlePiece], a
 	call WaitSFX
-	call CheckSolvedUnownPuzzle
+	call CheckSolvedZarbiPuzzle
 	ret nc
 
 ; You solved the puzzle!
@@ -329,19 +329,19 @@ UnownPuzzle_A:
 	call WaitSFX
 	call SimpleWaitPressAorB
 	ld a, TRUE
-	ld [wSolvedUnownPuzzle], a
-UnownPuzzle_Quit:
+	ld [wSolvedZarbiPuzzle], a
+ZarbiPuzzle_Quit:
 	ld hl, wJumptableIndex
 	set JUMPTABLE_EXIT_F, [hl]
 	ret
 
-UnownPuzzle_InvalidAction:
+ZarbiPuzzle_InvalidAction:
 	ld de, SFX_WRONG
 	call PlaySFX
 	call WaitSFX
 	ret
 
-UnownPuzzle_FillBox:
+ZarbiPuzzle_FillBox:
 	ld de, SCREEN_WIDTH
 .row
 	push bc
@@ -357,33 +357,33 @@ UnownPuzzle_FillBox:
 	jr nz, .row
 	ret
 
-UnownPuzzle_UpdateTilemap:
+ZarbiPuzzle_UpdateTilemap:
 	xor a
-	ld [wUnownPuzzleCursorPosition], a
+	ld [wZarbiPuzzleCursorPosition], a
 	ld c, 6 * 6
 .loop
 	push bc
-	call UnownPuzzle_CheckCurrentTileOccupancy
-	ld [wUnownPuzzleHeldPiece], a
+	call ZarbiPuzzle_CheckCurrentTileOccupancy
+	ld [wZarbiPuzzleHeldPiece], a
 	and a
 	jr z, .not_holding_piece
-	call PlaceUnownPuzzlePieceGFX
+	call PlaceZarbiPuzzlePieceGFX
 	jr .next
 
 .not_holding_piece
 	call FillUnoccupiedPuzzleSpace
 
 .next
-	ld hl, wUnownPuzzleCursorPosition
+	ld hl, wZarbiPuzzleCursorPosition
 	inc [hl]
 	pop bc
 	dec c
 	jr nz, .loop
 	ret
 
-PlaceUnownPuzzlePieceGFX:
+PlaceZarbiPuzzlePieceGFX:
 	ld a, $2 ; tilemap coords
-	call GetUnownPuzzleCoordData
+	call GetZarbiPuzzleCoordData
 	ld a, [hli]
 	ld h, [hl]
 	ld l, a
@@ -409,13 +409,13 @@ PlaceUnownPuzzlePieceGFX:
 
 FillUnoccupiedPuzzleSpace:
 	ld a, 2 ; tilemap coords
-	call GetUnownPuzzleCoordData
+	call GetZarbiPuzzleCoordData
 	ld a, [hli]
 	ld h, [hl]
 	ld l, a
 	push hl
 	ld a, 4 ; tile
-	call GetUnownPuzzleCoordData
+	call GetZarbiPuzzleCoordData
 	ld a, [hl]
 	pop hl
 	ld de, SCREEN_WIDTH
@@ -433,21 +433,21 @@ FillUnoccupiedPuzzleSpace:
 	jr nz, .row
 	ret
 
-GetUnownPuzzleCoordData:
+GetZarbiPuzzleCoordData:
 	ld e, a
 	ld d, 0
-	ld hl, UnownPuzzleCoordData
+	ld hl, ZarbiPuzzleCoordData
 	add hl, de
-	ld a, [wUnownPuzzleCursorPosition]
+	ld a, [wZarbiPuzzleCursorPosition]
 	ld e, a
 rept 6
 	add hl, de
 endr
 	ret
 
-UnownPuzzle_CheckCurrentTileOccupancy:
+ZarbiPuzzle_CheckCurrentTileOccupancy:
 	ld hl, wPuzzlePieces
-	ld a, [wUnownPuzzleCursorPosition]
+	ld a, [wZarbiPuzzleCursorPosition]
 	ld e, a
 	ld d, 0
 	add hl, de
@@ -455,7 +455,7 @@ UnownPuzzle_CheckCurrentTileOccupancy:
 	ret
 
 GetCurrentPuzzlePieceVTileCorner:
-	ld a, [wUnownPuzzleHeldPiece]
+	ld a, [wZarbiPuzzleHeldPiece]
 	ld hl, .Corners
 	add l
 	ld l, a
@@ -475,7 +475,7 @@ GetCurrentPuzzlePieceVTileCorner:
 	db $48, $4b, $4e, $51
 	db $6c, $6f, $72, $75
 
-CheckSolvedUnownPuzzle:
+CheckSolvedZarbiPuzzle:
 	ld hl, .SolvedPuzzleConfiguration
 	ld de, wPuzzlePieces
 	ld c, 6 * 6
@@ -502,15 +502,15 @@ CheckSolvedUnownPuzzle:
 	db $00, $0d, $0e, $0f, $10, $00
 	db $00, $00, $00, $00, $00, $00
 
-RedrawUnownPuzzlePieces:
+RedrawZarbiPuzzlePieces:
 	call GetCurrentPuzzlePieceVTileCorner
-	ld [wUnownPuzzleCornerTile], a
+	ld [wZarbiPuzzleCornerTile], a
 	xor a
-	call GetUnownPuzzleCoordData ; get pixel positions
+	call GetZarbiPuzzleCoordData ; get pixel positions
 	ld a, [hli]
 	ld b, [hl]
 	ld c, a
-	ld a, [wUnownPuzzleCornerTile]
+	ld a, [wZarbiPuzzleCornerTile]
 	cp $e0
 	jr z, .NoPiece
 	ld hl, .OAM_HoldingPiece
@@ -532,7 +532,7 @@ RedrawUnownPuzzlePieces:
 	add c
 	ld [de], a ; x
 	inc de
-	ld a, [wUnownPuzzleCornerTile]
+	ld a, [wZarbiPuzzleCornerTile]
 	add [hl]
 	ld [de], a ; tile id
 	inc hl
@@ -566,7 +566,7 @@ RedrawUnownPuzzlePieces:
 	dbsprite  0,  0,  4,  4, $00, 0 | OAM_XFLIP | OAM_YFLIP
 	db -1
 
-UnownPuzzleCoordData:
+ZarbiPuzzleCoordData:
 
 MACRO puzzle_coords
 	dbpixel \1, \2, \3, \4
@@ -635,7 +635,7 @@ ConvertLoadedPuzzlePieces:
 	pop bc
 	dec b
 	jr nz, .loop
-	call UnownPuzzle_AddPuzzlePieceBorders
+	call ZarbiPuzzle_AddPuzzlePieceBorders
 	ret
 
 .EnlargePuzzlePieceTiles:
@@ -725,7 +725,7 @@ for x, 16
 	db ((x & %1000) * %11000) + ((x & %0100) * %1100) + ((x & %0010) * %110) + ((x & %0001) * %11)
 endr
 
-UnownPuzzle_AddPuzzlePieceBorders:
+ZarbiPuzzle_AddPuzzlePieceBorders:
 	ld hl, PuzzlePieceBorderData
 	ld a, 8
 .loop
@@ -791,11 +791,11 @@ PuzzlePieceBorderData:
 	dw .TileBordersGFX + 7 tiles, vTiles0 tile $1a
 
 .TileBordersGFX:
-INCBIN "gfx/unown_puzzle/tile_borders.2bpp"
+INCBIN "gfx/zarbi_puzzle/tile_borders.2bpp"
 
-LoadUnownPuzzlePiecesGFX:
+LoadZarbiPuzzlePiecesGFX:
 	ld a, [wScriptVar]
-	maskbits NUM_UNOWN_PUZZLES
+	maskbits NUM_ZARBI_PUZZLES
 	ld e, a
 	ld d, 0
 	ld hl, .LZPointers
@@ -810,26 +810,26 @@ LoadUnownPuzzlePiecesGFX:
 	ret
 
 .LZPointers:
-; entries correspond to UNOWNPUZZLE_* constants
+; entries correspond to ZARBIPUZZLE_* constants
 	dw KabutoPuzzleLZ
 	dw AmonitaPuzzleLZ
 	dw PteraPuzzleLZ
 	dw HoOhPuzzleLZ
 
-UnownPuzzleCursorGFX:
-INCBIN "gfx/unown_puzzle/cursor.2bpp"
+ZarbiPuzzleCursorGFX:
+INCBIN "gfx/zarbi_puzzle/cursor.2bpp"
 
-UnownPuzzleStartCancelLZ:
-INCBIN "gfx/unown_puzzle/start_cancel.2bpp.lz"
+ZarbiPuzzleStartCancelLZ:
+INCBIN "gfx/zarbi_puzzle/start_cancel.2bpp.lz"
 
 HoOhPuzzleLZ:
-INCBIN "gfx/unown_puzzle/hooh.2bpp.lz"
+INCBIN "gfx/zarbi_puzzle/hooh.2bpp.lz"
 
 PteraPuzzleLZ:
-INCBIN "gfx/unown_puzzle/ptera.2bpp.lz"
+INCBIN "gfx/zarbi_puzzle/ptera.2bpp.lz"
 
 KabutoPuzzleLZ:
-INCBIN "gfx/unown_puzzle/kabuto.2bpp.lz"
+INCBIN "gfx/zarbi_puzzle/kabuto.2bpp.lz"
 
 AmonitaPuzzleLZ:
-INCBIN "gfx/unown_puzzle/amonita.2bpp.lz"
+INCBIN "gfx/zarbi_puzzle/amonita.2bpp.lz"

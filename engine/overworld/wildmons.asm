@@ -321,10 +321,10 @@ ChooseWildEncounter:
 	jr c, .nowildbattle
 
 	ld a, b
-	cp UNOWN
+	cp ZARBI
 	jr nz, .done
 
-	ld a, [wUnlockedUnowns]
+	ld a, [wUnlockedZarbis]
 	and a
 	jr z, .nowildbattle
 

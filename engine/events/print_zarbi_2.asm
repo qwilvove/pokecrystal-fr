@@ -1,5 +1,5 @@
-RotateUnownFrontpic:
-; something to do with Unown printer
+RotateZarbiFrontpic:
+; something to do with Zarbi printer
 	push de
 	xor a ; BANK(sScratch)
 	call OpenSRAM
@@ -9,17 +9,17 @@ RotateUnownFrontpic:
 	push bc
 	push hl
 	push bc
-	ld de, wPrintedUnownTileSource
+	ld de, wPrintedZarbiTileSource
 	call .Copy
 	call .Rotate
-	ld hl, UnownPrinter_GBPrinterRectangle
+	ld hl, ZarbiPrinter_GBPrinterRectangle
 	pop bc
 	add hl, bc
 	add hl, bc
 	ld a, [hli]
 	ld e, a
 	ld d, [hl]
-	ld hl, wPrintedUnownTileDest
+	ld hl, wPrintedZarbiTileDest
 	call .Copy
 	pop hl
 	ld bc, TILE_SIZE
@@ -54,18 +54,18 @@ RotateUnownFrontpic:
 	ret
 
 .Rotate:
-	ld hl, wPrintedUnownTileDest
+	ld hl, wPrintedZarbiTileDest
 	ld e, %10000000
 	ld d, 8
 .loop_decompress
 	push hl
-	ld hl, wPrintedUnownTileSource
+	ld hl, wPrintedZarbiTileSource
 	call .CountSetBit
 	pop hl
 	ld a, b
 	ld [hli], a
 	push hl
-	ld hl, wPrintedUnownTileSource + 1
+	ld hl, wPrintedZarbiTileSource + 1
 	call .CountSetBit
 	pop hl
 	ld a, b
@@ -95,7 +95,7 @@ RotateUnownFrontpic:
 	jr nz, .loop_count
 	ret
 
-UnownPrinter_GBPrinterRectangle:
+ZarbiPrinter_GBPrinterRectangle:
 for y, 7
 for x, 7 - 1, -1, -1
 	dw wGameboyPrinter2bppSource tile (x * 7 + y)

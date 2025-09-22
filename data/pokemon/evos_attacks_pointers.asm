@@ -202,7 +202,7 @@ EvosAttacksPointers::
 	dw CornebreEvosAttacks
 	dw RoigadaEvosAttacks
 	dw FeuforeveEvosAttacks
-	dw UnownEvosAttacks
+	dw ZarbiEvosAttacks
 	dw QulbutokeEvosAttacks
 	dw GirafarigEvosAttacks
 	dw PomdepikEvosAttacks

@@ -200,7 +200,7 @@ AnimationPointers:
 	dw CornebreAnimation
 	dw RoigadaAnimation
 	dw FeuforeveAnimation
-	dw UnownAnimation
+	dw ZarbiAnimation
 	dw QulbutokeAnimation
 	dw GirafarigAnimation
 	dw PomdepikAnimation

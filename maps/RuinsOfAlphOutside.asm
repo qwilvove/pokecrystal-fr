@@ -8,7 +8,7 @@
 RuinsOfAlphOutside_MapScripts:
 	def_scene_scripts
 	scene_script RuinsOfAlphOutsideNoop1Scene, SCENE_RUINSOFALPHOUTSIDE_NOOP
-	scene_script RuinsOfAlphOutsideNoop2Scene, SCENE_RUINSOFALPHOUTSIDE_GET_UNOWN_DEX
+	scene_script RuinsOfAlphOutsideNoop2Scene, SCENE_RUINSOFALPHOUTSIDE_GET_ZARBI_DEX
 
 	def_callbacks
 	callback MAPCALLBACK_OBJECTS, RuinsOfAlphOutsideScientistCallback
@@ -20,20 +20,20 @@ RuinsOfAlphOutsideNoop2Scene:
 	end
 
 RuinsOfAlphOutsideScientistCallback:
-	checkflag ENGINE_UNOWN_DEX
+	checkflag ENGINE_ZARBI_DEX
 	iftrue .NoScientist
-	checkevent EVENT_MADE_UNOWN_APPEAR_IN_RUINS
+	checkevent EVENT_MADE_ZARBI_APPEAR_IN_RUINS
 	iftrue .MaybeScientist
 	sjump .NoScientist
 
 .MaybeScientist:
-	readvar VAR_UNOWNCOUNT
+	readvar VAR_ZARBICOUNT
 	ifgreater 2, .YesScientist
 	sjump .NoScientist
 
 .YesScientist:
 	appear RUINSOFALPHOUTSIDE_SCIENTIST
-	setscene SCENE_RUINSOFALPHOUTSIDE_GET_UNOWN_DEX
+	setscene SCENE_RUINSOFALPHOUTSIDE_GET_ZARBI_DEX
 	endcallback
 
 .NoScientist:
@@ -64,7 +64,7 @@ RuinsOfAlphOutsideScientistSceneContinue:
 	disappear RUINSOFALPHOUTSIDE_SCIENTIST
 	stopfollow
 	applymovement PLAYER, RuinsOfAlphOutsidePlayerEnterLabMovement
-	setmapscene RUINS_OF_ALPH_RESEARCH_CENTER, SCENE_RUINSOFALPHRESEARCHCENTER_GET_UNOWN_DEX
+	setmapscene RUINS_OF_ALPH_RESEARCH_CENTER, SCENE_RUINSOFALPHRESEARCHCENTER_GET_ZARBI_DEX
 	warpcheck
 	end
 
@@ -299,8 +299,8 @@ RuinsOfAlphOutside_MapEvents:
 	warp_event 13, 21, ROUTE_32_RUINS_OF_ALPH_GATE, 2
 
 	def_coord_events
-	coord_event 11, 14, SCENE_RUINSOFALPHOUTSIDE_GET_UNOWN_DEX, RuinsOfAlphOutsideScientistScene1
-	coord_event 10, 15, SCENE_RUINSOFALPHOUTSIDE_GET_UNOWN_DEX, RuinsOfAlphOutsideScientistScene2
+	coord_event 11, 14, SCENE_RUINSOFALPHOUTSIDE_GET_ZARBI_DEX, RuinsOfAlphOutsideScientistScene1
+	coord_event 10, 15, SCENE_RUINSOFALPHOUTSIDE_GET_ZARBI_DEX, RuinsOfAlphOutsideScientistScene2
 
 	def_bg_events
 	bg_event 16,  8, BGEVENT_READ, RuinsOfAlphOutsideMysteryChamberSign

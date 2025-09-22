@@ -235,7 +235,7 @@ AnimateHOFMonEntrance:
 	ld a, [hli]
 	ld [wTempMonDVs + 1], a
 	ld hl, wTempMonDVs
-	predef GetUnownLetter
+	predef GetZarbiLetter
 	hlcoord 0, 0
 	ld bc, SCREEN_AREA
 	ld a, " "
@@ -465,7 +465,7 @@ DisplayHOFMon:
 	ld [wCurPartySpecies], a
 	ld [wTextDecimalByte], a
 	ld hl, wTempMonDVs
-	predef GetUnownLetter
+	predef GetZarbiLetter
 	xor a
 	ld [wBoxAlignment], a
 	hlcoord 6, 5
