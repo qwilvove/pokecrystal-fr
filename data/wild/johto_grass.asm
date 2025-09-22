@@ -1393,7 +1393,7 @@ JohtoGrassWildMons:
 	db 10, METAMORPH
 	db 10, METAMORPH
 	; nite
-	db 12, DROWZEE
+	db 12, SOPORIFIK
 	db 11, RATTATA
 	db 12, HOOTHOOT
 	db 10, ABRA
@@ -1421,7 +1421,7 @@ JohtoGrassWildMons:
 	db 10, METAMORPH
 	db 12, YANMA
 	; nite
-	db 12, DROWZEE
+	db 12, SOPORIFIK
 	db 14, HOOTHOOT
 	db 13, PSYKOKWAK
 	db 10, ABRA

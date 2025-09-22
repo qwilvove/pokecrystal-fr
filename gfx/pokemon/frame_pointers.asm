@@ -95,7 +95,7 @@ FramesPointers:
 	dw HaunterFrames
 	dw EctoplasmaFrames
 	dw OnixFrames
-	dw DrowzeeFrames
+	dw SoporifikFrames
 	dw HypnomadeFrames
 	dw KrabbyFrames
 	dw KrabbossFrames

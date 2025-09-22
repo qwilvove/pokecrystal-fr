@@ -98,7 +98,7 @@ PokemonPicPointers::
 	dba_pics HaunterFrontpic, HaunterBackpic
 	dba_pics EctoplasmaFrontpic, EctoplasmaBackpic
 	dba_pics OnixFrontpic, OnixBackpic
-	dba_pics DrowzeeFrontpic, DrowzeeBackpic
+	dba_pics SoporifikFrontpic, SoporifikBackpic
 	dba_pics HypnomadeFrontpic, HypnomadeBackpic
 	dba_pics KrabbyFrontpic, KrabbyBackpic
 	dba_pics KrabbossFrontpic, KrabbossBackpic

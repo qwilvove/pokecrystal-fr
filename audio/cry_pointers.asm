@@ -14,7 +14,7 @@ Cries:
 	dba Cry_Nidoqueen
 	dba Cry_Diglett
 	dba Cry_Otaria
-	dba Cry_Drowzee
+	dba Cry_Soporifik
 	dba Cry_Roucool
 	dba Cry_Bulbizarre
 	dba Cry_Piafabec

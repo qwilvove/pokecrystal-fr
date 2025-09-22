@@ -88,7 +88,7 @@ NewPokedexOrder:
 	db ORTIDE
 	db RAFFLESIA
 	db JOLIFLOR
-	db DROWZEE
+	db SOPORIFIK
 	db HYPNOMADE
 	db ABRA
 	db KADABRA

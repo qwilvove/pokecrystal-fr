@@ -47,7 +47,7 @@ Pokered_MonIndices:
 	db ARBOK
 	db PARASECT
 	db PSYKOKWAK
-	db DROWZEE
+	db SOPORIFIK
 	db GROLEM
 	db SCARHINO ; MISSINGNO.
 	db MAGMAR

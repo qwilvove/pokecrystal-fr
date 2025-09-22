@@ -114,7 +114,7 @@
 	const HAUNTER    ; 5d
 	const ECTOPLASMA     ; 5e
 	const ONIX       ; 5f
-	const DROWZEE    ; 60
+	const SOPORIFIK    ; 60
 	const HYPNOMADE      ; 61
 	const KRABBY     ; 62
 	const KRABBOSS    ; 63

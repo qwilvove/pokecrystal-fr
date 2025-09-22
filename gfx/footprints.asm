@@ -217,7 +217,7 @@ INCBIN "gfx/footprints/fantominus.1bpp",     footprint_top
 INCBIN "gfx/footprints/haunter.1bpp",    footprint_top
 INCBIN "gfx/footprints/ectoplasma.1bpp",     footprint_top
 INCBIN "gfx/footprints/onix.1bpp",       footprint_top
-INCBIN "gfx/footprints/drowzee.1bpp",    footprint_top
+INCBIN "gfx/footprints/soporifik.1bpp",    footprint_top
 ; 089-096 bottom halves
 INCBIN "gfx/footprints/grotadmorv.1bpp",        footprint_bottom
 INCBIN "gfx/footprints/kokiyas.1bpp",   footprint_bottom
@@ -226,7 +226,7 @@ INCBIN "gfx/footprints/fantominus.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/haunter.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/ectoplasma.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/onix.1bpp",       footprint_bottom
-INCBIN "gfx/footprints/drowzee.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/soporifik.1bpp",    footprint_bottom
 ; 097-104 top halves
 INCBIN "gfx/footprints/hypnomade.1bpp",      footprint_top
 INCBIN "gfx/footprints/krabby.1bpp",     footprint_top

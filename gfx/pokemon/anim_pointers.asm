@@ -95,7 +95,7 @@ AnimationPointers:
 	dw HaunterAnimation
 	dw EctoplasmaAnimation
 	dw OnixAnimation
-	dw DrowzeeAnimation
+	dw SoporifikAnimation
 	dw HypnomadeAnimation
 	dw KrabbyAnimation
 	dw KrabbossAnimation

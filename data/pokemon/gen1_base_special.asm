@@ -97,7 +97,7 @@ KantoMonSpecials:
 	db 115 ; HAUNTER
 	db 130 ; ECTOPLASMA
 	db  30 ; ONIX
-	db  90 ; DROWZEE
+	db  90 ; SOPORIFIK
 	db 115 ; HYPNOMADE
 	db  25 ; KRABBY
 	db  50 ; KRABBOSS

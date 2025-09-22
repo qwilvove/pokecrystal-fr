@@ -96,7 +96,7 @@ PokedexDataPointerTable:
 	dw HaunterPokedexEntry
 	dw EctoplasmaPokedexEntry
 	dw OnixPokedexEntry
-	dw DrowzeePokedexEntry
+	dw SoporifikPokedexEntry
 	dw HypnomadePokedexEntry
 	dw KrabbyPokedexEntry
 	dw KrabbossPokedexEntry

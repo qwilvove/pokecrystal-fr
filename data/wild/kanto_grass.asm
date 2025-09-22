@@ -330,7 +330,7 @@ KantoGrassWildMons:
 	db 15, GRANBULL
 	; nite
 	db 13, MIAOUSS
-	db 13, DROWZEE
+	db 13, SOPORIFIK
 	db 14, MAGNETI
 	db 15, PSYKOKWAK
 	db 12, RONDOUDOU
@@ -469,7 +469,7 @@ KantoGrassWildMons:
 	db 16, GRANIVOL
 	db 16, GRANIVOL
 	; nite
-	db 14, DROWZEE
+	db 14, SOPORIFIK
 	db 13, MIAOUSS
 	db 15, MAGNETI
 	db 16, NOARFANG

@@ -97,7 +97,7 @@ EvosAttacksPointers::
 	dw HaunterEvosAttacks
 	dw EctoplasmaEvosAttacks
 	dw OnixEvosAttacks
-	dw DrowzeeEvosAttacks
+	dw SoporifikEvosAttacks
 	dw HypnomadeEvosAttacks
 	dw KrabbyEvosAttacks
 	dw KrabbossEvosAttacks

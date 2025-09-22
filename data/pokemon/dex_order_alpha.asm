@@ -219,7 +219,7 @@ AlphabeticalPokedexOrder:
 	db SMOGO
 	db SMOGOGO
 	db SNUBBULL
-	db DROWZEE
+	db SOPORIFIK
 	db HAUNTER
 	db STARYU
 	db STARMIE

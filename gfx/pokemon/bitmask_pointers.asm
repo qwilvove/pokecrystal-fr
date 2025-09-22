@@ -95,7 +95,7 @@ BitmasksPointers:
 	dw HaunterBitmasks
 	dw EctoplasmaBitmasks
 	dw OnixBitmasks
-	dw DrowzeeBitmasks
+	dw SoporifikBitmasks
 	dw HypnomadeBitmasks
 	dw KrabbyBitmasks
 	dw KrabbossBitmasks

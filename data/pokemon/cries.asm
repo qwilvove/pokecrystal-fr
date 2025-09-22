@@ -101,14 +101,14 @@ PokemonCries::
 	mon_cry CRY_CHRYSACIER,      48,  192 ; HAUNTER
 	mon_cry CRY_GROTADMORV,           0,  383 ; ECTOPLASMA
 	mon_cry CRY_ABO,       255,  320 ; ONIX
-	mon_cry CRY_DROWZEE,     136,  160 ; DROWZEE
-	mon_cry CRY_DROWZEE,     238,  192 ; HYPNOMADE
+	mon_cry CRY_SOPORIFIK,     136,  160 ; SOPORIFIK
+	mon_cry CRY_SOPORIFIK,     238,  192 ; HYPNOMADE
 	mon_cry CRY_KRABBY,       32,  352 ; KRABBY
 	mon_cry CRY_KRABBY,      238,  352 ; KRABBOSS
 	mon_cry CRY_VOLTORB,     237,  256 ; VOLTORB
 	mon_cry CRY_VOLTORB,     168,  272 ; ELECTRODE
 	mon_cry CRY_DIGLETT,       0,  256 ; NOEUNOEUF
-	mon_cry CRY_DROWZEE,       0,  256 ; NOADKOKO
+	mon_cry CRY_SOPORIFIK,       0,  256 ; NOADKOKO
 	mon_cry CRY_MELOFEE,      0,  256 ; OSSELAIT
 	mon_cry CRY_MYSTHERBE,       79,  224 ; OSSATUEUR
 	mon_cry CRY_GROLEM,       128,  320 ; KICKLEE
@@ -129,7 +129,7 @@ PokemonCries::
 	mon_cry CRY_PARAS,         0,  256 ; STARMIE
 	mon_cry CRY_KRABBY,        8,  192 ; M__MIME
 	mon_cry CRY_CHENIPAN,      0,  256 ; INSECATEUR
-	mon_cry CRY_DROWZEE,     255,  383 ; LIPPOUTOU
+	mon_cry CRY_SOPORIFIK,     255,  383 ; LIPPOUTOU
 	mon_cry CRY_VOLTORB,     143,  383 ; ELEKTEK
 	mon_cry CRY_SALAMECHE,  255,  176 ; MAGMAR
 	mon_cry CRY_ROUCOUPS,     0,  256 ; SCARABRUTE
