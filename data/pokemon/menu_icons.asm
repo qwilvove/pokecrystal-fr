@@ -147,7 +147,7 @@ MonMenuIcons:
 	db ICON_RONFLEX     ; RONFLEX
 	db ICON_BIRD        ; ARTIKODIN
 	db ICON_BIRD        ; ELECTHOR
-	db ICON_BIRD        ; MOLTRES
+	db ICON_BIRD        ; SULFURA
 	db ICON_SERPENT     ; MINIDRACO
 	db ICON_SERPENT     ; DRACO
 	db ICON_BIGMON      ; DRACOLOSSE

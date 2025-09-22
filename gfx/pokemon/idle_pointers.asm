@@ -145,7 +145,7 @@ AnimationIdlePointers:
 	dw RonflexAnimationIdle
 	dw ArtikodinAnimationIdle
 	dw ElecthorAnimationIdle
-	dw MoltresAnimationIdle
+	dw SulfuraAnimationIdle
 	dw MinidracoAnimationIdle
 	dw DracoAnimationIdle
 	dw DracolosseAnimationIdle

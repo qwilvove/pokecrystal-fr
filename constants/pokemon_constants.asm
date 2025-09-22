@@ -164,7 +164,7 @@
 	const RONFLEX    ; 8f
 	const ARTIKODIN   ; 90
 	const ELECTHOR     ; 91
-	const MOLTRES    ; 92
+	const SULFURA    ; 92
 	const MINIDRACO    ; 93
 	const DRACO  ; 94
 	const DRACOLOSSE  ; 95

@@ -238,7 +238,7 @@ NewPokedexOrder:
 	db BLASTOISE
 	db ARTIKODIN
 	db ELECTHOR
-	db MOLTRES
+	db SULFURA
 	db RAIKOU
 	db ENTEI
 	db SUICUNE

@@ -31,7 +31,7 @@ SpriteMons:
 	db VOLTORB
 	db LOKHLASS
 	db RHINOFEROS
-	db MOLTRES
+	db SULFURA
 	db RONFLEX
 	db LEVIATOR
 	db LUGIA

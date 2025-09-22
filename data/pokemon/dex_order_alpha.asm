@@ -225,7 +225,7 @@ AlphabeticalPokedexOrder:
 	db STAROSS
 	db STEELIX
 	db SUICUNE
-	db MOLTRES
+	db SULFURA
 	db GRIMER
 	db POLITOED
 	db POLIWRATH

@@ -145,7 +145,7 @@ BitmasksPointers:
 	dw RonflexBitmasks
 	dw ArtikodinBitmasks
 	dw ElecthorBitmasks
-	dw MoltresBitmasks
+	dw SulfuraBitmasks
 	dw MinidracoBitmasks
 	dw DracoBitmasks
 	dw DracolosseBitmasks

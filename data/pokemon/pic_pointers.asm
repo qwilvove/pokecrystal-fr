@@ -148,7 +148,7 @@ PokemonPicPointers::
 	dba_pics RonflexFrontpic, RonflexBackpic
 	dba_pics ArtikodinFrontpic, ArtikodinBackpic
 	dba_pics ElecthorFrontpic, ElecthorBackpic
-	dba_pics MoltresFrontpic, MoltresBackpic
+	dba_pics SulfuraFrontpic, SulfuraBackpic
 	dba_pics MinidracoFrontpic, MinidracoBackpic
 	dba_pics DracoFrontpic, DracoBackpic
 	dba_pics DracolosseFrontpic, DracolosseBackpic

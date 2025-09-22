@@ -145,7 +145,7 @@ FramesPointers:
 	dw RonflexFrames
 	dw ArtikodinFrames
 	dw ElecthorFrames
-	dw MoltresFrames
+	dw SulfuraFrames
 	dw MinidracoFrames
 	dw DracoFrames
 	dw DracolosseFrames

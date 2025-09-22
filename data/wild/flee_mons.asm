@@ -21,7 +21,7 @@ OftenFleeMons:
 	db OSSELAIT
 	db ARTIKODIN
 	db ELECTHOR
-	db MOLTRES
+	db SULFURA
 	db MARAISTE
 	db CADOIZO
 	db PHANPY

@@ -1969,7 +1969,7 @@ ElecthorEvosAttacks:
 	db 73, THUNDER
 	db 0 ; no more level-up moves
 
-MoltresEvosAttacks:
+SulfuraEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, WING_ATTACK
 	db 1, EMBER

@@ -341,7 +341,7 @@ DEF NUM_TMS EQU const_value - TM01 - 2 ; discount ITEM_C3 and ITEM_DC
 >
 > Pokémon traded from RBY to GSC have their catch rate interpreted as their new held item. This was planned early on in development, so some items were given indexes corresponding to appropriate Gen 1 catch rates:
 >
-> - $03 = 3: `BRIGHTPOWDER` is for Artikodin, Electhor, Moltres, and Mewtwo
+> - $03 = 3: `BRIGHTPOWDER` is for Artikodin, Electhor, Sulfura, and Mewtwo
 > - $1E = 30: `LUCKY_PUNCH` is for Leveinard
 > - $23 = 35: `METAL_POWDER` is for Metamorph
 > - $3C = 60: `SILVER_LEAF` is for 10 Pokémon

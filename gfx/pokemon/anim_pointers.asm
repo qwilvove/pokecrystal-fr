@@ -145,7 +145,7 @@ AnimationPointers:
 	dw RonflexAnimation
 	dw ArtikodinAnimation
 	dw ElecthorAnimation
-	dw MoltresAnimation
+	dw SulfuraAnimation
 	dw MinidracoAnimation
 	dw DracoAnimation
 	dw DracolosseAnimation

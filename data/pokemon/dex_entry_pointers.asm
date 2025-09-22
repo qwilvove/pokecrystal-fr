@@ -146,7 +146,7 @@ PokedexDataPointerTable:
 	dw RonflexPokedexEntry
 	dw ArtikodinPokedexEntry
 	dw ElecthorPokedexEntry
-	dw MoltresPokedexEntry
+	dw SulfuraPokedexEntry
 	dw MinidracoPokedexEntry
 	dw DracoPokedexEntry
 	dw DracolossePokedexEntry

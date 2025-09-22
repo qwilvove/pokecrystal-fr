@@ -72,7 +72,7 @@ Pokered_MonIndices:
 	db DODUO
 	db PTITARD
 	db LIPPOUTOU
-	db MOLTRES
+	db SULFURA
 	db ARTIKODIN
 	db ELECTHOR
 	db METAMORPH

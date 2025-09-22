@@ -147,7 +147,7 @@ EvosAttacksPointers::
 	dw RonflexEvosAttacks
 	dw ArtikodinEvosAttacks
 	dw ElecthorEvosAttacks
-	dw MoltresEvosAttacks
+	dw SulfuraEvosAttacks
 	dw MinidracoEvosAttacks
 	dw DracoEvosAttacks
 	dw DracolosseEvosAttacks
