@@ -213,7 +213,7 @@ FramesPointers:
 	dw QwilfishFrames
 	dw CizayoxFrames
 	dw CaratrocFrames
-	dw HeracrossFrames
+	dw ScarhinoFrames
 	dw FarfuretFrames
 	dw TeddiursaFrames
 	dw UrsaringFrames

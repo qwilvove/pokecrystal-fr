@@ -213,7 +213,7 @@ AnimationIdlePointers:
 	dw QwilfishAnimationIdle
 	dw CizayoxAnimationIdle
 	dw CaratrocAnimationIdle
-	dw HeracrossAnimationIdle
+	dw ScarhinoAnimationIdle
 	dw FarfuretAnimationIdle
 	dw TeddiursaAnimationIdle
 	dw UrsaringAnimationIdle

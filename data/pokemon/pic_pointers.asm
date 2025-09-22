@@ -216,7 +216,7 @@ PokemonPicPointers::
 	dba_pics QwilfishFrontpic, QwilfishBackpic
 	dba_pics CizayoxFrontpic, CizayoxBackpic
 	dba_pics CaratrocFrontpic, CaratrocBackpic
-	dba_pics HeracrossFrontpic, HeracrossBackpic
+	dba_pics ScarhinoFrontpic, ScarhinoBackpic
 	dba_pics FarfuretFrontpic, FarfuretBackpic
 	dba_pics TeddiursaFrontpic, TeddiursaBackpic
 	dba_pics UrsaringFrontpic, UrsaringBackpic

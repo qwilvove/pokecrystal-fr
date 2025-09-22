@@ -233,7 +233,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const QWILFISH   ; d3
 	const CIZAYOX     ; d4
 	const CARATROC    ; d5
-	const HERACROSS  ; d6
+	const SCARHINO  ; d6
 	const FARFURET    ; d7
 	const TEDDIURSA  ; d8
 	const URSARING   ; d9

@@ -215,7 +215,7 @@ EvosAttacksPointers::
 	dw QwilfishEvosAttacks
 	dw CizayoxEvosAttacks
 	dw CaratrocEvosAttacks
-	dw HeracrossEvosAttacks
+	dw ScarhinoEvosAttacks
 	dw FarfuretEvosAttacks
 	dw TeddiursaEvosAttacks
 	dw UrsaringEvosAttacks

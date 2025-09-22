@@ -446,7 +446,7 @@ BattleTowerMons:
 	bigdw 25 ; SDef
 	dname "NAtuSI-", MON_NAME_LENGTH
 
-	db HERACROSS
+	db SCARHINO
 	db GOLD_BERRY
 	db REVERSAL, ENDURE, COUNTER, ROCK_SMASH
 	dw 0 ; OT ID
@@ -709,7 +709,7 @@ BattleTowerMons:
 	bigdw 52 ; SDef
 	dname "UINDEi", MON_NAME_LENGTH
 
-	db HERACROSS
+	db SCARHINO
 	db FOCUS_BAND
 	db ENDURE, REVERSAL, MEGAHORN, EARTHQUAKE
 	dw 0 ; OT ID
@@ -3113,7 +3113,7 @@ BattleTowerMons:
 	bigdw 184 ; SDef
 	dname "KABIGON", MON_NAME_LENGTH
 
-	db HERACROSS
+	db SCARHINO
 	db FOCUS_BAND
 	db REVERSAL, MEGAHORN, EARTHQUAKE, COUNTER
 	dw 0 ; OT ID
@@ -3740,7 +3740,7 @@ BattleTowerMons:
 	bigdw 217 ; SDef
 	dname "SAWAMURA-", MON_NAME_LENGTH
 
-	db HERACROSS
+	db SCARHINO
 	db BRIGHTPOWDER
 	db REVERSAL, ENDURE, MEGAHORN, EARTHQUAKE
 	dw 0 ; OT ID

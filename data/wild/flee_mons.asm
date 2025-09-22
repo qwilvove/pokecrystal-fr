@@ -14,7 +14,7 @@ SometimesFleeMons:
 	db NOCTALI
 	db UNOWN
 	db SNUBBULL
-	db HERACROSS
+	db SCARHINO
 	db -1
 
 OftenFleeMons:

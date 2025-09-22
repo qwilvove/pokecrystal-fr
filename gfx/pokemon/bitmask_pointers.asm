@@ -213,7 +213,7 @@ BitmasksPointers:
 	dw QwilfishBitmasks
 	dw CizayoxBitmasks
 	dw CaratrocBitmasks
-	dw HeracrossBitmasks
+	dw ScarhinoBitmasks
 	dw FarfuretBitmasks
 	dw TeddiursaBitmasks
 	dw UrsaringBitmasks

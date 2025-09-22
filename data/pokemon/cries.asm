@@ -219,7 +219,7 @@ PokemonCries::
 	mon_cry CRY_ROIGADA,    352,  224 ; QWILFISH
 	mon_cry CRY_PHARAMP,      0,  352 ; CIZAYOX
 	mon_cry CRY_INSOLOURDO,   656,  168 ; CARATROC
-	mon_cry CRY_PHARAMP,     53,  224 ; HERACROSS
+	mon_cry CRY_PHARAMP,     53,  224 ; SCARHINO
 	mon_cry CRY_AXOLOTO,       83,  175 ; FARFURET
 	mon_cry CRY_TEDDIURSA,  1954,  110 ; TEDDIURSA
 	mon_cry CRY_TEDDIURSA,  1600,  216 ; URSARING

@@ -215,7 +215,7 @@ MonMenuIcons:
 	db ICON_FISH        ; QWILFISH
 	db ICON_BUG         ; CIZAYOX
 	db ICON_BUG         ; CARATROC
-	db ICON_BUG         ; HERACROSS
+	db ICON_BUG         ; SCARHINO
 	db ICON_FOX         ; FARFURET
 	db ICON_MONSTER     ; TEDDIURSA
 	db ICON_MONSTER     ; URSARING

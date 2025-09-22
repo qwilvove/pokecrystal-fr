@@ -19,7 +19,7 @@ AsleepTreeMonsDay:
 	db HOOTHOOT
 	db NOARFANG
 	db MIMIGAL
-	db HERACROSS
+	db SCARHINO
 	db -1 ; end
 
 AsleepTreeMonsMorn:
@@ -27,5 +27,5 @@ AsleepTreeMonsMorn:
 	db HOOTHOOT
 	db NOARFANG
 	db MIMIGAL
-	db HERACROSS
+	db SCARHINO
 	db -1 ; end

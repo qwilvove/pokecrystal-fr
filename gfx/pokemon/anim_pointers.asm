@@ -213,7 +213,7 @@ AnimationPointers:
 	dw QwilfishAnimation
 	dw CizayoxAnimation
 	dw CaratrocAnimation
-	dw HeracrossAnimation
+	dw ScarhinoAnimation
 	dw FarfuretAnimation
 	dw TeddiursaAnimation
 	dw UrsaringAnimation

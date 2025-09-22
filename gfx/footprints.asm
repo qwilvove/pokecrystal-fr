@@ -485,7 +485,7 @@ INCBIN "gfx/footprints/granbull.1bpp",   footprint_top
 INCBIN "gfx/footprints/qwilfish.1bpp",   footprint_top
 INCBIN "gfx/footprints/cizayox.1bpp",     footprint_top
 INCBIN "gfx/footprints/caratroc.1bpp",    footprint_top
-INCBIN "gfx/footprints/heracross.1bpp",  footprint_top
+INCBIN "gfx/footprints/scarhino.1bpp",  footprint_top
 INCBIN "gfx/footprints/farfuret.1bpp",    footprint_top
 INCBIN "gfx/footprints/teddiursa.1bpp",  footprint_top
 ; 209-216 bottom halves
@@ -494,7 +494,7 @@ INCBIN "gfx/footprints/granbull.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/qwilfish.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/cizayox.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/caratroc.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/heracross.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/scarhino.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/farfuret.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/teddiursa.1bpp",  footprint_bottom
 ; 217-224 top halves

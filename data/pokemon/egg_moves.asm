@@ -666,7 +666,7 @@ CaratrocEggMoves:
 	db SWEET_SCENT
 	db -1 ; end
 
-HeracrossEggMoves:
+ScarhinoEggMoves:
 	db HARDEN
 	db BIDE
 	db FLAIL

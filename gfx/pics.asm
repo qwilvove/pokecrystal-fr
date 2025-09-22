@@ -122,7 +122,7 @@ FantominusFrontpic:      INCBIN "gfx/pokemon/fantominus/front.animated.2bpp.lz"
 AzumarillFrontpic:   INCBIN "gfx/pokemon/azumarill/front.animated.2bpp.lz"
 ParasectFrontpic:    INCBIN "gfx/pokemon/parasect/front.animated.2bpp.lz"
 MMimeFrontpic:      INCBIN "gfx/pokemon/m__mime/front.animated.2bpp.lz"
-HeracrossFrontpic:   INCBIN "gfx/pokemon/heracross/front.animated.2bpp.lz"
+ScarhinoFrontpic:   INCBIN "gfx/pokemon/scarhino/front.animated.2bpp.lz"
 
 
 SECTION "Pics 6", ROMX
@@ -387,7 +387,7 @@ PichuFrontpic:       INCBIN "gfx/pokemon/pichu/front.animated.2bpp.lz"
 ElektekBackpic:   INCBIN "gfx/pokemon/elektek/back.2bpp.lz"
 CoxyclaqueBackpic:       INCBIN "gfx/pokemon/coxyclaque/back.2bpp.lz"
 PupitarBackpic:      INCBIN "gfx/pokemon/pupitar/back.2bpp.lz"
-HeracrossBackpic:    INCBIN "gfx/pokemon/heracross/back.2bpp.lz"
+ScarhinoBackpic:    INCBIN "gfx/pokemon/scarhino/back.2bpp.lz"
 UnownDFrontpic:      INCBIN "gfx/pokemon/unown_d/front.animated.2bpp.lz"
 EcremeuhBackpic:      INCBIN "gfx/pokemon/ecremeuh/back.2bpp.lz"
 SteelixBackpic:      INCBIN "gfx/pokemon/steelix/back.2bpp.lz"

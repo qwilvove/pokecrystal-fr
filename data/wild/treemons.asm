@@ -30,8 +30,8 @@ TreeMonSet_Canyon:
 	db -1
 ; rare
 	db 50, PIAFABEC,    10
-	db 15, HERACROSS,  10
-	db 15, HERACROSS,  10
+	db 15, SCARHINO,  10
+	db 15, SCARHINO,  10
 	db 10, CAPUMAIN,      10
 	db  5, CAPUMAIN,      10
 	db  5, CAPUMAIN,      10
@@ -48,8 +48,8 @@ TreeMonSet_Town:
 	db -1
 ; rare
 	db 50, PIAFABEC,    10
-	db 15, HERACROSS,  10
-	db 15, HERACROSS,  10
+	db 15, SCARHINO,  10
+	db 15, SCARHINO,  10
 	db 10, CAPUMAIN,      10
 	db  5, CAPUMAIN,      10
 	db  5, CAPUMAIN,      10

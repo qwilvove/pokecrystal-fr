@@ -214,7 +214,7 @@ PokedexDataPointerTable:
 	dw QwilfishPokedexEntry
 	dw CizayoxPokedexEntry
 	dw CaratrocPokedexEntry
-	dw HeracrossPokedexEntry
+	dw ScarhinoPokedexEntry
 	dw FarfuretPokedexEntry
 	dw TeddiursaPokedexEntry
 	dw UrsaringPokedexEntry

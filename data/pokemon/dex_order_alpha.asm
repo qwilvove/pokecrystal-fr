@@ -213,7 +213,7 @@ AlphabeticalPokedexOrder:
 	db SALAMECHE
 	db SAQUEDENEU
 	db SCARABRUTE
-	db HERACROSS
+	db SCARHINO
 	db GLIGAR
 	db SUDOWOODO
 	db KOFFING
