@@ -63,7 +63,7 @@ PokemonPicPointers::
 	dba_pics CaninosFrontpic, CaninosBackpic
 	dba_pics ArcaninFrontpic, ArcaninBackpic
 	dba_pics PtitardFrontpic, PtitardBackpic
-	dba_pics PoliwhirlFrontpic, PoliwhirlBackpic
+	dba_pics TetarteFrontpic, TetarteBackpic
 	dba_pics TartardFrontpic, TartardBackpic
 	dba_pics AbraFrontpic, AbraBackpic
 	dba_pics KadabraFrontpic, KadabraBackpic

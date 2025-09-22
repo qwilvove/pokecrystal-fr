@@ -79,7 +79,7 @@
 	const CANINOS  ; 3a
 	const ARCANIN   ; 3b
 	const PTITARD    ; 3c
-	const POLIWHIRL  ; 3d
+	const TETARTE  ; 3d
 	const TARTARD  ; 3e
 	const ABRA       ; 3f
 	const KADABRA    ; 40

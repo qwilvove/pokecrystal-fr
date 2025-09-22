@@ -132,14 +132,14 @@ JohtoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 20, PTITARD
 	db 15, PTITARD
-	db 20, POLIWHIRL
+	db 20, TETARTE
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_31
 	db 2 percent ; encounter rate
 	db 20, PTITARD
 	db 15, PTITARD
-	db 20, POLIWHIRL
+	db 20, TETARTE
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_32
@@ -195,7 +195,7 @@ JohtoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 25, PTITARD
 	db 20, PTITARD
-	db 25, POLIWHIRL
+	db 25, TETARTE
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_45
@@ -223,7 +223,7 @@ JohtoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 20, PTITARD
 	db 15, PTITARD
-	db 20, POLIWHIRL
+	db 20, TETARTE
 	end_water_wildmons
 
 	def_water_wildmons CIANWOOD_CITY
@@ -244,7 +244,7 @@ JohtoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 20, PTITARD
 	db 15, PTITARD
-	db 20, POLIWHIRL
+	db 20, TETARTE
 	end_water_wildmons
 
 	def_water_wildmons LAKE_OF_RAGE
@@ -263,8 +263,8 @@ JohtoWaterWildMons:
 
 	def_water_wildmons SILVER_CAVE_OUTSIDE
 	db 2 percent ; encounter rate
-	db 35, POLIWHIRL
-	db 40, POLIWHIRL
+	db 35, TETARTE
+	db 40, TETARTE
 	db 35, PTITARD
 	end_water_wildmons
 

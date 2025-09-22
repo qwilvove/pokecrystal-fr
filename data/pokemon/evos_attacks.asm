@@ -789,7 +789,7 @@ ArcaninEvosAttacks:
 	db 0 ; no more level-up moves
 
 PtitardEvosAttacks:
-	db EVOLVE_LEVEL, 25, POLIWHIRL
+	db EVOLVE_LEVEL, 25, TETARTE
 	db 0 ; no more evolutions
 	db 1, BUBBLE
 	db 7, HYPNOSIS
@@ -801,7 +801,7 @@ PtitardEvosAttacks:
 	db 43, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-PoliwhirlEvosAttacks:
+TetarteEvosAttacks:
 	db EVOLVE_ITEM, WATER_STONE, TARTARD
 	db EVOLVE_TRADE, KINGS_ROCK, TARPAUD
 	db 0 ; no more evolutions

@@ -109,7 +109,7 @@ Pokered_MonIndices:
 	db NOSFERAPTI
 	db ABO
 	db PARAS
-	db POLIWHIRL
+	db TETARTE
 	db TARTARD
 	db ASPICOT
 	db COCONFORT

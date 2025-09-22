@@ -74,7 +74,7 @@ NewPokedexOrder:
 	db PARAS
 	db PARASECT
 	db PTITARD
-	db POLIWHIRL
+	db TETARTE
 	db TARTARD
 	db TARPAUD
 	db MAGICARPE

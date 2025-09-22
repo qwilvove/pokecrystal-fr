@@ -60,7 +60,7 @@ BitmasksPointers:
 	dw CaninosBitmasks
 	dw ArcaninBitmasks
 	dw PtitardBitmasks
-	dw PoliwhirlBitmasks
+	dw TetarteBitmasks
 	dw TartardBitmasks
 	dw AbraBitmasks
 	dw KadabraBitmasks

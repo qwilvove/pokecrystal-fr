@@ -60,7 +60,7 @@ AnimationPointers:
 	dw CaninosAnimation
 	dw ArcaninAnimation
 	dw PtitardAnimation
-	dw PoliwhirlAnimation
+	dw TetarteAnimation
 	dw TartardAnimation
 	dw AbraAnimation
 	dw KadabraAnimation

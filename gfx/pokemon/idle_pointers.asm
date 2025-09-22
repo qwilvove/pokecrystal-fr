@@ -60,7 +60,7 @@ AnimationIdlePointers:
 	dw CaninosAnimationIdle
 	dw ArcaninAnimationIdle
 	dw PtitardAnimationIdle
-	dw PoliwhirlAnimationIdle
+	dw TetarteAnimationIdle
 	dw TartardAnimationIdle
 	dw AbraAnimationIdle
 	dw KadabraAnimationIdle

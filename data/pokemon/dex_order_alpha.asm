@@ -234,7 +234,7 @@ AlphabeticalPokedexOrder:
 	db TEDDIURSA
 	db TENTACOOL
 	db TENTACRUEL
-	db POLIWHIRL
+	db TETARTE
 	db TOGEPI
 	db TOGETIC
 	db BLASTOISE

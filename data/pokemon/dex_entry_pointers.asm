@@ -61,7 +61,7 @@ PokedexDataPointerTable:
 	dw CaninosPokedexEntry
 	dw ArcaninPokedexEntry
 	dw PtitardPokedexEntry
-	dw PoliwhirlPokedexEntry
+	dw TetartePokedexEntry
 	dw TartardPokedexEntry
 	dw AbraPokedexEntry
 	dw KadabraPokedexEntry

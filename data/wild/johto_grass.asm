@@ -1621,9 +1621,9 @@ JohtoGrassWildMons:
 	db 22, PTITARD
 	db 22, CHETIFLOR
 	db 24, BOUSTIFLOR
-	db 24, POLIWHIRL
-	db 26, POLIWHIRL
-	db 26, POLIWHIRL
+	db 24, TETARTE
+	db 26, TETARTE
+	db 26, TETARTE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_45
@@ -1702,9 +1702,9 @@ JohtoGrassWildMons:
 	db 43, DODRIO
 	; nite
 	db 41, SAQUEDENEU
-	db 42, POLIWHIRL
+	db 42, TETARTE
 	db 42, NOSFERALTO
-	db 44, POLIWHIRL
+	db 44, TETARTE
 	db 40, NOSFERALTO
 	db 44, NOSFERALTO
 	db 44, NOSFERALTO

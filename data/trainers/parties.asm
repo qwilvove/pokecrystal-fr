@@ -469,7 +469,7 @@ SchoolboyGroup:
 	db "BILLY@", TRAINERTYPE_NORMAL
 	db 27, PARAS
 	db 27, PARAS
-	db 27, POLIWHIRL
+	db 27, TETARTE
 	db 35, METAMORPH
 	db -1 ; end
 
@@ -1021,7 +1021,7 @@ CooltrainerFGroup:
 
 	; COOLTRAINERF (15)
 	db "EMMA@", TRAINERTYPE_NORMAL
-	db 28, POLIWHIRL
+	db 28, TETARTE
 	db -1 ; end
 
 	; COOLTRAINERF (16)
@@ -1635,7 +1635,7 @@ FisherGroup:
 	; FISHER (4)
 	db "OLIVE@", TRAINERTYPE_NORMAL
 	db 28, POISSOROY
-	db 31, POLIWHIRL
+	db 31, TETARTE
 	db 31, POISSOROY
 	db -1 ; end
 
@@ -2029,7 +2029,7 @@ SwimmerFGroup:
 SailorGroup:
 	; SAILOR (1)
 	db "JACOB@", TRAINERTYPE_NORMAL
-	db 17, POLIWHIRL
+	db 17, TETARTE
 	db 17, RATTATAC
 	db 19, KRABBY
 	db -1 ; end
@@ -2037,12 +2037,12 @@ SailorGroup:
 	; SAILOR (2)
 	db "GEORGES@", TRAINERTYPE_NORMAL
 	db 18, PTITARD
-	db 18, POLIWHIRL
+	db 18, TETARTE
 	db -1 ; end
 
 	; SAILOR (3)
 	db "ALBERTO@", TRAINERTYPE_NORMAL
-	db 20, POLIWHIRL
+	db 20, TETARTE
 	db -1 ; end
 
 	; SAILOR (4)
@@ -2055,7 +2055,7 @@ SailorGroup:
 	db "JONAS@", TRAINERTYPE_NORMAL
 	db 18, MACHOC
 	db 18, MACHOC
-	db 18, POLIWHIRL
+	db 18, TETARTE
 	db -1 ; end
 
 	; SAILOR (6)
@@ -2091,13 +2091,13 @@ SailorGroup:
 
 	; SAILOR (11)
 	db "GEORGES@", TRAINERTYPE_NORMAL
-	db 28, POLIWHIRL
-	db 28, POLIWHIRL
+	db 28, TETARTE
+	db 28, TETARTE
 	db -1 ; end
 
 	; SAILOR (12)
 	db "GEORGES@", TRAINERTYPE_NORMAL
-	db 34, POLIWHIRL
+	db 34, TETARTE
 	db 34, TARTARD
 	db -1 ; end
 

@@ -83,7 +83,7 @@ KantoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 10, PTITARD
 	db 5, PTITARD
-	db 10, POLIWHIRL
+	db 10, TETARTE
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_24
@@ -118,7 +118,7 @@ KantoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 40, PTITARD
 	db 35, PTITARD
-	db 40, POLIWHIRL
+	db 40, TETARTE
 	end_water_wildmons
 
 	def_water_wildmons PALLET_TOWN
@@ -132,7 +132,7 @@ KantoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 10, PTITARD
 	db 5, PTITARD
-	db 10, POLIWHIRL
+	db 10, TETARTE
 	end_water_wildmons
 
 	def_water_wildmons CERULEAN_CITY

@@ -60,7 +60,7 @@ FramesPointers:
 	dw CaninosFrames
 	dw ArcaninFrames
 	dw PtitardFrames
-	dw PoliwhirlFrames
+	dw TetarteFrames
 	dw TartardFrames
 	dw AbraFrames
 	dw KadabraFrames

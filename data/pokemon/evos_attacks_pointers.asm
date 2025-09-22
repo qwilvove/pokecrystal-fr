@@ -62,7 +62,7 @@ EvosAttacksPointers::
 	dw CaninosEvosAttacks
 	dw ArcaninEvosAttacks
 	dw PtitardEvosAttacks
-	dw PoliwhirlEvosAttacks
+	dw TetarteEvosAttacks
 	dw TartardEvosAttacks
 	dw AbraEvosAttacks
 	dw KadabraEvosAttacks
