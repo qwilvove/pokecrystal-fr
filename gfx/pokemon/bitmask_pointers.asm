@@ -50,7 +50,7 @@ BitmasksPointers:
 	dw MimitossBitmasks
 	dw AeromiteBitmasks
 	dw TaupiqueurBitmasks
-	dw DugtrioBitmasks
+	dw TriopikeurBitmasks
 	dw MiaoussBitmasks
 	dw PersianBitmasks
 	dw PsykokwakBitmasks

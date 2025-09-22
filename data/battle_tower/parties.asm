@@ -1206,7 +1206,7 @@ BattleTowerMons:
 	bigdw 86 ; SDef
 	dname "RU-ZIyuRA", MON_NAME_LENGTH
 
-	db DUGTRIO
+	db TRIOPIKEUR
 	db KINGS_ROCK
 	db EARTHQUAKE, SLUDGE_BOMB, SLASH, MUD_SLAP
 	dw 0 ; OT ID
@@ -1911,7 +1911,7 @@ BattleTowerMons:
 	bigdw 102 ; SDef
 	dname "HAtuSAMU", MON_NAME_LENGTH
 
-	db DUGTRIO
+	db TRIOPIKEUR
 	db KINGS_ROCK
 	db EARTHQUAKE, HYPER_BEAM, SLUDGE_BOMB, MUD_SLAP
 	dw 0 ; OT ID
@@ -2460,7 +2460,7 @@ BattleTowerMons:
 	bigdw 130 ; SDef
 	dname "SUTA-MI-", MON_NAME_LENGTH
 
-	db DUGTRIO
+	db TRIOPIKEUR
 	db KINGS_ROCK
 	db EARTHQUAKE, SLASH, HYPER_BEAM, SLUDGE_BOMB
 	dw 0 ; OT ID
@@ -4289,7 +4289,7 @@ BattleTowerMons:
 	bigdw 201 ; SDef
 	dname "MARUMAIN", MON_NAME_LENGTH
 
-	db DUGTRIO
+	db TRIOPIKEUR
 	db SCOPE_LENS
 	db SLASH, EARTHQUAKE, THIEF, MUD_SLAP
 	dw 0 ; OT ID

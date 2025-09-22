@@ -50,7 +50,7 @@ FramesPointers:
 	dw MimitossFrames
 	dw AeromiteFrames
 	dw TaupiqueurFrames
-	dw DugtrioFrames
+	dw TriopikeurFrames
 	dw MiaoussFrames
 	dw PersianFrames
 	dw PsykokwakFrames

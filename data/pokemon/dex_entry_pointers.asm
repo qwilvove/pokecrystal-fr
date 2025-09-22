@@ -51,7 +51,7 @@ PokedexDataPointerTable:
 	dw MimitossPokedexEntry
 	dw AeromitePokedexEntry
 	dw TaupiqueurPokedexEntry
-	dw DugtrioPokedexEntry
+	dw TriopikeurPokedexEntry
 	dw MiaoussPokedexEntry
 	dw PersianPokedexEntry
 	dw PsykokwakPokedexEntry

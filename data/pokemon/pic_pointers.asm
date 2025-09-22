@@ -53,7 +53,7 @@ PokemonPicPointers::
 	dba_pics MimitossFrontpic, MimitossBackpic
 	dba_pics AeromiteFrontpic, AeromiteBackpic
 	dba_pics TaupiqueurFrontpic, TaupiqueurBackpic
-	dba_pics DugtrioFrontpic, DugtrioBackpic
+	dba_pics TriopikeurFrontpic, TriopikeurBackpic
 	dba_pics MiaoussFrontpic, MiaoussBackpic
 	dba_pics PersianFrontpic, PersianBackpic
 	dba_pics PsykokwakFrontpic, PsykokwakBackpic

@@ -52,7 +52,7 @@ KantoMonSpecials:
 	db  40 ; MIMITOSS
 	db  90 ; AEROMITE
 	db  45 ; TAUPIQUEUR
-	db  70 ; DUGTRIO
+	db  70 ; TRIOPIKEUR
 	db  40 ; MIAOUSS
 	db  65 ; PERSIAN
 	db  50 ; PSYKOKWAK

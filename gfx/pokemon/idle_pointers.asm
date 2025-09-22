@@ -50,7 +50,7 @@ AnimationIdlePointers:
 	dw MimitossAnimationIdle
 	dw AeromiteAnimationIdle
 	dw TaupiqueurAnimationIdle
-	dw DugtrioAnimationIdle
+	dw TriopikeurAnimationIdle
 	dw MiaoussAnimationIdle
 	dw PersianAnimationIdle
 	dw PsykokwakAnimationIdle

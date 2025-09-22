@@ -240,7 +240,7 @@ AlphabeticalPokedexOrder:
 	db TORTANK
 	db TOUDOUDOU
 	db TOURNEGRIN
-	db DUGTRIO
+	db TRIOPIKEUR
 	db HITMONCHAN
 	db TYPHLOSION
 	db TYRANITAR

@@ -122,7 +122,7 @@ INCBIN "gfx/footprints/mimitoss.1bpp",    footprint_bottom
 ; 049-056 top halves
 INCBIN "gfx/footprints/aeromite.1bpp",   footprint_top
 INCBIN "gfx/footprints/taupiqueur.1bpp",    footprint_top
-INCBIN "gfx/footprints/dugtrio.1bpp",    footprint_top
+INCBIN "gfx/footprints/triopikeur.1bpp",    footprint_top
 INCBIN "gfx/footprints/miaouss.1bpp",     footprint_top
 INCBIN "gfx/footprints/persian.1bpp",    footprint_top
 INCBIN "gfx/footprints/psykokwak.1bpp",    footprint_top
@@ -131,7 +131,7 @@ INCBIN "gfx/footprints/ferosinge.1bpp",     footprint_top
 ; 049-056 bottom halves
 INCBIN "gfx/footprints/aeromite.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/taupiqueur.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/dugtrio.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/triopikeur.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/miaouss.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/persian.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/psykokwak.1bpp",    footprint_bottom

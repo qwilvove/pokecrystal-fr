@@ -50,7 +50,7 @@ AnimationPointers:
 	dw MimitossAnimation
 	dw AeromiteAnimation
 	dw TaupiqueurAnimation
-	dw DugtrioAnimation
+	dw TriopikeurAnimation
 	dw MiaoussAnimation
 	dw PersianAnimation
 	dw PsykokwakAnimation

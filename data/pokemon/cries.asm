@@ -56,7 +56,7 @@ PokemonCries::
 	mon_cry CRY_MIMITOSS,      68,  192 ; MIMITOSS
 	mon_cry CRY_MIMITOSS,      41,  256 ; AEROMITE
 	mon_cry CRY_TAUPIQUEUR,     170,  129 ; TAUPIQUEUR
-	mon_cry CRY_TAUPIQUEUR,      42,  144 ; DUGTRIO
+	mon_cry CRY_TAUPIQUEUR,      42,  144 ; TRIOPIKEUR
 	mon_cry CRY_MELOFEE,    119,  144 ; MIAOUSS
 	mon_cry CRY_MELOFEE,    153,  383 ; PERSIAN
 	mon_cry CRY_PSYKOKWAK,      32,  224 ; PSYKOKWAK
