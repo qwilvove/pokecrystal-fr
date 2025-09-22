@@ -247,7 +247,7 @@ AlphabeticalPokedexOrder:
 	db URSARING
 	db VOLCAROPOD
 	db VOLTALI
-	db VOLTORB
+	db VOLTORBE
 	db MAREEP
 	db XATU
 	db YANMA

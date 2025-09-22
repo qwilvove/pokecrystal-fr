@@ -21,7 +21,7 @@ IconPointers:
 	dw ShellIcon
 	dw BlobIcon
 	dw SerpentIcon
-	dw VoltorbIcon
+	dw VoltorbeIcon
 	dw CarapuceIcon
 	dw BulbizarreIcon
 	dw SalamecheIcon

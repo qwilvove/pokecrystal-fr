@@ -426,7 +426,7 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 15, PIAFABEC
-	db 17, VOLTORB
+	db 17, VOLTORBE
 	db 15, RATTATAC
 	db 15, RAPASDEPIC
 	db 15, OSSATUEUR
@@ -434,7 +434,7 @@ KantoGrassWildMons:
 	db 16, ELEKTEK
 	; day
 	db 15, PIAFABEC
-	db 17, VOLTORB
+	db 17, VOLTORBE
 	db 15, RATTATAC
 	db 15, RAPASDEPIC
 	db 15, OSSATUEUR
@@ -442,7 +442,7 @@ KantoGrassWildMons:
 	db 18, ELEKTEK
 	; nite
 	db 15, MIMITOSS
-	db 17, VOLTORB
+	db 17, VOLTORBE
 	db 15, RATTATAC
 	db 15, AEROMITE
 	db 15, NOSFERAPTI

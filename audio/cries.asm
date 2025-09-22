@@ -890,11 +890,11 @@ Cry_Tadmorv:
 	channel 6, Cry_Tadmorv_Ch6
 	channel 8, Cry_Tadmorv_Ch8
 
-Cry_Voltorb:
+Cry_Voltorbe:
 	channel_count 3
-	channel 5, Cry_Voltorb_Ch5
-	channel 6, Cry_Voltorb_Ch6
-	channel 8, Cry_Voltorb_Ch8
+	channel 5, Cry_Voltorbe_Ch5
+	channel 6, Cry_Voltorbe_Ch6
+	channel 8, Cry_Voltorbe_Ch8
 
 Cry_Grotadmorv:
 	channel_count 3
@@ -1389,7 +1389,7 @@ Cry_Roucool_Ch8:
 	noise_note 8, 6, 1, 17
 	sound_ret
 
-Cry_Voltorb_Ch5:
+Cry_Voltorbe_Ch5:
 	duty_cycle_pattern 3, 3, 2, 2
 	square_note 6, 8, 3, 583
 	square_note 15, 6, 2, 550
@@ -1397,10 +1397,10 @@ Cry_Voltorb_Ch5:
 	square_note 9, 6, 3, 518
 	square_note 15, 8, 2, 549
 	square_note 15, 4, 2, 519
-Cry_Voltorb_Ch6:
+Cry_Voltorbe_Ch6:
 	sound_ret
 
-Cry_Voltorb_Ch8:
+Cry_Voltorbe_Ch8:
 	noise_note 8, 13, 4, 140
 	noise_note 4, 14, 2, 156
 	noise_note 15, 12, 6, 140

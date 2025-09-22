@@ -280,7 +280,7 @@ ExplodingTrap1:
 ExplodingTrap2:
 	checkevent EVENT_EXPLODING_TRAP_2
 	iftrue NoExplodingTrap
-	scall VoltorbExplodingTrap
+	scall VoltorbeExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_2
 	end
@@ -296,7 +296,7 @@ ExplodingTrap3:
 ExplodingTrap4:
 	checkevent EVENT_EXPLODING_TRAP_4
 	iftrue NoExplodingTrap
-	scall VoltorbExplodingTrap
+	scall VoltorbeExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_4
 	end
@@ -320,7 +320,7 @@ ExplodingTrap6:
 ExplodingTrap7:
 	checkevent EVENT_EXPLODING_TRAP_7
 	iftrue NoExplodingTrap
-	scall VoltorbExplodingTrap
+	scall VoltorbeExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_7
 	end
@@ -344,7 +344,7 @@ ExplodingTrap9:
 ExplodingTrap10:
 	checkevent EVENT_EXPLODING_TRAP_10
 	iftrue NoExplodingTrap
-	scall VoltorbExplodingTrap
+	scall VoltorbeExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_10
 	end
@@ -384,7 +384,7 @@ ExplodingTrap14:
 ExplodingTrap15:
 	checkevent EVENT_EXPLODING_TRAP_15
 	iftrue NoExplodingTrap
-	scall VoltorbExplodingTrap
+	scall VoltorbeExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_15
 	end
@@ -400,7 +400,7 @@ ExplodingTrap16:
 ExplodingTrap17:
 	checkevent EVENT_EXPLODING_TRAP_17
 	iftrue NoExplodingTrap
-	scall VoltorbExplodingTrap
+	scall VoltorbeExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_17
 	end
@@ -424,7 +424,7 @@ ExplodingTrap19:
 ExplodingTrap20:
 	checkevent EVENT_EXPLODING_TRAP_20
 	iftrue NoExplodingTrap
-	scall VoltorbExplodingTrap
+	scall VoltorbeExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_20
 	end
@@ -440,18 +440,18 @@ ExplodingTrap21:
 ExplodingTrap22:
 	checkevent EVENT_EXPLODING_TRAP_22
 	iftrue NoExplodingTrap
-	scall VoltorbExplodingTrap
+	scall VoltorbeExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_22
 	end
 
-VoltorbExplodingTrap:
+VoltorbeExplodingTrap:
 	special FadeOutToWhite
-	cry VOLTORB
+	cry VOLTORBE
 	special FadeInFromWhite
 	setlasttalked -1
 	loadvar VAR_BATTLETYPE, BATTLETYPE_TRAP
-	loadwildmon VOLTORB, 23
+	loadwildmon VOLTORBE, 23
 	startbattle
 	end
 
@@ -745,7 +745,7 @@ TeamRocketBaseB1F_MapEvents:
 	coord_event 22, 16, SCENE_TEAMROCKETBASEB1F_TRAPS, SecurityCamera4
 	coord_event  8, 16, SCENE_TEAMROCKETBASEB1F_TRAPS, SecurityCamera5
 	; There are spots on the floor that trigger a Pokémon battle.
-	; Each Pokémon (Voltorb, Smogo, Racaillou) knows Selfdestruct.
+	; Each Pokémon (Voltorbe, Smogo, Racaillou) knows Selfdestruct.
 	coord_event  2,  7, SCENE_TEAMROCKETBASEB1F_TRAPS, ExplodingTrap1
 	coord_event  3,  7, SCENE_TEAMROCKETBASEB1F_TRAPS, ExplodingTrap2
 	coord_event  4,  7, SCENE_TEAMROCKETBASEB1F_TRAPS, ExplodingTrap3

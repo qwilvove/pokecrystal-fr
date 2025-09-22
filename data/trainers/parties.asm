@@ -418,14 +418,14 @@ SchoolboyGroup:
 	; SCHOOLBOY (1)
 	db "JULES@", TRAINERTYPE_NORMAL
 	db 12, MYSTHERBE
-	db 15, VOLTORB
+	db 15, VOLTORBE
 	db -1 ; end
 
 	; SCHOOLBOY (2)
 	db "CYRIL@", TRAINERTYPE_NORMAL
-	db 27, VOLTORB
+	db 27, VOLTORBE
 	db 27, MAGNETI
-	db 31, VOLTORB
+	db 31, VOLTORBE
 	db 31, MAGNETON
 	db -1 ; end
 
@@ -493,7 +493,7 @@ SchoolboyGroup:
 	; SCHOOLBOY (13)
 	db "JULES@", TRAINERTYPE_NORMAL
 	db 14, MYSTHERBE
-	db 17, VOLTORB
+	db 17, VOLTORBE
 	db -1 ; end
 
 	; SCHOOLBOY (14)
@@ -2165,7 +2165,7 @@ SuperNerdGroup:
 	; SUPER_NERD (10)
 	db "GIBUS@", TRAINERTYPE_NORMAL
 	db  7, MAGNETI
-	db 11, VOLTORB
+	db 11, VOLTORBE
 	db  7, MAGNETI
 	db  9, MAGNETI
 	db -1 ; end
@@ -2262,7 +2262,7 @@ GuitaristGroup:
 	; GUITARIST (2)
 	db "CARLOS@", TRAINERTYPE_NORMAL
 	db 27, MAGNETI
-	db 33, VOLTORB
+	db 33, VOLTORBE
 	db 32, MAGNETI
 	db 32, MAGNETI
 	db -1 ; end
@@ -2554,10 +2554,10 @@ FirebreatherGroup:
 JugglerGroup:
 	; JUGGLER (1)
 	db "ZEPPO@", TRAINERTYPE_NORMAL
-	db  2, VOLTORB
-	db  6, VOLTORB
-	db 10, VOLTORB
-	db 14, VOLTORB
+	db  2, VOLTORBE
+	db  6, VOLTORBE
+	db 10, VOLTORBE
+	db 14, VOLTORBE
 	db -1 ; end
 
 	; JUGGLER (2)
@@ -2577,25 +2577,25 @@ JugglerGroup:
 
 	; JUGGLER (4)
 	db "ZEPPO@", TRAINERTYPE_NORMAL
-	db  6, VOLTORB
-	db 10, VOLTORB
-	db 14, VOLTORB
-	db 18, VOLTORB
+	db  6, VOLTORBE
+	db 10, VOLTORBE
+	db 14, VOLTORBE
+	db 18, VOLTORBE
 	db -1 ; end
 
 	; JUGGLER (5)
 	db "ZEPPO@", TRAINERTYPE_NORMAL
-	db 18, VOLTORB
-	db 22, VOLTORB
-	db 26, VOLTORB
+	db 18, VOLTORBE
+	db 22, VOLTORBE
+	db 26, VOLTORBE
 	db 30, ELECTRODE
 	db -1 ; end
 
 	; JUGGLER (6)
 	db "ZEPPO@", TRAINERTYPE_NORMAL
-	db 18, VOLTORB
-	db 22, VOLTORB
-	db 26, VOLTORB
+	db 18, VOLTORBE
+	db 22, VOLTORBE
+	db 26, VOLTORBE
 	db 30, ELECTRODE
 	db -1 ; end
 

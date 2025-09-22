@@ -101,7 +101,7 @@ KantoMonSpecials:
 	db 115 ; HYPNOMADE
 	db  25 ; KRABBY
 	db  50 ; KRABBOSS
-	db  55 ; VOLTORB
+	db  55 ; VOLTORBE
 	db  80 ; ELECTRODE
 	db  60 ; NOEUNOEUF
 	db 125 ; NOADKOKO

@@ -99,7 +99,7 @@ AnimationIdlePointers:
 	dw HypnomadeAnimationIdle
 	dw KrabbyAnimationIdle
 	dw KrabbossAnimationIdle
-	dw VoltorbAnimationIdle
+	dw VoltorbeAnimationIdle
 	dw ElectrodeAnimationIdle
 	dw NoeunoeufAnimationIdle
 	dw NoadkokoAnimationIdle

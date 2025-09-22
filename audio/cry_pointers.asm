@@ -7,7 +7,7 @@ Cries:
 	dba Cry_Kangourex
 	dba Cry_Salameche
 	dba Cry_Tadmorv
-	dba Cry_Voltorb
+	dba Cry_Voltorbe
 	dba Cry_Grotadmorv
 	dba Cry_Mystherbe
 	dba Cry_Raichu

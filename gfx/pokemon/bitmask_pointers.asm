@@ -99,7 +99,7 @@ BitmasksPointers:
 	dw HypnomadeBitmasks
 	dw KrabbyBitmasks
 	dw KrabbossBitmasks
-	dw VoltorbBitmasks
+	dw VoltorbeBitmasks
 	dw ElectrodeBitmasks
 	dw NoeunoeufBitmasks
 	dw NoadkokoBitmasks

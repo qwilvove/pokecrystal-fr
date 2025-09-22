@@ -118,7 +118,7 @@
 	const HYPNOMADE      ; 61
 	const KRABBY     ; 62
 	const KRABBOSS    ; 63
-	const VOLTORB    ; 64
+	const VOLTORBE    ; 64
 	const ELECTRODE  ; 65
 	const NOEUNOEUF  ; 66
 	const NOADKOKO  ; 67

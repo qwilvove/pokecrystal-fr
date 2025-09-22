@@ -1345,7 +1345,7 @@ KrabbossEvosAttacks:
 	db 49, CRABHAMMER
 	db 0 ; no more level-up moves
 
-VoltorbEvosAttacks:
+VoltorbeEvosAttacks:
 	db EVOLVE_LEVEL, 30, ELECTRODE
 	db 0 ; no more evolutions
 	db 1, TACKLE

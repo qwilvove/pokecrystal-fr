@@ -231,7 +231,7 @@ INCBIN "gfx/footprints/soporifik.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/hypnomade.1bpp",      footprint_top
 INCBIN "gfx/footprints/krabby.1bpp",     footprint_top
 INCBIN "gfx/footprints/krabboss.1bpp",    footprint_top
-INCBIN "gfx/footprints/voltorb.1bpp",    footprint_top
+INCBIN "gfx/footprints/voltorbe.1bpp",    footprint_top
 INCBIN "gfx/footprints/electrode.1bpp",  footprint_top
 INCBIN "gfx/footprints/noeunoeuf.1bpp",  footprint_top
 INCBIN "gfx/footprints/noadkoko.1bpp",  footprint_top
@@ -240,7 +240,7 @@ INCBIN "gfx/footprints/osselait.1bpp",     footprint_top
 INCBIN "gfx/footprints/hypnomade.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/krabby.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/krabboss.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/voltorb.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/voltorbe.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/electrode.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/noeunoeuf.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/noadkoko.1bpp",  footprint_bottom

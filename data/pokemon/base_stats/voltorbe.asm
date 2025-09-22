@@ -1,4 +1,4 @@
-	db VOLTORB ; 100
+	db VOLTORBE ; 100
 
 	db  40,  30,  50, 100,  55,  55
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/voltorb/front.dimensions"
+	INCBIN "gfx/pokemon/voltorbe/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_MINERAL, EGG_MINERAL ; egg groups

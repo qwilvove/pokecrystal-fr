@@ -28,7 +28,7 @@ SpriteMons:
 	db TENTACOOL
 	db TAUROS
 	db MACHOC
-	db VOLTORB
+	db VOLTORBE
 	db LOKHLASS
 	db RHINOFEROS
 	db SULFURA

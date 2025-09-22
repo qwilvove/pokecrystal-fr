@@ -105,8 +105,8 @@ PokemonCries::
 	mon_cry CRY_SOPORIFIK,     238,  192 ; HYPNOMADE
 	mon_cry CRY_KRABBY,       32,  352 ; KRABBY
 	mon_cry CRY_KRABBY,      238,  352 ; KRABBOSS
-	mon_cry CRY_VOLTORB,     237,  256 ; VOLTORB
-	mon_cry CRY_VOLTORB,     168,  272 ; ELECTRODE
+	mon_cry CRY_VOLTORBE,     237,  256 ; VOLTORBE
+	mon_cry CRY_VOLTORBE,     168,  272 ; ELECTRODE
 	mon_cry CRY_TAUPIQUEUR,       0,  256 ; NOEUNOEUF
 	mon_cry CRY_SOPORIFIK,       0,  256 ; NOADKOKO
 	mon_cry CRY_MELOFEE,      0,  256 ; OSSELAIT
@@ -130,7 +130,7 @@ PokemonCries::
 	mon_cry CRY_KRABBY,        8,  192 ; M__MIME
 	mon_cry CRY_CHENIPAN,      0,  256 ; INSECATEUR
 	mon_cry CRY_SOPORIFIK,     255,  383 ; LIPPOUTOU
-	mon_cry CRY_VOLTORB,     143,  383 ; ELEKTEK
+	mon_cry CRY_VOLTORBE,     143,  383 ; ELEKTEK
 	mon_cry CRY_SALAMECHE,  255,  176 ; MAGMAR
 	mon_cry CRY_ROUCOUPS,     0,  256 ; SCARABRUTE
 	mon_cry CRY_CARAPUCE,     17,  192 ; TAUROS

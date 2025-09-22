@@ -1268,7 +1268,7 @@ _TradingMonForOTMonText::
 
 ; Mobile Adapter End
 
-_ObtainedTheVoltorbBadgeText:: ; unreferenced
+_ObtainedTheVoltorbeBadgeText:: ; unreferenced
 	text "VOLTORBBADGE"
 	line "obtenu!"
 	done

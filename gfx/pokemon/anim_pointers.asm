@@ -99,7 +99,7 @@ AnimationPointers:
 	dw HypnomadeAnimation
 	dw KrabbyAnimation
 	dw KrabbossAnimation
-	dw VoltorbAnimation
+	dw VoltorbeAnimation
 	dw ElectrodeAnimation
 	dw NoeunoeufAnimation
 	dw NoadkokoAnimation

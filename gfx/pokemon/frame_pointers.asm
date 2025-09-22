@@ -99,7 +99,7 @@ FramesPointers:
 	dw HypnomadeFrames
 	dw KrabbyFrames
 	dw KrabbossFrames
-	dw VoltorbFrames
+	dw VoltorbeFrames
 	dw ElectrodeFrames
 	dw NoeunoeufFrames
 	dw NoadkokoFrames

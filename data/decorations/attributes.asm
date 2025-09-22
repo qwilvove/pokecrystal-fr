@@ -53,7 +53,7 @@ DecorationAttributes:
 	decoration DECO_DOLL,    ECTOPLASMA,          SET_UP_DOLL,       EVENT_DECO_ECTOPLASMA_DOLL,             SPRITE_ECTOPLASMA
 	decoration DECO_DOLL,    KOKIYAS,        SET_UP_DOLL,       EVENT_DECO_KOKIYAS_DOLL,           SPRITE_KOKIYAS
 	decoration DECO_DOLL,    TADMORV,          SET_UP_DOLL,       EVENT_DECO_TADMORV_DOLL,             SPRITE_TADMORV
-	decoration DECO_DOLL,    VOLTORB,         SET_UP_DOLL,       EVENT_DECO_VOLTORB_DOLL,            SPRITE_VOLTORB
+	decoration DECO_DOLL,    VOLTORBE,         SET_UP_DOLL,       EVENT_DECO_VOLTORBE_DOLL,            SPRITE_VOLTORBE
 	decoration DECO_DOLL,    ASPICOT,          SET_UP_DOLL,       EVENT_DECO_ASPICOT_DOLL,             SPRITE_ASPICOT
 	decoration DECO_DOLL,    UNOWN,           SET_UP_DOLL,       EVENT_DECO_UNOWN_DOLL,              SPRITE_UNOWN
 	decoration DECO_DOLL,    RACAILLOU,         SET_UP_DOLL,       EVENT_DECO_RACAILLOU_DOLL,            SPRITE_RACAILLOU

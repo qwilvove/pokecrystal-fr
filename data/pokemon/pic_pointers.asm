@@ -102,7 +102,7 @@ PokemonPicPointers::
 	dba_pics HypnomadeFrontpic, HypnomadeBackpic
 	dba_pics KrabbyFrontpic, KrabbyBackpic
 	dba_pics KrabbossFrontpic, KrabbossBackpic
-	dba_pics VoltorbFrontpic, VoltorbBackpic
+	dba_pics VoltorbeFrontpic, VoltorbeBackpic
 	dba_pics ElectrodeFrontpic, ElectrodeBackpic
 	dba_pics NoeunoeufFrontpic, NoeunoeufBackpic
 	dba_pics NoadkokoFrontpic, NoadkokoBackpic

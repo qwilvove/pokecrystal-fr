@@ -101,7 +101,7 @@ EvosAttacksPointers::
 	dw HypnomadeEvosAttacks
 	dw KrabbyEvosAttacks
 	dw KrabbossEvosAttacks
-	dw VoltorbEvosAttacks
+	dw VoltorbeEvosAttacks
 	dw ElectrodeEvosAttacks
 	dw NoeunoeufEvosAttacks
 	dw NoadkokoEvosAttacks

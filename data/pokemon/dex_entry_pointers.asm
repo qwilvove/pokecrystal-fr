@@ -100,7 +100,7 @@ PokedexDataPointerTable:
 	dw HypnomadePokedexEntry
 	dw KrabbyPokedexEntry
 	dw KrabbossPokedexEntry
-	dw VoltorbPokedexEntry
+	dw VoltorbePokedexEntry
 	dw ElectrodePokedexEntry
 	dw NoeunoeufPokedexEntry
 	dw NoadkokoPokedexEntry

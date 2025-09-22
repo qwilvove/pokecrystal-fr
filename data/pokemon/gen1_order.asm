@@ -5,7 +5,7 @@ Pokered_MonIndices:
 	db NIDORAN_M
 	db MELOFEE
 	db PIAFABEC
-	db VOLTORB
+	db VOLTORBE
 	db NIDOKING
 	db FLAGADOSS
 	db HERBIZARRE
