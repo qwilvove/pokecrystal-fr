@@ -106,7 +106,7 @@ FramesPointers:
 	dw OsselaitFrames
 	dw OssatueurFrames
 	dw KickleeFrames
-	dw HitmonchanFrames
+	dw TygnonFrames
 	dw ExcelangueFrames
 	dw SmogoFrames
 	dw SmogogoFrames

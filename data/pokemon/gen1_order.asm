@@ -43,7 +43,7 @@ Pokered_MonIndices:
 	db MACHOPEUR
 	db M__MIME
 	db KICKLEE
-	db HITMONCHAN
+	db TYGNON
 	db ARBOK
 	db PARASECT
 	db PSYKOKWAK

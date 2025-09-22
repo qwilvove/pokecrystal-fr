@@ -108,7 +108,7 @@ KantoMonSpecials:
 	db  40 ; OSSELAIT
 	db  50 ; OSSATUEUR
 	db  35 ; KICKLEE
-	db  35 ; HITMONCHAN
+	db  35 ; TYGNON
 	db  60 ; EXCELANGUE
 	db  60 ; SMOGO
 	db  85 ; SMOGOGO

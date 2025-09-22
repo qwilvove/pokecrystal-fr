@@ -112,7 +112,7 @@ PokemonCries::
 	mon_cry CRY_MELOFEE,      0,  256 ; OSSELAIT
 	mon_cry CRY_MYSTHERBE,       79,  224 ; OSSATUEUR
 	mon_cry CRY_GROLEM,       128,  320 ; KICKLEE
-	mon_cry CRY_OTARIA,        238,  320 ; HITMONCHAN
+	mon_cry CRY_OTARIA,        238,  320 ; TYGNON
 	mon_cry CRY_OTARIA,          0,  256 ; EXCELANGUE
 	mon_cry CRY_GROLEM,       230,  349 ; SMOGO
 	mon_cry CRY_GROLEM,       255,  383 ; SMOGOGO

@@ -106,7 +106,7 @@ BitmasksPointers:
 	dw OsselaitBitmasks
 	dw OssatueurBitmasks
 	dw KickleeBitmasks
-	dw HitmonchanBitmasks
+	dw TygnonBitmasks
 	dw ExcelangueBitmasks
 	dw SmogoBitmasks
 	dw SmogogoBitmasks

@@ -109,7 +109,7 @@ PokemonPicPointers::
 	dba_pics OsselaitFrontpic, OsselaitBackpic
 	dba_pics OssatueurFrontpic, OssatueurBackpic
 	dba_pics KickleeFrontpic, KickleeBackpic
-	dba_pics HitmonchanFrontpic, HitmonchanBackpic
+	dba_pics TygnonFrontpic, TygnonBackpic
 	dba_pics ExcelangueFrontpic, ExcelangueBackpic
 	dba_pics SmogoFrontpic, SmogoBackpic
 	dba_pics SmogogoFrontpic, SmogogoBackpic

@@ -227,8 +227,8 @@ INCBIN "gfx/pokemon/ossatueur/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/ossatueur/shiny.pal"
 INCBIN "gfx/pokemon/kicklee/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/kicklee/shiny.pal"
-INCBIN "gfx/pokemon/hitmonchan/normal.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/hitmonchan/shiny.pal"
+INCBIN "gfx/pokemon/tygnon/normal.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/tygnon/shiny.pal"
 INCBIN "gfx/pokemon/excelangue/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/excelangue/shiny.pal"
 INCBIN "gfx/pokemon/smogo/normal.gbcpal", middle_colors

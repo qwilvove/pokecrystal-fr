@@ -125,7 +125,7 @@
 	const OSSELAIT     ; 68
 	const OSSATUEUR    ; 69
 	const KICKLEE  ; 6a
-	const HITMONCHAN ; 6b
+	const TYGNON ; 6b
 	const EXCELANGUE  ; 6c
 	const SMOGO    ; 6d
 	const SMOGOGO    ; 6e

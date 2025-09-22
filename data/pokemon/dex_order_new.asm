@@ -146,7 +146,7 @@ NewPokedexOrder:
 	db MACKOGNEUR
 	db DEBUGANT
 	db KICKLEE
-	db HITMONCHAN
+	db TYGNON
 	db KAPOERA
 	db GIRAFARIG
 	db TAUROS

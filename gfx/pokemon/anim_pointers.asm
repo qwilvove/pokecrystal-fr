@@ -106,7 +106,7 @@ AnimationPointers:
 	dw OsselaitAnimation
 	dw OssatueurAnimation
 	dw KickleeAnimation
-	dw HitmonchanAnimation
+	dw TygnonAnimation
 	dw ExcelangueAnimation
 	dw SmogoAnimation
 	dw SmogogoAnimation

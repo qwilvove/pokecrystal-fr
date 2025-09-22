@@ -108,7 +108,7 @@ EvosAttacksPointers::
 	dw OsselaitEvosAttacks
 	dw OssatueurEvosAttacks
 	dw KickleeEvosAttacks
-	dw HitmonchanEvosAttacks
+	dw TygnonEvosAttacks
 	dw ExcelangueEvosAttacks
 	dw SmogoEvosAttacks
 	dw SmogogoEvosAttacks

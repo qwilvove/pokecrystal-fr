@@ -107,7 +107,7 @@ PokedexDataPointerTable:
 	dw OsselaitPokedexEntry
 	dw OssatueurPokedexEntry
 	dw KickleePokedexEntry
-	dw HitmonchanPokedexEntry
+	dw TygnonPokedexEntry
 	dw ExcelanguePokedexEntry
 	dw SmogoPokedexEntry
 	dw SmogogoPokedexEntry

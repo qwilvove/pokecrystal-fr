@@ -106,7 +106,7 @@ AnimationIdlePointers:
 	dw OsselaitAnimationIdle
 	dw OssatueurAnimationIdle
 	dw KickleeAnimationIdle
-	dw HitmonchanAnimationIdle
+	dw TygnonAnimationIdle
 	dw ExcelangueAnimationIdle
 	dw SmogoAnimationIdle
 	dw SmogogoAnimationIdle

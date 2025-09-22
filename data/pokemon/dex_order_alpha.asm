@@ -241,7 +241,7 @@ AlphabeticalPokedexOrder:
 	db TOUDOUDOU
 	db TOURNEGRIN
 	db TRIOPIKEUR
-	db HITMONCHAN
+	db TYGNON
 	db TYPHLOSION
 	db TYRANITAR
 	db URSARING

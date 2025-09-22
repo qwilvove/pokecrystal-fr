@@ -1447,7 +1447,7 @@ KickleeEvosAttacks:
 	db 51, REVERSAL
 	db 0 ; no more level-up moves
 
-HitmonchanEvosAttacks:
+TygnonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, COMET_PUNCH
 	db 7, AGILITY
@@ -3138,7 +3138,7 @@ QueuloriorEvosAttacks:
 	db 0 ; no more level-up moves
 
 DebugantEvosAttacks:
-	db EVOLVE_STAT, 20, ATK_LT_DEF, HITMONCHAN
+	db EVOLVE_STAT, 20, ATK_LT_DEF, TYGNON
 	db EVOLVE_STAT, 20, ATK_GT_DEF, KICKLEE
 	db EVOLVE_STAT, 20, ATK_EQ_DEF, KAPOERA
 	db 0 ; no more evolutions
