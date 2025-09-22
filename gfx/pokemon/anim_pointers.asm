@@ -190,7 +190,7 @@ AnimationPointers:
 	dw FloravolAnimation
 	dw CotovolAnimation
 	dw CapumainAnimation
-	dw SunkernAnimation
+	dw TournegrinAnimation
 	dw HeliatroncAnimation
 	dw YanmaAnimation
 	dw AxolotoAnimation

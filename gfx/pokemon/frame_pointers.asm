@@ -190,7 +190,7 @@ FramesPointers:
 	dw FloravolFrames
 	dw CotovolFrames
 	dw CapumainFrames
-	dw SunkernFrames
+	dw TournegrinFrames
 	dw HeliatroncFrames
 	dw YanmaFrames
 	dw AxolotoFrames

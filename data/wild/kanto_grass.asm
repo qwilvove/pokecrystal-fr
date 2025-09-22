@@ -714,7 +714,7 @@ KantoGrassWildMons:
 	db 14, PAPILUSION
 	; day
 	db 8, CHENIPAN
-	db 12, SUNKERN
+	db 12, TOURNEGRIN
 	db 10, CHENIPAN
 	db 12, ABRA
 	db 10, CHETIFLOR

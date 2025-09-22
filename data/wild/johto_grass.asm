@@ -351,7 +351,7 @@ JohtoGrassWildMons:
 	; day
 	db 12, NIDORAN_F
 	db 12, NIDORAN_M
-	db 14, SUNKERN
+	db 14, TOURNEGRIN
 	db 13, ROUCOOL
 	db 10, CHENIPAN
 	db 10, ASPICOT

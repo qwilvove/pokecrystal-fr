@@ -2580,7 +2580,7 @@ CapumainEvosAttacks:
 	db 46, AGILITY
 	db 0 ; no more level-up moves
 
-SunkernEvosAttacks:
+TournegrinEvosAttacks:
 	db EVOLVE_ITEM, SUN_STONE, HELIATRONC
 	db 0 ; no more evolutions
 	db 1, ABSORB

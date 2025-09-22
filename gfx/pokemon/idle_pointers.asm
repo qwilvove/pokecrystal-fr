@@ -190,7 +190,7 @@ AnimationIdlePointers:
 	dw FloravolAnimationIdle
 	dw CotovolAnimationIdle
 	dw CapumainAnimationIdle
-	dw SunkernAnimationIdle
+	dw TournegrinAnimationIdle
 	dw HeliatroncAnimationIdle
 	dw YanmaAnimationIdle
 	dw AxolotoAnimationIdle

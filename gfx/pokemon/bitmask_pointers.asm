@@ -190,7 +190,7 @@ BitmasksPointers:
 	dw FloravolBitmasks
 	dw CotovolBitmasks
 	dw CapumainBitmasks
-	dw SunkernBitmasks
+	dw TournegrinBitmasks
 	dw HeliatroncBitmasks
 	dw YanmaBitmasks
 	dw AxolotoBitmasks

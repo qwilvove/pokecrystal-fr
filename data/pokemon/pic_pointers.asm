@@ -193,7 +193,7 @@ PokemonPicPointers::
 	dba_pics FloravolFrontpic, FloravolBackpic
 	dba_pics CotovolFrontpic, CotovolBackpic
 	dba_pics CapumainFrontpic, CapumainBackpic
-	dba_pics SunkernFrontpic, SunkernBackpic
+	dba_pics TournegrinFrontpic, TournegrinBackpic
 	dba_pics HeliatroncFrontpic, HeliatroncBackpic
 	dba_pics YanmaFrontpic, YanmaBackpic
 	dba_pics AxolotoFrontpic, AxolotoBackpic

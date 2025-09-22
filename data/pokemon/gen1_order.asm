@@ -230,7 +230,7 @@ Pokered_MonIndices:
 	db FLORAVOL
 	db COTOVOL
 	db CAPUMAIN
-	db SUNKERN
+	db TOURNEGRIN
 	db HELIATRONC
 	db YANMA
 	db AXOLOTO

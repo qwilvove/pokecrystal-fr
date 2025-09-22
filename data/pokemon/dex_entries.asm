@@ -198,7 +198,7 @@ GranivolPokedexEntry::     INCLUDE "data/pokemon/dex_entries/granivol.asm"
 FloravolPokedexEntry::   INCLUDE "data/pokemon/dex_entries/floravol.asm"
 CotovolPokedexEntry::   INCLUDE "data/pokemon/dex_entries/cotovol.asm"
 CapumainPokedexEntry::      INCLUDE "data/pokemon/dex_entries/capumain.asm"
-SunkernPokedexEntry::    INCLUDE "data/pokemon/dex_entries/sunkern.asm"
+TournegrinPokedexEntry::    INCLUDE "data/pokemon/dex_entries/tournegrin.asm"
 HeliatroncPokedexEntry::   INCLUDE "data/pokemon/dex_entries/heliatronc.asm"
 
 

@@ -239,7 +239,7 @@ AlphabeticalPokedexOrder:
 	db TOGETIC
 	db TORTANK
 	db TOUDOUDOU
-	db SUNKERN
+	db TOURNEGRIN
 	db DUGTRIO
 	db HITMONCHAN
 	db TYPHLOSION

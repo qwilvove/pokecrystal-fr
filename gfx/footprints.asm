@@ -432,7 +432,7 @@ INCBIN "gfx/footprints/granivol.1bpp",     footprint_top
 INCBIN "gfx/footprints/floravol.1bpp",   footprint_top
 INCBIN "gfx/footprints/cotovol.1bpp",   footprint_top
 INCBIN "gfx/footprints/capumain.1bpp",      footprint_top
-INCBIN "gfx/footprints/sunkern.1bpp",    footprint_top
+INCBIN "gfx/footprints/tournegrin.1bpp",    footprint_top
 INCBIN "gfx/footprints/heliatronc.1bpp",   footprint_top
 ; 185-192 bottom halves
 INCBIN "gfx/footprints/simularbre.1bpp",  footprint_bottom
@@ -441,7 +441,7 @@ INCBIN "gfx/footprints/granivol.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/floravol.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/cotovol.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/capumain.1bpp",      footprint_bottom
-INCBIN "gfx/footprints/sunkern.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/tournegrin.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/heliatronc.1bpp",   footprint_bottom
 ; 193-200 top halves
 INCBIN "gfx/footprints/yanma.1bpp",      footprint_top

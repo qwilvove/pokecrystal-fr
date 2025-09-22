@@ -196,7 +196,7 @@ PokemonCries::
 	mon_cry CRY_MELO,       39,  312 ; FLORAVOL
 	mon_cry CRY_MELO,        0,  384 ; COTOVOL
 	mon_cry CRY_CAPUMAIN,       -81,  232 ; CAPUMAIN
-	mon_cry CRY_MARILL,      299,  184 ; SUNKERN
+	mon_cry CRY_MARILL,      299,  184 ; TOURNEGRIN
 	mon_cry CRY_HELIATRONC,    -32,  384 ; HELIATRONC
 	mon_cry CRY_KAIMINUS,     49,  200 ; YANMA
 	mon_cry CRY_AXOLOTO,      147,  175 ; AXOLOTO

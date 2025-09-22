@@ -210,7 +210,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const FLORAVOL   ; bc
 	const COTOVOL   ; bd
 	const CAPUMAIN      ; be
-	const SUNKERN    ; bf
+	const TOURNEGRIN    ; bf
 	const HELIATRONC   ; c0
 	const YANMA      ; c1
 	const AXOLOTO     ; c2
