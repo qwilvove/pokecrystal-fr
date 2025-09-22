@@ -93,7 +93,7 @@ PokedexDataPointerTable:
 	dw KokiyasPokedexEntry
 	dw CrustabriPokedexEntry
 	dw FantominusPokedexEntry
-	dw HaunterPokedexEntry
+	dw SpectrumPokedexEntry
 	dw EctoplasmaPokedexEntry
 	dw OnixPokedexEntry
 	dw SoporifikPokedexEntry

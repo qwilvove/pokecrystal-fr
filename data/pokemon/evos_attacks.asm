@@ -1232,7 +1232,7 @@ CrustabriEvosAttacks:
 	db 0 ; no more level-up moves
 
 FantominusEvosAttacks:
-	db EVOLVE_LEVEL, 25, HAUNTER
+	db EVOLVE_LEVEL, 25, SPECTRUM
 	db 0 ; no more evolutions
 	db 1, HYPNOSIS
 	db 1, LICK
@@ -1245,7 +1245,7 @@ FantominusEvosAttacks:
 	db 36, DESTINY_BOND
 	db 0 ; no more level-up moves
 
-HaunterEvosAttacks:
+SpectrumEvosAttacks:
 	db EVOLVE_TRADE, -1, ECTOPLASMA
 	db 0 ; no more evolutions
 	db 1, HYPNOSIS

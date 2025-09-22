@@ -220,7 +220,7 @@ AlphabeticalPokedexOrder:
 	db SMOGOGO
 	db SNUBBULL
 	db SOPORIFIK
-	db HAUNTER
+	db SPECTRUM
 	db STARYU
 	db STARMIE
 	db STEELIX

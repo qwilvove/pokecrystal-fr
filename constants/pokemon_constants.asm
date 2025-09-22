@@ -111,7 +111,7 @@
 	const KOKIYAS   ; 5a
 	const CRUSTABRI   ; 5b
 	const FANTOMINUS     ; 5c
-	const HAUNTER    ; 5d
+	const SPECTRUM    ; 5d
 	const ECTOPLASMA     ; 5e
 	const ONIX       ; 5f
 	const SOPORIFIK    ; 60

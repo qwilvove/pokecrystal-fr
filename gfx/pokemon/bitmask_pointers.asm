@@ -92,7 +92,7 @@ BitmasksPointers:
 	dw KokiyasBitmasks
 	dw CrustabriBitmasks
 	dw FantominusBitmasks
-	dw HaunterBitmasks
+	dw SpectrumBitmasks
 	dw EctoplasmaBitmasks
 	dw OnixBitmasks
 	dw SoporifikBitmasks

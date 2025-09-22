@@ -60,7 +60,7 @@ NewPokedexOrder:
 	db AXOLOTO
 	db MARAISTE
 	db FANTOMINUS
-	db HAUNTER
+	db SPECTRUM
 	db ECTOPLASMA
 	db UNOWN
 	db ONIX

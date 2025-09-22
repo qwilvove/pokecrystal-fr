@@ -92,7 +92,7 @@ AnimationPointers:
 	dw KokiyasAnimation
 	dw CrustabriAnimation
 	dw FantominusAnimation
-	dw HaunterAnimation
+	dw SpectrumAnimation
 	dw EctoplasmaAnimation
 	dw OnixAnimation
 	dw SoporifikAnimation

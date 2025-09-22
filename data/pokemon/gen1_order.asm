@@ -146,7 +146,7 @@ Pokered_MonIndices:
 	db PERSIAN
 	db OSSATUEUR
 	db KAPOERA ; MISSINGNO.
-	db HAUNTER
+	db SPECTRUM
 	db ABRA
 	db ALAKAZAM
 	db ROUCOUPS

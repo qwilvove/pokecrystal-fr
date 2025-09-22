@@ -94,7 +94,7 @@ KantoMonSpecials:
 	db  45 ; KOKIYAS
 	db  85 ; CRUSTABRI
 	db 100 ; FANTOMINUS
-	db 115 ; HAUNTER
+	db 115 ; SPECTRUM
 	db 130 ; ECTOPLASMA
 	db  30 ; ONIX
 	db  90 ; SOPORIFIK

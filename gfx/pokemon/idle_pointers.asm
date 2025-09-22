@@ -92,7 +92,7 @@ AnimationIdlePointers:
 	dw KokiyasAnimationIdle
 	dw CrustabriAnimationIdle
 	dw FantominusAnimationIdle
-	dw HaunterAnimationIdle
+	dw SpectrumAnimationIdle
 	dw EctoplasmaAnimationIdle
 	dw OnixAnimationIdle
 	dw SoporifikAnimationIdle

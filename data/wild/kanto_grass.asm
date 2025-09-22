@@ -80,7 +80,7 @@ KantoGrassWildMons:
 	db 12, NOSFERAPTI
 	db 11, RACAILLOU
 	db 12, RACAILLOU
-	db 17, HAUNTER
+	db 17, SPECTRUM
 	db 15, NOSFERAPTI
 	db 15, NOSFERAPTI
 	db 15, NOSFERAPTI
@@ -109,7 +109,7 @@ KantoGrassWildMons:
 	db 14, RACAILLOU
 	db 16, ONIX
 	db 15, NOSFERAPTI
-	db 15, HAUNTER
+	db 15, SPECTRUM
 	db 15, NOSFERALTO
 	db 15, NOSFERALTO
 	end_grass_wildmons
@@ -388,7 +388,7 @@ KantoGrassWildMons:
 	db 17, MIAOUSS
 	db 20, NOARFANG
 	db 16, ABRA
-	db 17, HAUNTER
+	db 17, SPECTRUM
 	db 16, RONDOUDOU
 	db 18, KADABRA
 	db 18, KADABRA

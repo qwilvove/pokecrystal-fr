@@ -214,7 +214,7 @@ INCBIN "gfx/footprints/grotadmorv.1bpp",        footprint_top
 INCBIN "gfx/footprints/kokiyas.1bpp",   footprint_top
 INCBIN "gfx/footprints/crustabri.1bpp",   footprint_top
 INCBIN "gfx/footprints/fantominus.1bpp",     footprint_top
-INCBIN "gfx/footprints/haunter.1bpp",    footprint_top
+INCBIN "gfx/footprints/spectrum.1bpp",    footprint_top
 INCBIN "gfx/footprints/ectoplasma.1bpp",     footprint_top
 INCBIN "gfx/footprints/onix.1bpp",       footprint_top
 INCBIN "gfx/footprints/soporifik.1bpp",    footprint_top
@@ -223,7 +223,7 @@ INCBIN "gfx/footprints/grotadmorv.1bpp",        footprint_bottom
 INCBIN "gfx/footprints/kokiyas.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/crustabri.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/fantominus.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/haunter.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/spectrum.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/ectoplasma.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/onix.1bpp",       footprint_bottom
 INCBIN "gfx/footprints/soporifik.1bpp",    footprint_bottom

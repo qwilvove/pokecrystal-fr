@@ -95,7 +95,7 @@ PokemonPicPointers::
 	dba_pics KokiyasFrontpic, KokiyasBackpic
 	dba_pics CrustabriFrontpic, CrustabriBackpic
 	dba_pics FantominusFrontpic, FantominusBackpic
-	dba_pics HaunterFrontpic, HaunterBackpic
+	dba_pics SpectrumFrontpic, SpectrumBackpic
 	dba_pics EctoplasmaFrontpic, EctoplasmaBackpic
 	dba_pics OnixFrontpic, OnixBackpic
 	dba_pics SoporifikFrontpic, SoporifikBackpic

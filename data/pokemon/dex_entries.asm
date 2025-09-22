@@ -96,7 +96,7 @@ GrotadmorvPokedexEntry::        INCLUDE "data/pokemon/dex_entries/grotadmorv.asm
 KokiyasPokedexEntry::   INCLUDE "data/pokemon/dex_entries/kokiyas.asm"
 CrustabriPokedexEntry::   INCLUDE "data/pokemon/dex_entries/crustabri.asm"
 FantominusPokedexEntry::     INCLUDE "data/pokemon/dex_entries/fantominus.asm"
-HaunterPokedexEntry::    INCLUDE "data/pokemon/dex_entries/haunter.asm"
+SpectrumPokedexEntry::    INCLUDE "data/pokemon/dex_entries/spectrum.asm"
 EctoplasmaPokedexEntry::     INCLUDE "data/pokemon/dex_entries/ectoplasma.asm"
 OnixPokedexEntry::       INCLUDE "data/pokemon/dex_entries/onix.asm"
 SoporifikPokedexEntry::    INCLUDE "data/pokemon/dex_entries/soporifik.asm"

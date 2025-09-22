@@ -92,7 +92,7 @@ FramesPointers:
 	dw KokiyasFrames
 	dw CrustabriFrames
 	dw FantominusFrames
-	dw HaunterFrames
+	dw SpectrumFrames
 	dw EctoplasmaFrames
 	dw OnixFrames
 	dw SoporifikFrames

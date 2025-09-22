@@ -98,7 +98,7 @@ PokemonCries::
 	mon_cry CRY_RAPASDEPIC,        0,  256 ; KOKIYAS
 	mon_cry CRY_RAPASDEPIC,      111,  352 ; CRUSTABRI
 	mon_cry CRY_CHRYSACIER,       0,  256 ; FANTOMINUS
-	mon_cry CRY_CHRYSACIER,      48,  192 ; HAUNTER
+	mon_cry CRY_CHRYSACIER,      48,  192 ; SPECTRUM
 	mon_cry CRY_GROTADMORV,           0,  383 ; ECTOPLASMA
 	mon_cry CRY_ABO,       255,  320 ; ONIX
 	mon_cry CRY_SOPORIFIK,     136,  160 ; SOPORIFIK

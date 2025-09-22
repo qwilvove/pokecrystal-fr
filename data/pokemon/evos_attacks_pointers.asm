@@ -94,7 +94,7 @@ EvosAttacksPointers::
 	dw KokiyasEvosAttacks
 	dw CrustabriEvosAttacks
 	dw FantominusEvosAttacks
-	dw HaunterEvosAttacks
+	dw SpectrumEvosAttacks
 	dw EctoplasmaEvosAttacks
 	dw OnixEvosAttacks
 	dw SoporifikEvosAttacks
