@@ -19,7 +19,7 @@ KantoMonSpecials:
 	db  45 ; DARDARGNAN
 	db  35 ; PIDGEY
 	db  50 ; ROUCOUPS
-	db  70 ; PIDGEOT
+	db  70 ; ROUCARNAGE
 	db  25 ; RATTATA
 	db  50 ; RATTATAC
 	db  31 ; PIAFABEC

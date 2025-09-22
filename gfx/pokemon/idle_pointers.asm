@@ -17,7 +17,7 @@ AnimationIdlePointers:
 	dw DardargnanAnimationIdle
 	dw PidgeyAnimationIdle
 	dw RoucoupsAnimationIdle
-	dw PidgeotAnimationIdle
+	dw RoucarnageAnimationIdle
 	dw RattataAnimationIdle
 	dw RattatacAnimationIdle
 	dw PiafabecAnimationIdle

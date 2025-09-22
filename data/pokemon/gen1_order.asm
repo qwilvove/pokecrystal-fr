@@ -150,7 +150,7 @@ Pokered_MonIndices:
 	db ABRA
 	db ALAKAZAM
 	db ROUCOUPS
-	db PIDGEOT
+	db ROUCARNAGE
 	db STARMIE
 	db BULBIZARRE
 	db FLORIZARRE

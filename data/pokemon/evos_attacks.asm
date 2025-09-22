@@ -234,7 +234,7 @@ PidgeyEvosAttacks:
 	db 0 ; no more level-up moves
 
 RoucoupsEvosAttacks:
-	db EVOLVE_LEVEL, 36, PIDGEOT
+	db EVOLVE_LEVEL, 36, ROUCARNAGE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, SAND_ATTACK
@@ -248,7 +248,7 @@ RoucoupsEvosAttacks:
 	db 55, MIRROR_MOVE
 	db 0 ; no more level-up moves
 
-PidgeotEvosAttacks:
+RoucarnageEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, SAND_ATTACK

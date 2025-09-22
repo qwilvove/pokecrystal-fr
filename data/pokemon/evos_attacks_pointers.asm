@@ -19,7 +19,7 @@ EvosAttacksPointers::
 	dw DardargnanEvosAttacks
 	dw PidgeyEvosAttacks
 	dw RoucoupsEvosAttacks
-	dw PidgeotEvosAttacks
+	dw RoucarnageEvosAttacks
 	dw RattataEvosAttacks
 	dw RattatacEvosAttacks
 	dw PiafabecEvosAttacks

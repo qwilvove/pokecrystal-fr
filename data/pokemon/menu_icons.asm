@@ -19,7 +19,7 @@ MonMenuIcons:
 	db ICON_BUG         ; DARDARGNAN
 	db ICON_BIRD        ; PIDGEY
 	db ICON_BIRD        ; ROUCOUPS
-	db ICON_BIRD        ; PIDGEOT
+	db ICON_BIRD        ; ROUCARNAGE
 	db ICON_FOX         ; RATTATA
 	db ICON_FOX         ; RATTATAC
 	db ICON_BIRD        ; PIAFABEC

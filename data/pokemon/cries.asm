@@ -23,7 +23,7 @@ PokemonCries::
 	mon_cry CRY_BLASTOISE,    96,  256 ; DARDARGNAN
 	mon_cry CRY_PIDGEY,      223,  132 ; PIDGEY
 	mon_cry CRY_ROUCOUPS,    40,  320 ; ROUCOUPS
-	mon_cry CRY_ROUCOUPS,    17,  383 ; PIDGEOT
+	mon_cry CRY_ROUCOUPS,    17,  383 ; ROUCARNAGE
 	mon_cry CRY_RATTATA,       0,  256 ; RATTATA
 	mon_cry CRY_RATTATA,      32,  383 ; RATTATAC
 	mon_cry CRY_PIAFABEC,       0,  256 ; PIAFABEC

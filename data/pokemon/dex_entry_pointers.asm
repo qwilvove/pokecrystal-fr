@@ -18,7 +18,7 @@ PokedexDataPointerTable:
 	dw DardargnanPokedexEntry
 	dw PidgeyPokedexEntry
 	dw RoucoupsPokedexEntry
-	dw PidgeotPokedexEntry
+	dw RoucarnagePokedexEntry
 	dw RattataPokedexEntry
 	dw RattatacPokedexEntry
 	dw PiafabecPokedexEntry

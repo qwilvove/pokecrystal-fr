@@ -17,7 +17,7 @@ FramesPointers:
 	dw DardargnanFrames
 	dw PidgeyFrames
 	dw RoucoupsFrames
-	dw PidgeotFrames
+	dw RoucarnageFrames
 	dw RattataFrames
 	dw RattatacFrames
 	dw PiafabecFrames
