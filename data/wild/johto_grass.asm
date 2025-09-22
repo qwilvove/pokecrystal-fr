@@ -1131,7 +1131,7 @@ JohtoGrassWildMons:
 	db 50, URSARING
 	db 20, EMBRYLEX
 	db 15, EMBRYLEX
-	db 20, PUPITAR
+	db 20, YMPHECT
 	; day
 	db 51, NOSFERALTO
 	db 48, ONIX
@@ -1139,7 +1139,7 @@ JohtoGrassWildMons:
 	db 50, URSARING
 	db 20, EMBRYLEX
 	db 15, EMBRYLEX
-	db 20, PUPITAR
+	db 20, YMPHECT
 	; nite
 	db 51, NOSFERALTO
 	db 48, ONIX

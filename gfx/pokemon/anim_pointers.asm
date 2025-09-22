@@ -246,7 +246,7 @@ AnimationPointers:
 	dw EnteiAnimation
 	dw SuicuneAnimation
 	dw EmbrylexAnimation
-	dw PupitarAnimation
+	dw YmphectAnimation
 	dw TyranocifAnimation
 	dw LugiaAnimation
 	dw HoOhAnimation

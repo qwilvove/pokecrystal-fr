@@ -248,7 +248,7 @@ EvosAttacksPointers::
 	dw EnteiEvosAttacks
 	dw SuicuneEvosAttacks
 	dw EmbrylexEvosAttacks
-	dw PupitarEvosAttacks
+	dw YmphectEvosAttacks
 	dw TyranocifEvosAttacks
 	dw LugiaEvosAttacks
 	dw HoOhEvosAttacks

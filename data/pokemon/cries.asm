@@ -252,7 +252,7 @@ PokemonCries::
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
 	mon_cry CRY_VOLCAROPOD,      0,  384 ; SUICUNE
 	mon_cry CRY_RAIKOU,       95,  208 ; EMBRYLEX
-	mon_cry CRY_MIMIGAL,   -475,  336 ; PUPITAR
+	mon_cry CRY_MIMIGAL,   -475,  336 ; YMPHECT
 	mon_cry CRY_RAIKOU,     -256,  384 ; TYRANOCIF
 	mon_cry CRY_TYPHLOSION,    0,  256 ; LUGIA
 	mon_cry CRY_CAPUMAIN,         0,  384 ; HO_OH

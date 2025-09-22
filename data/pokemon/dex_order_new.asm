@@ -246,7 +246,7 @@ NewPokedexOrder:
 	db DRACO
 	db DRACOLOSSE
 	db EMBRYLEX
-	db PUPITAR
+	db YMPHECT
 	db TYRANOCIF
 	db LUGIA
 	db HO_OH

@@ -251,6 +251,6 @@ AlphabeticalPokedexOrder:
 	db WATTOUAT
 	db XATU
 	db YANMA
-	db PUPITAR
+	db YMPHECT
 	db UNOWN
 	assert_table_length NUM_POKEMON

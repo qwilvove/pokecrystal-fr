@@ -246,7 +246,7 @@ FramesPointers:
 	dw EnteiFrames
 	dw SuicuneFrames
 	dw EmbrylexFrames
-	dw PupitarFrames
+	dw YmphectFrames
 	dw TyranocifFrames
 	dw LugiaFrames
 	dw HoOhFrames

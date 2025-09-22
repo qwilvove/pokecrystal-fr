@@ -248,7 +248,7 @@ MonMenuIcons:
 	db ICON_FOX         ; ENTEI
 	db ICON_FOX         ; SUICUNE
 	db ICON_MONSTER     ; EMBRYLEX
-	db ICON_MONSTER     ; PUPITAR
+	db ICON_MONSTER     ; YMPHECT
 	db ICON_MONSTER     ; TYRANOCIF
 	db ICON_LUGIA       ; LUGIA
 	db ICON_HO_OH       ; HO_OH

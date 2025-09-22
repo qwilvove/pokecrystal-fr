@@ -3268,7 +3268,7 @@ SuicuneEvosAttacks:
 	db 0 ; no more level-up moves
 
 EmbrylexEvosAttacks:
-	db EVOLVE_LEVEL, 30, PUPITAR
+	db EVOLVE_LEVEL, 30, YMPHECT
 	db 0 ; no more evolutions
 	db 1, BITE
 	db 1, LEER
@@ -3282,7 +3282,7 @@ EmbrylexEvosAttacks:
 	db 57, HYPER_BEAM
 	db 0 ; no more level-up moves
 
-PupitarEvosAttacks:
+YmphectEvosAttacks:
 	db EVOLVE_LEVEL, 55, TYRANOCIF
 	db 0 ; no more evolutions
 	db 1, BITE
