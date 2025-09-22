@@ -208,7 +208,7 @@ EvosAttacksPointers::
 	dw PomdepikEvosAttacks
 	dw ForetressEvosAttacks
 	dw InsolourdoEvosAttacks
-	dw GligarEvosAttacks
+	dw ScorplaneEvosAttacks
 	dw SteelixEvosAttacks
 	dw SnubbullEvosAttacks
 	dw GranbullEvosAttacks

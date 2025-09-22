@@ -468,7 +468,7 @@ INCBIN "gfx/footprints/girafarig.1bpp",  footprint_top
 INCBIN "gfx/footprints/pomdepik.1bpp",     footprint_top
 INCBIN "gfx/footprints/foretress.1bpp", footprint_top
 INCBIN "gfx/footprints/insolourdo.1bpp",  footprint_top
-INCBIN "gfx/footprints/gligar.1bpp",     footprint_top
+INCBIN "gfx/footprints/scorplane.1bpp",     footprint_top
 INCBIN "gfx/footprints/steelix.1bpp",    footprint_top
 ; 201-208 bottom halves
 INCBIN "gfx/footprints/unown.1bpp",      footprint_bottom
@@ -477,7 +477,7 @@ INCBIN "gfx/footprints/girafarig.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/pomdepik.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/foretress.1bpp", footprint_bottom
 INCBIN "gfx/footprints/insolourdo.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/gligar.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/scorplane.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/steelix.1bpp",    footprint_bottom
 ; 209-216 top halves
 INCBIN "gfx/footprints/snubbull.1bpp",   footprint_top

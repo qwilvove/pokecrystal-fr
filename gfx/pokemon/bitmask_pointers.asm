@@ -206,7 +206,7 @@ BitmasksPointers:
 	dw PomdepikBitmasks
 	dw ForetressBitmasks
 	dw InsolourdoBitmasks
-	dw GligarBitmasks
+	dw ScorplaneBitmasks
 	dw SteelixBitmasks
 	dw SnubbullBitmasks
 	dw GranbullBitmasks

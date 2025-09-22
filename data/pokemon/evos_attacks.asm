@@ -2769,7 +2769,7 @@ InsolourdoEvosAttacks:
 	db 38, TAKE_DOWN
 	db 0 ; no more level-up moves
 
-GligarEvosAttacks:
+ScorplaneEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, POISON_STING
 	db 6, SAND_ATTACK

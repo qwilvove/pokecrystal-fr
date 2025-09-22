@@ -52,7 +52,7 @@ Cries:
 	dba Cry_Hericendre
 	dba Cry_Germignon
 	dba Cry_Kaiminus
-	dba Cry_Gligar
+	dba Cry_Scorplane
 	dba Cry_Melo
 	dba Cry_Limagma
 	dba Cry_Coxy

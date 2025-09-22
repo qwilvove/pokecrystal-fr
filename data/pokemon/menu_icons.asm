@@ -208,7 +208,7 @@ MonMenuIcons:
 	db ICON_BUG         ; POMDEPIK
 	db ICON_BUG         ; FORETRESS
 	db ICON_SERPENT     ; INSOLOURDO
-	db ICON_BUG         ; GLIGAR
+	db ICON_BUG         ; SCORPLANE
 	db ICON_SERPENT     ; STEELIX
 	db ICON_MONSTER     ; SNUBBULL
 	db ICON_MONSTER     ; GRANBULL

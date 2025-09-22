@@ -212,7 +212,7 @@ PokemonCries::
 	mon_cry CRY_ROIGADA,    128,  256 ; POMDEPIK
 	mon_cry CRY_ROIGADA,      0,  384 ; FORETRESS
 	mon_cry CRY_INSOLOURDO,   452,  256 ; INSOLOURDO
-	mon_cry CRY_GLIGAR,     -258,  256 ; GLIGAR
+	mon_cry CRY_SCORPLANE,     -258,  256 ; SCORPLANE
 	mon_cry CRY_TYPHLOSION,  239,  247 ; STEELIX
 	mon_cry CRY_INSOLOURDO,   274,  232 ; SNUBBULL
 	mon_cry CRY_INSOLOURDO,     0,  384 ; GRANBULL
@@ -246,7 +246,7 @@ PokemonCries::
 	mon_cry CRY_MARILL,      104,  256 ; LIPPOUTI
 	mon_cry CRY_HELIATRONC,   -728,  180 ; ELEKID
 	mon_cry CRY_TEDDIURSA,   374,   58 ; MAGBY
-	mon_cry CRY_GLIGAR,     -461,  416 ; ECREMEUH
+	mon_cry CRY_SCORPLANE,     -461,  416 ; ECREMEUH
 	mon_cry CRY_ROIGADA,    659,  320 ; LEUPHORIE
 	mon_cry CRY_RAIKOU,      558,  288 ; RAIKOU
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI

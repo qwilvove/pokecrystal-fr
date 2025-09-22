@@ -206,7 +206,7 @@ AnimationIdlePointers:
 	dw PomdepikAnimationIdle
 	dw ForetressAnimationIdle
 	dw InsolourdoAnimationIdle
-	dw GligarAnimationIdle
+	dw ScorplaneAnimationIdle
 	dw SteelixAnimationIdle
 	dw SnubbullAnimationIdle
 	dw GranbullAnimationIdle

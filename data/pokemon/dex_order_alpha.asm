@@ -214,7 +214,7 @@ AlphabeticalPokedexOrder:
 	db SAQUEDENEU
 	db SCARABRUTE
 	db SCARHINO
-	db GLIGAR
+	db SCORPLANE
 	db SUDOWOODO
 	db KOFFING
 	db WEEZING

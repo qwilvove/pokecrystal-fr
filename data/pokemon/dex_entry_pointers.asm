@@ -207,7 +207,7 @@ PokedexDataPointerTable:
 	dw PomdepikPokedexEntry
 	dw ForetressPokedexEntry
 	dw InsolourdoPokedexEntry
-	dw GligarPokedexEntry
+	dw ScorplanePokedexEntry
 	dw SteelixPokedexEntry
 	dw SnubbullPokedexEntry
 	dw GranbullPokedexEntry

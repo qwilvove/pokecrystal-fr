@@ -637,7 +637,7 @@ InsolourdoEggMoves:
 	db RAGE
 	db -1 ; end
 
-GligarEggMoves:
+ScorplaneEggMoves:
 	db METAL_CLAW
 	db WING_ATTACK
 	db RAZOR_WIND

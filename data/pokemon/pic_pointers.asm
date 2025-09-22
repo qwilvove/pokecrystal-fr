@@ -209,7 +209,7 @@ PokemonPicPointers::
 	dba_pics PomdepikFrontpic, PomdepikBackpic
 	dba_pics ForetressFrontpic, ForetressBackpic
 	dba_pics InsolourdoFrontpic, InsolourdoBackpic
-	dba_pics GligarFrontpic, GligarBackpic
+	dba_pics ScorplaneFrontpic, ScorplaneBackpic
 	dba_pics SteelixFrontpic, SteelixBackpic
 	dba_pics SnubbullFrontpic, SnubbullBackpic
 	dba_pics GranbullFrontpic, GranbullBackpic

@@ -206,7 +206,7 @@ EggMovePointers::
 	dw PomdepikEggMoves
 	dw NoEggMoves
 	dw InsolourdoEggMoves
-	dw GligarEggMoves
+	dw ScorplaneEggMoves
 	dw NoEggMoves
 	dw SnubbullEggMoves
 	dw NoEggMoves

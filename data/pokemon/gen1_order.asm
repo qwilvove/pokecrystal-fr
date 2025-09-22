@@ -246,7 +246,7 @@ Pokered_MonIndices:
 	db POMDEPIK
 	db FORETRESS
 	db INSOLOURDO
-	db GLIGAR
+	db SCORPLANE
 	db STEELIX
 	db SNUBBULL
 	db GRANBULL

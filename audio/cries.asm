@@ -60,10 +60,10 @@ Cry_Germignon:
 	channel 6, Cry_Germignon_Ch6
 	channel 8, Cry_Germignon_Ch8
 
-Cry_Gligar:
+Cry_Scorplane:
 	channel_count 2
-	channel 5, Cry_Gligar_Ch5
-	channel 8, Cry_Gligar_Ch8
+	channel 5, Cry_Scorplane_Ch5
+	channel 8, Cry_Scorplane_Ch8
 
 Cry_Girafarig:
 	channel_count 3
@@ -498,7 +498,7 @@ Cry_Hericendre_Ch6:
 	sound_loop 4, .loop2
 	sound_ret
 
-Cry_Gligar_Ch8:
+Cry_Scorplane_Ch8:
 Cry_Hericendre_Ch8:
 	noise_note 8, 3, -7, 82
 	noise_note 32, 9, 3, 79
@@ -520,7 +520,7 @@ Cry_Germignon_Ch8:
 	noise_note 8, 9, 4, 3
 	sound_ret
 
-Cry_Gligar_Ch5:
+Cry_Scorplane_Ch5:
 	duty_cycle_pattern 2, 2, 0, 2
 	sound_jump Cry_Mareep_Ch6.body
 

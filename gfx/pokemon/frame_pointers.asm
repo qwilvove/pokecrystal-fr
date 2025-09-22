@@ -206,7 +206,7 @@ FramesPointers:
 	dw PomdepikFrames
 	dw ForetressFrames
 	dw InsolourdoFrames
-	dw GligarFrames
+	dw ScorplaneFrames
 	dw SteelixFrames
 	dw SnubbullFrames
 	dw GranbullFrames

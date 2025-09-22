@@ -206,7 +206,7 @@ AnimationPointers:
 	dw PomdepikAnimation
 	dw ForetressAnimation
 	dw InsolourdoAnimation
-	dw GligarAnimation
+	dw ScorplaneAnimation
 	dw SteelixAnimation
 	dw SnubbullAnimation
 	dw GranbullAnimation

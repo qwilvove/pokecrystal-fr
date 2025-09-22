@@ -55,7 +55,7 @@
 	const CRY_HERICENDRE
 	const CRY_GERMIGNON
 	const CRY_KAIMINUS
-	const CRY_GLIGAR
+	const CRY_SCORPLANE
 	const CRY_MELO
 	const CRY_LIMAGMA
 	const CRY_COXY

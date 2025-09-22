@@ -1631,7 +1631,7 @@ JohtoGrassWildMons:
 	; morn
 	db 23, RACAILLOU
 	db 23, GRAVALANCH
-	db 24, GLIGAR
+	db 24, SCORPLANE
 	db 25, DONPHAN
 	db 20, PHANPY
 	db 27, AIRMURE
@@ -1639,7 +1639,7 @@ JohtoGrassWildMons:
 	; day
 	db 23, RACAILLOU
 	db 23, GRAVALANCH
-	db 24, GLIGAR
+	db 24, SCORPLANE
 	db 25, DONPHAN
 	db 30, DONPHAN
 	db 27, AIRMURE
@@ -1647,7 +1647,7 @@ JohtoGrassWildMons:
 	; nite
 	db 23, RACAILLOU
 	db 23, GRAVALANCH
-	db 24, GLIGAR
+	db 24, SCORPLANE
 	db 25, GRAVALANCH
 	db 27, GRAVALANCH
 	db 27, GRAVALANCH
