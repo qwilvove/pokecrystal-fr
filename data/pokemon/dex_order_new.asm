@@ -169,7 +169,7 @@ NewPokedexOrder:
 	db KRABBOSS
 	db CARATROC
 	db STARI
-	db STARMIE
+	db STAROSS
 	db KOKIYAS
 	db CRUSTABRI
 	db CORAYON

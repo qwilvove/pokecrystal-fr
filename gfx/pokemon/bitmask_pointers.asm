@@ -120,7 +120,7 @@ BitmasksPointers:
 	dw PoissireneBitmasks
 	dw PoissoroyBitmasks
 	dw StariBitmasks
-	dw StarmieBitmasks
+	dw StarossBitmasks
 	dw MMimeBitmasks
 	dw InsecateurBitmasks
 	dw LippoutouBitmasks

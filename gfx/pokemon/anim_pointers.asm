@@ -120,7 +120,7 @@ AnimationPointers:
 	dw PoissireneAnimation
 	dw PoissoroyAnimation
 	dw StariAnimation
-	dw StarmieAnimation
+	dw StarossAnimation
 	dw MMimeAnimation
 	dw InsecateurAnimation
 	dw LippoutouAnimation

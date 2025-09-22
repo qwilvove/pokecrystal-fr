@@ -579,7 +579,7 @@ BattleTowerMons:
 	bigdw 72 ; SDef
 	dname "BURAtuKI-", MON_NAME_LENGTH
 
-	db STARMIE
+	db STAROSS
 	db GOLD_BERRY
 	db RECOVER, PSYCHIC_M, SURF, PSYCH_UP
 	dw 0 ; OT ID
@@ -1154,7 +1154,7 @@ BattleTowerMons:
 	bigdw 82 ; SDef
 	dname "NIyoROBON", MON_NAME_LENGTH
 
-	db STARMIE
+	db STAROSS
 	db LEFTOVERS
 	db THUNDER_WAVE, PSYCHIC_M, RECOVER, SURF
 	dw 0 ; OT ID
@@ -1807,7 +1807,7 @@ BattleTowerMons:
 	bigdw 107 ; SDef
 	dname "HU-DEiN", MON_NAME_LENGTH
 
-	db STARMIE
+	db STAROSS
 	db LEFTOVERS
 	db BLIZZARD, THUNDERBOLT, SURF, PSYCHIC_M
 	dw 0 ; OT ID
@@ -2434,7 +2434,7 @@ BattleTowerMons:
 	bigdw 128 ; SDef
 	dname "KAIRIKI-", MON_NAME_LENGTH
 
-	db STARMIE
+	db STAROSS
 	db SCOPE_LENS
 	db THUNDER_WAVE, RECOVER, THUNDERBOLT, SURF
 	dw 0 ; OT ID
@@ -4448,7 +4448,7 @@ BattleTowerMons:
 	bigdw 263 ; SDef
 	dname "KAIRIyu-", MON_NAME_LENGTH
 
-	db STARMIE
+	db STAROSS
 	db LEFTOVERS
 	db RECOVER, THUNDERBOLT, SURF, PSYCHIC_M
 	dw 0 ; OT ID

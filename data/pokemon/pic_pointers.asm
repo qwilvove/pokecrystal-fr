@@ -123,7 +123,7 @@ PokemonPicPointers::
 	dba_pics PoissireneFrontpic, PoissireneBackpic
 	dba_pics PoissoroyFrontpic, PoissoroyBackpic
 	dba_pics StariFrontpic, StariBackpic
-	dba_pics StarmieFrontpic, StarmieBackpic
+	dba_pics StarossFrontpic, StarossBackpic
 	dba_pics MMimeFrontpic, MMimeBackpic
 	dba_pics InsecateurFrontpic, InsecateurBackpic
 	dba_pics LippoutouFrontpic, LippoutouBackpic

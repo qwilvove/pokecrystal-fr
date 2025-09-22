@@ -139,7 +139,7 @@
 	const POISSIRENE    ; 76
 	const POISSOROY    ; 77
 	const STARI     ; 78
-	const STARMIE    ; 79
+	const STAROSS    ; 79
 	const M__MIME   ; 7a
 	const INSECATEUR    ; 7b
 	const LIPPOUTOU       ; 7c

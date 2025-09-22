@@ -126,7 +126,7 @@ PokemonCries::
 	mon_cry CRY_CHENIPAN,    128,  192 ; POISSIRENE
 	mon_cry CRY_CHENIPAN,     16,  383 ; POISSOROY
 	mon_cry CRY_PARAS,         2,  160 ; STARI
-	mon_cry CRY_PARAS,         0,  256 ; STARMIE
+	mon_cry CRY_PARAS,         0,  256 ; STAROSS
 	mon_cry CRY_KRABBY,        8,  192 ; M__MIME
 	mon_cry CRY_CHENIPAN,      0,  256 ; INSECATEUR
 	mon_cry CRY_SOPORIFIK,     255,  383 ; LIPPOUTOU

@@ -122,7 +122,7 @@ EvosAttacksPointers::
 	dw PoissireneEvosAttacks
 	dw PoissoroyEvosAttacks
 	dw StariEvosAttacks
-	dw StarmieEvosAttacks
+	dw StarossEvosAttacks
 	dw MMimeEvosAttacks
 	dw InsecateurEvosAttacks
 	dw LippoutouEvosAttacks

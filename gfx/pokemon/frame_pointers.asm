@@ -120,7 +120,7 @@ FramesPointers:
 	dw PoissireneFrames
 	dw PoissoroyFrames
 	dw StariFrames
-	dw StarmieFrames
+	dw StarossFrames
 	dw MMimeFrames
 	dw InsecateurFrames
 	dw LippoutouFrames

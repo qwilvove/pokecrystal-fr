@@ -1628,7 +1628,7 @@ PoissoroyEvosAttacks:
 	db 0 ; no more level-up moves
 
 StariEvosAttacks:
-	db EVOLVE_ITEM, WATER_STONE, STARMIE
+	db EVOLVE_ITEM, WATER_STONE, STAROSS
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, HARDEN
@@ -1642,7 +1642,7 @@ StariEvosAttacks:
 	db 50, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-StarmieEvosAttacks:
+StarossEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, RAPID_SPIN

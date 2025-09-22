@@ -167,7 +167,7 @@ MelodelfeFrontpic:    INCBIN "gfx/pokemon/melodelfe/front.animated.2bpp.lz"
 PonytaFrontpic:      INCBIN "gfx/pokemon/ponyta/front.animated.2bpp.lz"
 CornebreFrontpic:     INCBIN "gfx/pokemon/cornebre/front.animated.2bpp.lz"
 GravalanchFrontpic:    INCBIN "gfx/pokemon/gravalanch/front.animated.2bpp.lz"
-StarmieFrontpic:     INCBIN "gfx/pokemon/starmie/front.animated.2bpp.lz"
+StarossFrontpic:     INCBIN "gfx/pokemon/staross/front.animated.2bpp.lz"
 RoucoupsFrontpic:   INCBIN "gfx/pokemon/roucoups/front.animated.2bpp.lz"
 CoxyFrontpic:      INCBIN "gfx/pokemon/coxy/front.animated.2bpp.lz"
 EctoplasmaFrontpic:      INCBIN "gfx/pokemon/ectoplasma/front.animated.2bpp.lz"
@@ -370,7 +370,7 @@ ArcaninBackpic:     INCBIN "gfx/pokemon/arcanin/back.2bpp.lz"
 PyroliBackpic:      INCBIN "gfx/pokemon/pyroli/back.2bpp.lz"
 PoissireneBackpic:      INCBIN "gfx/pokemon/poissirene/back.2bpp.lz"
 BulbizarreFrontpic:   INCBIN "gfx/pokemon/bulbizarre/front.animated.2bpp.lz"
-StarmieBackpic:      INCBIN "gfx/pokemon/starmie/back.2bpp.lz"
+StarossBackpic:      INCBIN "gfx/pokemon/staross/back.2bpp.lz"
 
 
 SECTION "Pics 13", ROMX

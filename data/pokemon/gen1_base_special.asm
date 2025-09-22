@@ -122,7 +122,7 @@ KantoMonSpecials:
 	db  50 ; POISSIRENE
 	db  80 ; POISSOROY
 	db  70 ; STARI
-	db 100 ; STARMIE
+	db 100 ; STAROSS
 	db 100 ; M__MIME
 	db  55 ; INSECATEUR
 	db  95 ; LIPPOUTOU

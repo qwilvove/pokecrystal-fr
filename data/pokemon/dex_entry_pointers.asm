@@ -121,7 +121,7 @@ PokedexDataPointerTable:
 	dw PoissirenePokedexEntry
 	dw PoissoroyPokedexEntry
 	dw StariPokedexEntry
-	dw StarmiePokedexEntry
+	dw StarossPokedexEntry
 	dw MMimePokedexEntry
 	dw InsecateurPokedexEntry
 	dw LippoutouPokedexEntry

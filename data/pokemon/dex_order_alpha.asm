@@ -222,7 +222,7 @@ AlphabeticalPokedexOrder:
 	db SOPORIFIK
 	db SPECTRUM
 	db STARI
-	db STARMIE
+	db STAROSS
 	db STEELIX
 	db SUICUNE
 	db MOLTRES
