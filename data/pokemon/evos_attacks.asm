@@ -66,7 +66,7 @@ FlorizarreEvosAttacks:
 	db 65, SOLARBEAM
 	db 0 ; no more level-up moves
 
-CharmanderEvosAttacks:
+SalamecheEvosAttacks:
 	db EVOLVE_LEVEL, 16, REPTINCEL
 	db 0 ; no more evolutions
 	db 1, SCRATCH

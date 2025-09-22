@@ -1,7 +1,7 @@
 BulbizarreAnimation:  INCLUDE "gfx/pokemon/bulbizarre/anim.asm"
 HerbizarreAnimation:    INCLUDE "gfx/pokemon/herbizarre/anim.asm"
 FlorizarreAnimation:   INCLUDE "gfx/pokemon/florizarre/anim.asm"
-CharmanderAnimation: INCLUDE "gfx/pokemon/charmander/anim.asm"
+SalamecheAnimation: INCLUDE "gfx/pokemon/salameche/anim.asm"
 ReptincelAnimation: INCLUDE "gfx/pokemon/reptincel/anim.asm"
 DracaufeuAnimation:  INCLUDE "gfx/pokemon/dracaufeu/anim.asm"
 CarapuceAnimation:   INCLUDE "gfx/pokemon/carapuce/anim.asm"

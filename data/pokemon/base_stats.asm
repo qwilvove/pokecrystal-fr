@@ -26,7 +26,7 @@ BaseData::
 INCLUDE "data/pokemon/base_stats/bulbizarre.asm"
 INCLUDE "data/pokemon/base_stats/herbizarre.asm"
 INCLUDE "data/pokemon/base_stats/florizarre.asm"
-INCLUDE "data/pokemon/base_stats/charmander.asm"
+INCLUDE "data/pokemon/base_stats/salameche.asm"
 INCLUDE "data/pokemon/base_stats/reptincel.asm"
 INCLUDE "data/pokemon/base_stats/dracaufeu.asm"
 INCLUDE "data/pokemon/base_stats/carapuce.asm"

@@ -3,7 +3,7 @@ BitmasksPointers:
 	dw BulbizarreBitmasks
 	dw HerbizarreBitmasks
 	dw FlorizarreBitmasks
-	dw CharmanderBitmasks
+	dw SalamecheBitmasks
 	dw ReptincelBitmasks
 	dw DracaufeuBitmasks
 	dw CarapuceBitmasks

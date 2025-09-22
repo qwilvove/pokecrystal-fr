@@ -24,7 +24,7 @@ IconPointers:
 	dw VoltorbIcon
 	dw CarapuceIcon
 	dw BulbizarreIcon
-	dw CharmanderIcon
+	dw SalamecheIcon
 	dw CaterpillarIcon
 	dw UnownIcon
 	dw RacaillouIcon

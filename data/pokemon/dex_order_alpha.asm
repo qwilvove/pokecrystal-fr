@@ -210,7 +210,7 @@ AlphabeticalPokedexOrder:
 	db ROUCOUPS
 	db SABELETTE
 	db SABLAIREAU
-	db CHARMANDER
+	db SALAMECHE
 	db TANGELA
 	db PINSIR
 	db HERACROSS

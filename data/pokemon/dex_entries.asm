@@ -3,7 +3,7 @@ SECTION "Pokedex Entries 001-064", ROMX
 BulbizarrePokedexEntry::  INCLUDE "data/pokemon/dex_entries/bulbizarre.asm"
 HerbizarrePokedexEntry::    INCLUDE "data/pokemon/dex_entries/herbizarre.asm"
 FlorizarrePokedexEntry::   INCLUDE "data/pokemon/dex_entries/florizarre.asm"
-CharmanderPokedexEntry:: INCLUDE "data/pokemon/dex_entries/charmander.asm"
+SalamechePokedexEntry:: INCLUDE "data/pokemon/dex_entries/salameche.asm"
 ReptincelPokedexEntry:: INCLUDE "data/pokemon/dex_entries/reptincel.asm"
 DracaufeuPokedexEntry::  INCLUDE "data/pokemon/dex_entries/dracaufeu.asm"
 CarapucePokedexEntry::   INCLUDE "data/pokemon/dex_entries/carapuce.asm"

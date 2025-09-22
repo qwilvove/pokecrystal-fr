@@ -5,7 +5,7 @@ EvosAttacksPointers::
 	dw BulbizarreEvosAttacks
 	dw HerbizarreEvosAttacks
 	dw FlorizarreEvosAttacks
-	dw CharmanderEvosAttacks
+	dw SalamecheEvosAttacks
 	dw ReptincelEvosAttacks
 	dw DracaufeuEvosAttacks
 	dw CarapuceEvosAttacks

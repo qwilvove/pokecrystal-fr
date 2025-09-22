@@ -5,7 +5,7 @@ Cries:
 	dba Cry_Nidoran_F
 	dba Cry_Ramoloss
 	dba Cry_Kangourex
-	dba Cry_Charmander
+	dba Cry_Salameche
 	dba Cry_Grimer
 	dba Cry_Voltorb
 	dba Cry_Grotadmorv

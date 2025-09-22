@@ -1,7 +1,7 @@
 BulbizarreBitmasks:  INCLUDE "gfx/pokemon/bulbizarre/bitmask.asm"
 HerbizarreBitmasks:    INCLUDE "gfx/pokemon/herbizarre/bitmask.asm"
 FlorizarreBitmasks:   INCLUDE "gfx/pokemon/florizarre/bitmask.asm"
-CharmanderBitmasks: INCLUDE "gfx/pokemon/charmander/bitmask.asm"
+SalamecheBitmasks: INCLUDE "gfx/pokemon/salameche/bitmask.asm"
 ReptincelBitmasks: INCLUDE "gfx/pokemon/reptincel/bitmask.asm"
 DracaufeuBitmasks:  INCLUDE "gfx/pokemon/dracaufeu/bitmask.asm"
 CarapuceBitmasks:   INCLUDE "gfx/pokemon/carapuce/bitmask.asm"

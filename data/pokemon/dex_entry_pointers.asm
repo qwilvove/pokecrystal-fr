@@ -4,7 +4,7 @@ PokedexDataPointerTable:
 	dw BulbizarrePokedexEntry
 	dw HerbizarrePokedexEntry
 	dw FlorizarrePokedexEntry
-	dw CharmanderPokedexEntry
+	dw SalamechePokedexEntry
 	dw ReptincelPokedexEntry
 	dw DracaufeuPokedexEntry
 	dw CarapucePokedexEntry

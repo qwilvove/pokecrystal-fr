@@ -1,7 +1,7 @@
 BulbizarreAnimationIdle:  INCLUDE "gfx/pokemon/bulbizarre/anim_idle.asm"
 HerbizarreAnimationIdle:    INCLUDE "gfx/pokemon/herbizarre/anim_idle.asm"
 FlorizarreAnimationIdle:   INCLUDE "gfx/pokemon/florizarre/anim_idle.asm"
-CharmanderAnimationIdle: INCLUDE "gfx/pokemon/charmander/anim_idle.asm"
+SalamecheAnimationIdle: INCLUDE "gfx/pokemon/salameche/anim_idle.asm"
 ReptincelAnimationIdle: INCLUDE "gfx/pokemon/reptincel/anim_idle.asm"
 DracaufeuAnimationIdle:  INCLUDE "gfx/pokemon/dracaufeu/anim_idle.asm"
 CarapuceAnimationIdle:   INCLUDE "gfx/pokemon/carapuce/anim_idle.asm"

@@ -3,7 +3,7 @@ AnimationPointers:
 	dw BulbizarreAnimation
 	dw HerbizarreAnimation
 	dw FlorizarreAnimation
-	dw CharmanderAnimation
+	dw SalamecheAnimation
 	dw ReptincelAnimation
 	dw DracaufeuAnimation
 	dw CarapuceAnimation

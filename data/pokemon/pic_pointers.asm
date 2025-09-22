@@ -6,7 +6,7 @@ PokemonPicPointers::
 	dba_pics BulbizarreFrontpic, BulbizarreBackpic
 	dba_pics HerbizarreFrontpic, HerbizarreBackpic
 	dba_pics FlorizarreFrontpic, FlorizarreBackpic
-	dba_pics CharmanderFrontpic, CharmanderBackpic
+	dba_pics SalamecheFrontpic, SalamecheBackpic
 	dba_pics ReptincelFrontpic, ReptincelBackpic
 	dba_pics DracaufeuFrontpic, DracaufeuBackpic
 	dba_pics CarapuceFrontpic, CarapuceBackpic

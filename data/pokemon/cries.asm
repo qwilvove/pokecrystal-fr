@@ -9,9 +9,9 @@ PokemonCries::
 	mon_cry CRY_BULBIZARRE,   128,  129 ; BULBIZARRE
 	mon_cry CRY_BULBIZARRE,    32,  256 ; HERBIZARRE
 	mon_cry CRY_BULBIZARRE,     0,  320 ; FLORIZARRE
-	mon_cry CRY_CHARMANDER,   96,  192 ; CHARMANDER
-	mon_cry CRY_CHARMANDER,   32,  192 ; REPTINCEL
-	mon_cry CRY_CHARMANDER,    0,  256 ; DRACAUFEU
+	mon_cry CRY_SALAMECHE,   96,  192 ; SALAMECHE
+	mon_cry CRY_SALAMECHE,   32,  192 ; REPTINCEL
+	mon_cry CRY_SALAMECHE,    0,  256 ; DRACAUFEU
 	mon_cry CRY_CARAPUCE,     96,  192 ; CARAPUCE
 	mon_cry CRY_CARAPUCE,     32,  192 ; CARABAFFE
 	mon_cry CRY_BLASTOISE,     0,  256 ; BLASTOISE
@@ -116,7 +116,7 @@ PokemonCries::
 	mon_cry CRY_OTARIA,          0,  256 ; EXCELANGUE
 	mon_cry CRY_GROLEM,       230,  349 ; KOFFING
 	mon_cry CRY_GROLEM,       255,  383 ; WEEZING
-	mon_cry CRY_CHARMANDER,    0,  256 ; RHINOCORNE
+	mon_cry CRY_SALAMECHE,    0,  256 ; RHINOCORNE
 	mon_cry CRY_RHINOFEROS,        0,  256 ; RHINOFEROS
 	mon_cry CRY_ROUCOUPS,    10,  320 ; LEVEINARD
 	mon_cry CRY_GROLEM,         0,  256 ; TANGELA
@@ -131,7 +131,7 @@ PokemonCries::
 	mon_cry CRY_CHENIPAN,      0,  256 ; INSECATEUR
 	mon_cry CRY_DROWZEE,     255,  383 ; LIPPOUTOU
 	mon_cry CRY_VOLTORB,     143,  383 ; ELEKTEK
-	mon_cry CRY_CHARMANDER,  255,  176 ; MAGMAR
+	mon_cry CRY_SALAMECHE,  255,  176 ; MAGMAR
 	mon_cry CRY_ROUCOUPS,     0,  256 ; PINSIR
 	mon_cry CRY_CARAPUCE,     17,  192 ; TAUROS
 	mon_cry CRY_ABO,       128,  128 ; MAGICARPE

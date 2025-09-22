@@ -15,7 +15,7 @@ Footprints:
 INCBIN "gfx/footprints/bulbizarre.1bpp",  footprint_top
 INCBIN "gfx/footprints/herbizarre.1bpp",    footprint_top
 INCBIN "gfx/footprints/florizarre.1bpp",   footprint_top
-INCBIN "gfx/footprints/charmander.1bpp", footprint_top
+INCBIN "gfx/footprints/salameche.1bpp", footprint_top
 INCBIN "gfx/footprints/reptincel.1bpp", footprint_top
 INCBIN "gfx/footprints/dracaufeu.1bpp",  footprint_top
 INCBIN "gfx/footprints/carapuce.1bpp",   footprint_top
@@ -24,7 +24,7 @@ INCBIN "gfx/footprints/carabaffe.1bpp",  footprint_top
 INCBIN "gfx/footprints/bulbizarre.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/herbizarre.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/florizarre.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/charmander.1bpp", footprint_bottom
+INCBIN "gfx/footprints/salameche.1bpp", footprint_bottom
 INCBIN "gfx/footprints/reptincel.1bpp", footprint_bottom
 INCBIN "gfx/footprints/dracaufeu.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/carapuce.1bpp",   footprint_bottom

@@ -22,7 +22,7 @@
 	const BULBIZARRE  ; 01
 	const HERBIZARRE    ; 02
 	const FLORIZARRE   ; 03
-	const CHARMANDER ; 04
+	const SALAMECHE ; 04
 	const REPTINCEL ; 05
 	const DRACAUFEU  ; 06
 	const CARAPUCE   ; 07
