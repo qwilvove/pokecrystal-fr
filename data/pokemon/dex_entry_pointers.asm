@@ -28,7 +28,7 @@ PokedexDataPointerTable:
 	dw PikachuPokedexEntry
 	dw RaichuPokedexEntry
 	dw SabelettePokedexEntry
-	dw SandslashPokedexEntry
+	dw SablaireauPokedexEntry
 	dw NidoranFPokedexEntry
 	dw NidorinaPokedexEntry
 	dw NidoqueenPokedexEntry

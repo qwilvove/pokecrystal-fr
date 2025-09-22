@@ -29,7 +29,7 @@ KantoMonSpecials:
 	db  50 ; PIKACHU
 	db  90 ; RAICHU
 	db  30 ; SABELETTE
-	db  55 ; SANDSLASH
+	db  55 ; SABLAIREAU
 	db  40 ; NIDORAN_F
 	db  55 ; NIDORINA
 	db  75 ; NIDOQUEEN

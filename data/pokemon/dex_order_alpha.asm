@@ -209,7 +209,7 @@ AlphabeticalPokedexOrder:
 	db ROUCOOL
 	db ROUCOUPS
 	db SABELETTE
-	db SANDSLASH
+	db SABLAIREAU
 	db CHARMANDER
 	db TANGELA
 	db PINSIR

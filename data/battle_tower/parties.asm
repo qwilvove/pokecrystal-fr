@@ -3217,7 +3217,7 @@ BattleTowerMons:
 	bigdw 104 ; SDef
 	dname "SAIDON", MON_NAME_LENGTH
 
-	db SANDSLASH
+	db SABLAIREAU
 	db SCOPE_LENS
 	db EARTHQUAKE, SLASH, HYPER_BEAM, SNORE
 	dw 0 ; OT ID

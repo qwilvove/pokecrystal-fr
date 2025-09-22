@@ -121,7 +121,7 @@ KantoGrassWildMons:
 	db 32, RHINOCORNE
 	db 33, ONIX
 	db 34, NOSFERALTO
-	db 35, SANDSLASH
+	db 35, SABLAIREAU
 	db 35, RHINOFEROS
 	db 35, RHINOFEROS
 	; day
@@ -129,7 +129,7 @@ KantoGrassWildMons:
 	db 32, RHINOCORNE
 	db 33, ONIX
 	db 34, NOSFERALTO
-	db 35, SANDSLASH
+	db 35, SABLAIREAU
 	db 35, RHINOFEROS
 	db 35, RHINOFEROS
 	; nite
@@ -762,7 +762,7 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 28, DODUO
-	db 28, SANDSLASH
+	db 28, SABLAIREAU
 	db 32, PONYTA
 	db 30, RATTATAC
 	db 30, DODUO
@@ -770,7 +770,7 @@ KantoGrassWildMons:
 	db 30, ARBOK
 	; day
 	db 28, DODUO
-	db 28, SANDSLASH
+	db 28, SABLAIREAU
 	db 32, PONYTA
 	db 30, RATTATAC
 	db 30, DODUO

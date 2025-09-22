@@ -33,7 +33,7 @@ PokemonCries::
 	mon_cry CRY_BULBIZARRE,   238,  129 ; PIKACHU
 	mon_cry CRY_RAICHU,      238,  136 ; RAICHU
 	mon_cry CRY_NIDORAN_M,    32,  192 ; SABELETTE
-	mon_cry CRY_NIDORAN_M,   255,  383 ; SANDSLASH
+	mon_cry CRY_NIDORAN_M,   255,  383 ; SABLAIREAU
 	mon_cry CRY_NIDORAN_F,     0,  256 ; NIDORAN_F
 	mon_cry CRY_NIDORAN_F,    44,  352 ; NIDORINA
 	mon_cry CRY_NIDOQUEEN,     0,  256 ; NIDOQUEEN

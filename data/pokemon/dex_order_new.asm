@@ -50,7 +50,7 @@ NewPokedexOrder:
 	db TOGEPI
 	db TOGETIC
 	db SABELETTE
-	db SANDSLASH
+	db SABLAIREAU
 	db ABO
 	db ARBOK
 	db INSOLOURDO
