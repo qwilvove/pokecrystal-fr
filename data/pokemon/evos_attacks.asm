@@ -365,7 +365,7 @@ RaichuEvosAttacks:
 	db 1, THUNDERBOLT
 	db 0 ; no more level-up moves
 
-SandshrewEvosAttacks:
+SabeletteEvosAttacks:
 	db EVOLVE_LEVEL, 22, SANDSLASH
 	db 0 ; no more evolutions
 	db 1, SCRATCH

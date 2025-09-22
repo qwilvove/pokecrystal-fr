@@ -29,7 +29,7 @@ PokemonPicPointers::
 	dba_pics ArbokFrontpic, ArbokBackpic
 	dba_pics PikachuFrontpic, PikachuBackpic
 	dba_pics RaichuFrontpic, RaichuBackpic
-	dba_pics SandshrewFrontpic, SandshrewBackpic
+	dba_pics SabeletteFrontpic, SabeletteBackpic
 	dba_pics SandslashFrontpic, SandslashBackpic
 	dba_pics NidoranFFrontpic, NidoranFBackpic
 	dba_pics NidorinaFrontpic, NidorinaBackpic

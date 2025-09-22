@@ -26,7 +26,7 @@ AnimationPointers:
 	dw ArbokAnimation
 	dw PikachuAnimation
 	dw RaichuAnimation
-	dw SandshrewAnimation
+	dw SabeletteAnimation
 	dw SandslashAnimation
 	dw NidoranFAnimation
 	dw NidorinaAnimation

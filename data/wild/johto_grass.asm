@@ -426,7 +426,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 6, RACAILLOU
-	db 6, SANDSHREW
+	db 6, SABELETTE
 	db 5, NOSFERAPTI
 	db 4, RATTATA
 	db 7, NOSFERAPTI
@@ -434,7 +434,7 @@ JohtoGrassWildMons:
 	db 6, ONIX
 	; day
 	db 6, RACAILLOU
-	db 6, SANDSHREW
+	db 6, SABELETTE
 	db 5, NOSFERAPTI
 	db 4, RATTATA
 	db 7, NOSFERAPTI

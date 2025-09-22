@@ -208,7 +208,7 @@ AlphabeticalPokedexOrder:
 	db ROUCARNAGE
 	db ROUCOOL
 	db ROUCOUPS
-	db SANDSHREW
+	db SABELETTE
 	db SANDSLASH
 	db CHARMANDER
 	db TANGELA

@@ -361,7 +361,7 @@ YoungsterGroup:
 	; YOUNGSTER (5)
 	db "GONTRAND@", TRAINERTYPE_NORMAL
 	db  7, RATTATA
-	db 10, SANDSHREW
+	db 10, SABELETTE
 	db  8, PIAFABEC
 	db  8, PIAFABEC
 	db -1 ; end
@@ -2934,7 +2934,7 @@ CamperGroup:
 
 	; CAMPER (4)
 	db "ANDRE@", TRAINERTYPE_NORMAL
-	db 13, SANDSHREW
+	db 13, SABELETTE
 	db 15, MARILL
 	db -1 ; end
 
@@ -3029,7 +3029,7 @@ CamperGroup:
 
 	; CAMPER (19)
 	db "REMI@", TRAINERTYPE_NORMAL
-	db 17, SANDSHREW
+	db 17, SABELETTE
 	db 17, SANDSLASH
 	db 19, NOSFERAPTI
 	db -1 ; end

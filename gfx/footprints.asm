@@ -68,7 +68,7 @@ INCBIN "gfx/footprints/arbok.1bpp",      footprint_bottom
 ; 025-032 top halves
 INCBIN "gfx/footprints/pikachu.1bpp",    footprint_top
 INCBIN "gfx/footprints/raichu.1bpp",     footprint_top
-INCBIN "gfx/footprints/sandshrew.1bpp",  footprint_top
+INCBIN "gfx/footprints/sabelette.1bpp",  footprint_top
 INCBIN "gfx/footprints/sandslash.1bpp",  footprint_top
 INCBIN "gfx/footprints/nidoran_f.1bpp",  footprint_top
 INCBIN "gfx/footprints/nidorina.1bpp",   footprint_top
@@ -77,7 +77,7 @@ INCBIN "gfx/footprints/nidoran_m.1bpp",  footprint_top
 ; 025-032 bottom halves
 INCBIN "gfx/footprints/pikachu.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/raichu.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/sandshrew.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/sabelette.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/sandslash.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/nidoran_f.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/nidorina.1bpp",   footprint_bottom

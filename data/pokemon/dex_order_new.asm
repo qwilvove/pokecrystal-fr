@@ -49,7 +49,7 @@ NewPokedexOrder:
 	db GRODOUDOU
 	db TOGEPI
 	db TOGETIC
-	db SANDSHREW
+	db SABELETTE
 	db SANDSLASH
 	db ABO
 	db ARBOK

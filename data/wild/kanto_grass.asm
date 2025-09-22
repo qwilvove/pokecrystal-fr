@@ -35,7 +35,7 @@ KantoGrassWildMons:
 	; morn
 	db 6, NOSFERAPTI
 	db 8, RACAILLOU
-	db 8, SANDSHREW
+	db 8, SABELETTE
 	db 12, PARAS
 	db 10, RACAILLOU
 	db 8, MELOFEE
@@ -43,7 +43,7 @@ KantoGrassWildMons:
 	; day
 	db 6, NOSFERAPTI
 	db 8, RACAILLOU
-	db 8, SANDSHREW
+	db 8, SABELETTE
 	db 12, PARAS
 	db 10, RACAILLOU
 	db 8, MELOFEE
@@ -234,16 +234,16 @@ KantoGrassWildMons:
 	db 8, ABO
 	db 10, RATTATAC
 	db 10, ARBOK
-	db 10, SANDSHREW
-	db 10, SANDSHREW
+	db 10, SABELETTE
+	db 10, SABELETTE
 	; day
 	db 5, PIAFABEC
 	db 5, RATTATA
 	db 8, ABO
 	db 10, RATTATAC
 	db 10, ARBOK
-	db 10, SANDSHREW
-	db 10, SANDSHREW
+	db 10, SABELETTE
+	db 10, SABELETTE
 	; nite
 	db 5, RATTATA
 	db 10, RATTATA
@@ -262,16 +262,16 @@ KantoGrassWildMons:
 	db 8, ABO
 	db 10, RATTATAC
 	db 10, ARBOK
-	db 10, SANDSHREW
-	db 10, SANDSHREW
+	db 10, SABELETTE
+	db 10, SABELETTE
 	; day
 	db 5, PIAFABEC
 	db 5, RATTATA
 	db 8, ABO
 	db 10, RATTATAC
 	db 10, ARBOK
-	db 10, SANDSHREW
-	db 10, SANDSHREW
+	db 10, SABELETTE
+	db 10, SABELETTE
 	; nite
 	db 5, RATTATA
 	db 10, RATTATA
