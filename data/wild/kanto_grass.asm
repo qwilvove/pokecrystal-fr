@@ -565,25 +565,25 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_16
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 26, GRIMER
+	db 26, TADMORV
 	db 27, RAPASDEPIC
-	db 28, GRIMER
+	db 28, TADMORV
 	db 29, RAPASDEPIC
 	db 29, RAPASDEPIC
 	db 30, GROTADMORV
 	db 30, GROTADMORV
 	; day
-	db 26, GRIMER
+	db 26, TADMORV
 	db 27, RAPASDEPIC
-	db 28, GRIMER
+	db 28, TADMORV
 	db 29, RAPASDEPIC
 	db 29, LIMAGMA
 	db 30, GROTADMORV
 	db 30, GROTADMORV
 	; nite
-	db 26, GRIMER
-	db 27, GRIMER
-	db 28, GRIMER
+	db 26, TADMORV
+	db 27, TADMORV
+	db 28, TADMORV
 	db 29, CORNEBRE
 	db 29, CORNEBRE
 	db 30, GROTADMORV
@@ -594,26 +594,26 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 30, RAPASDEPIC
-	db 29, GRIMER
-	db 31, GRIMER
+	db 29, TADMORV
+	db 31, TADMORV
 	db 32, RAPASDEPIC
-	db 33, GRIMER
+	db 33, TADMORV
 	db 33, GROTADMORV
 	db 33, GROTADMORV
 	; day
 	db 30, RAPASDEPIC
 	db 29, LIMAGMA
-	db 29, GRIMER
+	db 29, TADMORV
 	db 32, RAPASDEPIC
 	db 32, LIMAGMA
 	db 33, GROTADMORV
 	db 33, GROTADMORV
 	; nite
-	db 30, GRIMER
-	db 29, GRIMER
-	db 31, GRIMER
-	db 32, GRIMER
-	db 33, GRIMER
+	db 30, TADMORV
+	db 29, TADMORV
+	db 31, TADMORV
+	db 32, TADMORV
+	db 33, TADMORV
 	db 33, GROTADMORV
 	db 33, GROTADMORV
 	end_grass_wildmons
@@ -621,27 +621,27 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_18
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 26, GRIMER
+	db 26, TADMORV
 	db 27, RAPASDEPIC
-	db 28, GRIMER
+	db 28, TADMORV
 	db 29, RAPASDEPIC
 	db 29, RAPASDEPIC
 	db 30, GROTADMORV
 	db 30, GROTADMORV
 	; day
-	db 26, GRIMER
+	db 26, TADMORV
 	db 27, RAPASDEPIC
-	db 28, GRIMER
+	db 28, TADMORV
 	db 29, RAPASDEPIC
 	db 29, LIMAGMA
 	db 30, GROTADMORV
 	db 30, GROTADMORV
 	; nite
-	db 26, GRIMER
-	db 27, GRIMER
-	db 28, GRIMER
-	db 29, GRIMER
-	db 29, GRIMER
+	db 26, TADMORV
+	db 27, TADMORV
+	db 28, TADMORV
+	db 29, TADMORV
+	db 29, TADMORV
 	db 30, GROTADMORV
 	db 30, GROTADMORV
 	end_grass_wildmons

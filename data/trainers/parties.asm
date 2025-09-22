@@ -1259,8 +1259,8 @@ GruntMGroup:
 
 	; GRUNTM (4)
 	db "SBIRE@", TRAINERTYPE_NORMAL
-	db 23, GRIMER
-	db 23, GRIMER
+	db 23, TADMORV
+	db 23, TADMORV
 	db 25, GROTADMORV
 	db -1 ; end
 
@@ -1282,7 +1282,7 @@ GruntMGroup:
 	; GRUNTM (7)
 	db "SBIRE@", TRAINERTYPE_NORMAL
 	db 23, SMOGO
-	db 23, GRIMER
+	db 23, TADMORV
 	db 23, NOSFERAPTI
 	db 23, RATTATA
 	db -1 ; end
@@ -1302,7 +1302,7 @@ GruntMGroup:
 	db "SBIRE@", TRAINERTYPE_NORMAL
 	db 22, NOSFERAPTI
 	db 24, NOSFERALTO
-	db 22, GRIMER
+	db 22, TADMORV
 	db -1 ; end
 
 	; GRUNTM (11)
@@ -1330,7 +1330,7 @@ GruntMGroup:
 
 	; GRUNTM (15)
 	db "SBIRE@", TRAINERTYPE_NORMAL
-	db 26, GRIMER
+	db 26, TADMORV
 	db 23, SMOGOGO
 	db -1 ; end
 
@@ -1369,7 +1369,7 @@ GruntMGroup:
 	; GRUNTM (21)
 	db "SBIRE@", TRAINERTYPE_NORMAL
 	db 16, NOSFERAPTI
-	db 17, GRIMER
+	db 17, TADMORV
 	db 18, RATTATA
 	db -1 ; end
 
@@ -2110,13 +2110,13 @@ SailorGroup:
 SuperNerdGroup:
 	; SUPER_NERD (1)
 	db "STAN@", TRAINERTYPE_NORMAL
-	db 20, GRIMER
+	db 20, TADMORV
 	db -1 ; end
 
 	; SUPER_NERD (2)
 	db "STEVEN@", TRAINERTYPE_NORMAL
-	db 11, GRIMER
-	db 11, GRIMER
+	db 11, TADMORV
+	db 11, TADMORV
 	db -1 ; end
 
 	; SUPER_NERD (3)
@@ -2139,7 +2139,7 @@ SuperNerdGroup:
 
 	; SUPER_NERD (6)
 	db "EDOUARD@", TRAINERTYPE_NORMAL
-	db 34, GRIMER
+	db 34, TADMORV
 	db 34, GROTADMORV
 	db -1 ; end
 

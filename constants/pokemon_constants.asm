@@ -106,7 +106,7 @@
 	const DODRIO     ; 55
 	const OTARIA       ; 56
 	const LAMANTINE    ; 57
-	const GRIMER     ; 58
+	const TADMORV     ; 58
 	const GROTADMORV        ; 59
 	const KOKIYAS   ; 5a
 	const CRUSTABRI   ; 5b

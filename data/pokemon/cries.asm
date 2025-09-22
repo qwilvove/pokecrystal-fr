@@ -93,7 +93,7 @@ PokemonCries::
 	mon_cry CRY_DIGLETT,     153,  160 ; DODRIO
 	mon_cry CRY_OTARIA,        136,  320 ; OTARIA
 	mon_cry CRY_OTARIA,         35,  383 ; LAMANTINE
-	mon_cry CRY_GRIMER,        0,  256 ; GRIMER
+	mon_cry CRY_TADMORV,        0,  256 ; TADMORV
 	mon_cry CRY_GROTADMORV,         239,  383 ; GROTADMORV
 	mon_cry CRY_RAPASDEPIC,        0,  256 ; KOKIYAS
 	mon_cry CRY_RAPASDEPIC,      111,  352 ; CRUSTABRI
@@ -148,7 +148,7 @@ PokemonCries::
 	mon_cry CRY_CHENIPAN,    187,  192 ; KABUTO
 	mon_cry CRY_RAPASDEPIC,      238,  129 ; KABUTOPS
 	mon_cry CRY_RAFFLESIA,    32,  368 ; PTERA
-	mon_cry CRY_GRIMER,       85,  129 ; RONFLEX
+	mon_cry CRY_TADMORV,       85,  129 ; RONFLEX
 	mon_cry CRY_RAICHU,      128,  192 ; ARTIKODIN
 	mon_cry CRY_RAPASDEPIC,      255,  256 ; ELECTHOR
 	mon_cry CRY_RAICHU,      248,  192 ; SULFURA

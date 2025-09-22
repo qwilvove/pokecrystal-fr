@@ -199,7 +199,7 @@ INCBIN "gfx/footprints/doduo.1bpp",      footprint_top
 INCBIN "gfx/footprints/dodrio.1bpp",     footprint_top
 INCBIN "gfx/footprints/otaria.1bpp",       footprint_top
 INCBIN "gfx/footprints/lamantine.1bpp",    footprint_top
-INCBIN "gfx/footprints/grimer.1bpp",     footprint_top
+INCBIN "gfx/footprints/tadmorv.1bpp",     footprint_top
 ; 081-088 bottom halves
 INCBIN "gfx/footprints/magneti.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/magneton.1bpp",   footprint_bottom
@@ -208,7 +208,7 @@ INCBIN "gfx/footprints/doduo.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/dodrio.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/otaria.1bpp",       footprint_bottom
 INCBIN "gfx/footprints/lamantine.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/grimer.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/tadmorv.1bpp",     footprint_bottom
 ; 089-096 top halves
 INCBIN "gfx/footprints/grotadmorv.1bpp",        footprint_top
 INCBIN "gfx/footprints/kokiyas.1bpp",   footprint_top

@@ -90,7 +90,7 @@ PokemonPicPointers::
 	dba_pics DodrioFrontpic, DodrioBackpic
 	dba_pics OtariaFrontpic, OtariaBackpic
 	dba_pics LamantineFrontpic, LamantineBackpic
-	dba_pics GrimerFrontpic, GrimerBackpic
+	dba_pics TadmorvFrontpic, TadmorvBackpic
 	dba_pics GrotadmorvFrontpic, GrotadmorvBackpic
 	dba_pics KokiyasFrontpic, KokiyasBackpic
 	dba_pics CrustabriFrontpic, CrustabriBackpic

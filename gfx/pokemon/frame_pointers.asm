@@ -87,7 +87,7 @@ FramesPointers:
 	dw DodrioFrames
 	dw OtariaFrames
 	dw LamantineFrames
-	dw GrimerFrames
+	dw TadmorvFrames
 	dw GrotadmorvFrames
 	dw KokiyasFrames
 	dw CrustabriFrames

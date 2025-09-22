@@ -117,7 +117,7 @@ NewPokedexOrder:
 	db SCARHINO
 	db SMOGO
 	db SMOGOGO
-	db GRIMER
+	db TADMORV
 	db GROTADMORV
 	db MAGNETI
 	db MAGNETON

@@ -89,7 +89,7 @@ KantoMonSpecials:
 	db  60 ; DODRIO
 	db  70 ; OTARIA
 	db  95 ; LAMANTINE
-	db  40 ; GRIMER
+	db  40 ; TADMORV
 	db  65 ; GROTADMORV
 	db  45 ; KOKIYAS
 	db  85 ; CRUSTABRI

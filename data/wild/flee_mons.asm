@@ -3,7 +3,7 @@ FleeMons:
 
 SometimesFleeMons:
 	db MAGNETI
-	db GRIMER
+	db TADMORV
 	db SAQUEDENEU
 	db M__MIME
 	db EVOLI

@@ -12,7 +12,7 @@ Pokered_MonIndices:
 	db NOADKOKO
 	db EXCELANGUE
 	db NOEUNOEUF
-	db GRIMER
+	db TADMORV
 	db ECTOPLASMA
 	db NIDORAN_F
 	db NIDOQUEEN

@@ -22,7 +22,7 @@ SpriteMons:
 	db STAROSS
 	db BULBIZARRE
 	db RONDOUDOU
-	db GRIMER
+	db TADMORV
 	db ABO
 	db PARAS
 	db TENTACOOL

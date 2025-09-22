@@ -260,7 +260,7 @@ OtariaEggMoves:
 	db ENCORE
 	db -1 ; end
 
-GrimerEggMoves:
+TadmorvEggMoves:
 	db HAZE
 	db MEAN_LOOK
 	db LICK

@@ -884,11 +884,11 @@ Cry_Salameche:
 	channel 6, Cry_Salameche_Ch6
 	channel 8, Cry_Salameche_Ch8
 
-Cry_Grimer:
+Cry_Tadmorv:
 	channel_count 3
-	channel 5, Cry_Grimer_Ch5
-	channel 6, Cry_Grimer_Ch6
-	channel 8, Cry_Grimer_Ch8
+	channel 5, Cry_Tadmorv_Ch5
+	channel 6, Cry_Tadmorv_Ch6
+	channel 8, Cry_Tadmorv_Ch8
 
 Cry_Voltorb:
 	channel_count 3
@@ -1429,7 +1429,7 @@ Cry_Grotadmorv_Ch8:
 	noise_note 8, 11, 1, 92
 	sound_ret
 
-Cry_Grimer_Ch5:
+Cry_Tadmorv_Ch5:
 	duty_cycle_pattern 0, 0, 2, 2
 	square_note 6, 14, 2, 1280
 	square_note 6, 14, 3, 1408
@@ -1437,13 +1437,13 @@ Cry_Grimer_Ch5:
 	square_note 8, 10, 1, 1376
 	sound_ret
 
-Cry_Grimer_Ch6:
+Cry_Tadmorv_Ch6:
 	duty_cycle_pattern 3, 3, 1, 1
 	square_note 6, 14, 2, 1154
 	square_note 6, 13, 3, 1281
 	square_note 6, 11, 2, 1250
 	square_note 8, 8, 1, 1217
-Cry_Grimer_Ch8:
+Cry_Tadmorv_Ch8:
 	sound_ret
 
 Cry_Diglett_Ch5:

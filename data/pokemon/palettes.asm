@@ -189,8 +189,8 @@ INCBIN "gfx/pokemon/otaria/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/otaria/shiny.pal"
 INCBIN "gfx/pokemon/lamantine/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/lamantine/shiny.pal"
-INCBIN "gfx/pokemon/grimer/normal.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/grimer/shiny.pal"
+INCBIN "gfx/pokemon/tadmorv/normal.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/tadmorv/shiny.pal"
 INCBIN "gfx/pokemon/grotadmorv/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/grotadmorv/shiny.pal"
 INCBIN "gfx/pokemon/kokiyas/normal.gbcpal", middle_colors

@@ -87,7 +87,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw OtariaEggMoves
 	dw NoEggMoves
-	dw GrimerEggMoves
+	dw TadmorvEggMoves
 	dw NoEggMoves
 	dw KokiyasEggMoves
 	dw NoEggMoves

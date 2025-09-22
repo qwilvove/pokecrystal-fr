@@ -52,7 +52,7 @@ DecorationAttributes:
 	decoration DECO_DOLL,    MYSTHERBE,          SET_UP_DOLL,       EVENT_DECO_MYSTHERBE_DOLL,             SPRITE_MYSTHERBE
 	decoration DECO_DOLL,    ECTOPLASMA,          SET_UP_DOLL,       EVENT_DECO_ECTOPLASMA_DOLL,             SPRITE_ECTOPLASMA
 	decoration DECO_DOLL,    KOKIYAS,        SET_UP_DOLL,       EVENT_DECO_KOKIYAS_DOLL,           SPRITE_KOKIYAS
-	decoration DECO_DOLL,    GRIMER,          SET_UP_DOLL,       EVENT_DECO_GRIMER_DOLL,             SPRITE_GRIMER
+	decoration DECO_DOLL,    TADMORV,          SET_UP_DOLL,       EVENT_DECO_TADMORV_DOLL,             SPRITE_TADMORV
 	decoration DECO_DOLL,    VOLTORB,         SET_UP_DOLL,       EVENT_DECO_VOLTORB_DOLL,            SPRITE_VOLTORB
 	decoration DECO_DOLL,    ASPICOT,          SET_UP_DOLL,       EVENT_DECO_ASPICOT_DOLL,             SPRITE_ASPICOT
 	decoration DECO_DOLL,    UNOWN,           SET_UP_DOLL,       EVENT_DECO_UNOWN_DOLL,              SPRITE_UNOWN

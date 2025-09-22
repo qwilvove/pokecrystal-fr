@@ -1179,7 +1179,7 @@ LamantineEvosAttacks:
 	db 60, SAFEGUARD
 	db 0 ; no more level-up moves
 
-GrimerEvosAttacks:
+TadmorvEvosAttacks:
 	db EVOLVE_LEVEL, 38, GROTADMORV
 	db 0 ; no more evolutions
 	db 1, POISON_GAS

@@ -226,7 +226,7 @@ AlphabeticalPokedexOrder:
 	db STEELIX
 	db SUICUNE
 	db SULFURA
-	db GRIMER
+	db TADMORV
 	db POLITOED
 	db POLIWRATH
 	db DIGLETT

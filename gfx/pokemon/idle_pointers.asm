@@ -87,7 +87,7 @@ AnimationIdlePointers:
 	dw DodrioAnimationIdle
 	dw OtariaAnimationIdle
 	dw LamantineAnimationIdle
-	dw GrimerAnimationIdle
+	dw TadmorvAnimationIdle
 	dw GrotadmorvAnimationIdle
 	dw KokiyasAnimationIdle
 	dw CrustabriAnimationIdle

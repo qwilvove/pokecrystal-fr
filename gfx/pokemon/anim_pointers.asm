@@ -87,7 +87,7 @@ AnimationPointers:
 	dw DodrioAnimation
 	dw OtariaAnimation
 	dw LamantineAnimation
-	dw GrimerAnimation
+	dw TadmorvAnimation
 	dw GrotadmorvAnimation
 	dw KokiyasAnimation
 	dw CrustabriAnimation

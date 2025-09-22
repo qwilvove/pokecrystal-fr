@@ -89,7 +89,7 @@ EvosAttacksPointers::
 	dw DodrioEvosAttacks
 	dw OtariaEvosAttacks
 	dw LamantineEvosAttacks
-	dw GrimerEvosAttacks
+	dw TadmorvEvosAttacks
 	dw GrotadmorvEvosAttacks
 	dw KokiyasEvosAttacks
 	dw CrustabriEvosAttacks
