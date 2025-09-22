@@ -173,7 +173,7 @@ FramesPointers:
 	dw LanturnFrames
 	dw PichuFrames
 	dw MeloFrames
-	dw IgglybuffFrames
+	dw ToudoudouFrames
 	dw TogepiFrames
 	dw TogeticFrames
 	dw NatuFrames

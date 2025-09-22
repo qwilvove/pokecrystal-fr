@@ -213,7 +213,7 @@ Pokered_MonIndices:
 	db LANTURN
 	db PICHU
 	db MELO
-	db IGGLYBUFF
+	db TOUDOUDOU
 	db TOGEPI
 	db TOGETIC
 	db NATU

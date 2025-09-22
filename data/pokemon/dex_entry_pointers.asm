@@ -174,7 +174,7 @@ PokedexDataPointerTable:
 	dw LanturnPokedexEntry
 	dw PichuPokedexEntry
 	dw MeloPokedexEntry
-	dw IgglybuffPokedexEntry
+	dw ToudoudouPokedexEntry
 	dw TogepiPokedexEntry
 	dw TogeticPokedexEntry
 	dw NatuPokedexEntry

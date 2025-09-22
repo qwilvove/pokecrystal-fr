@@ -15,7 +15,7 @@ DEF prob_total = 0
 ; Melo
 	prob 16
 	prob 3
-; Igglybuff
+; Toudoudou
 	prob 16
 	prob 3
 ; Lippouti
@@ -140,7 +140,7 @@ OddEggs:
 	bigdw 11 ; SDef
 	dname "OEUF", MON_NAME_LENGTH
 
-	db IGGLYBUFF
+	db TOUDOUDOU
 	db NO_ITEM
 	db SING, CHARM, DIZZY_PUNCH, 0
 	dw 04096 ; OT ID
@@ -166,7 +166,7 @@ OddEggs:
 	bigdw 7 ; SDef
 	dname "OEUF", MON_NAME_LENGTH
 
-	db IGGLYBUFF
+	db TOUDOUDOU
 	db NO_ITEM
 	db SING, CHARM, DIZZY_PUNCH, 0
 	dw 00768 ; OT ID

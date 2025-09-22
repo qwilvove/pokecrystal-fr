@@ -238,7 +238,7 @@ AlphabeticalPokedexOrder:
 	db TOGEPI
 	db TOGETIC
 	db TORTANK
-	db IGGLYBUFF
+	db TOUDOUDOU
 	db SUNKERN
 	db DUGTRIO
 	db HITMONCHAN

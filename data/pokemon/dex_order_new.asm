@@ -44,7 +44,7 @@ NewPokedexOrder:
 	db MELO
 	db MELOFEE
 	db MELODELFE
-	db IGGLYBUFF
+	db TOUDOUDOU
 	db RONDOUDOU
 	db GRODOUDOU
 	db TOGEPI

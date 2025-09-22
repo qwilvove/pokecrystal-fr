@@ -173,7 +173,7 @@ AnimationPointers:
 	dw LanturnAnimation
 	dw PichuAnimation
 	dw MeloAnimation
-	dw IgglybuffAnimation
+	dw ToudoudouAnimation
 	dw TogepiAnimation
 	dw TogeticAnimation
 	dw NatuAnimation

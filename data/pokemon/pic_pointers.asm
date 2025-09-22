@@ -176,7 +176,7 @@ PokemonPicPointers::
 	dba_pics LanturnFrontpic, LanturnBackpic
 	dba_pics PichuFrontpic, PichuBackpic
 	dba_pics MeloFrontpic, MeloBackpic
-	dba_pics IgglybuffFrontpic, IgglybuffBackpic
+	dba_pics ToudoudouFrontpic, ToudoudouBackpic
 	dba_pics TogepiFrontpic, TogepiBackpic
 	dba_pics TogeticFrontpic, TogeticBackpic
 	dba_pics NatuFrontpic, NatuBackpic

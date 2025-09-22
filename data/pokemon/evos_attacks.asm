@@ -2364,7 +2364,7 @@ MeloEvosAttacks:
 	db 13, SWEET_KISS
 	db 0 ; no more level-up moves
 
-IgglybuffEvosAttacks:
+ToudoudouEvosAttacks:
 	db EVOLVE_HAPPINESS, TR_ANYTIME, RONDOUDOU
 	db 0 ; no more evolutions
 	db 1, SING

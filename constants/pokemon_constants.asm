@@ -193,7 +193,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const LANTURN    ; ab
 	const PICHU      ; ac
 	const MELO     ; ad
-	const IGGLYBUFF  ; ae
+	const TOUDOUDOU  ; ae
 	const TOGEPI     ; af
 	const TOGETIC    ; b0
 	const NATU       ; b1

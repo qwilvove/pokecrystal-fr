@@ -173,7 +173,7 @@ BitmasksPointers:
 	dw LanturnBitmasks
 	dw PichuBitmasks
 	dw MeloBitmasks
-	dw IgglybuffBitmasks
+	dw ToudoudouBitmasks
 	dw TogepiBitmasks
 	dw TogeticBitmasks
 	dw NatuBitmasks

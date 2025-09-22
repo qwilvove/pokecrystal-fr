@@ -521,7 +521,7 @@ MeloEggMoves:
 	db MIMIC
 	db -1 ; end
 
-IgglybuffEggMoves:
+ToudoudouEggMoves:
 	db PERISH_SONG
 	db PRESENT
 	db FAINT_ATTACK

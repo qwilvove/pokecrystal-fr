@@ -179,7 +179,7 @@ PokemonCries::
 	mon_cry CRY_HERICENDRE,   720,  272 ; LANTURN
 	mon_cry CRY_PICHU,         0,  320 ; PICHU
 	mon_cry CRY_MELO,       97,  145 ; MELO
-	mon_cry CRY_GERMIGNON,   232,  232 ; IGGLYBUFF
+	mon_cry CRY_GERMIGNON,   232,  232 ; TOUDOUDOU
 	mon_cry CRY_TOGEPI,       16,  256 ; TOGEPI
 	mon_cry CRY_TOGETIC,      59,   56 ; TOGETIC
 	mon_cry CRY_NATU,       -103,  256 ; NATU
