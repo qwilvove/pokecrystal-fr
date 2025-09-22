@@ -178,7 +178,7 @@ AnimationIdlePointers:
 	dw TogeticAnimationIdle
 	dw NatuAnimationIdle
 	dw XatuAnimationIdle
-	dw MareepAnimationIdle
+	dw WattouatAnimationIdle
 	dw LainergieAnimationIdle
 	dw PharampAnimationIdle
 	dw JoliflorAnimationIdle

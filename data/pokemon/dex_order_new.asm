@@ -54,7 +54,7 @@ NewPokedexOrder:
 	db ABO
 	db ARBOK
 	db INSOLOURDO
-	db MAREEP
+	db WATTOUAT
 	db LAINERGIE
 	db PHARAMP
 	db AXOLOTO

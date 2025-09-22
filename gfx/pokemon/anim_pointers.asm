@@ -178,7 +178,7 @@ AnimationPointers:
 	dw TogeticAnimation
 	dw NatuAnimation
 	dw XatuAnimation
-	dw MareepAnimation
+	dw WattouatAnimation
 	dw LainergieAnimation
 	dw PharampAnimation
 	dw JoliflorAnimation

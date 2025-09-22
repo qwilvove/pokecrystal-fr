@@ -179,7 +179,7 @@ PokedexDataPointerTable:
 	dw TogeticPokedexEntry
 	dw NatuPokedexEntry
 	dw XatuPokedexEntry
-	dw MareepPokedexEntry
+	dw WattouatPokedexEntry
 	dw LainergiePokedexEntry
 	dw PharampPokedexEntry
 	dw JoliflorPokedexEntry

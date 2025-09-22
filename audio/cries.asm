@@ -43,10 +43,10 @@ Cry_Roigada:
 	channel 6, Cry_Roigada_Ch6
 	channel 8, Cry_Roigada_Ch8
 
-Cry_Mareep:
+Cry_Wattouat:
 	channel_count 2
-	channel 5, Cry_Mareep_Ch5
-	channel 6, Cry_Mareep_Ch6
+	channel 5, Cry_Wattouat_Ch5
+	channel 6, Cry_Wattouat_Ch6
 
 Cry_Hericendre:
 	channel_count 3
@@ -469,12 +469,12 @@ Cry_Fouinette_Ch8: ; unreferenced
 	noise_note 8, 9, 2, 0
 	sound_ret
 
-Cry_Mareep_Ch5:
+Cry_Wattouat_Ch5:
 	pitch_offset 32
 	duty_cycle 0
-	sound_jump Cry_Mareep_Ch6.body
+	sound_jump Cry_Wattouat_Ch6.body
 
-Cry_Mareep_Ch6:
+Cry_Wattouat_Ch6:
 	duty_cycle_pattern 0, 0, 0, 1
 .body:
 	square_note 4, 3, -2, 1853
@@ -522,7 +522,7 @@ Cry_Germignon_Ch8:
 
 Cry_Scorplane_Ch5:
 	duty_cycle_pattern 2, 2, 0, 2
-	sound_jump Cry_Mareep_Ch6.body
+	sound_jump Cry_Wattouat_Ch6.body
 
 Cry_Girafarig_Ch5:
 	duty_cycle 1

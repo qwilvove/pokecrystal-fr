@@ -181,7 +181,7 @@ PokemonPicPointers::
 	dba_pics TogeticFrontpic, TogeticBackpic
 	dba_pics NatuFrontpic, NatuBackpic
 	dba_pics XatuFrontpic, XatuBackpic
-	dba_pics MareepFrontpic, MareepBackpic
+	dba_pics WattouatFrontpic, WattouatBackpic
 	dba_pics LainergieFrontpic, LainergieBackpic
 	dba_pics PharampFrontpic, PharampBackpic
 	dba_pics JoliflorFrontpic, JoliflorBackpic

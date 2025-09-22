@@ -178,7 +178,7 @@ FramesPointers:
 	dw TogeticFrames
 	dw NatuFrames
 	dw XatuFrames
-	dw MareepFrames
+	dw WattouatFrames
 	dw LainergieFrames
 	dw PharampFrames
 	dw JoliflorFrames

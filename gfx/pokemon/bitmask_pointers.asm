@@ -178,7 +178,7 @@ BitmasksPointers:
 	dw TogeticBitmasks
 	dw NatuBitmasks
 	dw XatuBitmasks
-	dw MareepBitmasks
+	dw WattouatBitmasks
 	dw LainergieBitmasks
 	dw PharampBitmasks
 	dw JoliflorBitmasks

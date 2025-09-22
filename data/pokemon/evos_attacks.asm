@@ -2421,7 +2421,7 @@ XatuEvosAttacks:
 	db 65, PSYCHIC_M
 	db 0 ; no more level-up moves
 
-MareepEvosAttacks:
+WattouatEvosAttacks:
 	db EVOLVE_LEVEL, 15, LAINERGIE
 	db 0 ; no more evolutions
 	db 1, TACKLE

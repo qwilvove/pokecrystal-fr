@@ -47,7 +47,7 @@
 	const CRY_TOGEPI
 	const CRY_GIRAFARIG
 	const CRY_RAIKOU
-	const CRY_MAREEP
+	const CRY_WATTOUAT
 	const CRY_TOGETIC
 	const CRY_HOOTHOOT
 	const CRY_FOUINETTE

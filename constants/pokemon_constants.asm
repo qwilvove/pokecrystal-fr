@@ -198,7 +198,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const TOGETIC    ; b0
 	const NATU       ; b1
 	const XATU       ; b2
-	const MAREEP     ; b3
+	const WATTOUAT     ; b3
 	const LAINERGIE    ; b4
 	const PHARAMP   ; b5
 	const JOLIFLOR  ; b6

@@ -248,7 +248,7 @@ AlphabeticalPokedexOrder:
 	db VOLCAROPOD
 	db VOLTALI
 	db VOLTORBE
-	db MAREEP
+	db WATTOUAT
 	db XATU
 	db YANMA
 	db PUPITAR

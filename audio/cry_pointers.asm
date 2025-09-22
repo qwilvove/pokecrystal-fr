@@ -44,7 +44,7 @@ Cries:
 	dba Cry_Togepi
 	dba Cry_Girafarig
 	dba Cry_Raikou
-	dba Cry_Mareep
+	dba Cry_Wattouat
 	dba Cry_Togetic
 	dba Cry_Hoothoot
 	dba Cry_Fouinette

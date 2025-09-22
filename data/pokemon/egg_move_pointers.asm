@@ -178,7 +178,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NatuEggMoves
 	dw NoEggMoves
-	dw MareepEggMoves
+	dw WattouatEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

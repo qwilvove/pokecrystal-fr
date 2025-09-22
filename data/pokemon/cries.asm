@@ -184,8 +184,8 @@ PokemonCries::
 	mon_cry CRY_TOGETIC,      59,   56 ; TOGETIC
 	mon_cry CRY_NATU,       -103,  256 ; NATU
 	mon_cry CRY_NATU,       -167,  360 ; XATU
-	mon_cry CRY_MAREEP,       34,  216 ; MAREEP
-	mon_cry CRY_MAREEP,       -7,  384 ; LAINERGIE
+	mon_cry CRY_WATTOUAT,       34,  216 ; WATTOUAT
+	mon_cry CRY_WATTOUAT,       -7,  384 ; LAINERGIE
 	mon_cry CRY_PHARAMP,   -124,  232 ; PHARAMP
 	mon_cry CRY_MELO,      132,  336 ; JOLIFLOR
 	mon_cry CRY_MARILL,      283,  288 ; MARILL

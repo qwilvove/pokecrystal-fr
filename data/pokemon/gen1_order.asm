@@ -218,7 +218,7 @@ Pokered_MonIndices:
 	db TOGETIC
 	db NATU
 	db XATU
-	db MAREEP
+	db WATTOUAT
 	db LAINERGIE
 	db PHARAMP
 	db JOLIFLOR

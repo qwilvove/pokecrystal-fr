@@ -180,7 +180,7 @@ MonMenuIcons:
 	db ICON_BIRD        ; TOGETIC
 	db ICON_BIRD        ; NATU
 	db ICON_BIRD        ; XATU
-	db ICON_FOX         ; MAREEP
+	db ICON_FOX         ; WATTOUAT
 	db ICON_MONSTER     ; LAINERGIE
 	db ICON_MONSTER     ; PHARAMP
 	db ICON_MYSTHERBE      ; JOLIFLOR

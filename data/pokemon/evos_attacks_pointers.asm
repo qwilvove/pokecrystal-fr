@@ -180,7 +180,7 @@ EvosAttacksPointers::
 	dw TogeticEvosAttacks
 	dw NatuEvosAttacks
 	dw XatuEvosAttacks
-	dw MareepEvosAttacks
+	dw WattouatEvosAttacks
 	dw LainergieEvosAttacks
 	dw PharampEvosAttacks
 	dw JoliflorEvosAttacks
