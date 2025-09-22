@@ -34,7 +34,7 @@
 	const ASPICOT     ; 0d
 	const COCONFORT     ; 0e
 	const DARDARGNAN   ; 0f
-	const PIDGEY     ; 10
+	const ROUCOOL     ; 10
 	const ROUCOUPS  ; 11
 	const ROUCARNAGE    ; 12
 	const RATTATA    ; 13

@@ -15,7 +15,7 @@ FramesPointers:
 	dw AspicotFrames
 	dw CoconfortFrames
 	dw DardargnanFrames
-	dw PidgeyFrames
+	dw RoucoolFrames
 	dw RoucoupsFrames
 	dw RoucarnageFrames
 	dw RattataFrames

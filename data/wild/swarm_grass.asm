@@ -38,7 +38,7 @@ SwarmGrassWildMons:
 	db 12, NIDORAN_F
 	db 12, YANMA
 	db 14, YANMA
-	db 14, PIDGEY
+	db 14, ROUCOOL
 	db 10, METAMORPH
 	db 10, METAMORPH
 	; day
@@ -46,7 +46,7 @@ SwarmGrassWildMons:
 	db 12, NIDORAN_F
 	db 12, YANMA
 	db 14, YANMA
-	db 14, PIDGEY
+	db 14, ROUCOOL
 	db 10, METAMORPH
 	db 10, METAMORPH
 	; nite

@@ -21,7 +21,7 @@ PokemonCries::
 	mon_cry CRY_ASPICOT,      238,  129 ; ASPICOT
 	mon_cry CRY_BLASTOISE,   255,  129 ; COCONFORT
 	mon_cry CRY_BLASTOISE,    96,  256 ; DARDARGNAN
-	mon_cry CRY_PIDGEY,      223,  132 ; PIDGEY
+	mon_cry CRY_ROUCOOL,      223,  132 ; ROUCOOL
 	mon_cry CRY_ROUCOUPS,    40,  320 ; ROUCOUPS
 	mon_cry CRY_ROUCOUPS,    17,  383 ; ROUCARNAGE
 	mon_cry CRY_RATTATA,       0,  256 ; RATTATA
@@ -44,8 +44,8 @@ PokemonCries::
 	mon_cry CRY_MELOFEE,    170,  160 ; MELODELFE
 	mon_cry CRY_GOUPIX,       79,  144 ; GOUPIX
 	mon_cry CRY_GOUPIX,      136,  224 ; FEUNARD
-	mon_cry CRY_PIDGEY,      255,  181 ; RONDOUDOU
-	mon_cry CRY_PIDGEY,      104,  224 ; GRODOUDOU
+	mon_cry CRY_ROUCOOL,      255,  181 ; RONDOUDOU
+	mon_cry CRY_ROUCOOL,      104,  224 ; GRODOUDOU
 	mon_cry CRY_CARAPUCE,    224,  256 ; NOSFERAPTI
 	mon_cry CRY_CARAPUCE,    250,  256 ; NOSFERALTO
 	mon_cry CRY_MYSTHERBE,      221,  129 ; MYSTHERBE
@@ -65,9 +65,9 @@ PokemonCries::
 	mon_cry CRY_NIDOQUEEN,   175,  192 ; COLOSSINGE
 	mon_cry CRY_CANINOS,    32,  192 ; CANINOS
 	mon_cry CRY_ASPICOT,        0,  256 ; ARCANIN
-	mon_cry CRY_PIDGEY,      255,  383 ; PTITARD
-	mon_cry CRY_PIDGEY,      119,  224 ; POLIWHIRL
-	mon_cry CRY_PIDGEY,        0,  383 ; POLIWRATH
+	mon_cry CRY_ROUCOOL,      255,  383 ; PTITARD
+	mon_cry CRY_ROUCOOL,      119,  224 ; POLIWHIRL
+	mon_cry CRY_ROUCOOL,        0,  383 ; POLIWRATH
 	mon_cry CRY_CHRYSACIER,     192,  129 ; ABRA
 	mon_cry CRY_CHRYSACIER,     168,  320 ; KADABRA
 	mon_cry CRY_CHRYSACIER,     152,  383 ; ALAKAZAM
@@ -137,7 +137,7 @@ PokemonCries::
 	mon_cry CRY_ABO,       128,  128 ; MAGICARPE
 	mon_cry CRY_ABO,         0,  256 ; LEVIATOR
 	mon_cry CRY_LOKHLASS,        0,  256 ; LOKHLASS
-	mon_cry CRY_PIDGEY,      255,  383 ; METAMORPH
+	mon_cry CRY_ROUCOOL,      255,  383 ; METAMORPH
 	mon_cry CRY_MIMITOSS,     136,  224 ; EVOLI
 	mon_cry CRY_MIMITOSS,     170,  383 ; AQUALI
 	mon_cry CRY_MIMITOSS,      61,  256 ; JOLTEON

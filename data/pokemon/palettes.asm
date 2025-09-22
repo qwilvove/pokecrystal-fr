@@ -45,8 +45,8 @@ INCBIN "gfx/pokemon/coconfort/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/coconfort/shiny.pal"
 INCBIN "gfx/pokemon/dardargnan/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/dardargnan/shiny.pal"
-INCBIN "gfx/pokemon/pidgey/normal.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/pidgey/shiny.pal"
+INCBIN "gfx/pokemon/roucool/normal.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/roucool/shiny.pal"
 INCBIN "gfx/pokemon/roucoups/normal.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/roucoups/shiny.pal"
 INCBIN "gfx/pokemon/roucarnage/normal.gbcpal", middle_colors

@@ -17,7 +17,7 @@ KantoMonSpecials:
 	db  20 ; ASPICOT
 	db  25 ; COCONFORT
 	db  45 ; DARDARGNAN
-	db  35 ; PIDGEY
+	db  35 ; ROUCOOL
 	db  50 ; ROUCOUPS
 	db  70 ; ROUCARNAGE
 	db  25 ; RATTATA

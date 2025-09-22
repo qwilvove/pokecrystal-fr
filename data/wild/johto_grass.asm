@@ -344,7 +344,7 @@ JohtoGrassWildMons:
 	db 12, NIDORAN_M
 	db 12, NIDORAN_F
 	db 14, COXY
-	db 13, PIDGEY
+	db 13, ROUCOOL
 	db 10, CHENIPAN
 	db 10, ASPICOT
 	db 10, ASPICOT
@@ -352,7 +352,7 @@ JohtoGrassWildMons:
 	db 12, NIDORAN_F
 	db 12, NIDORAN_M
 	db 14, SUNKERN
-	db 13, PIDGEY
+	db 13, ROUCOOL
 	db 10, CHENIPAN
 	db 10, ASPICOT
 	db 10, ASPICOT
@@ -569,7 +569,7 @@ JohtoGrassWildMons:
 	db 5, ASPICOT
 	db 7, CHRYSACIER
 	db 7, COCONFORT
-	db 7, PIDGEY
+	db 7, ROUCOOL
 	db 6, PARAS
 	db 6, PARAS
 	; day
@@ -577,7 +577,7 @@ JohtoGrassWildMons:
 	db 5, ASPICOT
 	db 7, CHRYSACIER
 	db 7, COCONFORT
-	db 7, PIDGEY
+	db 7, ROUCOOL
 	db 6, PARAS
 	db 6, PARAS
 	; nite
@@ -1237,17 +1237,17 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_29
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 2, PIDGEY
+	db 2, ROUCOOL
 	db 2, FOUINETTE
-	db 3, PIDGEY
+	db 3, ROUCOOL
 	db 3, FOUINETTE
 	db 2, RATTATA
 	db 3, GRANIVOL
 	db 3, GRANIVOL
 	; day
-	db 2, PIDGEY
+	db 2, ROUCOOL
 	db 2, FOUINETTE
-	db 3, PIDGEY
+	db 3, ROUCOOL
 	db 3, FOUINETTE
 	db 2, RATTATA
 	db 3, GRANIVOL
@@ -1268,15 +1268,15 @@ JohtoGrassWildMons:
 	db 3, COXY
 	db 3, CHENIPAN
 	db 4, CHENIPAN
-	db 4, PIDGEY
+	db 4, ROUCOOL
 	db 3, ASPICOT
 	db 4, GRANIVOL
 	db 4, GRANIVOL
 	; day
-	db 3, PIDGEY
+	db 3, ROUCOOL
 	db 3, CHENIPAN
 	db 4, CHENIPAN
-	db 4, PIDGEY
+	db 4, ROUCOOL
 	db 3, ASPICOT
 	db 4, GRANIVOL
 	db 4, GRANIVOL
@@ -1296,15 +1296,15 @@ JohtoGrassWildMons:
 	db 4, COXY
 	db 4, CHENIPAN
 	db 5, CHETIFLOR
-	db 5, PIDGEY
+	db 5, ROUCOOL
 	db 4, ASPICOT
 	db 5, GRANIVOL
 	db 5, GRANIVOL
 	; day
-	db 4, PIDGEY
+	db 4, ROUCOOL
 	db 4, CHENIPAN
 	db 5, CHETIFLOR
-	db 5, PIDGEY
+	db 5, ROUCOOL
 	db 4, ASPICOT
 	db 5, GRANIVOL
 	db 5, GRANIVOL
@@ -1325,7 +1325,7 @@ JohtoGrassWildMons:
 	db 5, RATTATA
 	db 7, CHETIFLOR
 	db 6, GRANIVOL
-	db 7, PIDGEY
+	db 7, ROUCOOL
 	db 7, GRANIVOL
 	db 7, GRANIVOL
 	; day
@@ -1333,7 +1333,7 @@ JohtoGrassWildMons:
 	db 5, RATTATA
 	db 7, CHETIFLOR
 	db 6, GRANIVOL
-	db 7, PIDGEY
+	db 7, ROUCOOL
 	db 7, GRANIVOL
 	db 7, GRANIVOL
 	; nite
@@ -1379,7 +1379,7 @@ JohtoGrassWildMons:
 	; morn
 	db 10, SNUBBULL
 	db 11, RATTATA
-	db 12, PIDGEY
+	db 12, ROUCOOL
 	db 10, ABRA
 	db 12, RONDOUDOU
 	db 10, METAMORPH
@@ -1387,7 +1387,7 @@ JohtoGrassWildMons:
 	; day
 	db 10, SNUBBULL
 	db 11, RATTATA
-	db 12, PIDGEY
+	db 12, ROUCOOL
 	db 10, ABRA
 	db 12, RONDOUDOU
 	db 10, METAMORPH
@@ -1406,7 +1406,7 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 12, SNUBBULL
-	db 14, PIDGEY
+	db 14, ROUCOOL
 	db 13, CANINOS
 	db 10, ABRA
 	db 12, RONDOUDOU
@@ -1414,7 +1414,7 @@ JohtoGrassWildMons:
 	db 12, YANMA
 	; day
 	db 12, SNUBBULL
-	db 14, PIDGEY
+	db 14, ROUCOOL
 	db 13, CANINOS
 	db 10, ABRA
 	db 12, RONDOUDOU
@@ -1434,20 +1434,20 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 4, COXY
-	db 4, PIDGEY
+	db 4, ROUCOOL
 	db 5, CHETIFLOR
 	db 5, CANINOS
-	db 5, PIDGEY
-	db 6, PIDGEY
-	db 6, PIDGEY
+	db 5, ROUCOOL
+	db 6, ROUCOOL
+	db 6, ROUCOOL
 	; day
-	db 4, PIDGEY
-	db 4, PIDGEY
+	db 4, ROUCOOL
+	db 4, ROUCOOL
 	db 5, CHETIFLOR
 	db 5, CANINOS
-	db 5, PIDGEY
-	db 6, PIDGEY
-	db 6, PIDGEY
+	db 5, ROUCOOL
+	db 6, ROUCOOL
+	db 6, ROUCOOL
 	; nite
 	db 4, MIMIGAL
 	db 4, HOOTHOOT
@@ -1463,19 +1463,19 @@ JohtoGrassWildMons:
 	; morn
 	db 13, COXY
 	db 14, CANINOS
-	db 15, PIDGEY
+	db 15, ROUCOOL
 	db 16, CANINOS
 	db 15, ROUCOUPS
 	db 15, COXYCLAQUE
 	db 15, COXYCLAQUE
 	; day
-	db 13, PIDGEY
+	db 13, ROUCOOL
 	db 14, CANINOS
-	db 15, PIDGEY
+	db 15, ROUCOOL
 	db 16, CANINOS
 	db 15, ROUCOUPS
-	db 15, PIDGEY
-	db 15, PIDGEY
+	db 15, ROUCOOL
+	db 15, ROUCOOL
 	; nite
 	db 13, MIMIGAL
 	db 14, CERFROUSSE

@@ -15,7 +15,7 @@ BitmasksPointers:
 	dw AspicotBitmasks
 	dw CoconfortBitmasks
 	dw DardargnanBitmasks
-	dw PidgeyBitmasks
+	dw RoucoolBitmasks
 	dw RoucoupsBitmasks
 	dw RoucarnageBitmasks
 	dw RattataBitmasks

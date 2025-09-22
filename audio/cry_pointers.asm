@@ -15,7 +15,7 @@ Cries:
 	dba Cry_Diglett
 	dba Cry_Otaria
 	dba Cry_Drowzee
-	dba Cry_Pidgey
+	dba Cry_Roucool
 	dba Cry_Bulbizarre
 	dba Cry_Piafabec
 	dba Cry_Rhinoferos

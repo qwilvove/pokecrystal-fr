@@ -35,7 +35,7 @@ Pokered_MonIndices:
 	db CANINOS
 	db ONIX
 	db RAPASDEPIC
-	db PIDGEY
+	db ROUCOOL
 	db RAMOLOSS
 	db KADABRA
 	db GRAVALANCH

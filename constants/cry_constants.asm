@@ -16,7 +16,7 @@
 	const CRY_DIGLETT
 	const CRY_OTARIA
 	const CRY_DROWZEE
-	const CRY_PIDGEY
+	const CRY_ROUCOOL
 	const CRY_BULBIZARRE
 	const CRY_PIAFABEC
 	const CRY_RHINOFEROS

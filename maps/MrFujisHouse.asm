@@ -3,7 +3,7 @@
 	const MRFUJISHOUSE_LASS
 	const MRFUJISHOUSE_PSYKOKWAK
 	const MRFUJISHOUSE_NIDORINO
-	const MRFUJISHOUSE_PIDGEY
+	const MRFUJISHOUSE_ROUCOOL
 
 MrFujisHouse_MapScripts:
 	def_scene_scripts
@@ -32,10 +32,10 @@ MrFujisNidorino:
 	closetext
 	end
 
-MrFujisPidgey:
+MrFujisRoucool:
 	opentext
-	writetext MrFujisPidgeyText
-	cry PIDGEY
+	writetext MrFujisRoucoolText
+	cry ROUCOOL
 	waitbutton
 	closetext
 	end
@@ -71,7 +71,7 @@ MrFujisNidorinoText:
 	text "NIDORINO: Nido!"
 	done
 
-MrFujisPidgeyText:
+MrFujisRoucoolText:
 	text "ROUCOOL: Rrrou!"
 	done
 
@@ -93,4 +93,4 @@ MrFujisHouse_MapEvents:
 	object_event  3,  4, SPRITE_LASS, SPRITEMOVEDATA_WANDER, 1, 1, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, MrFujisHouseLassScript, -1
 	object_event  7,  4, SPRITE_RHINOFEROS, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, MrFujisPsykokwak, -1
 	object_event  5,  5, SPRITE_CANINOS, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, MrFujisNidorino, -1
-	object_event  1,  3, SPRITE_MOLTRES, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_SCRIPT, 0, MrFujisPidgey, -1
+	object_event  1,  3, SPRITE_MOLTRES, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_SCRIPT, 0, MrFujisRoucool, -1

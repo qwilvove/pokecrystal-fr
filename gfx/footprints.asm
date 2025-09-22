@@ -37,7 +37,7 @@ INCBIN "gfx/footprints/papilusion.1bpp", footprint_top
 INCBIN "gfx/footprints/aspicot.1bpp",     footprint_top
 INCBIN "gfx/footprints/coconfort.1bpp",     footprint_top
 INCBIN "gfx/footprints/dardargnan.1bpp",   footprint_top
-INCBIN "gfx/footprints/pidgey.1bpp",     footprint_top
+INCBIN "gfx/footprints/roucool.1bpp",     footprint_top
 ; 009-016 bottom halves
 INCBIN "gfx/footprints/blastoise.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/chenipan.1bpp",   footprint_bottom
@@ -46,7 +46,7 @@ INCBIN "gfx/footprints/papilusion.1bpp", footprint_bottom
 INCBIN "gfx/footprints/aspicot.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/coconfort.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/dardargnan.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/pidgey.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/roucool.1bpp",     footprint_bottom
 ; 017-024 top halves
 INCBIN "gfx/footprints/roucoups.1bpp",  footprint_top
 INCBIN "gfx/footprints/roucarnage.1bpp",    footprint_top

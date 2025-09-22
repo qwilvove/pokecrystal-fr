@@ -36,7 +36,7 @@ CarapuceEggMoves:
 	db FLAIL
 	db -1 ; end
 
-PidgeyEggMoves:
+RoucoolEggMoves:
 	db PURSUIT
 	db FAINT_ATTACK
 	db FORESIGHT

@@ -243,7 +243,7 @@ MiaoussFrontpic:      INCBIN "gfx/pokemon/miaouss/front.animated.2bpp.lz"
 Porygon2Frontpic:    INCBIN "gfx/pokemon/porygon2/front.animated.2bpp.lz"
 SandshrewFrontpic:   INCBIN "gfx/pokemon/sandshrew/front.animated.2bpp.lz"
 NidoranFFrontpic:    INCBIN "gfx/pokemon/nidoran_f/front.animated.2bpp.lz"
-PidgeyFrontpic:      INCBIN "gfx/pokemon/pidgey/front.animated.2bpp.lz"
+RoucoolFrontpic:      INCBIN "gfx/pokemon/roucool/front.animated.2bpp.lz"
 ParasectBackpic:     INCBIN "gfx/pokemon/parasect/back.2bpp.lz"
 
 
@@ -376,7 +376,7 @@ StarmieBackpic:      INCBIN "gfx/pokemon/starmie/back.2bpp.lz"
 SECTION "Pics 13", ROMX
 
 AmonitaBackpic:      INCBIN "gfx/pokemon/amonita/back.2bpp.lz"
-PidgeyBackpic:       INCBIN "gfx/pokemon/pidgey/back.2bpp.lz"
+RoucoolBackpic:       INCBIN "gfx/pokemon/roucool/back.2bpp.lz"
 ScientistPic:        INCBIN "gfx/trainers/scientist.2bpp.lz"
 QwilfishBackpic:     INCBIN "gfx/pokemon/qwilfish/back.2bpp.lz"
 GligarBackpic:       INCBIN "gfx/pokemon/gligar/back.2bpp.lz"

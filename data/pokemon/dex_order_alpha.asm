@@ -206,7 +206,7 @@ AlphabeticalPokedexOrder:
 	db RONDOUDOU
 	db RONFLEX
 	db ROUCARNAGE
-	db PIDGEY
+	db ROUCOOL
 	db ROUCOUPS
 	db SANDSHREW
 	db SANDSLASH
