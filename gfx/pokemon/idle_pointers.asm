@@ -126,7 +126,7 @@ AnimationIdlePointers:
 	dw LippoutouAnimationIdle
 	dw ElektekAnimationIdle
 	dw MagmarAnimationIdle
-	dw PinsirAnimationIdle
+	dw ScarabruteAnimationIdle
 	dw TaurosAnimationIdle
 	dw MagicarpeAnimationIdle
 	dw LeviatorAnimationIdle

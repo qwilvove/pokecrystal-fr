@@ -128,7 +128,7 @@ KantoMonSpecials:
 	db  95 ; LIPPOUTOU
 	db  85 ; ELEKTEK
 	db  85 ; MAGMAR
-	db  55 ; PINSIR
+	db  55 ; SCARABRUTE
 	db  70 ; TAUROS
 	db  20 ; MAGICARPE
 	db 100 ; LEVIATOR

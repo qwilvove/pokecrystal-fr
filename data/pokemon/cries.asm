@@ -132,7 +132,7 @@ PokemonCries::
 	mon_cry CRY_DROWZEE,     255,  383 ; LIPPOUTOU
 	mon_cry CRY_VOLTORB,     143,  383 ; ELEKTEK
 	mon_cry CRY_SALAMECHE,  255,  176 ; MAGMAR
-	mon_cry CRY_ROUCOUPS,     0,  256 ; PINSIR
+	mon_cry CRY_ROUCOUPS,     0,  256 ; SCARABRUTE
 	mon_cry CRY_CARAPUCE,     17,  192 ; TAUROS
 	mon_cry CRY_ABO,       128,  128 ; MAGICARPE
 	mon_cry CRY_ABO,         0,  256 ; LEVIATOR

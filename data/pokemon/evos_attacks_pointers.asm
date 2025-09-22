@@ -128,7 +128,7 @@ EvosAttacksPointers::
 	dw LippoutouEvosAttacks
 	dw ElektekEvosAttacks
 	dw MagmarEvosAttacks
-	dw PinsirEvosAttacks
+	dw ScarabruteEvosAttacks
 	dw TaurosEvosAttacks
 	dw MagicarpeEvosAttacks
 	dw LeviatorEvosAttacks

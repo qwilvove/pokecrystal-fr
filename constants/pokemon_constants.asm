@@ -145,7 +145,7 @@
 	const LIPPOUTOU       ; 7c
 	const ELEKTEK ; 7d
 	const MAGMAR     ; 7e
-	const PINSIR     ; 7f
+	const SCARABRUTE     ; 7f
 	const TAUROS     ; 80
 	const MAGICARPE   ; 81
 	const LEVIATOR   ; 82

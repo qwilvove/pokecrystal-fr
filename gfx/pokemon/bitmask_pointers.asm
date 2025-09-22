@@ -126,7 +126,7 @@ BitmasksPointers:
 	dw LippoutouBitmasks
 	dw ElektekBitmasks
 	dw MagmarBitmasks
-	dw PinsirBitmasks
+	dw ScarabruteBitmasks
 	dw TaurosBitmasks
 	dw MagicarpeBitmasks
 	dw LeviatorBitmasks

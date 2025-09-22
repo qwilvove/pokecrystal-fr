@@ -35,11 +35,11 @@ BugContestant_CooltrainerMNick:
 	db COOLTRAINERM, NICK
 	dbw INSECATEUR,    357
 	dbw PAPILUSION, 349
-	dbw PINSIR,     368
+	dbw SCARABRUTE,     368
 
 BugContestant_PokefanMWilliam:
 	db POKEFANM, WILLIAM
-	dbw PINSIR,     332
+	dbw SCARABRUTE,     332
 	dbw PAPILUSION, 324
 	dbw MIMITOSS,    321
 
@@ -51,7 +51,7 @@ BugContestant_BugCatcherBenny:
 
 BugContestant_CamperBarry:
 	db CAMPER, BARRY
-	dbw PINSIR,     366
+	dbw SCARABRUTE,     366
 	dbw MIMITOSS,    329
 	dbw COCONFORT,     314
 
@@ -70,7 +70,7 @@ BugContestant_BugCatcherJosh:
 BugContestant_YoungsterSamuel:
 	db YOUNGSTER, SAMUEL
 	dbw ASPICOT,     270
-	dbw PINSIR,     282
+	dbw SCARABRUTE,     282
 	dbw CHENIPAN,   251
 
 BugContestant_SchoolboyKipp:

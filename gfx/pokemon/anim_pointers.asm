@@ -126,7 +126,7 @@ AnimationPointers:
 	dw LippoutouAnimation
 	dw ElektekAnimation
 	dw MagmarAnimation
-	dw PinsirAnimation
+	dw ScarabruteAnimation
 	dw TaurosAnimation
 	dw MagicarpeAnimation
 	dw LeviatorAnimation

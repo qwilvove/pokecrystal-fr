@@ -212,7 +212,7 @@ AlphabeticalPokedexOrder:
 	db SABLAIREAU
 	db SALAMECHE
 	db SAQUEDENEU
-	db PINSIR
+	db SCARABRUTE
 	db HERACROSS
 	db GLIGAR
 	db SUDOWOODO

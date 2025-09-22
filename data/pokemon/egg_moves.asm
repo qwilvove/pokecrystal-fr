@@ -392,7 +392,7 @@ InsecateurEggMoves:
 	db LIGHT_SCREEN
 	db -1 ; end
 
-PinsirEggMoves:
+ScarabruteEggMoves:
 	db FURY_ATTACK
 	db FLAIL
 	db -1 ; end

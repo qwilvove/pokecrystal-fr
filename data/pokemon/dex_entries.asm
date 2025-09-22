@@ -130,7 +130,7 @@ InsecateurPokedexEntry::    INCLUDE "data/pokemon/dex_entries/insecateur.asm"
 LippoutouPokedexEntry::       INCLUDE "data/pokemon/dex_entries/lippoutou.asm"
 ElektekPokedexEntry:: INCLUDE "data/pokemon/dex_entries/elektek.asm"
 MagmarPokedexEntry::     INCLUDE "data/pokemon/dex_entries/magmar.asm"
-PinsirPokedexEntry::     INCLUDE "data/pokemon/dex_entries/pinsir.asm"
+ScarabrutePokedexEntry::     INCLUDE "data/pokemon/dex_entries/scarabrute.asm"
 TaurosPokedexEntry::     INCLUDE "data/pokemon/dex_entries/tauros.asm"
 
 

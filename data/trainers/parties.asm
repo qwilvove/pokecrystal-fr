@@ -1547,7 +1547,7 @@ BugCatcherGroup:
 	; BUG_CATCHER (9)
 	db "AMAURY@", TRAINERTYPE_NORMAL
 	db 30, MIGALOS
-	db 32, PINSIR
+	db 32, SCARABRUTE
 	db -1 ; end
 
 	; BUG_CATCHER (10)

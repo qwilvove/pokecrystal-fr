@@ -4341,7 +4341,7 @@ BattleTowerMons:
 	bigdw 143 ; SDef
 	dname "UTUBOtuTO", MON_NAME_LENGTH
 
-	db PINSIR
+	db SCARABRUTE
 	db GOLD_BERRY
 	db HYPER_BEAM, SUBMISSION, STRENGTH, TOXIC
 	dw 0 ; OT ID

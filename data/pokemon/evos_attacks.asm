@@ -1726,7 +1726,7 @@ MagmarEvosAttacks:
 	db 57, FIRE_BLAST
 	db 0 ; no more level-up moves
 
-PinsirEvosAttacks:
+ScarabruteEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, VICEGRIP
 	db 7, FOCUS_ENERGY

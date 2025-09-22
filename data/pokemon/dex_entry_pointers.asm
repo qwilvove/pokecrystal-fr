@@ -127,7 +127,7 @@ PokedexDataPointerTable:
 	dw LippoutouPokedexEntry
 	dw ElektekPokedexEntry
 	dw MagmarPokedexEntry
-	dw PinsirPokedexEntry
+	dw ScarabrutePokedexEntry
 	dw TaurosPokedexEntry
 	dw MagicarpePokedexEntry
 	dw LeviatorPokedexEntry

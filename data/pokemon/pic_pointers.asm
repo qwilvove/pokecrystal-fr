@@ -129,7 +129,7 @@ PokemonPicPointers::
 	dba_pics LippoutouFrontpic, LippoutouBackpic
 	dba_pics ElektekFrontpic, ElektekBackpic
 	dba_pics MagmarFrontpic, MagmarBackpic
-	dba_pics PinsirFrontpic, PinsirBackpic
+	dba_pics ScarabruteFrontpic, ScarabruteBackpic
 	dba_pics TaurosFrontpic, TaurosBackpic
 	dba_pics MagicarpeFrontpic, MagicarpeBackpic
 	dba_pics LeviatorFrontpic, LeviatorBackpic

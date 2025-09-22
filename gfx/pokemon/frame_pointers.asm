@@ -126,7 +126,7 @@ FramesPointers:
 	dw LippoutouFrames
 	dw ElektekFrames
 	dw MagmarFrames
-	dw PinsirFrames
+	dw ScarabruteFrames
 	dw TaurosFrames
 	dw MagicarpeFrames
 	dw LeviatorFrames
