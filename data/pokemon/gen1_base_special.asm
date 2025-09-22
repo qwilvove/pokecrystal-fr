@@ -10,7 +10,7 @@ KantoMonSpecials:
 	db  85 ; DRACAUFEU
 	db  50 ; CARAPUCE
 	db  65 ; CARABAFFE
-	db  85 ; BLASTOISE
+	db  85 ; TORTANK
 	db  20 ; CHENIPAN
 	db  25 ; CHRYSACIER
 	db  80 ; PAPILUSION

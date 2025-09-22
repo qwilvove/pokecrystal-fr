@@ -8,7 +8,7 @@ FramesPointers:
 	dw DracaufeuFrames
 	dw CarapuceFrames
 	dw CarabaffeFrames
-	dw BlastoiseFrames
+	dw TortankFrames
 	dw ChenipanFrames
 	dw ChrysacierFrames
 	dw PapilusionFrames

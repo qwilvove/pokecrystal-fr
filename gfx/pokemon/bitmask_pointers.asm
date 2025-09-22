@@ -8,7 +8,7 @@ BitmasksPointers:
 	dw DracaufeuBitmasks
 	dw CarapuceBitmasks
 	dw CarabaffeBitmasks
-	dw BlastoiseBitmasks
+	dw TortankBitmasks
 	dw ChenipanBitmasks
 	dw ChrysacierBitmasks
 	dw PapilusionBitmasks

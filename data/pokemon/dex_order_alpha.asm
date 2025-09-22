@@ -237,7 +237,7 @@ AlphabeticalPokedexOrder:
 	db TETARTE
 	db TOGEPI
 	db TOGETIC
-	db BLASTOISE
+	db TORTANK
 	db IGGLYBUFF
 	db SUNKERN
 	db DUGTRIO

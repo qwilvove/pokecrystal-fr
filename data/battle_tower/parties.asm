@@ -3165,7 +3165,7 @@ BattleTowerMons:
 	bigdw 165 ; SDef
 	dname "RU-ZIyuRA", MON_NAME_LENGTH
 
-	db BLASTOISE
+	db TORTANK
 	db GOLD_BERRY
 	db SURF, EARTHQUAKE, RAPID_SPIN, BLIZZARD
 	dw 0 ; OT ID
@@ -3818,7 +3818,7 @@ BattleTowerMons:
 	bigdw 159 ; SDef
 	dname "RIZA-DON", MON_NAME_LENGTH
 
-	db BLASTOISE
+	db TORTANK
 	db QUICK_CLAW
 	db HYDRO_PUMP, ICE_PUNCH, HYPER_BEAM, IRON_TAIL
 	dw 0 ; OT ID

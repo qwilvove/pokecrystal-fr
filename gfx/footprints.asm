@@ -30,7 +30,7 @@ INCBIN "gfx/footprints/dracaufeu.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/carapuce.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/carabaffe.1bpp",  footprint_bottom
 ; 009-016 top halves
-INCBIN "gfx/footprints/blastoise.1bpp",  footprint_top
+INCBIN "gfx/footprints/tortank.1bpp",  footprint_top
 INCBIN "gfx/footprints/chenipan.1bpp",   footprint_top
 INCBIN "gfx/footprints/chrysacier.1bpp",    footprint_top
 INCBIN "gfx/footprints/papilusion.1bpp", footprint_top
@@ -39,7 +39,7 @@ INCBIN "gfx/footprints/coconfort.1bpp",     footprint_top
 INCBIN "gfx/footprints/dardargnan.1bpp",   footprint_top
 INCBIN "gfx/footprints/roucool.1bpp",     footprint_top
 ; 009-016 bottom halves
-INCBIN "gfx/footprints/blastoise.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/tortank.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/chenipan.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/chrysacier.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/papilusion.1bpp", footprint_bottom

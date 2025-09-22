@@ -9,7 +9,7 @@ PokedexDataPointerTable:
 	dw DracaufeuPokedexEntry
 	dw CarapucePokedexEntry
 	dw CarabaffePokedexEntry
-	dw BlastoisePokedexEntry
+	dw TortankPokedexEntry
 	dw ChenipanPokedexEntry
 	dw ChrysacierPokedexEntry
 	dw PapilusionPokedexEntry

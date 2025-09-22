@@ -36,7 +36,7 @@ TyphlosionFrontpic:  INCBIN "gfx/pokemon/typhlosion/front.animated.2bpp.lz"
 
 SECTION "Pics 2", ROMX
 
-BlastoiseFrontpic:   INCBIN "gfx/pokemon/blastoise/front.animated.2bpp.lz"
+TortankFrontpic:   INCBIN "gfx/pokemon/tortank/front.animated.2bpp.lz"
 GalopaFrontpic:    INCBIN "gfx/pokemon/galopa/front.animated.2bpp.lz"
 MeganiumFrontpic:    INCBIN "gfx/pokemon/meganium/front.animated.2bpp.lz"
 NidoqueenFrontpic:   INCBIN "gfx/pokemon/nidoqueen/front.animated.2bpp.lz"
@@ -434,7 +434,7 @@ RafflesiaBackpic:    INCBIN "gfx/pokemon/rafflesia/back.2bpp.lz"
 HitmonchanBackpic:   INCBIN "gfx/pokemon/hitmonchan/back.2bpp.lz"
 CotovolBackpic:     INCBIN "gfx/pokemon/cotovol/back.2bpp.lz"
 CooltrainermPic:     INCBIN "gfx/trainers/cooltrainer_m.2bpp.lz"
-BlastoiseBackpic:    INCBIN "gfx/pokemon/blastoise/back.2bpp.lz"
+TortankBackpic:    INCBIN "gfx/pokemon/tortank/back.2bpp.lz"
 FeuforeveBackpic:   INCBIN "gfx/pokemon/feuforeve/back.2bpp.lz"
 DebugantBackpic:      INCBIN "gfx/pokemon/debugant/back.2bpp.lz"
 RacaillouFrontpic:     INCBIN "gfx/pokemon/racaillou/front.animated.2bpp.lz"

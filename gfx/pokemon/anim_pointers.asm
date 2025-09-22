@@ -8,7 +8,7 @@ AnimationPointers:
 	dw DracaufeuAnimation
 	dw CarapuceAnimation
 	dw CarabaffeAnimation
-	dw BlastoiseAnimation
+	dw TortankAnimation
 	dw ChenipanAnimation
 	dw ChrysacierAnimation
 	dw PapilusionAnimation

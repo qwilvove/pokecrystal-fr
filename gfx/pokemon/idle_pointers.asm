@@ -8,7 +8,7 @@ AnimationIdlePointers:
 	dw DracaufeuAnimationIdle
 	dw CarapuceAnimationIdle
 	dw CarabaffeAnimationIdle
-	dw BlastoiseAnimationIdle
+	dw TortankAnimationIdle
 	dw ChenipanAnimationIdle
 	dw ChrysacierAnimationIdle
 	dw PapilusionAnimationIdle

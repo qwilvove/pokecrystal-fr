@@ -20,7 +20,7 @@ Cries:
 	dba Cry_Piafabec
 	dba Cry_Rhinoferos
 	dba Cry_Grolem
-	dba Cry_Blastoise
+	dba Cry_Tortank
 	dba Cry_Roucoups
 	dba Cry_Aspicot
 	dba Cry_Chenipan

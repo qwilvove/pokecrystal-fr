@@ -968,11 +968,11 @@ Cry_Grolem:
 	channel 6, Cry_Grolem_Ch6
 	channel 8, Cry_Grolem_Ch8
 
-Cry_Blastoise:
+Cry_Tortank:
 	channel_count 3
-	channel 5, Cry_Blastoise_Ch5
-	channel 6, Cry_Blastoise_Ch6
-	channel 8, Cry_Blastoise_Ch8
+	channel 5, Cry_Tortank_Ch5
+	channel 6, Cry_Tortank_Ch6
+	channel 8, Cry_Tortank_Ch8
 
 Cry_Roucoups:
 	channel_count 3
@@ -1757,7 +1757,7 @@ Cry_Grolem_Ch8:
 	noise_note 8, 13, 1, 92
 	sound_ret
 
-Cry_Blastoise_Ch5:
+Cry_Tortank_Ch5:
 	duty_cycle_pattern 0, 3, 0, 3
 	square_note 15, 15, 6, 1472
 	square_note 8, 14, 3, 1468
@@ -1767,7 +1767,7 @@ Cry_Blastoise_Ch5:
 	square_note 8, 11, 1, 1536
 	sound_ret
 
-Cry_Blastoise_Ch6:
+Cry_Tortank_Ch6:
 	duty_cycle_pattern 2, 1, 2, 1
 	square_note 14, 12, 6, 1201
 	square_note 7, 12, 3, 1197
@@ -1777,7 +1777,7 @@ Cry_Blastoise_Ch6:
 	square_note 8, 9, 1, 1265
 	sound_ret
 
-Cry_Blastoise_Ch8:
+Cry_Tortank_Ch8:
 	noise_note 10, 14, 6, 92
 	noise_note 10, 13, 6, 108
 	noise_note 4, 12, 2, 76

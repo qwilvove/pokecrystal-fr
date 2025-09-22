@@ -131,7 +131,7 @@ CarapuceEvosAttacks:
 	db 0 ; no more level-up moves
 
 CarabaffeEvosAttacks:
-	db EVOLVE_LEVEL, 36, BLASTOISE
+	db EVOLVE_LEVEL, 36, TORTANK
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP
@@ -148,7 +148,7 @@ CarabaffeEvosAttacks:
 	db 53, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-BlastoiseEvosAttacks:
+TortankEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 1, TAIL_WHIP

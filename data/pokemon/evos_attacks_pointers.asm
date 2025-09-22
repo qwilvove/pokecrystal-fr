@@ -10,7 +10,7 @@ EvosAttacksPointers::
 	dw DracaufeuEvosAttacks
 	dw CarapuceEvosAttacks
 	dw CarabaffeEvosAttacks
-	dw BlastoiseEvosAttacks
+	dw TortankEvosAttacks
 	dw ChenipanEvosAttacks
 	dw ChrysacierEvosAttacks
 	dw PapilusionEvosAttacks

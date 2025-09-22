@@ -27,7 +27,7 @@
 	const DRACAUFEU  ; 06
 	const CARAPUCE   ; 07
 	const CARABAFFE  ; 08
-	const BLASTOISE  ; 09
+	const TORTANK  ; 09
 	const CHENIPAN   ; 0a
 	const CHRYSACIER    ; 0b
 	const PAPILUSION ; 0c

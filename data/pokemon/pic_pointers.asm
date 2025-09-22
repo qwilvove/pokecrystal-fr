@@ -11,7 +11,7 @@ PokemonPicPointers::
 	dba_pics DracaufeuFrontpic, DracaufeuBackpic
 	dba_pics CarapuceFrontpic, CarapuceBackpic
 	dba_pics CarabaffeFrontpic, CarabaffeBackpic
-	dba_pics BlastoiseFrontpic, BlastoiseBackpic
+	dba_pics TortankFrontpic, TortankBackpic
 	dba_pics ChenipanFrontpic, ChenipanBackpic
 	dba_pics ChrysacierFrontpic, ChrysacierBackpic
 	dba_pics PapilusionFrontpic, PapilusionBackpic
