@@ -116,7 +116,7 @@ PokemonPicPointers::
 	dba_pics RhinocorneFrontpic, RhinocorneBackpic
 	dba_pics RhinoferosFrontpic, RhinoferosBackpic
 	dba_pics LeveinardFrontpic, LeveinardBackpic
-	dba_pics TangelaFrontpic, TangelaBackpic
+	dba_pics SaquedeneuFrontpic, SaquedeneuBackpic
 	dba_pics KangourexFrontpic, KangourexBackpic
 	dba_pics HypotrempeFrontpic, HypotrempeBackpic
 	dba_pics HypoceanFrontpic, HypoceanBackpic

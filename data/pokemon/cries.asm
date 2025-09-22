@@ -119,7 +119,7 @@ PokemonCries::
 	mon_cry CRY_SALAMECHE,    0,  256 ; RHINOCORNE
 	mon_cry CRY_RHINOFEROS,        0,  256 ; RHINOFEROS
 	mon_cry CRY_ROUCOUPS,    10,  320 ; LEVEINARD
-	mon_cry CRY_GROLEM,         0,  256 ; TANGELA
+	mon_cry CRY_GROLEM,         0,  256 ; SAQUEDENEU
 	mon_cry CRY_KANGOUREX,    0,  256 ; KANGOUREX
 	mon_cry CRY_MELOFEE,    153,  144 ; HYPOTREMPE
 	mon_cry CRY_MELOFEE,     60,  129 ; HYPOCEAN

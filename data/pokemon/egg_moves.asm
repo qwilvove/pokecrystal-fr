@@ -346,7 +346,7 @@ LeveinardEggMoves:
 	db HEAL_BELL
 	db -1 ; end
 
-TangelaEggMoves:
+SaquedeneuEggMoves:
 	db FLAIL
 	db CONFUSION
 	db MEGA_DRAIN

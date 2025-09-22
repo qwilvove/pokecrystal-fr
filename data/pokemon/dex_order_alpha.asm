@@ -211,7 +211,7 @@ AlphabeticalPokedexOrder:
 	db SABELETTE
 	db SABLAIREAU
 	db SALAMECHE
-	db TANGELA
+	db SAQUEDENEU
 	db PINSIR
 	db HERACROSS
 	db GLIGAR

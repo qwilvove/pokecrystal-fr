@@ -113,7 +113,7 @@ EggMovePointers::
 	dw RhinocorneEggMoves
 	dw NoEggMoves
 	dw LeveinardEggMoves
-	dw TangelaEggMoves
+	dw SaquedeneuEggMoves
 	dw KangourexEggMoves
 	dw HypotrempeEggMoves
 	dw NoEggMoves

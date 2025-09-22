@@ -265,7 +265,7 @@ INCBIN "gfx/footprints/rhinocorne.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/rhinoferos.1bpp",     footprint_bottom
 ; 113-120 top halves
 INCBIN "gfx/footprints/leveinard.1bpp",    footprint_top
-INCBIN "gfx/footprints/tangela.1bpp",    footprint_top
+INCBIN "gfx/footprints/saquedeneu.1bpp",    footprint_top
 INCBIN "gfx/footprints/kangourex.1bpp", footprint_top
 INCBIN "gfx/footprints/hypotrempe.1bpp",     footprint_top
 INCBIN "gfx/footprints/hypocean.1bpp",     footprint_top
@@ -274,7 +274,7 @@ INCBIN "gfx/footprints/poissoroy.1bpp",    footprint_top
 INCBIN "gfx/footprints/staryu.1bpp",     footprint_top
 ; 113-120 bottom halves
 INCBIN "gfx/footprints/leveinard.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/tangela.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/saquedeneu.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/kangourex.1bpp", footprint_bottom
 INCBIN "gfx/footprints/hypotrempe.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/hypocean.1bpp",     footprint_bottom

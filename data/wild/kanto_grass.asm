@@ -649,29 +649,29 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_21
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 30, TANGELA
+	db 30, SAQUEDENEU
 	db 25, RATTATA
-	db 35, TANGELA
+	db 35, SAQUEDENEU
 	db 20, RATTATAC
 	db 30, M__MIME
 	db 28, M__MIME
 	db 28, M__MIME
 	; day
-	db 30, TANGELA
+	db 30, SAQUEDENEU
 	db 25, RATTATA
-	db 35, TANGELA
+	db 35, SAQUEDENEU
 	db 20, RATTATAC
 	db 28, M__MIME
 	db 30, M__MIME
 	db 30, M__MIME
 	; nite
-	db 30, TANGELA
+	db 30, SAQUEDENEU
 	db 25, RATTATA
-	db 35, TANGELA
+	db 35, SAQUEDENEU
 	db 20, RATTATAC
-	db 30, TANGELA
-	db 28, TANGELA
-	db 28, TANGELA
+	db 30, SAQUEDENEU
+	db 28, SAQUEDENEU
+	db 28, SAQUEDENEU
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_22
@@ -817,7 +817,7 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_28
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 39, TANGELA
+	db 39, SAQUEDENEU
 	db 40, PONYTA
 	db 40, GALOPA
 	db 42, ARBOK
@@ -825,7 +825,7 @@ KantoGrassWildMons:
 	db 43, DODRIO
 	db 43, DODRIO
 	; day
-	db 39, TANGELA
+	db 39, SAQUEDENEU
 	db 40, PONYTA
 	db 40, GALOPA
 	db 42, ARBOK
@@ -833,7 +833,7 @@ KantoGrassWildMons:
 	db 43, DODRIO
 	db 43, DODRIO
 	; nite
-	db 39, TANGELA
+	db 39, SAQUEDENEU
 	db 40, POLIWHIRL
 	db 40, NOSFERALTO
 	db 40, POLIWHIRL

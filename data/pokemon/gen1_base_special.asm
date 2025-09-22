@@ -115,7 +115,7 @@ KantoMonSpecials:
 	db  30 ; RHINOCORNE
 	db  45 ; RHINOFEROS
 	db 105 ; LEVEINARD
-	db 100 ; TANGELA
+	db 100 ; SAQUEDENEU
 	db  40 ; KANGOUREX
 	db  70 ; HYPOTREMPE
 	db  95 ; HYPOCEAN

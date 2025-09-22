@@ -1545,7 +1545,7 @@ LeveinardEvosAttacks:
 	db 57, DOUBLE_EDGE
 	db 0 ; no more level-up moves
 
-TangelaEvosAttacks:
+SaquedeneuEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, CONSTRICT
 	db 4, SLEEP_POWDER

@@ -132,7 +132,7 @@
 	const RHINOCORNE    ; 6f
 	const RHINOFEROS     ; 70
 	const LEVEINARD    ; 71
-	const TANGELA    ; 72
+	const SAQUEDENEU    ; 72
 	const KANGOUREX ; 73
 	const HYPOTREMPE     ; 74
 	const HYPOCEAN     ; 75

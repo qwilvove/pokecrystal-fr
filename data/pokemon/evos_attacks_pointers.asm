@@ -115,7 +115,7 @@ EvosAttacksPointers::
 	dw RhinocorneEvosAttacks
 	dw RhinoferosEvosAttacks
 	dw LeveinardEvosAttacks
-	dw TangelaEvosAttacks
+	dw SaquedeneuEvosAttacks
 	dw KangourexEvosAttacks
 	dw HypotrempeEvosAttacks
 	dw HypoceanEvosAttacks

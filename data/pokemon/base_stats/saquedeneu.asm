@@ -1,4 +1,4 @@
-	db TANGELA ; 114
+	db SAQUEDENEU ; 114
 
 	db  65,  55, 115,  60, 100,  40
 	;   hp  atk  def  spd  sat  sdf
@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/tangela/front.dimensions"
+	INCBIN "gfx/pokemon/saquedeneu/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_PLANT, EGG_PLANT ; egg groups

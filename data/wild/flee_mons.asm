@@ -4,7 +4,7 @@ FleeMons:
 SometimesFleeMons:
 	db MAGNETI
 	db GRIMER
-	db TANGELA
+	db SAQUEDENEU
 	db M__MIME
 	db EVOLI
 	db PORYGON

@@ -1601,7 +1601,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_44
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, TANGELA
+	db 23, SAQUEDENEU
 	db 22, EXCELANGUE
 	db 22, CHETIFLOR
 	db 24, BOUSTIFLOR
@@ -1609,7 +1609,7 @@ JohtoGrassWildMons:
 	db 26, EXCELANGUE
 	db 26, EXCELANGUE
 	; day
-	db 23, TANGELA
+	db 23, SAQUEDENEU
 	db 22, EXCELANGUE
 	db 22, CHETIFLOR
 	db 24, BOUSTIFLOR
@@ -1617,7 +1617,7 @@ JohtoGrassWildMons:
 	db 26, EXCELANGUE
 	db 26, EXCELANGUE
 	; nite
-	db 23, TANGELA
+	db 23, SAQUEDENEU
 	db 22, PTITARD
 	db 22, CHETIFLOR
 	db 24, BOUSTIFLOR
@@ -1685,7 +1685,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons SILVER_CAVE_OUTSIDE
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 41, TANGELA
+	db 41, SAQUEDENEU
 	db 42, PONYTA
 	db 42, ARBOK
 	db 44, GALOPA
@@ -1693,7 +1693,7 @@ JohtoGrassWildMons:
 	db 43, DODRIO
 	db 43, DODRIO
 	; day
-	db 41, TANGELA
+	db 41, SAQUEDENEU
 	db 42, PONYTA
 	db 42, ARBOK
 	db 44, GALOPA
@@ -1701,7 +1701,7 @@ JohtoGrassWildMons:
 	db 43, DODRIO
 	db 43, DODRIO
 	; nite
-	db 41, TANGELA
+	db 41, SAQUEDENEU
 	db 42, POLIWHIRL
 	db 42, NOSFERALTO
 	db 44, POLIWHIRL

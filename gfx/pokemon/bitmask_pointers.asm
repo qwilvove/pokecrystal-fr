@@ -113,7 +113,7 @@ BitmasksPointers:
 	dw RhinocorneBitmasks
 	dw RhinoferosBitmasks
 	dw LeveinardBitmasks
-	dw TangelaBitmasks
+	dw SaquedeneuBitmasks
 	dw KangourexBitmasks
 	dw HypotrempeBitmasks
 	dw HypoceanBitmasks

@@ -180,7 +180,7 @@ NewPokedexOrder:
 	db OTARIA
 	db LAMANTINE
 	db EXCELANGUE
-	db TANGELA
+	db SAQUEDENEU
 	db EVOLI
 	db AQUALI
 	db JOLTEON

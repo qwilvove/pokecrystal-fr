@@ -113,7 +113,7 @@ AnimationIdlePointers:
 	dw RhinocorneAnimationIdle
 	dw RhinoferosAnimationIdle
 	dw LeveinardAnimationIdle
-	dw TangelaAnimationIdle
+	dw SaquedeneuAnimationIdle
 	dw KangourexAnimationIdle
 	dw HypotrempeAnimationIdle
 	dw HypoceanAnimationIdle

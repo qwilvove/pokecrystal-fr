@@ -114,7 +114,7 @@ PokedexDataPointerTable:
 	dw RhinocornePokedexEntry
 	dw RhinoferosPokedexEntry
 	dw LeveinardPokedexEntry
-	dw TangelaPokedexEntry
+	dw SaquedeneuPokedexEntry
 	dw KangourexPokedexEntry
 	dw HypotrempePokedexEntry
 	dw HypoceanPokedexEntry

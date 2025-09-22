@@ -82,7 +82,7 @@ EZChat_SortedPokemon:
 .mi:       db MINIDRACO, MEW, MEWTWO, ECREMEUH, -1
 .mu:       db FEUFOREVE, LIPPOUTI, -1
 .me:       db MEGANIUM, METAMORPH, TENTACOOL, MAREEP, -1
-.mo:       db LAINERGIE, AEROMITE, TANGELA, -1
+.mo:       db LAINERGIE, AEROMITE, SAQUEDENEU, -1
 .ya:       db ROIGADA, FLAGADOSS, RAMOLOSS, CORNEBRE, YANMA, -1
 .yu:       db KADABRA, -1
 .yo:       db EMBRYLEX, NOARFANG, -1

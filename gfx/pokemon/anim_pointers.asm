@@ -113,7 +113,7 @@ AnimationPointers:
 	dw RhinocorneAnimation
 	dw RhinoferosAnimation
 	dw LeveinardAnimation
-	dw TangelaAnimation
+	dw SaquedeneuAnimation
 	dw KangourexAnimation
 	dw HypotrempeAnimation
 	dw HypoceanAnimation

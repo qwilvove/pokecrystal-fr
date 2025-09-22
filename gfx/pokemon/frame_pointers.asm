@@ -113,7 +113,7 @@ FramesPointers:
 	dw RhinocorneFrames
 	dw RhinoferosFrames
 	dw LeveinardFrames
-	dw TangelaFrames
+	dw SaquedeneuFrames
 	dw KangourexFrames
 	dw HypotrempeFrames
 	dw HypoceanFrames
