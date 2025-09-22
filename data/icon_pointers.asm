@@ -38,6 +38,6 @@ IconPointers:
 	dw LugiaIcon
 	dw LeviatorIcon
 	dw RamolossIcon
-	dw SudowoodoIcon
+	dw SimularbreIcon
 	dw BigmonIcon
 	assert_table_length NUM_ICONS + 1

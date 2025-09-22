@@ -215,7 +215,7 @@ MaraisteFrontpic:    INCBIN "gfx/pokemon/maraiste/front.animated.2bpp.lz"
 SECTION "Pics 9", ROMX
 
 AboFrontpic:       INCBIN "gfx/pokemon/abo/front.animated.2bpp.lz"
-SudowoodoFrontpic:   INCBIN "gfx/pokemon/sudowoodo/front.animated.2bpp.lz"
+SimularbreFrontpic:   INCBIN "gfx/pokemon/simularbre/front.animated.2bpp.lz"
 PikachuFrontpic:     INCBIN "gfx/pokemon/pikachu/front.animated.2bpp.lz"
 HypoceanFrontpic:      INCBIN "gfx/pokemon/hypocean/front.animated.2bpp.lz"
 MagbyFrontpic:       INCBIN "gfx/pokemon/magby/front.animated.2bpp.lz"
@@ -422,7 +422,7 @@ ElectrodeFrontpic:   INCBIN "gfx/pokemon/electrode/front.animated.2bpp.lz"
 
 SECTION "Pics 14", ROMX
 
-SudowoodoBackpic:    INCBIN "gfx/pokemon/sudowoodo/back.2bpp.lz"
+SimularbreBackpic:    INCBIN "gfx/pokemon/simularbre/back.2bpp.lz"
 LainergieBackpic:      INCBIN "gfx/pokemon/lainergie/back.2bpp.lz"
 FouinetteFrontpic:     INCBIN "gfx/pokemon/fouinette/front.animated.2bpp.lz"
 TogeticBackpic:      INCBIN "gfx/pokemon/togetic/back.2bpp.lz"

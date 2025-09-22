@@ -83,15 +83,15 @@ UnusedEFText: ; unreferenced
 Route35GoldenrodGatePokefanFScript:
 	faceplayer
 	opentext
-	checkevent EVENT_FOUGHT_SUDOWOODO
-	iftrue .FoughtSudowoodo
+	checkevent EVENT_FOUGHT_SIMULARBRE
+	iftrue .FoughtSimularbre
 	writetext Route35GoldenrodGatePokefanFText
 	waitbutton
 	closetext
 	end
 
-.FoughtSudowoodo
-	writetext Route35GoldenrodGatePokefanFText_FoughtSudowoodo
+.FoughtSimularbre
+	writetext Route35GoldenrodGatePokefanFText_FoughtSimularbre
 	waitbutton
 	closetext
 	end
@@ -183,7 +183,7 @@ Route35GoldenrodGatePokefanFText:
 	line "une CARAPUCE A O."
 	done
 
-Route35GoldenrodGatePokefanFText_FoughtSudowoodo:
+Route35GoldenrodGatePokefanFText_FoughtSimularbre:
 	text "J'aime la berceuse"
 	line "#MON qui passe"
 	cont "à la radio."

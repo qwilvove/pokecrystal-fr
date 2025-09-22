@@ -185,7 +185,7 @@ PokedexDataPointerTable:
 	dw JoliflorPokedexEntry
 	dw MarillPokedexEntry
 	dw AzumarillPokedexEntry
-	dw SudowoodoPokedexEntry
+	dw SimularbrePokedexEntry
 	dw PolitoedPokedexEntry
 	dw GranivolPokedexEntry
 	dw FloravolPokedexEntry

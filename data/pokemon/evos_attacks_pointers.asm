@@ -186,7 +186,7 @@ EvosAttacksPointers::
 	dw JoliflorEvosAttacks
 	dw MarillEvosAttacks
 	dw AzumarillEvosAttacks
-	dw SudowoodoEvosAttacks
+	dw SimularbreEvosAttacks
 	dw PolitoedEvosAttacks
 	dw GranivolEvosAttacks
 	dw FloravolEvosAttacks

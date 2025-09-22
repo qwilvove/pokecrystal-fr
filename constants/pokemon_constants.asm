@@ -204,7 +204,7 @@ DEF JOHTO_POKEMON EQU const_value
 	const JOLIFLOR  ; b6
 	const MARILL     ; b7
 	const AZUMARILL  ; b8
-	const SUDOWOODO  ; b9
+	const SIMULARBRE  ; b9
 	const POLITOED   ; ba
 	const GRANIVOL     ; bb
 	const FLORAVOL   ; bc

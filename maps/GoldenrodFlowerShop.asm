@@ -8,7 +8,7 @@ GoldenrodFlowerShop_MapScripts:
 	def_callbacks
 
 FlowerShopTeacherScript:
-	checkevent EVENT_FOUGHT_SUDOWOODO
+	checkevent EVENT_FOUGHT_SIMULARBRE
 	iftrue .Lalala
 	checkevent EVENT_GOT_SQUIRTBOTTLE
 	iftrue .GotSquirtbottle
@@ -25,7 +25,7 @@ FlowerShopTeacherScript:
 	verbosegiveitem SQUIRTBOTTLE
 	setevent EVENT_GOT_SQUIRTBOTTLE
 	closetext
-	setevent EVENT_FLORIA_AT_SUDOWOODO
+	setevent EVENT_FLORIA_AT_SIMULARBRE
 	clearevent EVENT_FLORIA_AT_FLOWER_SHOP
 	end
 
@@ -49,8 +49,8 @@ FlowerShopTeacherScript:
 FlowerShopFloriaScript:
 	faceplayer
 	opentext
-	checkevent EVENT_FOUGHT_SUDOWOODO
-	iftrue .FoughtSudowoodo
+	checkevent EVENT_FOUGHT_SIMULARBRE
+	iftrue .FoughtSimularbre
 	checkevent EVENT_GOT_SQUIRTBOTTLE
 	iftrue .GotSquirtbottle
 	writetext GoldenrodFlowerShopFloriaWonderIfSisWillLendWaterBottleText
@@ -58,7 +58,7 @@ FlowerShopFloriaScript:
 	closetext
 	setevent EVENT_TALKED_TO_FLORIA_AT_FLOWER_SHOP
 	setevent EVENT_FLORIA_AT_FLOWER_SHOP
-	clearevent EVENT_FLORIA_AT_SUDOWOODO
+	clearevent EVENT_FLORIA_AT_SIMULARBRE
 	end
 
 .GotSquirtbottle:
@@ -67,7 +67,7 @@ FlowerShopFloriaScript:
 	closetext
 	end
 
-.FoughtSudowoodo:
+.FoughtSimularbre:
 	writetext GoldenrodFlowerShopFloriaItReallyWasAMonText
 	waitbutton
 	closetext

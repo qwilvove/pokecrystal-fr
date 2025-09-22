@@ -184,7 +184,7 @@ BitmasksPointers:
 	dw JoliflorBitmasks
 	dw MarillBitmasks
 	dw AzumarillBitmasks
-	dw SudowoodoBitmasks
+	dw SimularbreBitmasks
 	dw PolitoedBitmasks
 	dw GranivolBitmasks
 	dw FloravolBitmasks

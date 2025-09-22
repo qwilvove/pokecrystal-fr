@@ -47,13 +47,13 @@ Route36SuicuneScript:
 	setmapscene CIANWOOD_CITY, SCENE_CIANWOODCITY_SUICUNE_AND_EUSINE
 	end
 
-SudowoodoScript:
+SimularbreScript:
 	checkitem SQUIRTBOTTLE
 	iftrue .Fight
 
 	waitsfx
 	playsound SFX_SANDSTORM
-	applymovement ROUTE36_WEIRD_TREE, SudowoodoShakeMovement
+	applymovement ROUTE36_WEIRD_TREE, SimularbreShakeMovement
 	end
 
 .Fight:
@@ -69,15 +69,15 @@ WateredWeirdTreeScript:: ; export (for when you use Squirtbottle from pack)
 	closetext
 	waitsfx
 	playsound SFX_SANDSTORM
-	applymovement ROUTE36_WEIRD_TREE, SudowoodoShakeMovement
+	applymovement ROUTE36_WEIRD_TREE, SimularbreShakeMovement
 	opentext
-	writetext SudowoodoAttackedText
+	writetext SimularbreAttackedText
 	waitbutton
 	closetext
-	loadwildmon SUDOWOODO, 20
+	loadwildmon SIMULARBRE, 20
 	startbattle
-	setevent EVENT_FOUGHT_SUDOWOODO
-	ifequal DRAW, DidntCatchSudowoodo
+	setevent EVENT_FOUGHT_SIMULARBRE
+	ifequal DRAW, DidntCatchSimularbre
 	disappear ROUTE36_WEIRD_TREE
 	variablesprite SPRITE_WEIRD_TREE, SPRITE_TWIN
 	reloadmapafterbattle
@@ -87,7 +87,7 @@ DidntUseSquirtbottleScript:
 	closetext
 	end
 
-DidntCatchSudowoodo:
+DidntCatchSimularbre:
 	reloadmapafterbattle
 	applymovement ROUTE36_WEIRD_TREE, WeirdTreeMovement_Flee
 	disappear ROUTE36_WEIRD_TREE
@@ -128,14 +128,14 @@ Route36RockSmashGuyScript:
 	opentext
 	checkevent EVENT_GOT_TM08_ROCK_SMASH
 	iftrue .AlreadyGotRockSmash
-	checkevent EVENT_FOUGHT_SUDOWOODO
-	iftrue .ClearedSudowoodo
+	checkevent EVENT_FOUGHT_SIMULARBRE
+	iftrue .ClearedSimularbre
 	writetext RockSmashGuyText1
 	waitbutton
 	closetext
 	end
 
-.ClearedSudowoodo:
+.ClearedSimularbre:
 	writetext RockSmashGuyText2
 	promptbutton
 	verbosegiveitem TM_ROCK_SMASH
@@ -151,15 +151,15 @@ Route36RockSmashGuyScript:
 Route36LassScript:
 	faceplayer
 	opentext
-	checkevent EVENT_FOUGHT_SUDOWOODO
-	iftrue .ClearedSudowoodo
+	checkevent EVENT_FOUGHT_SIMULARBRE
+	iftrue .ClearedSimularbre
 	writetext Route36LassText
 	waitbutton
 	closetext
 	end
 
-.ClearedSudowoodo:
-	writetext Route36LassText_ClearedSudowoodo
+.ClearedSimularbre:
+	writetext Route36LassText_ClearedSimularbre
 	waitbutton
 	closetext
 	end
@@ -364,7 +364,7 @@ Route36TrainerTips2:
 Route36FruitTree:
 	fruittree FRUITTREE_ROUTE_36
 
-SudowoodoShakeMovement:
+SimularbreShakeMovement:
 	tree_shake
 	step_end
 
@@ -419,7 +419,7 @@ UsedSquirtbottleText:
 	line "CARAPUCE A O."
 	done
 
-SudowoodoAttackedText:
+SimularbreAttackedText:
 	text "L'arbre bizarre"
 	line "n'aime pas la"
 	cont "CARAPUCE A O!"
@@ -530,7 +530,7 @@ Route36LassText:
 	line "quelque chose."
 	done
 
-Route36LassText_ClearedSudowoodo:
+Route36LassText_ClearedSimularbre:
 	text "L'arbre bizarre a"
 	line "disparu..."
 
@@ -677,10 +677,10 @@ Route36_MapEvents:
 	def_object_events
 	object_event 20, 13, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 3, TrainerPsychicMark, -1
 	object_event 31, 14, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 5, TrainerSchoolboyAlan1, -1
-	object_event 35,  9, SPRITE_WEIRD_TREE, SPRITEMOVEDATA_SUDOWOODO, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, SudowoodoScript, EVENT_ROUTE_36_SUDOWOODO
+	object_event 35,  9, SPRITE_WEIRD_TREE, SPRITEMOVEDATA_SIMULARBRE, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, SimularbreScript, EVENT_ROUTE_36_SIMULARBRE
 	object_event 51,  8, SPRITE_LASS, SPRITEMOVEDATA_WALK_LEFT_RIGHT, 2, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route36LassScript, -1
 	object_event 44,  9, SPRITE_FISHER, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route36RockSmashGuyScript, -1
 	object_event 21,  4, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route36FruitTree, -1
 	object_event 46,  6, SPRITE_YOUNGSTER, SPRITEMOVEDATA_WANDER, 1, 1, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, ArthurScript, EVENT_ROUTE_36_ARTHUR_OF_THURSDAY
-	object_event 33, 12, SPRITE_LASS, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, Route36FloriaScript, EVENT_FLORIA_AT_SUDOWOODO
+	object_event 33, 12, SPRITE_LASS, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, Route36FloriaScript, EVENT_FLORIA_AT_SIMULARBRE
 	object_event 21,  6, SPRITE_SUICUNE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_SCRIPT, 0, ObjectEvent, EVENT_SAW_SUICUNE_ON_ROUTE_36

@@ -224,7 +224,7 @@ Pokered_MonIndices:
 	db JOLIFLOR
 	db MARILL
 	db AZUMARILL
-	db SUDOWOODO
+	db SIMULARBRE
 	db POLITOED
 	db GRANIVOL
 	db FLORAVOL

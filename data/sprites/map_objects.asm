@@ -186,7 +186,7 @@ SpriteMovementData::
 	db 0 ; flags2
 	db 0 ; palette flags
 
-; SPRITEMOVEDATA_SUDOWOODO
+; SPRITEMOVEDATA_SIMULARBRE
 	db SPRITEMOVEFN_STANDING ; movement function
 	db DOWN ; facing
 	db OBJECT_ACTION_STAND ; action

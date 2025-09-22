@@ -801,7 +801,7 @@ BugCatchingContestant10BStillCompetingText:
 	done
 
 UnusedSilphScope2Text: ; unreferenced
-; This text is referring to Sudowoodo.
+; This text is referring to Simularbre.
 ; The SILPHSCOPE2 was later reworked into the SQUIRTBOTTLE.
 	text "On dit qu'il y a"
 	line "un #MON qui"

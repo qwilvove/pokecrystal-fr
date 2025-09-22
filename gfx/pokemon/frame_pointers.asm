@@ -184,7 +184,7 @@ FramesPointers:
 	dw JoliflorFrames
 	dw MarillFrames
 	dw AzumarillFrames
-	dw SudowoodoFrames
+	dw SimularbreFrames
 	dw PolitoedFrames
 	dw GranivolFrames
 	dw FloravolFrames

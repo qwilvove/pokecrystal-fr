@@ -184,7 +184,7 @@ AnimationPointers:
 	dw JoliflorAnimation
 	dw MarillAnimation
 	dw AzumarillAnimation
-	dw SudowoodoAnimation
+	dw SimularbreAnimation
 	dw PolitoedAnimation
 	dw GranivolAnimation
 	dw FloravolAnimation

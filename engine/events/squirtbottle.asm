@@ -32,7 +32,7 @@ _Squirtbottle:
 	jr c, .nope
 
 	ld a, d
-	cp SPRITEMOVEDATA_SUDOWOODO
+	cp SPRITEMOVEDATA_SIMULARBRE
 	jr nz, .nope
 
 	ld a, 1

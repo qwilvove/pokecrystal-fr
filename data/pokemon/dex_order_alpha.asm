@@ -215,7 +215,7 @@ AlphabeticalPokedexOrder:
 	db SCARABRUTE
 	db SCARHINO
 	db SCORPLANE
-	db SUDOWOODO
+	db SIMULARBRE
 	db KOFFING
 	db WEEZING
 	db SNUBBULL
