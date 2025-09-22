@@ -111,7 +111,7 @@ PokemonPicPointers::
 	dba_pics KickleeFrontpic, KickleeBackpic
 	dba_pics HitmonchanFrontpic, HitmonchanBackpic
 	dba_pics ExcelangueFrontpic, ExcelangueBackpic
-	dba_pics KoffingFrontpic, KoffingBackpic
+	dba_pics SmogoFrontpic, SmogoBackpic
 	dba_pics WeezingFrontpic, WeezingBackpic
 	dba_pics RhinocorneFrontpic, RhinocorneBackpic
 	dba_pics RhinoferosFrontpic, RhinoferosBackpic

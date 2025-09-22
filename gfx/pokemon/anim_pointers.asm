@@ -108,7 +108,7 @@ AnimationPointers:
 	dw KickleeAnimation
 	dw HitmonchanAnimation
 	dw ExcelangueAnimation
-	dw KoffingAnimation
+	dw SmogoAnimation
 	dw WeezingAnimation
 	dw RhinocorneAnimation
 	dw RhinoferosAnimation

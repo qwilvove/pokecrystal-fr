@@ -108,7 +108,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw ExcelangueEggMoves
-	dw KoffingEggMoves
+	dw SmogoEggMoves
 	dw NoEggMoves
 	dw RhinocorneEggMoves
 	dw NoEggMoves

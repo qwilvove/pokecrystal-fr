@@ -322,7 +322,7 @@ ExcelangueEggMoves:
 	db BODY_SLAM
 	db -1 ; end
 
-KoffingEggMoves:
+SmogoEggMoves:
 	db SCREECH
 	db PSYWAVE
 	db PSYBEAM

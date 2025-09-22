@@ -108,7 +108,7 @@ AnimationIdlePointers:
 	dw KickleeAnimationIdle
 	dw HitmonchanAnimationIdle
 	dw ExcelangueAnimationIdle
-	dw KoffingAnimationIdle
+	dw SmogoAnimationIdle
 	dw WeezingAnimationIdle
 	dw RhinocorneAnimationIdle
 	dw RhinoferosAnimationIdle

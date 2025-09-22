@@ -108,7 +108,7 @@ BitmasksPointers:
 	dw KickleeBitmasks
 	dw HitmonchanBitmasks
 	dw ExcelangueBitmasks
-	dw KoffingBitmasks
+	dw SmogoBitmasks
 	dw WeezingBitmasks
 	dw RhinocorneBitmasks
 	dw RhinoferosBitmasks

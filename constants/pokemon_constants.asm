@@ -127,7 +127,7 @@
 	const KICKLEE  ; 6a
 	const HITMONCHAN ; 6b
 	const EXCELANGUE  ; 6c
-	const KOFFING    ; 6d
+	const SMOGO    ; 6d
 	const WEEZING    ; 6e
 	const RHINOCORNE    ; 6f
 	const RHINOFEROS     ; 70

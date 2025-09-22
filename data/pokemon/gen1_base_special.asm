@@ -110,7 +110,7 @@ KantoMonSpecials:
 	db  35 ; KICKLEE
 	db  35 ; HITMONCHAN
 	db  60 ; EXCELANGUE
-	db  60 ; KOFFING
+	db  60 ; SMOGO
 	db  85 ; WEEZING
 	db  30 ; RHINOCORNE
 	db  45 ; RHINOFEROS

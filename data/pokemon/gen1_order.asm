@@ -54,7 +54,7 @@ Pokered_MonIndices:
 	db HO_OH ; MISSINGNO.
 	db ELEKTEK
 	db MAGNETON
-	db KOFFING
+	db SMOGO
 	db FARFURET ; MISSINGNO.
 	db FEROSINGE
 	db OTARIA

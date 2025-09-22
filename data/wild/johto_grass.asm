@@ -286,7 +286,7 @@ JohtoGrassWildMons:
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
 	db 13, RATTATA
-	db 14, KOFFING
+	db 14, SMOGO
 	db 15, RATTATA
 	db 14, NOSFERAPTI
 	db 15, RATTATA
@@ -294,7 +294,7 @@ JohtoGrassWildMons:
 	db 15, RATTATAC
 	; day
 	db 13, RATTATA
-	db 14, KOFFING
+	db 14, SMOGO
 	db 15, RATTATA
 	db 14, NOSFERAPTI
 	db 15, RATTATA
@@ -302,7 +302,7 @@ JohtoGrassWildMons:
 	db 15, RATTATAC
 	; nite
 	db 13, RATTATA
-	db 14, KOFFING
+	db 14, SMOGO
 	db 15, RATTATA
 	db 14, NOSFERAPTI
 	db 15, RATTATA
@@ -314,27 +314,27 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 14, RATTATA
-	db 14, KOFFING
-	db 16, KOFFING
+	db 14, SMOGO
+	db 16, SMOGO
 	db 15, NOSFERAPTI
-	db 12, KOFFING
-	db 16, KOFFING
+	db 12, SMOGO
+	db 16, SMOGO
 	db 16, WEEZING
 	; day
 	db 14, RATTATA
-	db 14, KOFFING
-	db 16, KOFFING
+	db 14, SMOGO
+	db 16, SMOGO
 	db 15, NOSFERAPTI
-	db 12, KOFFING
-	db 16, KOFFING
+	db 12, SMOGO
+	db 16, SMOGO
 	db 16, WEEZING
 	; nite
 	db 14, RATTATA
-	db 14, KOFFING
-	db 16, KOFFING
+	db 14, SMOGO
+	db 16, SMOGO
 	db 15, NOSFERAPTI
-	db 12, KOFFING
-	db 16, KOFFING
+	db 12, SMOGO
+	db 16, SMOGO
 	db 16, WEEZING
 	end_grass_wildmons
 

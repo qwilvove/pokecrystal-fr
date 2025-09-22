@@ -216,7 +216,7 @@ AlphabeticalPokedexOrder:
 	db SCARHINO
 	db SCORPLANE
 	db SIMULARBRE
-	db KOFFING
+	db SMOGO
 	db WEEZING
 	db SNUBBULL
 	db DROWZEE

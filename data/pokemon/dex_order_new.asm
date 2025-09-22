@@ -115,7 +115,7 @@ NewPokedexOrder:
 	db CIZAYOX
 	db SCARABRUTE
 	db SCARHINO
-	db KOFFING
+	db SMOGO
 	db WEEZING
 	db GRIMER
 	db GROTADMORV

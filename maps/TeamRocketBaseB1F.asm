@@ -272,7 +272,7 @@ PlaySecurityCameraSounds:
 ExplodingTrap1:
 	checkevent EVENT_EXPLODING_TRAP_1
 	iftrue NoExplodingTrap
-	scall KoffingExplodingTrap
+	scall SmogoExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_1
 	end
@@ -312,7 +312,7 @@ ExplodingTrap5:
 ExplodingTrap6:
 	checkevent EVENT_EXPLODING_TRAP_6
 	iftrue NoExplodingTrap
-	scall KoffingExplodingTrap
+	scall SmogoExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_6
 	end
@@ -328,7 +328,7 @@ ExplodingTrap7:
 ExplodingTrap8:
 	checkevent EVENT_EXPLODING_TRAP_8
 	iftrue NoExplodingTrap
-	scall KoffingExplodingTrap
+	scall SmogoExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_8
 	end
@@ -336,7 +336,7 @@ ExplodingTrap8:
 ExplodingTrap9:
 	checkevent EVENT_EXPLODING_TRAP_9
 	iftrue NoExplodingTrap
-	scall KoffingExplodingTrap
+	scall SmogoExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_9
 	end
@@ -376,7 +376,7 @@ ExplodingTrap13:
 ExplodingTrap14:
 	checkevent EVENT_EXPLODING_TRAP_14
 	iftrue NoExplodingTrap
-	scall KoffingExplodingTrap
+	scall SmogoExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_14
 	end
@@ -392,7 +392,7 @@ ExplodingTrap15:
 ExplodingTrap16:
 	checkevent EVENT_EXPLODING_TRAP_16
 	iftrue NoExplodingTrap
-	scall KoffingExplodingTrap
+	scall SmogoExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_16
 	end
@@ -432,7 +432,7 @@ ExplodingTrap20:
 ExplodingTrap21:
 	checkevent EVENT_EXPLODING_TRAP_21
 	iftrue NoExplodingTrap
-	scall KoffingExplodingTrap
+	scall SmogoExplodingTrap
 	reloadmapafterbattle
 	setevent EVENT_EXPLODING_TRAP_21
 	end
@@ -465,13 +465,13 @@ RacaillouExplodingTrap:
 	startbattle
 	end
 
-KoffingExplodingTrap:
+SmogoExplodingTrap:
 	special FadeOutToWhite
-	cry KOFFING
+	cry SMOGO
 	special FadeInFromWhite
 	setlasttalked -1
 	loadvar VAR_BATTLETYPE, BATTLETYPE_TRAP
-	loadwildmon KOFFING, 21
+	loadwildmon SMOGO, 21
 	startbattle
 	end
 
@@ -745,7 +745,7 @@ TeamRocketBaseB1F_MapEvents:
 	coord_event 22, 16, SCENE_TEAMROCKETBASEB1F_TRAPS, SecurityCamera4
 	coord_event  8, 16, SCENE_TEAMROCKETBASEB1F_TRAPS, SecurityCamera5
 	; There are spots on the floor that trigger a Pokémon battle.
-	; Each Pokémon (Voltorb, Koffing, Racaillou) knows Selfdestruct.
+	; Each Pokémon (Voltorb, Smogo, Racaillou) knows Selfdestruct.
 	coord_event  2,  7, SCENE_TEAMROCKETBASEB1F_TRAPS, ExplodingTrap1
 	coord_event  3,  7, SCENE_TEAMROCKETBASEB1F_TRAPS, ExplodingTrap2
 	coord_event  4,  7, SCENE_TEAMROCKETBASEB1F_TRAPS, ExplodingTrap3

@@ -108,7 +108,7 @@ FramesPointers:
 	dw KickleeFrames
 	dw HitmonchanFrames
 	dw ExcelangueFrames
-	dw KoffingFrames
+	dw SmogoFrames
 	dw WeezingFrames
 	dw RhinocorneFrames
 	dw RhinoferosFrames
