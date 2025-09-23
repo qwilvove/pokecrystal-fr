@@ -4,7 +4,7 @@ PokedexTypeSearchConversionTable:
 	db NORMAL
 	db FEU
 	db EAU
-	db GRASS
+	db PLANTE
 	db ELECTRIC
 	db ICE
 	db COMBAT

@@ -22,7 +22,7 @@ endr
 
 	dw Feu
 	dw Eau
-	dw Grass
+	dw Plante
 	dw Electric
 	dw Psychic
 	dw Ice
@@ -37,7 +37,7 @@ Poison:    db "POISON@"
 CurseType: db "???@"
 Feu:      db "FEU@"
 Eau:     db "EAU@"
-Grass:     db "PLANTE@"
+Plante:     db "PLANTE@"
 Electric:  db "ELECTRIK@"
 Psychic:   db "PSY@"
 Ice:       db "GLACE@"

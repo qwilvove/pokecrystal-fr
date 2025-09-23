@@ -4,7 +4,7 @@ TypeMatchups:
 	db NORMAL,       ACIER,        NOT_VERY_EFFECTIVE
 	db FEU,         FEU,         NOT_VERY_EFFECTIVE
 	db FEU,         EAU,        NOT_VERY_EFFECTIVE
-	db FEU,         GRASS,        SUPER_EFFECTIVE
+	db FEU,         PLANTE,        SUPER_EFFECTIVE
 	db FEU,         ICE,          SUPER_EFFECTIVE
 	db FEU,         INSECTE,          SUPER_EFFECTIVE
 	db FEU,         ROCHE,         NOT_VERY_EFFECTIVE
@@ -12,28 +12,28 @@ TypeMatchups:
 	db FEU,         ACIER,        SUPER_EFFECTIVE
 	db EAU,        FEU,         SUPER_EFFECTIVE
 	db EAU,        EAU,        NOT_VERY_EFFECTIVE
-	db EAU,        GRASS,        NOT_VERY_EFFECTIVE
+	db EAU,        PLANTE,        NOT_VERY_EFFECTIVE
 	db EAU,        SOL,       SUPER_EFFECTIVE
 	db EAU,        ROCHE,         SUPER_EFFECTIVE
 	db EAU,        DRAGON,       NOT_VERY_EFFECTIVE
 	db ELECTRIC,     EAU,        SUPER_EFFECTIVE
 	db ELECTRIC,     ELECTRIC,     NOT_VERY_EFFECTIVE
-	db ELECTRIC,     GRASS,        NOT_VERY_EFFECTIVE
+	db ELECTRIC,     PLANTE,        NOT_VERY_EFFECTIVE
 	db ELECTRIC,     SOL,       NO_EFFECT
 	db ELECTRIC,     VOL,       SUPER_EFFECTIVE
 	db ELECTRIC,     DRAGON,       NOT_VERY_EFFECTIVE
-	db GRASS,        FEU,         NOT_VERY_EFFECTIVE
-	db GRASS,        EAU,        SUPER_EFFECTIVE
-	db GRASS,        GRASS,        NOT_VERY_EFFECTIVE
-	db GRASS,        POISON,       NOT_VERY_EFFECTIVE
-	db GRASS,        SOL,       SUPER_EFFECTIVE
-	db GRASS,        VOL,       NOT_VERY_EFFECTIVE
-	db GRASS,        INSECTE,          NOT_VERY_EFFECTIVE
-	db GRASS,        ROCHE,         SUPER_EFFECTIVE
-	db GRASS,        DRAGON,       NOT_VERY_EFFECTIVE
-	db GRASS,        ACIER,        NOT_VERY_EFFECTIVE
+	db PLANTE,        FEU,         NOT_VERY_EFFECTIVE
+	db PLANTE,        EAU,        SUPER_EFFECTIVE
+	db PLANTE,        PLANTE,        NOT_VERY_EFFECTIVE
+	db PLANTE,        POISON,       NOT_VERY_EFFECTIVE
+	db PLANTE,        SOL,       SUPER_EFFECTIVE
+	db PLANTE,        VOL,       NOT_VERY_EFFECTIVE
+	db PLANTE,        INSECTE,          NOT_VERY_EFFECTIVE
+	db PLANTE,        ROCHE,         SUPER_EFFECTIVE
+	db PLANTE,        DRAGON,       NOT_VERY_EFFECTIVE
+	db PLANTE,        ACIER,        NOT_VERY_EFFECTIVE
 	db ICE,          EAU,        NOT_VERY_EFFECTIVE
-	db ICE,          GRASS,        SUPER_EFFECTIVE
+	db ICE,          PLANTE,        SUPER_EFFECTIVE
 	db ICE,          ICE,          NOT_VERY_EFFECTIVE
 	db ICE,          SOL,       SUPER_EFFECTIVE
 	db ICE,          VOL,       SUPER_EFFECTIVE
@@ -49,7 +49,7 @@ TypeMatchups:
 	db COMBAT,     ROCHE,         SUPER_EFFECTIVE
 	db COMBAT,     DARK,         SUPER_EFFECTIVE
 	db COMBAT,     ACIER,        SUPER_EFFECTIVE
-	db POISON,       GRASS,        SUPER_EFFECTIVE
+	db POISON,       PLANTE,        SUPER_EFFECTIVE
 	db POISON,       POISON,       NOT_VERY_EFFECTIVE
 	db POISON,       SOL,       NOT_VERY_EFFECTIVE
 	db POISON,       ROCHE,         NOT_VERY_EFFECTIVE
@@ -57,14 +57,14 @@ TypeMatchups:
 	db POISON,       ACIER,        NO_EFFECT
 	db SOL,       FEU,         SUPER_EFFECTIVE
 	db SOL,       ELECTRIC,     SUPER_EFFECTIVE
-	db SOL,       GRASS,        NOT_VERY_EFFECTIVE
+	db SOL,       PLANTE,        NOT_VERY_EFFECTIVE
 	db SOL,       POISON,       SUPER_EFFECTIVE
 	db SOL,       VOL,       NO_EFFECT
 	db SOL,       INSECTE,          NOT_VERY_EFFECTIVE
 	db SOL,       ROCHE,         SUPER_EFFECTIVE
 	db SOL,       ACIER,        SUPER_EFFECTIVE
 	db VOL,       ELECTRIC,     NOT_VERY_EFFECTIVE
-	db VOL,       GRASS,        SUPER_EFFECTIVE
+	db VOL,       PLANTE,        SUPER_EFFECTIVE
 	db VOL,       COMBAT,     SUPER_EFFECTIVE
 	db VOL,       INSECTE,          SUPER_EFFECTIVE
 	db VOL,       ROCHE,         NOT_VERY_EFFECTIVE
@@ -75,7 +75,7 @@ TypeMatchups:
 	db PSYCHIC_TYPE, DARK,         NO_EFFECT
 	db PSYCHIC_TYPE, ACIER,        NOT_VERY_EFFECTIVE
 	db INSECTE,          FEU,         NOT_VERY_EFFECTIVE
-	db INSECTE,          GRASS,        SUPER_EFFECTIVE
+	db INSECTE,          PLANTE,        SUPER_EFFECTIVE
 	db INSECTE,          COMBAT,     NOT_VERY_EFFECTIVE
 	db INSECTE,          POISON,       NOT_VERY_EFFECTIVE
 	db INSECTE,          VOL,       NOT_VERY_EFFECTIVE

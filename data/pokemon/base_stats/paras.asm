@@ -3,7 +3,7 @@
 	db  35,  70,  55,  25,  45,  55
 	;   hp  atk  def  spd  sat  sdf
 
-	db INSECTE, GRASS ; type
+	db INSECTE, PLANTE ; type
 	db 190 ; catch rate
 	db 70 ; base exp
 	db TINYMUSHROOM, BIG_MUSHROOM ; items
