@@ -2076,7 +2076,7 @@ AI_Smart_Sandstorm:
 .SandstormImmuneTypes:
 	db ROCHE
 	db SOL
-	db STEEL
+	db ACIER
 	db -1 ; end
 
 AI_Smart_Endure:

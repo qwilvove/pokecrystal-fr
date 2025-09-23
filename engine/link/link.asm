@@ -787,19 +787,19 @@ Link_PrepPartyData_Gen1:
 	inc de
 	ld a, [bc]
 	cp MAGNETI
-	jr z, .steel_type
+	jr z, .acier_type
 	cp MAGNETON
-	jr nz, .skip_steel
+	jr nz, .skip_acier
 
-.steel_type
+.acier_type
 	ld a, ELECTRIC
 	ld [de], a
 	inc de
 	ld [de], a
 	inc de
-	jr .done_steel
+	jr .done_acier
 
-.skip_steel
+.skip_acier
 	push bc
 	dec a
 	ld hl, BaseData + BASE_TYPES
@@ -810,7 +810,7 @@ Link_PrepPartyData_Gen1:
 	call FarCopyBytes
 	pop bc
 
-.done_steel
+.done_acier
 	push bc
 	ld hl, MON_ITEM
 	add hl, bc

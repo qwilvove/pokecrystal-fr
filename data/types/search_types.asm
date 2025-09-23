@@ -17,5 +17,5 @@ PokedexTypeSearchConversionTable:
 	db SPECTRE
 	db DRAGON
 	db DARK
-	db STEEL
+	db ACIER
 	assert_table_length NUM_TYPES

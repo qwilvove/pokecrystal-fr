@@ -4,7 +4,7 @@ BadgeTypeBoosts:
 	db INSECTE          ; HIVEBADGE
 	db NORMAL       ; PLAINBADGE
 	db SPECTRE        ; FOGBADGE
-	db STEEL        ; MINERALBADGE
+	db ACIER        ; MINERALBADGE
 	db COMBAT     ; STORMBADGE
 	db ICE          ; GLACIERBADGE
 	db DRAGON       ; RISINGBADGE

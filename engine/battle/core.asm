@@ -1730,7 +1730,7 @@ HandleWeather:
 	ret z
 	cp SOL
 	ret z
-	cp STEEL
+	cp ACIER
 	ret z
 
 	ld a, [hl]
@@ -1738,7 +1738,7 @@ HandleWeather:
 	ret z
 	cp SOL
 	ret z
-	cp STEEL
+	cp ACIER
 	ret z
 
 	call SwitchTurnCore

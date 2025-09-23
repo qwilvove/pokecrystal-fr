@@ -37,7 +37,7 @@ ValidateOTTrademon:
 	ld a, [hl]
 
 	; Magneti and Magneton's types changed
-	; from Electric to Electric/Steel.
+	; from Electric to Electric/Acier.
 	cp MAGNETI
 	jr z, .normal
 	cp MAGNETON

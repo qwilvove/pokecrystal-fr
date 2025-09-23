@@ -11,7 +11,7 @@ TypeNames:
 	dw Bird
 	dw Insecte
 	dw Spectre
-	dw Steel
+	dw Acier
 	assert_table_length UNUSED_TYPES
 
 rept UNUSED_TYPES_END - UNUSED_TYPES - 1 ; discount CURSE_TYPE
@@ -46,6 +46,6 @@ Roche:      db "ROCHE@"
 Bird:      db "@"
 Insecte:       db "INSECTE@"
 Spectre:     db "SPECTRE@"
-Steel:     db "ACIER@"
+Acier:     db "ACIER@"
 Dragon:    db "DRAGON@"
 Dark:      db "TENEBRES@"

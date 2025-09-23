@@ -16,7 +16,7 @@ DEF PHYSICAL EQU const_value
 	const BIRD
 	const INSECTE
 	const SPECTRE
-	const STEEL
+	const ACIER
 
 DEF UNUSED_TYPES EQU const_value
 	const_next 19

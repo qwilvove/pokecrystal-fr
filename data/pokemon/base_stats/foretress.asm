@@ -3,7 +3,7 @@
 	db  75,  90, 140,  40,  60,  60
 	;   hp  atk  def  spd  sat  sdf
 
-	db INSECTE, STEEL ; type
+	db INSECTE, ACIER ; type
 	db 75 ; catch rate
 	db 118 ; base exp
 	db NO_ITEM, NO_ITEM ; items
