@@ -11,7 +11,7 @@ DEF PHYSICAL EQU const_value
 	const COMBAT
 	const VOL
 	const POISON
-	const GROUND
+	const SOL
 	const ROCK
 	const BIRD
 	const BUG

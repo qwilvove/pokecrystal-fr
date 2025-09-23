@@ -6,7 +6,7 @@ TypeNames:
 	dw Combat
 	dw Vol
 	dw Poison
-	dw Ground
+	dw Sol
 	dw Rock
 	dw Bird
 	dw Bug
@@ -41,7 +41,7 @@ Grass:     db "PLANTE@"
 Electric:  db "ELECTRIK@"
 Psychic:   db "PSY@"
 Ice:       db "GLACE@"
-Ground:    db "SOL@"
+Sol:    db "SOL@"
 Rock:      db "ROCHE@"
 Bird:      db "@"
 Bug:       db "INSECTE@"

@@ -1728,7 +1728,7 @@ HandleWeather:
 	ld a, [hli]
 	cp ROCK
 	ret z
-	cp GROUND
+	cp SOL
 	ret z
 	cp STEEL
 	ret z
@@ -1736,7 +1736,7 @@ HandleWeather:
 	ld a, [hl]
 	cp ROCK
 	ret z
-	cp GROUND
+	cp SOL
 	ret z
 	cp STEEL
 	ret z

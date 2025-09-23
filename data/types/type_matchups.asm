@@ -13,20 +13,20 @@ TypeMatchups:
 	db WATER,        FIRE,         SUPER_EFFECTIVE
 	db WATER,        WATER,        NOT_VERY_EFFECTIVE
 	db WATER,        GRASS,        NOT_VERY_EFFECTIVE
-	db WATER,        GROUND,       SUPER_EFFECTIVE
+	db WATER,        SOL,       SUPER_EFFECTIVE
 	db WATER,        ROCK,         SUPER_EFFECTIVE
 	db WATER,        DRAGON,       NOT_VERY_EFFECTIVE
 	db ELECTRIC,     WATER,        SUPER_EFFECTIVE
 	db ELECTRIC,     ELECTRIC,     NOT_VERY_EFFECTIVE
 	db ELECTRIC,     GRASS,        NOT_VERY_EFFECTIVE
-	db ELECTRIC,     GROUND,       NO_EFFECT
+	db ELECTRIC,     SOL,       NO_EFFECT
 	db ELECTRIC,     VOL,       SUPER_EFFECTIVE
 	db ELECTRIC,     DRAGON,       NOT_VERY_EFFECTIVE
 	db GRASS,        FIRE,         NOT_VERY_EFFECTIVE
 	db GRASS,        WATER,        SUPER_EFFECTIVE
 	db GRASS,        GRASS,        NOT_VERY_EFFECTIVE
 	db GRASS,        POISON,       NOT_VERY_EFFECTIVE
-	db GRASS,        GROUND,       SUPER_EFFECTIVE
+	db GRASS,        SOL,       SUPER_EFFECTIVE
 	db GRASS,        VOL,       NOT_VERY_EFFECTIVE
 	db GRASS,        BUG,          NOT_VERY_EFFECTIVE
 	db GRASS,        ROCK,         SUPER_EFFECTIVE
@@ -35,7 +35,7 @@ TypeMatchups:
 	db ICE,          WATER,        NOT_VERY_EFFECTIVE
 	db ICE,          GRASS,        SUPER_EFFECTIVE
 	db ICE,          ICE,          NOT_VERY_EFFECTIVE
-	db ICE,          GROUND,       SUPER_EFFECTIVE
+	db ICE,          SOL,       SUPER_EFFECTIVE
 	db ICE,          VOL,       SUPER_EFFECTIVE
 	db ICE,          DRAGON,       SUPER_EFFECTIVE
 	db ICE,          STEEL,        NOT_VERY_EFFECTIVE
@@ -51,18 +51,18 @@ TypeMatchups:
 	db COMBAT,     STEEL,        SUPER_EFFECTIVE
 	db POISON,       GRASS,        SUPER_EFFECTIVE
 	db POISON,       POISON,       NOT_VERY_EFFECTIVE
-	db POISON,       GROUND,       NOT_VERY_EFFECTIVE
+	db POISON,       SOL,       NOT_VERY_EFFECTIVE
 	db POISON,       ROCK,         NOT_VERY_EFFECTIVE
 	db POISON,       GHOST,        NOT_VERY_EFFECTIVE
 	db POISON,       STEEL,        NO_EFFECT
-	db GROUND,       FIRE,         SUPER_EFFECTIVE
-	db GROUND,       ELECTRIC,     SUPER_EFFECTIVE
-	db GROUND,       GRASS,        NOT_VERY_EFFECTIVE
-	db GROUND,       POISON,       SUPER_EFFECTIVE
-	db GROUND,       VOL,       NO_EFFECT
-	db GROUND,       BUG,          NOT_VERY_EFFECTIVE
-	db GROUND,       ROCK,         SUPER_EFFECTIVE
-	db GROUND,       STEEL,        SUPER_EFFECTIVE
+	db SOL,       FIRE,         SUPER_EFFECTIVE
+	db SOL,       ELECTRIC,     SUPER_EFFECTIVE
+	db SOL,       GRASS,        NOT_VERY_EFFECTIVE
+	db SOL,       POISON,       SUPER_EFFECTIVE
+	db SOL,       VOL,       NO_EFFECT
+	db SOL,       BUG,          NOT_VERY_EFFECTIVE
+	db SOL,       ROCK,         SUPER_EFFECTIVE
+	db SOL,       STEEL,        SUPER_EFFECTIVE
 	db VOL,       ELECTRIC,     NOT_VERY_EFFECTIVE
 	db VOL,       GRASS,        SUPER_EFFECTIVE
 	db VOL,       COMBAT,     SUPER_EFFECTIVE
@@ -86,7 +86,7 @@ TypeMatchups:
 	db ROCK,         FIRE,         SUPER_EFFECTIVE
 	db ROCK,         ICE,          SUPER_EFFECTIVE
 	db ROCK,         COMBAT,     NOT_VERY_EFFECTIVE
-	db ROCK,         GROUND,       NOT_VERY_EFFECTIVE
+	db ROCK,         SOL,       NOT_VERY_EFFECTIVE
 	db ROCK,         VOL,       SUPER_EFFECTIVE
 	db ROCK,         BUG,          SUPER_EFFECTIVE
 	db ROCK,         STEEL,        NOT_VERY_EFFECTIVE

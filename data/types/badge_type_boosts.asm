@@ -17,5 +17,5 @@ BadgeTypeBoosts:
 	db POISON       ; SOULBADGE
 	db PSYCHIC_TYPE ; MARSHBADGE
 	db FIRE         ; VOLCANOBADGE
-	db GROUND       ; EARTHBADGE
+	db SOL       ; EARTHBADGE
 	db -1 ; end

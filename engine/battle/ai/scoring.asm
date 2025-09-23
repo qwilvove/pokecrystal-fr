@@ -2075,7 +2075,7 @@ AI_Smart_Sandstorm:
 
 .SandstormImmuneTypes:
 	db ROCK
-	db GROUND
+	db SOL
 	db STEEL
 	db -1 ; end
 

@@ -9,7 +9,7 @@ PokedexTypeSearchConversionTable:
 	db ICE
 	db COMBAT
 	db POISON
-	db GROUND
+	db SOL
 	db VOL
 	db PSYCHIC_TYPE
 	db BUG
