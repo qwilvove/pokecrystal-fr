@@ -127,7 +127,7 @@ DEF MAIL_STRUCT_LENGTH_JP EQU $2a ; mailmsg_jp struct
 	const HELD_PSY_BOOST
 	const HELD_GLACE_BOOST
 	const HELD_DRAGON_BOOST
-	const HELD_DARK_BOOST
+	const HELD_TENEBRES_BOOST
 	const HELD_ACIER_BOOST
 
 	const_next 70

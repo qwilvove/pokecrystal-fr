@@ -3,7 +3,7 @@
 	db 100, 134, 110,  61,  95, 100
 	;   hp  atk  def  spd  sat  sdf
 
-	db ROCHE, DARK ; type
+	db ROCHE, TENEBRES ; type
 	db 45 ; catch rate
 	db 218 ; base exp
 	db NO_ITEM, NO_ITEM ; items

@@ -3,7 +3,7 @@
 	db  60,  85,  42,  91,  85,  42
 	;   hp  atk  def  spd  sat  sdf
 
-	db DARK, VOL ; type
+	db TENEBRES, VOL ; type
 	db 30 ; catch rate
 	db 107 ; base exp
 	db NO_ITEM, NO_ITEM ; items

@@ -27,7 +27,7 @@ endr
 	dw Psy
 	dw Glace
 	dw Dragon
-	dw Dark
+	dw Tenebres
 	assert_table_length TYPES_END
 
 Normal:    db "NORMAL@"
@@ -48,4 +48,4 @@ Insecte:       db "INSECTE@"
 Spectre:     db "SPECTRE@"
 Acier:     db "ACIER@"
 Dragon:    db "DRAGON@"
-Dark:      db "TENEBRES@"
+Tenebres:      db "TENEBRES@"

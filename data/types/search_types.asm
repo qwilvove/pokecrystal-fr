@@ -16,6 +16,6 @@ PokedexTypeSearchConversionTable:
 	db ROCHE
 	db SPECTRE
 	db DRAGON
-	db DARK
+	db TENEBRES
 	db ACIER
 	assert_table_length NUM_TYPES
