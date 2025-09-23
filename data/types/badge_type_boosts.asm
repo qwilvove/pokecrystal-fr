@@ -3,7 +3,7 @@ BadgeTypeBoosts:
 	db VOL       ; ZEPHYRBADGE
 	db INSECTE          ; HIVEBADGE
 	db NORMAL       ; PLAINBADGE
-	db GHOST        ; FOGBADGE
+	db SPECTRE        ; FOGBADGE
 	db STEEL        ; MINERALBADGE
 	db COMBAT     ; STORMBADGE
 	db ICE          ; GLACIERBADGE

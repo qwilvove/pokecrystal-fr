@@ -15,7 +15,7 @@ DEF PHYSICAL EQU const_value
 	const ROCHE
 	const BIRD
 	const INSECTE
-	const GHOST
+	const SPECTRE
 	const STEEL
 
 DEF UNUSED_TYPES EQU const_value

@@ -9,15 +9,15 @@ BattleCommand_Curse:
 
 .go
 
-; Curse is different for Ghost-types.
+; Curse is different for Spectre-types.
 
 	ld a, [de]
-	cp GHOST
-	jr z, .ghost
+	cp SPECTRE
+	jr z, .spectre
 	inc de
 	ld a, [de]
-	cp GHOST
-	jr z, .ghost
+	cp SPECTRE
+	jr z, .spectre
 
 ; If no stats can be increased, don't.
 
@@ -51,7 +51,7 @@ BattleCommand_Curse:
 	call BattleCommand_DefenseUp
 	jp BattleCommand_StatUpMessage
 
-.ghost
+.spectre
 
 ; Cut HP in half and put a curse on the opponent.
 

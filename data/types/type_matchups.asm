@@ -53,7 +53,7 @@ TypeMatchups:
 	db POISON,       POISON,       NOT_VERY_EFFECTIVE
 	db POISON,       SOL,       NOT_VERY_EFFECTIVE
 	db POISON,       ROCHE,         NOT_VERY_EFFECTIVE
-	db POISON,       GHOST,        NOT_VERY_EFFECTIVE
+	db POISON,       SPECTRE,        NOT_VERY_EFFECTIVE
 	db POISON,       STEEL,        NO_EFFECT
 	db SOL,       FIRE,         SUPER_EFFECTIVE
 	db SOL,       ELECTRIC,     SUPER_EFFECTIVE
@@ -80,7 +80,7 @@ TypeMatchups:
 	db INSECTE,          POISON,       NOT_VERY_EFFECTIVE
 	db INSECTE,          VOL,       NOT_VERY_EFFECTIVE
 	db INSECTE,          PSYCHIC_TYPE, SUPER_EFFECTIVE
-	db INSECTE,          GHOST,        NOT_VERY_EFFECTIVE
+	db INSECTE,          SPECTRE,        NOT_VERY_EFFECTIVE
 	db INSECTE,          DARK,         SUPER_EFFECTIVE
 	db INSECTE,          STEEL,        NOT_VERY_EFFECTIVE
 	db ROCHE,         FIRE,         SUPER_EFFECTIVE
@@ -90,16 +90,16 @@ TypeMatchups:
 	db ROCHE,         VOL,       SUPER_EFFECTIVE
 	db ROCHE,         INSECTE,          SUPER_EFFECTIVE
 	db ROCHE,         STEEL,        NOT_VERY_EFFECTIVE
-	db GHOST,        NORMAL,       NO_EFFECT
-	db GHOST,        PSYCHIC_TYPE, SUPER_EFFECTIVE
-	db GHOST,        DARK,         NOT_VERY_EFFECTIVE
-	db GHOST,        STEEL,        NOT_VERY_EFFECTIVE
-	db GHOST,        GHOST,        SUPER_EFFECTIVE
+	db SPECTRE,        NORMAL,       NO_EFFECT
+	db SPECTRE,        PSYCHIC_TYPE, SUPER_EFFECTIVE
+	db SPECTRE,        DARK,         NOT_VERY_EFFECTIVE
+	db SPECTRE,        STEEL,        NOT_VERY_EFFECTIVE
+	db SPECTRE,        SPECTRE,        SUPER_EFFECTIVE
 	db DRAGON,       DRAGON,       SUPER_EFFECTIVE
 	db DRAGON,       STEEL,        NOT_VERY_EFFECTIVE
 	db DARK,         COMBAT,     NOT_VERY_EFFECTIVE
 	db DARK,         PSYCHIC_TYPE, SUPER_EFFECTIVE
-	db DARK,         GHOST,        SUPER_EFFECTIVE
+	db DARK,         SPECTRE,        SUPER_EFFECTIVE
 	db DARK,         DARK,         NOT_VERY_EFFECTIVE
 	db DARK,         STEEL,        NOT_VERY_EFFECTIVE
 	db STEEL,        FIRE,         NOT_VERY_EFFECTIVE
@@ -111,8 +111,8 @@ TypeMatchups:
 
 	db -2 ; end (with Foresight)
 
-; Foresight removes Ghost's immunities.
-	db NORMAL,       GHOST,        NO_EFFECT
-	db COMBAT,     GHOST,        NO_EFFECT
+; Foresight removes Spectre's immunities.
+	db NORMAL,       SPECTRE,        NO_EFFECT
+	db COMBAT,     SPECTRE,        NO_EFFECT
 
 	db -1 ; end

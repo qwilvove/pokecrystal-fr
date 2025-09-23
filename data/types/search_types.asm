@@ -14,7 +14,7 @@ PokedexTypeSearchConversionTable:
 	db PSYCHIC_TYPE
 	db INSECTE
 	db ROCHE
-	db GHOST
+	db SPECTRE
 	db DRAGON
 	db DARK
 	db STEEL

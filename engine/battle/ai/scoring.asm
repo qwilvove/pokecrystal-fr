@@ -1824,11 +1824,11 @@ endr
 
 AI_Smart_Curse:
 	ld a, [wEnemyMonType1]
-	cp GHOST
-	jr z, .ghost_curse
+	cp SPECTRE
+	jr z, .spectre_curse
 	ld a, [wEnemyMonType2]
-	cp GHOST
-	jr z, .ghost_curse
+	cp SPECTRE
+	jr z, .spectre_curse
 
 	call AICheckEnemyHalfHP
 	jr nc, .discourage
@@ -1840,7 +1840,7 @@ AI_Smart_Curse:
 	ret nc
 
 	ld a, [wBattleMonType1]
-	cp GHOST
+	cp SPECTRE
 	jr z, .greatly_discourage
 	cp SPECIAL
 	ret nc
@@ -1862,7 +1862,7 @@ AI_Smart_Curse:
 	inc [hl]
 	ret
 
-.ghost_curse
+.spectre_curse
 	ld a, [wPlayerSubStatus1]
 	bit SUBSTATUS_CURSE, a
 	jp nz, AIDiscourageMove
@@ -1877,7 +1877,7 @@ AI_Smart_Curse:
 	pop hl
 	jr nz, .highly_discourage
 
-	jr .ghost_continue
+	jr .spectre_continue
 
 .notlastmon
 	push hl
@@ -1885,7 +1885,7 @@ AI_Smart_Curse:
 	pop hl
 	jr z, .maybe_greatly_encourage
 
-.ghost_continue
+.spectre_continue
 	call AICheckEnemyQuarterHP
 	jp nc, .highly_discourage
 
@@ -1977,12 +1977,12 @@ AI_Smart_Foresight:
 	cp BASE_STAT_LEVEL + 3
 	jr nc, .encourage
 
-; 60% chance to encourage this move if the player is a Ghost type.
+; 60% chance to encourage this move if the player is a Spectre type.
 	ld a, [wBattleMonType1]
-	cp GHOST
+	cp SPECTRE
 	jr z, .encourage
 	ld a, [wBattleMonType2]
-	cp GHOST
+	cp SPECTRE
 	jr z, .encourage
 
 ; 92% chance to discourage this move otherwise.

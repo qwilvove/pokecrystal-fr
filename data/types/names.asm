@@ -10,7 +10,7 @@ TypeNames:
 	dw Roche
 	dw Bird
 	dw Insecte
-	dw Ghost
+	dw Spectre
 	dw Steel
 	assert_table_length UNUSED_TYPES
 
@@ -45,7 +45,7 @@ Sol:    db "SOL@"
 Roche:      db "ROCHE@"
 Bird:      db "@"
 Insecte:       db "INSECTE@"
-Ghost:     db "SPECTRE@"
+Spectre:     db "SPECTRE@"
 Steel:     db "ACIER@"
 Dragon:    db "DRAGON@"
 Dark:      db "TENEBRES@"
