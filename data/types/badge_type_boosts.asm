@@ -5,7 +5,7 @@ BadgeTypeBoosts:
 	db NORMAL       ; PLAINBADGE
 	db GHOST        ; FOGBADGE
 	db STEEL        ; MINERALBADGE
-	db FIGHTING     ; STORMBADGE
+	db COMBAT     ; STORMBADGE
 	db ICE          ; GLACIERBADGE
 	db DRAGON       ; RISINGBADGE
 	; fallthrough

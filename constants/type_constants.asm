@@ -8,7 +8,7 @@
 
 DEF PHYSICAL EQU const_value
 	const NORMAL
-	const FIGHTING
+	const COMBAT
 	const FLYING
 	const POISON
 	const GROUND

@@ -3,7 +3,7 @@ TypeNames:
 	table_width 2
 
 	dw Normal
-	dw Fighting
+	dw Combat
 	dw Flying
 	dw Poison
 	dw Ground
@@ -31,7 +31,7 @@ endr
 	assert_table_length TYPES_END
 
 Normal:    db "NORMAL@"
-Fighting:  db "COMBAT@"
+Combat:  db "COMBAT@"
 Flying:    db "VOL@"
 Poison:    db "POISON@"
 CurseType: db "???@"
