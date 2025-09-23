@@ -3,7 +3,7 @@
 	db  65,  50,  35,  95, 115,  95
 	;   hp  atk  def  spd  sat  sdf
 
-	db ICE, PSY ; type
+	db GLACE, PSY ; type
 	db 45 ; catch rate
 	db 137 ; base exp
 	db ICE_BERRY, ICE_BERRY ; items

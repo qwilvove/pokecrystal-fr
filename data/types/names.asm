@@ -25,7 +25,7 @@ endr
 	dw Plante
 	dw Electrik
 	dw Psy
-	dw Ice
+	dw Glace
 	dw Dragon
 	dw Dark
 	assert_table_length TYPES_END
@@ -40,7 +40,7 @@ Eau:     db "EAU@"
 Plante:     db "PLANTE@"
 Electrik:  db "ELECTRIK@"
 Psy:   db "PSY@"
-Ice:       db "GLACE@"
+Glace:       db "GLACE@"
 Sol:    db "SOL@"
 Roche:      db "ROCHE@"
 Bird:      db "@"

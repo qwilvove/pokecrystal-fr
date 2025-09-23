@@ -29,7 +29,7 @@ DEF SPECIAL EQU const_value
 	const PLANTE
 	const ELECTRIK
 	const PSY
-	const ICE
+	const GLACE
 	const DRAGON
 	const DARK
 DEF TYPES_END EQU const_value

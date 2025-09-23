@@ -4006,7 +4006,7 @@ BattleCommand_FreezeTarget:
 	ld a, [wBattleWeather]
 	cp WEATHER_SUN
 	ret z
-	call CheckMoveTypeMatchesTarget ; Don't freeze an Ice-type
+	call CheckMoveTypeMatchesTarget ; Don't freeze a Glace-type
 	ret z
 	call GetOpponentItem
 	ld a, b

@@ -21,7 +21,7 @@ Moves:
 	move MEGA_PUNCH,   EFFECT_NORMAL_HIT,         80, NORMAL,        85, 20,   0
 	move PAY_DAY,      EFFECT_PAY_DAY,            40, NORMAL,       100, 20,   0
 	move FIRE_PUNCH,   EFFECT_BURN_HIT,           75, FEU,         100, 15,  10
-	move ICE_PUNCH,    EFFECT_FREEZE_HIT,         75, ICE,          100, 15,  10
+	move ICE_PUNCH,    EFFECT_FREEZE_HIT,         75, GLACE,          100, 15,  10
 	move THUNDERPUNCH, EFFECT_PARALYZE_HIT,       75, ELECTRIK,     100, 15,  10
 	move SCRATCH,      EFFECT_NORMAL_HIT,         40, NORMAL,       100, 35,   0
 	move VICEGRIP,     EFFECT_NORMAL_HIT,         55, NORMAL,       100, 30,   0
@@ -67,15 +67,15 @@ Moves:
 	move ACID,         EFFECT_DEFENSE_DOWN_HIT,   40, POISON,       100, 30,  10
 	move EMBER,        EFFECT_BURN_HIT,           40, FEU,         100, 25,  10
 	move FLAMETHROWER, EFFECT_BURN_HIT,           95, FEU,         100, 15,  10
-	move MIST,         EFFECT_MIST,                0, ICE,          100, 30,   0
+	move MIST,         EFFECT_MIST,                0, GLACE,          100, 30,   0
 	move WATER_GUN,    EFFECT_NORMAL_HIT,         40, EAU,        100, 25,   0
 	move HYDRO_PUMP,   EFFECT_NORMAL_HIT,        120, EAU,         80,  5,   0
 	move SURF,         EFFECT_NORMAL_HIT,         95, EAU,        100, 15,   0
-	move ICE_BEAM,     EFFECT_FREEZE_HIT,         95, ICE,          100, 10,  10
-	move BLIZZARD,     EFFECT_FREEZE_HIT,        120, ICE,           70,  5,  10
+	move ICE_BEAM,     EFFECT_FREEZE_HIT,         95, GLACE,          100, 10,  10
+	move BLIZZARD,     EFFECT_FREEZE_HIT,        120, GLACE,           70,  5,  10
 	move PSYBEAM,      EFFECT_CONFUSE_HIT,        65, PSY, 100, 20,  10
 	move BUBBLEBEAM,   EFFECT_SPEED_DOWN_HIT,     65, EAU,        100, 20,  10
-	move AURORA_BEAM,  EFFECT_ATTACK_DOWN_HIT,    65, ICE,          100, 20,  10
+	move AURORA_BEAM,  EFFECT_ATTACK_DOWN_HIT,    65, GLACE,          100, 20,  10
 	move HYPER_BEAM,   EFFECT_HYPER_BEAM,        150, NORMAL,        90,  5,   0
 	move PECK,         EFFECT_NORMAL_HIT,         35, VOL,       100, 35,   0
 	move DRILL_PECK,   EFFECT_NORMAL_HIT,         80, VOL,       100, 20,   0
@@ -127,7 +127,7 @@ Moves:
 	move DEFENSE_CURL, EFFECT_DEFENSE_CURL,        0, NORMAL,       100, 40,   0
 	move BARRIER,      EFFECT_DEFENSE_UP_2,        0, PSY, 100, 30,   0
 	move LIGHT_SCREEN, EFFECT_LIGHT_SCREEN,        0, PSY, 100, 30,   0
-	move HAZE,         EFFECT_RESET_STATS,         0, ICE,          100, 30,   0
+	move HAZE,         EFFECT_RESET_STATS,         0, GLACE,          100, 30,   0
 	move REFLECT,      EFFECT_REFLECT,             0, PSY, 100, 20,   0
 	move FOCUS_ENERGY, EFFECT_FOCUS_ENERGY,        0, NORMAL,       100, 30,   0
 	move BIDE,         EFFECT_BIDE,                0, NORMAL,       100, 10,   0
@@ -194,7 +194,7 @@ Moves:
 	move COTTON_SPORE, EFFECT_SPEED_DOWN_2,        0, PLANTE,         85, 40,   0
 	move REVERSAL,     EFFECT_REVERSAL,            1, COMBAT,     100, 15,   0
 	move SPITE,        EFFECT_SPITE,               0, SPECTRE,        100, 10,   0
-	move POWDER_SNOW,  EFFECT_FREEZE_HIT,         40, ICE,          100, 25,  10
+	move POWDER_SNOW,  EFFECT_FREEZE_HIT,         40, GLACE,          100, 25,  10
 	move PROTECT,      EFFECT_PROTECT,             0, NORMAL,       100, 10,   0
 	move MACH_PUNCH,   EFFECT_PRIORITY_HIT,       40, COMBAT,     100, 30,   0
 	move SCARY_FACE,   EFFECT_SPEED_DOWN_2,        0, NORMAL,        90, 10,   0
@@ -209,7 +209,7 @@ Moves:
 	move FORESIGHT,    EFFECT_FORESIGHT,           0, NORMAL,       100, 40,   0
 	move DESTINY_BOND, EFFECT_DESTINY_BOND,        0, SPECTRE,        100,  5,   0
 	move PERISH_SONG,  EFFECT_PERISH_SONG,         0, NORMAL,       100,  5,   0
-	move ICY_WIND,     EFFECT_SPEED_DOWN_HIT,     55, ICE,           95, 15, 100
+	move ICY_WIND,     EFFECT_SPEED_DOWN_HIT,     55, GLACE,           95, 15, 100
 	move DETECT,       EFFECT_PROTECT,             0, COMBAT,     100,  5,   0
 	move BONE_RUSH,    EFFECT_MULTI_HIT,          25, SOL,        80, 10,   0
 	move LOCK_ON,      EFFECT_LOCK_ON,             0, NORMAL,       100,  5,   0

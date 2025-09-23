@@ -6,7 +6,7 @@ BadgeTypeBoosts:
 	db SPECTRE        ; FOGBADGE
 	db ACIER        ; MINERALBADGE
 	db COMBAT     ; STORMBADGE
-	db ICE          ; GLACIERBADGE
+	db GLACE          ; GLACIERBADGE
 	db DRAGON       ; RISINGBADGE
 	; fallthrough
 ; entries correspond to wKantoBadges constants

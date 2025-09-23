@@ -5,7 +5,7 @@ TypeMatchups:
 	db FEU,         FEU,         NOT_VERY_EFFECTIVE
 	db FEU,         EAU,        NOT_VERY_EFFECTIVE
 	db FEU,         PLANTE,        SUPER_EFFECTIVE
-	db FEU,         ICE,          SUPER_EFFECTIVE
+	db FEU,         GLACE,          SUPER_EFFECTIVE
 	db FEU,         INSECTE,          SUPER_EFFECTIVE
 	db FEU,         ROCHE,         NOT_VERY_EFFECTIVE
 	db FEU,         DRAGON,       NOT_VERY_EFFECTIVE
@@ -32,16 +32,16 @@ TypeMatchups:
 	db PLANTE,        ROCHE,         SUPER_EFFECTIVE
 	db PLANTE,        DRAGON,       NOT_VERY_EFFECTIVE
 	db PLANTE,        ACIER,        NOT_VERY_EFFECTIVE
-	db ICE,          EAU,        NOT_VERY_EFFECTIVE
-	db ICE,          PLANTE,        SUPER_EFFECTIVE
-	db ICE,          ICE,          NOT_VERY_EFFECTIVE
-	db ICE,          SOL,       SUPER_EFFECTIVE
-	db ICE,          VOL,       SUPER_EFFECTIVE
-	db ICE,          DRAGON,       SUPER_EFFECTIVE
-	db ICE,          ACIER,        NOT_VERY_EFFECTIVE
-	db ICE,          FEU,         NOT_VERY_EFFECTIVE
+	db GLACE,          EAU,        NOT_VERY_EFFECTIVE
+	db GLACE,          PLANTE,        SUPER_EFFECTIVE
+	db GLACE,          GLACE,          NOT_VERY_EFFECTIVE
+	db GLACE,          SOL,       SUPER_EFFECTIVE
+	db GLACE,          VOL,       SUPER_EFFECTIVE
+	db GLACE,          DRAGON,       SUPER_EFFECTIVE
+	db GLACE,          ACIER,        NOT_VERY_EFFECTIVE
+	db GLACE,          FEU,         NOT_VERY_EFFECTIVE
 	db COMBAT,     NORMAL,       SUPER_EFFECTIVE
-	db COMBAT,     ICE,          SUPER_EFFECTIVE
+	db COMBAT,     GLACE,          SUPER_EFFECTIVE
 	db COMBAT,     POISON,       NOT_VERY_EFFECTIVE
 	db COMBAT,     VOL,       NOT_VERY_EFFECTIVE
 	db COMBAT,     PSY, NOT_VERY_EFFECTIVE
@@ -84,7 +84,7 @@ TypeMatchups:
 	db INSECTE,          DARK,         SUPER_EFFECTIVE
 	db INSECTE,          ACIER,        NOT_VERY_EFFECTIVE
 	db ROCHE,         FEU,         SUPER_EFFECTIVE
-	db ROCHE,         ICE,          SUPER_EFFECTIVE
+	db ROCHE,         GLACE,          SUPER_EFFECTIVE
 	db ROCHE,         COMBAT,     NOT_VERY_EFFECTIVE
 	db ROCHE,         SOL,       NOT_VERY_EFFECTIVE
 	db ROCHE,         VOL,       SUPER_EFFECTIVE
@@ -105,7 +105,7 @@ TypeMatchups:
 	db ACIER,        FEU,         NOT_VERY_EFFECTIVE
 	db ACIER,        EAU,        NOT_VERY_EFFECTIVE
 	db ACIER,        ELECTRIK,     NOT_VERY_EFFECTIVE
-	db ACIER,        ICE,          SUPER_EFFECTIVE
+	db ACIER,        GLACE,          SUPER_EFFECTIVE
 	db ACIER,        ROCHE,         SUPER_EFFECTIVE
 	db ACIER,        ACIER,        NOT_VERY_EFFECTIVE
 

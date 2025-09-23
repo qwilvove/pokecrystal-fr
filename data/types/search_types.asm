@@ -6,7 +6,7 @@ PokedexTypeSearchConversionTable:
 	db EAU
 	db PLANTE
 	db ELECTRIK
-	db ICE
+	db GLACE
 	db COMBAT
 	db POISON
 	db SOL
