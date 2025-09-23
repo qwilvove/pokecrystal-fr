@@ -27,7 +27,7 @@ DEF SPECIAL EQU const_value
 	const FEU
 	const EAU
 	const PLANTE
-	const ELECTRIC
+	const ELECTRIK
 	const PSYCHIC_TYPE
 	const ICE
 	const DRAGON

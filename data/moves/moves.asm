@@ -22,7 +22,7 @@ Moves:
 	move PAY_DAY,      EFFECT_PAY_DAY,            40, NORMAL,       100, 20,   0
 	move FIRE_PUNCH,   EFFECT_BURN_HIT,           75, FEU,         100, 15,  10
 	move ICE_PUNCH,    EFFECT_FREEZE_HIT,         75, ICE,          100, 15,  10
-	move THUNDERPUNCH, EFFECT_PARALYZE_HIT,       75, ELECTRIC,     100, 15,  10
+	move THUNDERPUNCH, EFFECT_PARALYZE_HIT,       75, ELECTRIK,     100, 15,  10
 	move SCRATCH,      EFFECT_NORMAL_HIT,         40, NORMAL,       100, 35,   0
 	move VICEGRIP,     EFFECT_NORMAL_HIT,         55, NORMAL,       100, 30,   0
 	move GUILLOTINE,   EFFECT_OHKO,                0, NORMAL,        30,  5,   0
@@ -97,10 +97,10 @@ Moves:
 	move STRING_SHOT,  EFFECT_SPEED_DOWN,          0, INSECTE,           95, 40,   0
 	move DRAGON_RAGE,  EFFECT_STATIC_DAMAGE,      40, DRAGON,       100, 10,   0
 	move FIRE_SPIN,    EFFECT_TRAP_TARGET,        15, FEU,          70, 15,   0
-	move THUNDERSHOCK, EFFECT_PARALYZE_HIT,       40, ELECTRIC,     100, 30,  10
-	move THUNDERBOLT,  EFFECT_PARALYZE_HIT,       95, ELECTRIC,     100, 15,  10
-	move THUNDER_WAVE, EFFECT_PARALYZE,            0, ELECTRIC,     100, 20,   0
-	move THUNDER,      EFFECT_THUNDER,           120, ELECTRIC,      70, 10,  30
+	move THUNDERSHOCK, EFFECT_PARALYZE_HIT,       40, ELECTRIK,     100, 30,  10
+	move THUNDERBOLT,  EFFECT_PARALYZE_HIT,       95, ELECTRIK,     100, 15,  10
+	move THUNDER_WAVE, EFFECT_PARALYZE,            0, ELECTRIK,     100, 20,   0
+	move THUNDER,      EFFECT_THUNDER,           120, ELECTRIK,      70, 10,  30
 	move ROCK_THROW,   EFFECT_NORMAL_HIT,         50, ROCHE,          90, 15,   0
 	move EARTHQUAKE,   EFFECT_EARTHQUAKE,        100, SOL,       100, 10,   0
 	move FISSURE,      EFFECT_OHKO,                1, SOL,        30,  5,   0
@@ -205,7 +205,7 @@ Moves:
 	move MUD_SLAP,     EFFECT_ACCURACY_DOWN_HIT,  20, SOL,       100, 10, 100
 	move OCTAZOOKA,    EFFECT_ACCURACY_DOWN_HIT,  65, EAU,         85, 10,  50
 	move SPIKES,       EFFECT_SPIKES,              0, SOL,       100, 20,   0
-	move ZAP_CANNON,   EFFECT_PARALYZE_HIT,      100, ELECTRIC,      50,  5, 100
+	move ZAP_CANNON,   EFFECT_PARALYZE_HIT,      100, ELECTRIK,      50,  5, 100
 	move FORESIGHT,    EFFECT_FORESIGHT,           0, NORMAL,       100, 40,   0
 	move DESTINY_BOND, EFFECT_DESTINY_BOND,        0, SPECTRE,        100,  5,   0
 	move PERISH_SONG,  EFFECT_PERISH_SONG,         0, NORMAL,       100,  5,   0
@@ -222,7 +222,7 @@ Moves:
 	move FALSE_SWIPE,  EFFECT_FALSE_SWIPE,        40, NORMAL,       100, 40,   0
 	move SWAGGER,      EFFECT_SWAGGER,             0, NORMAL,        90, 15, 100
 	move MILK_DRINK,   EFFECT_HEAL,                0, NORMAL,       100, 10,   0
-	move SPARK,        EFFECT_PARALYZE_HIT,       65, ELECTRIC,     100, 20,  30
+	move SPARK,        EFFECT_PARALYZE_HIT,       65, ELECTRIK,     100, 20,  30
 	move FURY_CUTTER,  EFFECT_FURY_CUTTER,        10, INSECTE,           95, 20,   0
 	move STEEL_WING,   EFFECT_DEFENSE_UP_HIT,     70, ACIER,         90, 25,  10
 	move MEAN_LOOK,    EFFECT_MEAN_LOOK,           0, NORMAL,       100,  5,   0

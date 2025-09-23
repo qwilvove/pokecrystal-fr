@@ -12,7 +12,7 @@ BadgeTypeBoosts:
 ; entries correspond to wKantoBadges constants
 	db ROCHE         ; BOULDERBADGE
 	db EAU        ; CASCADEBADGE
-	db ELECTRIC     ; THUNDERBADGE
+	db ELECTRIK     ; THUNDERBADGE
 	db PLANTE        ; RAINBOWBADGE
 	db POISON       ; SOULBADGE
 	db PSYCHIC_TYPE ; MARSHBADGE

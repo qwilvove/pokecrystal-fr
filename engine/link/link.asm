@@ -792,7 +792,7 @@ Link_PrepPartyData_Gen1:
 	jr nz, .skip_acier
 
 .acier_type
-	ld a, ELECTRIC
+	ld a, ELECTRIK
 	ld [de], a
 	inc de
 	ld [de], a
