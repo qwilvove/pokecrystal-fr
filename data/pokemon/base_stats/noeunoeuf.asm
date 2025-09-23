@@ -3,7 +3,7 @@
 	db  60,  40,  80,  40,  60,  45
 	;   hp  atk  def  spd  sat  sdf
 
-	db PLANTE, PSYCHIC_TYPE ; type
+	db PLANTE, PSY ; type
 	db 90 ; catch rate
 	db 98 ; base exp
 	db NO_ITEM, NO_ITEM ; items

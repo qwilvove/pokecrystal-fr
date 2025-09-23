@@ -15,7 +15,7 @@ BadgeTypeBoosts:
 	db ELECTRIK     ; THUNDERBADGE
 	db PLANTE        ; RAINBOWBADGE
 	db POISON       ; SOULBADGE
-	db PSYCHIC_TYPE ; MARSHBADGE
+	db PSY ; MARSHBADGE
 	db FEU         ; VOLCANOBADGE
 	db SOL       ; EARTHBADGE
 	db -1 ; end

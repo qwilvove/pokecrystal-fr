@@ -11,7 +11,7 @@ PokedexTypeSearchConversionTable:
 	db POISON
 	db SOL
 	db VOL
-	db PSYCHIC_TYPE
+	db PSY
 	db INSECTE
 	db ROCHE
 	db SPECTRE

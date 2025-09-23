@@ -24,7 +24,7 @@ endr
 	dw Eau
 	dw Plante
 	dw Electrik
-	dw Psychic
+	dw Psy
 	dw Ice
 	dw Dragon
 	dw Dark
@@ -39,7 +39,7 @@ Feu:      db "FEU@"
 Eau:     db "EAU@"
 Plante:     db "PLANTE@"
 Electrik:  db "ELECTRIK@"
-Psychic:   db "PSY@"
+Psy:   db "PSY@"
 Ice:       db "GLACE@"
 Sol:    db "SOL@"
 Roche:      db "ROCHE@"

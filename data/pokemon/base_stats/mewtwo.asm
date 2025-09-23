@@ -3,7 +3,7 @@
 	db 106, 110,  90, 130, 154,  90
 	;   hp  atk  def  spd  sat  sdf
 
-	db PSYCHIC_TYPE, PSYCHIC_TYPE ; type
+	db PSY, PSY ; type
 	db 3 ; catch rate
 	db 220 ; base exp
 	db NO_ITEM, BERSERK_GENE ; items
