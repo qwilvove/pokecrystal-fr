@@ -4125,13 +4125,13 @@ SpikesDamage:
 	bit SCREENS_SPIKES, [hl]
 	ret z
 
-	; Flying-types aren't affected by Spikes.
+	; Vol-types aren't affected by Spikes.
 	ld a, [de]
-	cp FLYING
+	cp VOL
 	ret z
 	inc de
 	ld a, [de]
-	cp FLYING
+	cp VOL
 	ret z
 
 	push bc

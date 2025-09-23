@@ -10,7 +10,7 @@ PokedexTypeSearchConversionTable:
 	db COMBAT
 	db POISON
 	db GROUND
-	db FLYING
+	db VOL
 	db PSYCHIC_TYPE
 	db BUG
 	db ROCK

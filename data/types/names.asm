@@ -4,7 +4,7 @@ TypeNames:
 
 	dw Normal
 	dw Combat
-	dw Flying
+	dw Vol
 	dw Poison
 	dw Ground
 	dw Rock
@@ -32,7 +32,7 @@ endr
 
 Normal:    db "NORMAL@"
 Combat:  db "COMBAT@"
-Flying:    db "VOL@"
+Vol:    db "VOL@"
 Poison:    db "POISON@"
 CurseType: db "???@"
 Fire:      db "FEU@"

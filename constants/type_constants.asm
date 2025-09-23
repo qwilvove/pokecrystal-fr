@@ -9,7 +9,7 @@
 DEF PHYSICAL EQU const_value
 	const NORMAL
 	const COMBAT
-	const FLYING
+	const VOL
 	const POISON
 	const GROUND
 	const ROCK
