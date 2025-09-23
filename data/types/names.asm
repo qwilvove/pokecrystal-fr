@@ -7,7 +7,7 @@ TypeNames:
 	dw Vol
 	dw Poison
 	dw Sol
-	dw Rock
+	dw Roche
 	dw Bird
 	dw Bug
 	dw Ghost
@@ -42,7 +42,7 @@ Electric:  db "ELECTRIK@"
 Psychic:   db "PSY@"
 Ice:       db "GLACE@"
 Sol:    db "SOL@"
-Rock:      db "ROCHE@"
+Roche:      db "ROCHE@"
 Bird:      db "@"
 Bug:       db "INSECTE@"
 Ghost:     db "SPECTRE@"

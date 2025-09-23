@@ -10,7 +10,7 @@ BadgeTypeBoosts:
 	db DRAGON       ; RISINGBADGE
 	; fallthrough
 ; entries correspond to wKantoBadges constants
-	db ROCK         ; BOULDERBADGE
+	db ROCHE         ; BOULDERBADGE
 	db WATER        ; CASCADEBADGE
 	db ELECTRIC     ; THUNDERBADGE
 	db GRASS        ; RAINBOWBADGE

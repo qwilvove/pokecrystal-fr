@@ -3,7 +3,7 @@
 	db  80, 110, 130,  45,  55,  65
 	;   hp  atk  def  spd  sat  sdf
 
-	db ROCK, SOL ; type
+	db ROCHE, SOL ; type
 	db 45 ; catch rate
 	db 177 ; base exp
 	db NO_ITEM, EVERSTONE ; items

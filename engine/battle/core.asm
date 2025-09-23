@@ -1726,7 +1726,7 @@ HandleWeather:
 	ld hl, wEnemyMonType1
 .ok
 	ld a, [hli]
-	cp ROCK
+	cp ROCHE
 	ret z
 	cp SOL
 	ret z
@@ -1734,7 +1734,7 @@ HandleWeather:
 	ret z
 
 	ld a, [hl]
-	cp ROCK
+	cp ROCHE
 	ret z
 	cp SOL
 	ret z

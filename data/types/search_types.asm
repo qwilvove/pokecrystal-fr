@@ -13,7 +13,7 @@ PokedexTypeSearchConversionTable:
 	db VOL
 	db PSYCHIC_TYPE
 	db BUG
-	db ROCK
+	db ROCHE
 	db GHOST
 	db DRAGON
 	db DARK

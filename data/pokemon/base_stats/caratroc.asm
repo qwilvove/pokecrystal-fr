@@ -3,7 +3,7 @@
 	db  20,  10, 230,  05,  10, 230
 	;   hp  atk  def  spd  sat  sdf
 
-	db BUG, ROCK ; type
+	db BUG, ROCHE ; type
 	db 190 ; catch rate
 	db 80 ; base exp
 	db BERRY, BERRY ; items

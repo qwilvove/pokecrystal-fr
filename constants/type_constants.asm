@@ -12,7 +12,7 @@ DEF PHYSICAL EQU const_value
 	const VOL
 	const POISON
 	const SOL
-	const ROCK
+	const ROCHE
 	const BIRD
 	const BUG
 	const GHOST
