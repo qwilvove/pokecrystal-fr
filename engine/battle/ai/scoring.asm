@@ -2350,13 +2350,13 @@ AI_Smart_RainDance:
 	ld a, [wBattleMonType1]
 	cp WATER
 	jr z, AIBadWeatherType
-	cp FIRE
+	cp FEU
 	jr z, AIGoodWeatherType
 
 	ld a, [wBattleMonType2]
 	cp WATER
 	jr z, AIBadWeatherType
-	cp FIRE
+	cp FEU
 	jr z, AIGoodWeatherType
 
 	push hl
@@ -2367,15 +2367,15 @@ INCLUDE "data/battle/ai/rain_dance_moves.asm"
 
 AI_Smart_SunnyDay:
 ; Greatly discourage this move if it would favour the player type-wise.
-; Particularly, if the player is a Fire-type.
+; Particularly, if the player is a Feu-type.
 	ld a, [wBattleMonType1]
-	cp FIRE
+	cp FEU
 	jr z, AIBadWeatherType
 	cp WATER
 	jr z, AIGoodWeatherType
 
 	ld a, [wBattleMonType2]
-	cp FIRE
+	cp FEU
 	jr z, AIBadWeatherType
 	cp WATER
 	jr z, AIGoodWeatherType

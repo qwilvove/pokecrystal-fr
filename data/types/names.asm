@@ -20,7 +20,7 @@ endr
 	dw CurseType
 	assert_table_length UNUSED_TYPES_END
 
-	dw Fire
+	dw Feu
 	dw Water
 	dw Grass
 	dw Electric
@@ -35,7 +35,7 @@ Combat:  db "COMBAT@"
 Vol:    db "VOL@"
 Poison:    db "POISON@"
 CurseType: db "???@"
-Fire:      db "FEU@"
+Feu:      db "FEU@"
 Water:     db "EAU@"
 Grass:     db "PLANTE@"
 Electric:  db "ELECTRIK@"

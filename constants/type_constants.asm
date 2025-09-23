@@ -24,7 +24,7 @@ DEF UNUSED_TYPES EQU const_value
 DEF UNUSED_TYPES_END EQU const_value
 
 DEF SPECIAL EQU const_value
-	const FIRE
+	const FEU
 	const WATER
 	const GRASS
 	const ELECTRIC

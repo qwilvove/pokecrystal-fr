@@ -3939,7 +3939,7 @@ BattleCommand_BurnTarget:
 	ld a, [wTypeModifier]
 	and EFFECTIVENESS_MASK
 	ret z
-	call CheckMoveTypeMatchesTarget ; Don't burn a Fire-type
+	call CheckMoveTypeMatchesTarget ; Don't burn a Feu-type
 	ret z
 	call GetOpponentItem
 	ld a, b

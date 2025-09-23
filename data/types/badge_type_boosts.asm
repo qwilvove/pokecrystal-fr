@@ -16,6 +16,6 @@ BadgeTypeBoosts:
 	db GRASS        ; RAINBOWBADGE
 	db POISON       ; SOULBADGE
 	db PSYCHIC_TYPE ; MARSHBADGE
-	db FIRE         ; VOLCANOBADGE
+	db FEU         ; VOLCANOBADGE
 	db SOL       ; EARTHBADGE
 	db -1 ; end

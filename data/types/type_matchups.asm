@@ -2,15 +2,15 @@ TypeMatchups:
 	;  attacker,     defender,     *=
 	db NORMAL,       ROCHE,         NOT_VERY_EFFECTIVE
 	db NORMAL,       ACIER,        NOT_VERY_EFFECTIVE
-	db FIRE,         FIRE,         NOT_VERY_EFFECTIVE
-	db FIRE,         WATER,        NOT_VERY_EFFECTIVE
-	db FIRE,         GRASS,        SUPER_EFFECTIVE
-	db FIRE,         ICE,          SUPER_EFFECTIVE
-	db FIRE,         INSECTE,          SUPER_EFFECTIVE
-	db FIRE,         ROCHE,         NOT_VERY_EFFECTIVE
-	db FIRE,         DRAGON,       NOT_VERY_EFFECTIVE
-	db FIRE,         ACIER,        SUPER_EFFECTIVE
-	db WATER,        FIRE,         SUPER_EFFECTIVE
+	db FEU,         FEU,         NOT_VERY_EFFECTIVE
+	db FEU,         WATER,        NOT_VERY_EFFECTIVE
+	db FEU,         GRASS,        SUPER_EFFECTIVE
+	db FEU,         ICE,          SUPER_EFFECTIVE
+	db FEU,         INSECTE,          SUPER_EFFECTIVE
+	db FEU,         ROCHE,         NOT_VERY_EFFECTIVE
+	db FEU,         DRAGON,       NOT_VERY_EFFECTIVE
+	db FEU,         ACIER,        SUPER_EFFECTIVE
+	db WATER,        FEU,         SUPER_EFFECTIVE
 	db WATER,        WATER,        NOT_VERY_EFFECTIVE
 	db WATER,        GRASS,        NOT_VERY_EFFECTIVE
 	db WATER,        SOL,       SUPER_EFFECTIVE
@@ -22,7 +22,7 @@ TypeMatchups:
 	db ELECTRIC,     SOL,       NO_EFFECT
 	db ELECTRIC,     VOL,       SUPER_EFFECTIVE
 	db ELECTRIC,     DRAGON,       NOT_VERY_EFFECTIVE
-	db GRASS,        FIRE,         NOT_VERY_EFFECTIVE
+	db GRASS,        FEU,         NOT_VERY_EFFECTIVE
 	db GRASS,        WATER,        SUPER_EFFECTIVE
 	db GRASS,        GRASS,        NOT_VERY_EFFECTIVE
 	db GRASS,        POISON,       NOT_VERY_EFFECTIVE
@@ -39,7 +39,7 @@ TypeMatchups:
 	db ICE,          VOL,       SUPER_EFFECTIVE
 	db ICE,          DRAGON,       SUPER_EFFECTIVE
 	db ICE,          ACIER,        NOT_VERY_EFFECTIVE
-	db ICE,          FIRE,         NOT_VERY_EFFECTIVE
+	db ICE,          FEU,         NOT_VERY_EFFECTIVE
 	db COMBAT,     NORMAL,       SUPER_EFFECTIVE
 	db COMBAT,     ICE,          SUPER_EFFECTIVE
 	db COMBAT,     POISON,       NOT_VERY_EFFECTIVE
@@ -55,7 +55,7 @@ TypeMatchups:
 	db POISON,       ROCHE,         NOT_VERY_EFFECTIVE
 	db POISON,       SPECTRE,        NOT_VERY_EFFECTIVE
 	db POISON,       ACIER,        NO_EFFECT
-	db SOL,       FIRE,         SUPER_EFFECTIVE
+	db SOL,       FEU,         SUPER_EFFECTIVE
 	db SOL,       ELECTRIC,     SUPER_EFFECTIVE
 	db SOL,       GRASS,        NOT_VERY_EFFECTIVE
 	db SOL,       POISON,       SUPER_EFFECTIVE
@@ -74,7 +74,7 @@ TypeMatchups:
 	db PSYCHIC_TYPE, PSYCHIC_TYPE, NOT_VERY_EFFECTIVE
 	db PSYCHIC_TYPE, DARK,         NO_EFFECT
 	db PSYCHIC_TYPE, ACIER,        NOT_VERY_EFFECTIVE
-	db INSECTE,          FIRE,         NOT_VERY_EFFECTIVE
+	db INSECTE,          FEU,         NOT_VERY_EFFECTIVE
 	db INSECTE,          GRASS,        SUPER_EFFECTIVE
 	db INSECTE,          COMBAT,     NOT_VERY_EFFECTIVE
 	db INSECTE,          POISON,       NOT_VERY_EFFECTIVE
@@ -83,7 +83,7 @@ TypeMatchups:
 	db INSECTE,          SPECTRE,        NOT_VERY_EFFECTIVE
 	db INSECTE,          DARK,         SUPER_EFFECTIVE
 	db INSECTE,          ACIER,        NOT_VERY_EFFECTIVE
-	db ROCHE,         FIRE,         SUPER_EFFECTIVE
+	db ROCHE,         FEU,         SUPER_EFFECTIVE
 	db ROCHE,         ICE,          SUPER_EFFECTIVE
 	db ROCHE,         COMBAT,     NOT_VERY_EFFECTIVE
 	db ROCHE,         SOL,       NOT_VERY_EFFECTIVE
@@ -102,7 +102,7 @@ TypeMatchups:
 	db DARK,         SPECTRE,        SUPER_EFFECTIVE
 	db DARK,         DARK,         NOT_VERY_EFFECTIVE
 	db DARK,         ACIER,        NOT_VERY_EFFECTIVE
-	db ACIER,        FIRE,         NOT_VERY_EFFECTIVE
+	db ACIER,        FEU,         NOT_VERY_EFFECTIVE
 	db ACIER,        WATER,        NOT_VERY_EFFECTIVE
 	db ACIER,        ELECTRIC,     NOT_VERY_EFFECTIVE
 	db ACIER,        ICE,          SUPER_EFFECTIVE
