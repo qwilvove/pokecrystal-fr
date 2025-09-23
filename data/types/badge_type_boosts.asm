@@ -1,7 +1,7 @@
 BadgeTypeBoosts:
 ; entries correspond to wJohtoBadges constants
 	db VOL       ; ZEPHYRBADGE
-	db BUG          ; HIVEBADGE
+	db INSECTE          ; HIVEBADGE
 	db NORMAL       ; PLAINBADGE
 	db GHOST        ; FOGBADGE
 	db STEEL        ; MINERALBADGE

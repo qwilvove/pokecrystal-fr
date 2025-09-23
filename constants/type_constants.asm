@@ -14,7 +14,7 @@ DEF PHYSICAL EQU const_value
 	const SOL
 	const ROCHE
 	const BIRD
-	const BUG
+	const INSECTE
 	const GHOST
 	const STEEL
 

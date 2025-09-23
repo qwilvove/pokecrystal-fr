@@ -6,7 +6,7 @@ TypeMatchups:
 	db FIRE,         WATER,        NOT_VERY_EFFECTIVE
 	db FIRE,         GRASS,        SUPER_EFFECTIVE
 	db FIRE,         ICE,          SUPER_EFFECTIVE
-	db FIRE,         BUG,          SUPER_EFFECTIVE
+	db FIRE,         INSECTE,          SUPER_EFFECTIVE
 	db FIRE,         ROCHE,         NOT_VERY_EFFECTIVE
 	db FIRE,         DRAGON,       NOT_VERY_EFFECTIVE
 	db FIRE,         STEEL,        SUPER_EFFECTIVE
@@ -28,7 +28,7 @@ TypeMatchups:
 	db GRASS,        POISON,       NOT_VERY_EFFECTIVE
 	db GRASS,        SOL,       SUPER_EFFECTIVE
 	db GRASS,        VOL,       NOT_VERY_EFFECTIVE
-	db GRASS,        BUG,          NOT_VERY_EFFECTIVE
+	db GRASS,        INSECTE,          NOT_VERY_EFFECTIVE
 	db GRASS,        ROCHE,         SUPER_EFFECTIVE
 	db GRASS,        DRAGON,       NOT_VERY_EFFECTIVE
 	db GRASS,        STEEL,        NOT_VERY_EFFECTIVE
@@ -45,7 +45,7 @@ TypeMatchups:
 	db COMBAT,     POISON,       NOT_VERY_EFFECTIVE
 	db COMBAT,     VOL,       NOT_VERY_EFFECTIVE
 	db COMBAT,     PSYCHIC_TYPE, NOT_VERY_EFFECTIVE
-	db COMBAT,     BUG,          NOT_VERY_EFFECTIVE
+	db COMBAT,     INSECTE,          NOT_VERY_EFFECTIVE
 	db COMBAT,     ROCHE,         SUPER_EFFECTIVE
 	db COMBAT,     DARK,         SUPER_EFFECTIVE
 	db COMBAT,     STEEL,        SUPER_EFFECTIVE
@@ -60,13 +60,13 @@ TypeMatchups:
 	db SOL,       GRASS,        NOT_VERY_EFFECTIVE
 	db SOL,       POISON,       SUPER_EFFECTIVE
 	db SOL,       VOL,       NO_EFFECT
-	db SOL,       BUG,          NOT_VERY_EFFECTIVE
+	db SOL,       INSECTE,          NOT_VERY_EFFECTIVE
 	db SOL,       ROCHE,         SUPER_EFFECTIVE
 	db SOL,       STEEL,        SUPER_EFFECTIVE
 	db VOL,       ELECTRIC,     NOT_VERY_EFFECTIVE
 	db VOL,       GRASS,        SUPER_EFFECTIVE
 	db VOL,       COMBAT,     SUPER_EFFECTIVE
-	db VOL,       BUG,          SUPER_EFFECTIVE
+	db VOL,       INSECTE,          SUPER_EFFECTIVE
 	db VOL,       ROCHE,         NOT_VERY_EFFECTIVE
 	db VOL,       STEEL,        NOT_VERY_EFFECTIVE
 	db PSYCHIC_TYPE, COMBAT,     SUPER_EFFECTIVE
@@ -74,21 +74,21 @@ TypeMatchups:
 	db PSYCHIC_TYPE, PSYCHIC_TYPE, NOT_VERY_EFFECTIVE
 	db PSYCHIC_TYPE, DARK,         NO_EFFECT
 	db PSYCHIC_TYPE, STEEL,        NOT_VERY_EFFECTIVE
-	db BUG,          FIRE,         NOT_VERY_EFFECTIVE
-	db BUG,          GRASS,        SUPER_EFFECTIVE
-	db BUG,          COMBAT,     NOT_VERY_EFFECTIVE
-	db BUG,          POISON,       NOT_VERY_EFFECTIVE
-	db BUG,          VOL,       NOT_VERY_EFFECTIVE
-	db BUG,          PSYCHIC_TYPE, SUPER_EFFECTIVE
-	db BUG,          GHOST,        NOT_VERY_EFFECTIVE
-	db BUG,          DARK,         SUPER_EFFECTIVE
-	db BUG,          STEEL,        NOT_VERY_EFFECTIVE
+	db INSECTE,          FIRE,         NOT_VERY_EFFECTIVE
+	db INSECTE,          GRASS,        SUPER_EFFECTIVE
+	db INSECTE,          COMBAT,     NOT_VERY_EFFECTIVE
+	db INSECTE,          POISON,       NOT_VERY_EFFECTIVE
+	db INSECTE,          VOL,       NOT_VERY_EFFECTIVE
+	db INSECTE,          PSYCHIC_TYPE, SUPER_EFFECTIVE
+	db INSECTE,          GHOST,        NOT_VERY_EFFECTIVE
+	db INSECTE,          DARK,         SUPER_EFFECTIVE
+	db INSECTE,          STEEL,        NOT_VERY_EFFECTIVE
 	db ROCHE,         FIRE,         SUPER_EFFECTIVE
 	db ROCHE,         ICE,          SUPER_EFFECTIVE
 	db ROCHE,         COMBAT,     NOT_VERY_EFFECTIVE
 	db ROCHE,         SOL,       NOT_VERY_EFFECTIVE
 	db ROCHE,         VOL,       SUPER_EFFECTIVE
-	db ROCHE,         BUG,          SUPER_EFFECTIVE
+	db ROCHE,         INSECTE,          SUPER_EFFECTIVE
 	db ROCHE,         STEEL,        NOT_VERY_EFFECTIVE
 	db GHOST,        NORMAL,       NO_EFFECT
 	db GHOST,        PSYCHIC_TYPE, SUPER_EFFECTIVE

@@ -3,7 +3,7 @@
 	db  70,  90,  70,  40,  60,  60
 	;   hp  atk  def  spd  sat  sdf
 
-	db BUG, POISON ; type
+	db INSECTE, POISON ; type
 	db 90 ; catch rate
 	db 134 ; base exp
 	db NO_ITEM, NO_ITEM ; items
