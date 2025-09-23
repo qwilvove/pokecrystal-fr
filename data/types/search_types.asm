@@ -3,7 +3,7 @@ PokedexTypeSearchConversionTable:
 	table_width 1
 	db NORMAL
 	db FEU
-	db WATER
+	db EAU
 	db GRASS
 	db ELECTRIC
 	db ICE

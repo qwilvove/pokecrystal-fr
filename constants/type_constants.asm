@@ -25,7 +25,7 @@ DEF UNUSED_TYPES_END EQU const_value
 
 DEF SPECIAL EQU const_value
 	const FEU
-	const WATER
+	const EAU
 	const GRASS
 	const ELECTRIC
 	const PSYCHIC_TYPE

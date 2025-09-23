@@ -3,27 +3,27 @@ TypeMatchups:
 	db NORMAL,       ROCHE,         NOT_VERY_EFFECTIVE
 	db NORMAL,       ACIER,        NOT_VERY_EFFECTIVE
 	db FEU,         FEU,         NOT_VERY_EFFECTIVE
-	db FEU,         WATER,        NOT_VERY_EFFECTIVE
+	db FEU,         EAU,        NOT_VERY_EFFECTIVE
 	db FEU,         GRASS,        SUPER_EFFECTIVE
 	db FEU,         ICE,          SUPER_EFFECTIVE
 	db FEU,         INSECTE,          SUPER_EFFECTIVE
 	db FEU,         ROCHE,         NOT_VERY_EFFECTIVE
 	db FEU,         DRAGON,       NOT_VERY_EFFECTIVE
 	db FEU,         ACIER,        SUPER_EFFECTIVE
-	db WATER,        FEU,         SUPER_EFFECTIVE
-	db WATER,        WATER,        NOT_VERY_EFFECTIVE
-	db WATER,        GRASS,        NOT_VERY_EFFECTIVE
-	db WATER,        SOL,       SUPER_EFFECTIVE
-	db WATER,        ROCHE,         SUPER_EFFECTIVE
-	db WATER,        DRAGON,       NOT_VERY_EFFECTIVE
-	db ELECTRIC,     WATER,        SUPER_EFFECTIVE
+	db EAU,        FEU,         SUPER_EFFECTIVE
+	db EAU,        EAU,        NOT_VERY_EFFECTIVE
+	db EAU,        GRASS,        NOT_VERY_EFFECTIVE
+	db EAU,        SOL,       SUPER_EFFECTIVE
+	db EAU,        ROCHE,         SUPER_EFFECTIVE
+	db EAU,        DRAGON,       NOT_VERY_EFFECTIVE
+	db ELECTRIC,     EAU,        SUPER_EFFECTIVE
 	db ELECTRIC,     ELECTRIC,     NOT_VERY_EFFECTIVE
 	db ELECTRIC,     GRASS,        NOT_VERY_EFFECTIVE
 	db ELECTRIC,     SOL,       NO_EFFECT
 	db ELECTRIC,     VOL,       SUPER_EFFECTIVE
 	db ELECTRIC,     DRAGON,       NOT_VERY_EFFECTIVE
 	db GRASS,        FEU,         NOT_VERY_EFFECTIVE
-	db GRASS,        WATER,        SUPER_EFFECTIVE
+	db GRASS,        EAU,        SUPER_EFFECTIVE
 	db GRASS,        GRASS,        NOT_VERY_EFFECTIVE
 	db GRASS,        POISON,       NOT_VERY_EFFECTIVE
 	db GRASS,        SOL,       SUPER_EFFECTIVE
@@ -32,7 +32,7 @@ TypeMatchups:
 	db GRASS,        ROCHE,         SUPER_EFFECTIVE
 	db GRASS,        DRAGON,       NOT_VERY_EFFECTIVE
 	db GRASS,        ACIER,        NOT_VERY_EFFECTIVE
-	db ICE,          WATER,        NOT_VERY_EFFECTIVE
+	db ICE,          EAU,        NOT_VERY_EFFECTIVE
 	db ICE,          GRASS,        SUPER_EFFECTIVE
 	db ICE,          ICE,          NOT_VERY_EFFECTIVE
 	db ICE,          SOL,       SUPER_EFFECTIVE
@@ -103,7 +103,7 @@ TypeMatchups:
 	db DARK,         DARK,         NOT_VERY_EFFECTIVE
 	db DARK,         ACIER,        NOT_VERY_EFFECTIVE
 	db ACIER,        FEU,         NOT_VERY_EFFECTIVE
-	db ACIER,        WATER,        NOT_VERY_EFFECTIVE
+	db ACIER,        EAU,        NOT_VERY_EFFECTIVE
 	db ACIER,        ELECTRIC,     NOT_VERY_EFFECTIVE
 	db ACIER,        ICE,          SUPER_EFFECTIVE
 	db ACIER,        ROCHE,         SUPER_EFFECTIVE

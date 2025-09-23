@@ -3,7 +3,7 @@
 	db  30,  40,  70,  60,  70,  25
 	;   hp  atk  def  spd  sat  sdf
 
-	db WATER, WATER ; type
+	db EAU, EAU ; type
 	db 225 ; catch rate
 	db 83 ; base exp
 	db NO_ITEM, DRAGON_SCALE ; items

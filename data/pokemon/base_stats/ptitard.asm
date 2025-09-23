@@ -3,7 +3,7 @@
 	db  40,  50,  40,  90,  40,  40
 	;   hp  atk  def  spd  sat  sdf
 
-	db WATER, WATER ; type
+	db EAU, EAU ; type
 	db 255 ; catch rate
 	db 77 ; base exp
 	db NO_ITEM, NO_ITEM ; items

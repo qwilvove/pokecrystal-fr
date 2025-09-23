@@ -11,7 +11,7 @@ BadgeTypeBoosts:
 	; fallthrough
 ; entries correspond to wKantoBadges constants
 	db ROCHE         ; BOULDERBADGE
-	db WATER        ; CASCADEBADGE
+	db EAU        ; CASCADEBADGE
 	db ELECTRIC     ; THUNDERBADGE
 	db GRASS        ; RAINBOWBADGE
 	db POISON       ; SOULBADGE

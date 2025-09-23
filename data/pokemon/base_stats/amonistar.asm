@@ -3,7 +3,7 @@
 	db  70,  60, 125,  55, 115,  70
 	;   hp  atk  def  spd  sat  sdf
 
-	db ROCHE, WATER ; type
+	db ROCHE, EAU ; type
 	db 45 ; catch rate
 	db 199 ; base exp
 	db NO_ITEM, NO_ITEM ; items

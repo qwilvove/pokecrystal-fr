@@ -2346,15 +2346,15 @@ AI_Smart_HiddenPower:
 
 AI_Smart_RainDance:
 ; Greatly discourage this move if it would favour the player type-wise.
-; Particularly, if the player is a Water-type.
+; Particularly, if the player is a Eau-type.
 	ld a, [wBattleMonType1]
-	cp WATER
+	cp EAU
 	jr z, AIBadWeatherType
 	cp FEU
 	jr z, AIGoodWeatherType
 
 	ld a, [wBattleMonType2]
-	cp WATER
+	cp EAU
 	jr z, AIBadWeatherType
 	cp FEU
 	jr z, AIGoodWeatherType
@@ -2371,13 +2371,13 @@ AI_Smart_SunnyDay:
 	ld a, [wBattleMonType1]
 	cp FEU
 	jr z, AIBadWeatherType
-	cp WATER
+	cp EAU
 	jr z, AIGoodWeatherType
 
 	ld a, [wBattleMonType2]
 	cp FEU
 	jr z, AIBadWeatherType
-	cp WATER
+	cp EAU
 	jr z, AIGoodWeatherType
 
 	push hl

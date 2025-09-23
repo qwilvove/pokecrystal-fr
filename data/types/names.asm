@@ -21,7 +21,7 @@ endr
 	assert_table_length UNUSED_TYPES_END
 
 	dw Feu
-	dw Water
+	dw Eau
 	dw Grass
 	dw Electric
 	dw Psychic
@@ -36,7 +36,7 @@ Vol:    db "VOL@"
 Poison:    db "POISON@"
 CurseType: db "???@"
 Feu:      db "FEU@"
-Water:     db "EAU@"
+Eau:     db "EAU@"
 Grass:     db "PLANTE@"
 Electric:  db "ELECTRIK@"
 Psychic:   db "PSY@"
