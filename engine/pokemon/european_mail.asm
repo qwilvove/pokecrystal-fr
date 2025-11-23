@@ -3,24 +3,24 @@ ParseMailLanguage:
 	ld hl, sPartyMon1MailNationality - sPartyMon1Mail
 	add hl, de
 	ld a, [hli]
-	cp "E"
+	cp 'E'
 	ret nz
 	ld a, [hli]
 	assert MAIL_LANG_ENGLISH + 1 == MAIL_LANG_FRENCH
 	inc c
-	cp "F"
+	cp 'F'
 	ret z
 	assert MAIL_LANG_FRENCH + 1 == MAIL_LANG_GERMAN
 	inc c
-	cp "G"
+	cp 'G'
 	ret z
 	assert MAIL_LANG_GERMAN + 1 == MAIL_LANG_ITALIAN
 	inc c
-	cp "I"
+	cp 'I'
 	ret z
 	assert MAIL_LANG_ITALIAN + 1 == MAIL_LANG_SPANISH
 	inc c
-	cp "S"
+	cp 'S'
 	ret z
 	ld c, MAIL_LANG_ENGLISH
 	ret
@@ -46,7 +46,7 @@ ConvertFrenchGermanMailToEnglish:
 	ld l, e
 .loop
 	ld a, [hl]
-	cp "'s"
+	cp '\'s'
 	jr nz, .check_intermediate_chars
 	ld a, $d4 ; 's in English font
 	jr .replace
@@ -54,7 +54,7 @@ ConvertFrenchGermanMailToEnglish:
 .check_intermediate_chars
 	sub $d4
 	jr c, .dont_replace
-	cp $03 ; "'v" - "'s" + 1 in English font
+	cp $03 ; '\'v' - '\'s' + 1 in English font
 	jr nc, .dont_replace
 	add $cd
 
@@ -78,13 +78,13 @@ ConvertEnglishMailToFrenchGerman:
 	ld a, [hl]
 	cp $d4 ; 's in English font
 	jr nz, .check_intermediate_chars
-	ld a, "'s"
+	ld a, '\'s'
 	jr .replace
 
 .check_intermediate_chars
 	sub $cd
 	jr c, .dont_replace
-	cp $03 ; "'v" - "'s" + 1 in English font
+	cp $03 ; '\'v' - '\'s' + 1 in English font
 	jr nc, .dont_replace
 	add $d4
 

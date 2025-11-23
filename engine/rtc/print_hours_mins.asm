@@ -22,7 +22,7 @@ TrimSpaces::
 
 .loop:
 	ld a, [hli]
-	cp " "
+	cp ' '
 	jr z, .loop
 
 	dec hl
@@ -32,11 +32,11 @@ TrimSpaces::
 .loop2:
 	ld a, [hli]
 	ld [de], a
-	cp "@"
+	cp '@'
 	jr z, .done
 
 	inc de
-	cp " "
+	cp ' '
 	jr z, .loop2
 
 	ld b, d
@@ -44,7 +44,7 @@ TrimSpaces::
 	jr .loop2
 
 .done:
-	ld a, "@"
+	ld a, '@'
 	ld [bc], a
 	pop bc
 	ret
@@ -71,10 +71,10 @@ PrintHoursMins:
 	push hl
 	pop de
 	pop hl
-	ld [hl], " "
+	ld [hl], ' '
 	lb bc, 1, 2
 	call PrintNum
-	ld [hl], ":"
+	ld [hl], ':'
 	inc hl
 	ld d, h
 	ld e, l
