@@ -21,7 +21,7 @@ UpdateZarbiDex:
 PrintZarbiWord:
 	hlcoord 4, 15
 	ld bc, 12
-	ld a, " "
+	ld a, ' '
 	call ByteFill
 	ld a, [wDexCurZarbiIndex]
 	ld e, a

@@ -316,13 +316,13 @@ InitPokegearTilemap:
 	hlcoord 11, 0
 	ld [hl], $30
 	inc hl
-	ld [hl], " "
+	ld [hl], ' '
 	hlcoord 11, 1
-	ld [hl], " "
+	ld [hl], ' '
 	hlcoord 11, 2
 	ld [hl], $32
 	inc hl
-	ld [hl], " "
+	ld [hl], ' '
 	hlcoord 0, 12
 	lb bc, 4, 18
 	call Textbox
@@ -883,7 +883,7 @@ PokegearPhone_Joypad:
 	ld a, [wPokegearPhoneCursorPosition]
 	ld bc, SCREEN_WIDTH * 2
 	call AddNTimes
-	ld [hl], "▷"
+	ld [hl], '▷'
 	call PokegearPhoneContactSubmenu
 	jr c, .quit_submenu
 	ld hl, wJumptableIndex
@@ -1013,7 +1013,7 @@ PokegearPhone_GetDPad:
 	ret
 
 PokegearPhone_UpdateCursor:
-	ld a, " "
+	ld a, ' '
 for y, PHONE_DISPLAY_HEIGHT
 	hlcoord 1, 4 + y * 2
 	ld [hl], a
@@ -1022,13 +1022,13 @@ endr
 	ld a, [wPokegearPhoneCursorPosition]
 	ld bc, 2 * SCREEN_WIDTH
 	call AddNTimes
-	ld [hl], "▶"
+	ld [hl], '▶'
 	ret
 
 PokegearPhone_UpdateDisplayList:
 	hlcoord 1, 3
 	ld b, PHONE_DISPLAY_HEIGHT * 2 + 1
-	ld a, " "
+	ld a, ' '
 .row
 	ld c, SCREEN_WIDTH - 2
 .col
@@ -1240,7 +1240,7 @@ PokegearPhoneContactSubmenu:
 	ld a, [de]
 	ld c, a
 	push hl
-	ld a, " "
+	ld a, ' '
 	ld de, SCREEN_WIDTH * 2
 .clear_column
 	ld [hl], a
@@ -1251,7 +1251,7 @@ PokegearPhoneContactSubmenu:
 	ld a, [wPokegearPhoneSubmenuCursor]
 	ld bc, SCREEN_WIDTH  * 2
 	call AddNTimes
-	ld [hl], "▶"
+	ld [hl], '▶'
 	pop de
 	ret
 
@@ -1982,13 +1982,13 @@ PlayRadio:
 	lb bc, 4, 18
 	call Textbox
 	hlcoord 1, 14
-	ld [hl], "“"
+	ld [hl], '“'
 	pop de
 	hlcoord 2, 14
 	call PlaceString
 	ld h, b
 	ld l, c
-	ld [hl], "”"
+	ld [hl], '”'
 	call WaitBGMap
 	ret
 
@@ -2151,7 +2151,7 @@ TownMapBubble:
 	ld [hli], a
 ; Top row
 	ld bc, 16
-	ld a, " "
+	ld a, ' '
 	call ByteFill
 ; Top-right corner
 	ld a, $31
@@ -2160,7 +2160,7 @@ TownMapBubble:
 
 ; Middle row
 	ld bc, SCREEN_WIDTH - 2
-	ld a, " "
+	ld a, ' '
 	call ByteFill
 
 ; Bottom-left corner
@@ -2169,7 +2169,7 @@ TownMapBubble:
 	ld [hli], a
 ; Bottom row
 	ld bc, 16
-	ld a, " "
+	ld a, ' '
 	call ByteFill
 ; Bottom-right corner
 	ld a, $33
@@ -2460,7 +2460,7 @@ Pokedex_GetArea:
 .PlaceString_MonsNest:
 	hlcoord 0, 0
 	ld bc, SCREEN_WIDTH
-	ld a, " "
+	ld a, ' '
 	call ByteFill
 	hlcoord 0, 1
 	ld a, $06

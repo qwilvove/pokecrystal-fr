@@ -120,7 +120,7 @@ _PrintNum::
 .two
 	dec e
 	jr nz, .two_skip
-	ld a, "0"
+	ld a, '0'
 	ldh [hPrintNumBuffer + 0], a
 .two_skip
 
@@ -143,23 +143,23 @@ _PrintNum::
 	jr .money_leading_zero
 
 .money
-	ld a, "0"
+	ld a, '0'
 	add c
 	ld [hl], a
 	inc e
 	dec e
 	jr nz, .money_leading_zero
 	inc hl
-	ld [hl], "<DOT>"
+	ld [hl], '<DOT>'
 
 .money_leading_zero
 	call .AdvancePointer
-	ld a, "0"
+	ld a, '0'
 	add b
 	ld [hli], a
 	bit PRINTNUM_MONEY_F, d
 	jr z, .stop
-	ld a, "¥"
+	ld a, '¥'
 	ld [hli], a
 
 .stop
@@ -170,7 +170,7 @@ _PrintNum::
 .PrintDigit:
 	dec e
 	jr nz, .ok
-	ld a, "0"
+	ld a, '0'
 	ldh [hPrintNumBuffer + 0], a
 .ok
 	ld c, 0
@@ -233,7 +233,7 @@ _PrintNum::
 	or c
 	jr z, .PrintLeadingZero
 .done
-	ld a, "0"
+	ld a, '0'
 	add c
 	ld [hl], a
 	ldh [hPrintNumBuffer + 0], a
@@ -241,14 +241,14 @@ _PrintNum::
 	dec e
 	ret nz
 	inc hl
-	ld [hl], "<DOT>"
+	ld [hl], '<DOT>'
 	ret
 
 .PrintLeadingZero:
 ; prints a leading zero unless they are turned off in the flags
 	bit PRINTNUM_LEADINGZEROS_F, d
 	ret z
-	ld [hl], "0"
+	ld [hl], '0'
 	ret
 
 .AdvancePointer:

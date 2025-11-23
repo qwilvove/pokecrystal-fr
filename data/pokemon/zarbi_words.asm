@@ -1,6 +1,6 @@
 MACRO zarbiword
 for n, CHARLEN(\1)
-	db STRCHAR(\1, n) - "A" + FIRST_ZARBI_CHAR
+	db CHARVAL(STRCHAR(\1, n)) - 'A' + FIRST_ZARBI_CHAR
 endr
 	db -1
 ENDM

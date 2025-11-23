@@ -31,11 +31,11 @@ PrintBCDNumber::
 	jr nz, .skipCurrencySymbol
 	dec hl
 .skipCurrencySymbol
-	ld [hl], "0"
+	ld [hl], '0'
 	call PrintLetterDelay
 	inc hl
 .done
-	ld a, "¥"
+	ld a, '¥'
 	ld [hli], a
 	ret
 
@@ -45,7 +45,7 @@ PrintBCDDigit::
 	jr z, .zeroDigit
 	res PRINTNUM_LEADINGZEROS_F, b
 .outputDigit
-	add "0"
+	add '0'
 	ld [hli], a
 	jp PrintLetterDelay
 
@@ -54,6 +54,6 @@ PrintBCDDigit::
 	jr z, .outputDigit ; if so, print a zero digit
 	bit PRINTNUM_LEFTALIGN_F, b
 	ret nz
-	ld a, " "
+	ld a, ' '
 	ld [hli], a ; if right-aligned, "print" a space by advancing the pointer
 	ret

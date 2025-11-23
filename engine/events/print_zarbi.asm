@@ -1,5 +1,5 @@
-DEF ZARBISTAMP_BOLD_A EQU "♂" ; $ef
-DEF ZARBISTAMP_BOLD_B EQU "♀" ; $f5
+DEF ZARBISTAMP_BOLD_A EQU '♂' ; $ef
+DEF ZARBISTAMP_BOLD_B EQU '♀' ; $f5
 
 _ZarbiPrinter:
 	ld a, [wZarbiDex]
@@ -226,7 +226,7 @@ INCBIN "gfx/printer/bold_b.1bpp"
 PlaceZarbiPrinterFrontpic:
 	hlcoord 0, 0
 	ld bc, SCREEN_AREA
-	ld a, " "
+	ld a, ' '
 	call ByteFill
 	hlcoord 7, 11
 	ld a, $31
