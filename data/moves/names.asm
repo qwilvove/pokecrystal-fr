@@ -1,5 +1,5 @@
 MoveNames::
-	list_start
+	list_start MOVE_NAME_LENGTH - 1
 	li "ECRAS'FACE"
 	li "POING-KARATE"
 	li "TORGNOLES"
