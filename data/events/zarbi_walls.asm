@@ -6,7 +6,7 @@ DEF ZARBIWORD_{d:ZARBIWORDS_HO_OH}  EQUS "HO-OH"
 
 ZarbiWalls:
 ; entries correspond to ZARBIWORDS_* constants
-	list_start
+	list_start 9
 	for x, NUM_ZARBI_WALLS
 		li #ZARBIWORD_{d:x}
 	endr
