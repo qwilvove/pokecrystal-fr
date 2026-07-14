@@ -538,7 +538,7 @@ GoldenrodUndergroundOlderHaircutBrotherOfferHaircutText:
 
 	para "Je peux toiletter"
 	line "tes #MON pour"
-	cont "juste 500¥."
+	cont "juste {d:GOLDENRODUNDERGROUND_OLDER_HAIRCUT_PRICE}¥."
 
 	para "Veux-tu que je"
 	line "m'en occupe?"
@@ -585,7 +585,7 @@ GoldenrodUndergroundYoungerHaircutBrotherOfferHaircutText:
 
 	para "J'peux m'occuper"
 	line "de tes #MON"
-	cont "pour 300¥."
+	cont "pour {d:GOLDENRODUNDERGROUND_YOUNGER_HAIRCUT_PRICE}¥."
 
 	para "Alors? Ca te dit"
 	line "oui ou non?"
